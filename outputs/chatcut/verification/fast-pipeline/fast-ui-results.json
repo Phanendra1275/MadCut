@@ -1,0 +1,20 @@
+{
+  "cachedClickToReadySeconds": 2.53,
+  "generatedNativeCues": 11,
+  "generatedTenglishCues": 11,
+  "srtCues": 11,
+  "exactSrtIntervals": true,
+  "noInventedWordAnchors": true,
+  "reloadPersistence": true,
+  "fit": {
+    "width": 1920,
+    "height": 970,
+    "bodyWidth": 1920,
+    "bodyHeight": 970
+  },
+  "requests": [
+    "http://127.0.0.1:5173/api/transcribe",
+    "http://127.0.0.1:5173/api/translate"
+  ],
+  "errors": []
+}

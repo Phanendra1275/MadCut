@@ -1,0 +1,474 @@
+{
+  "elapsedSeconds": 7.672,
+  "events": [
+    {
+      "seconds": 7.672,
+      "progress": 100,
+      "cues": 4,
+      "status": "complete"
+    }
+  ],
+  "result": {
+    "language": "te",
+    "cues": [
+      {
+        "id": "38cf0fbe-f104-4aa9-a1a6-39c1fc896a65",
+        "start": 2.232,
+        "end": 3.88,
+        "text": "కొన్ని క్రియలు ఆబ్జెక్ట్‌ల",
+        "words": [
+          {
+            "word": "కొన్ని",
+            "start": 2.232,
+            "end": 2.9,
+            "confidence": 1.0
+          },
+          {
+            "word": "క్రియలు",
+            "start": 2.9,
+            "end": 3.3,
+            "confidence": 0.999
+          },
+          {
+            "word": "ఆబ్జెక్ట్‌ల",
+            "start": 3.3,
+            "end": 3.88,
+            "confidence": 0.945
+          }
+        ],
+        "confidence": 0.981,
+        "segment": {
+          "start": 2.232,
+          "end": 11.72
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0131,
+          "compressionRatio": 1.5746,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "13968b34-ca1f-4153-a389-c9b646f326fa",
+        "start": 3.88,
+        "end": 6.3,
+        "text": "మధ్య తేడాను గుర్తించడానికి",
+        "words": [
+          {
+            "word": "మధ్య",
+            "start": 3.88,
+            "end": 4.5,
+            "confidence": 0.97
+          },
+          {
+            "word": "తేడాను",
+            "start": 4.5,
+            "end": 5.34,
+            "confidence": 0.997
+          },
+          {
+            "word": "గుర్తించడానికి",
+            "start": 5.34,
+            "end": 6.3,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.988,
+        "segment": {
+          "start": 2.232,
+          "end": 11.72
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0131,
+          "compressionRatio": 1.5746,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "4951cd78-1014-4e1d-9ed2-c4367d7818ac",
+        "start": 6.3,
+        "end": 7.5,
+        "text": "ఇది ఒక ముఖ్యమైన",
+        "words": [
+          {
+            "word": "ఇది",
+            "start": 6.3,
+            "end": 6.6,
+            "confidence": 0.995
+          },
+          {
+            "word": "ఒక",
+            "start": 6.6,
+            "end": 6.84,
+            "confidence": 1.0
+          },
+          {
+            "word": "ముఖ్యమైన",
+            "start": 6.84,
+            "end": 7.5,
+            "confidence": 0.999
+          }
+        ],
+        "confidence": 0.998,
+        "segment": {
+          "start": 2.232,
+          "end": 11.72
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0131,
+          "compressionRatio": 1.5746,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "273ecbf1-f794-4014-8fb8-e9b2666d6985",
+        "start": 7.5,
+        "end": 8.008,
+        "text": "మార్గం.",
+        "words": [
+          {
+            "word": "మార్గం.",
+            "start": 7.5,
+            "end": 8.008,
+            "confidence": 1.0
+          }
+        ],
+        "confidence": 1.0,
+        "segment": {
+          "start": 2.232,
+          "end": 11.72
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0131,
+          "compressionRatio": 1.5746,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "boundaryRefinement": "trailing-silence",
+        "needsReview": false,
+        "correction": "preserved"
+      }
+    ],
+    "speechEngine": "Telugu-trained Whisper medium",
+    "languageProbability": null,
+    "speechDevice": "cuda",
+    "recognitionStats": {
+      "decodedWindows": 1,
+      "acousticRetries": 0,
+      "recoverySplits": 0
+    },
+    "srt": "1\n00:00:02,232 --> 00:00:03,880\nకొన్ని క్రియలు ఆబ్జెక్ట్‌ల\n\n2\n00:00:03,880 --> 00:00:06,300\nమధ్య తేడాను గుర్తించడానికి\n\n3\n00:00:06,300 --> 00:00:07,500\nఇది ఒక ముఖ్యమైన\n\n4\n00:00:07,500 --> 00:00:08,008\nమార్గం.\n",
+    "versions": {
+      "Telugu": [
+        {
+          "id": "38cf0fbe-f104-4aa9-a1a6-39c1fc896a65",
+          "start": 2.232,
+          "end": 3.88,
+          "text": "కొన్ని క్రియలు ఆబ్జెక్ట్‌ల",
+          "words": [
+            {
+              "word": "కొన్ని",
+              "start": 2.232,
+              "end": 2.9,
+              "confidence": 1.0
+            },
+            {
+              "word": "క్రియలు",
+              "start": 2.9,
+              "end": 3.3,
+              "confidence": 0.999
+            },
+            {
+              "word": "ఆబ్జెక్ట్‌ల",
+              "start": 3.3,
+              "end": 3.88,
+              "confidence": 0.945
+            }
+          ],
+          "confidence": 0.981,
+          "segment": {
+            "start": 2.232,
+            "end": 11.72
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0131,
+            "compressionRatio": 1.5746,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "13968b34-ca1f-4153-a389-c9b646f326fa",
+          "start": 3.88,
+          "end": 6.3,
+          "text": "మధ్య తేడాను గుర్తించడానికి",
+          "words": [
+            {
+              "word": "మధ్య",
+              "start": 3.88,
+              "end": 4.5,
+              "confidence": 0.97
+            },
+            {
+              "word": "తేడాను",
+              "start": 4.5,
+              "end": 5.34,
+              "confidence": 0.997
+            },
+            {
+              "word": "గుర్తించడానికి",
+              "start": 5.34,
+              "end": 6.3,
+              "confidence": 0.997
+            }
+          ],
+          "confidence": 0.988,
+          "segment": {
+            "start": 2.232,
+            "end": 11.72
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0131,
+            "compressionRatio": 1.5746,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "4951cd78-1014-4e1d-9ed2-c4367d7818ac",
+          "start": 6.3,
+          "end": 7.5,
+          "text": "ఇది ఒక ముఖ్యమైన",
+          "words": [
+            {
+              "word": "ఇది",
+              "start": 6.3,
+              "end": 6.6,
+              "confidence": 0.995
+            },
+            {
+              "word": "ఒక",
+              "start": 6.6,
+              "end": 6.84,
+              "confidence": 1.0
+            },
+            {
+              "word": "ముఖ్యమైన",
+              "start": 6.84,
+              "end": 7.5,
+              "confidence": 0.999
+            }
+          ],
+          "confidence": 0.998,
+          "segment": {
+            "start": 2.232,
+            "end": 11.72
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0131,
+            "compressionRatio": 1.5746,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "273ecbf1-f794-4014-8fb8-e9b2666d6985",
+          "start": 7.5,
+          "end": 8.008,
+          "text": "మార్గం.",
+          "words": [
+            {
+              "word": "మార్గం.",
+              "start": 7.5,
+              "end": 8.008,
+              "confidence": 1.0
+            }
+          ],
+          "confidence": 1.0,
+          "segment": {
+            "start": 2.232,
+            "end": 11.72
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0131,
+            "compressionRatio": 1.5746,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "boundaryRefinement": "trailing-silence",
+          "needsReview": false,
+          "correction": "preserved"
+        }
+      ],
+      "Tenglish": [
+        {
+          "id": "38cf0fbe-f104-4aa9-a1a6-39c1fc896a65",
+          "start": 2.232,
+          "end": 3.88,
+          "text": "Konni kriyalu aabjekt‌la",
+          "words": [
+            {
+              "word": "Konni",
+              "start": 2.232,
+              "end": 2.9
+            },
+            {
+              "word": "kriyalu",
+              "start": 2.9,
+              "end": 3.3
+            },
+            {
+              "word": "aabjekt‌la",
+              "start": 3.3,
+              "end": 3.88
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.981,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 2.232,
+            "end": 11.72
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0131,
+            "compressionRatio": 1.5746,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "13968b34-ca1f-4153-a389-c9b646f326fa",
+          "start": 3.88,
+          "end": 6.3,
+          "text": "Madhya tedaanu gurthinchadaaniki",
+          "words": [
+            {
+              "word": "Madhya",
+              "start": 3.88,
+              "end": 4.5
+            },
+            {
+              "word": "tedaanu",
+              "start": 4.5,
+              "end": 5.34
+            },
+            {
+              "word": "gurthinchadaaniki",
+              "start": 5.34,
+              "end": 6.3
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.988,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 2.232,
+            "end": 11.72
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0131,
+            "compressionRatio": 1.5746,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "4951cd78-1014-4e1d-9ed2-c4367d7818ac",
+          "start": 6.3,
+          "end": 7.5,
+          "text": "Idi oka mukhyamaina",
+          "words": [
+            {
+              "word": "Idi",
+              "start": 6.3,
+              "end": 6.6
+            },
+            {
+              "word": "oka",
+              "start": 6.6,
+              "end": 6.84
+            },
+            {
+              "word": "mukhyamaina",
+              "start": 6.84,
+              "end": 7.5
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.998,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 2.232,
+            "end": 11.72
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0131,
+            "compressionRatio": 1.5746,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "273ecbf1-f794-4014-8fb8-e9b2666d6985",
+          "start": 7.5,
+          "end": 8.008,
+          "text": "Maargam.",
+          "words": [
+            {
+              "word": "Maargam.",
+              "start": 7.5,
+              "end": 8.008
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 1.0,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 2.232,
+            "end": 11.72
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0131,
+            "compressionRatio": 1.5746,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        }
+      ]
+    },
+    "pipeline": "speech-to-timed-subtitles",
+    "cacheHit": false,
+    "processingSeconds": 7.528
+  }
+}

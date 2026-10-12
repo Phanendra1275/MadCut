@@ -1,0 +1,114 @@
+{
+  "id": "template_031",
+  "name": "cracked",
+  "originalFile": "cracked.mogrt",
+  "file": "/templates/031.mogrt",
+  "preview": "/template-previews/031.webp",
+  "sourcePreview": "/template-previews/031.source.webp",
+  "category": "Original",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "703ac11a-6f0c-4659-af1e-75b695f909c3",
+      "type": 6,
+      "name": "TXT",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "cracked"
+          }
+        ]
+      },
+      "font": "Coolvetica-Regular"
+    },
+    {
+      "id": "733e24c8-3bdc-4440-949c-8f5397ea3523",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "131b0c41-d8fd-4007-b698-f47a9e855f8c",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "a79eb48a-6c40-48ef-8a71-79c2b5122596",
+      "type": 5,
+      "name": "Effects Position",
+      "value": {
+        "x": 960,
+        "y": 540
+      },
+      "font": null
+    },
+    {
+      "id": "edecb2ee-912a-43f6-9a9c-f08b4c3b71e7",
+      "type": 2,
+      "name": "Effects Scale",
+      "value": 100,
+      "font": null
+    },
+    {
+      "id": "0632b2b4-a201-42dd-aca8-bc18f3b9df5f",
+      "type": 2,
+      "name": "Stroke 1 Stroke Width",
+      "value": 50,
+      "font": null
+    }
+  ],
+  "capsuleId": "959d25b9-e5d5-47fd-8d22-3166e153e3d7",
+  "renderMode": "web-equivalent",
+  "webPreset": "cracked",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Coolvetica-Regular → Poppins Bold; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ffffff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Coolvetica-Regular",
+      "webFont": "Poppins Bold",
+      "status": "substitute"
+    }
+  ]
+}

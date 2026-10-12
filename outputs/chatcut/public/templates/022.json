@@ -1,0 +1,162 @@
+{
+  "id": "template_022",
+  "name": "Coovetica Waving of",
+  "originalFile": "Coovetica Waving of.mogrt",
+  "file": "/templates/022.mogrt",
+  "preview": "/template-previews/022.webp",
+  "sourcePreview": "/template-previews/022.source.webp",
+  "category": "Dynamic",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "b8d9fc6b-490d-427b-a36f-40a9eee19b22",
+      "type": 6,
+      "name": "coolvetica",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "coolvetica"
+          }
+        ]
+      },
+      "font": "Poppins-ExtraBold"
+    },
+    {
+      "id": "252538df-1f26-4650-a06f-1a8b1bc4475e",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "fccb2115-45ef-4f46-86ae-490d8909f242",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "f0aeb7a9-5e67-40d0-88f1-8f79a77630af",
+      "type": 5,
+      "name": "Effects Position",
+      "value": {
+        "x": 960,
+        "y": 540
+      },
+      "font": null
+    },
+    {
+      "id": "c66a8c25-3ca2-4756-aebe-b6aeecf6270a",
+      "type": 2,
+      "name": "Effects Scale",
+      "value": 100,
+      "font": null
+    },
+    {
+      "id": "27cf1568-2b6f-4fd9-a73b-e6d42eb19ebc",
+      "type": 6,
+      "name": "wavingof",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "wavingof"
+          }
+        ]
+      },
+      "font": "Poppins-ExtraBold"
+    },
+    {
+      "id": "e89a53d9-20dd-4605-b892-a91fccb26158",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "790e0b0b-8137-4825-ab6e-bf9cd7b4709d",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "5d92edc5-2f9b-4bc2-9eb4-abfcda915763",
+      "type": 5,
+      "name": "Effects Position",
+      "value": {
+        "x": 960,
+        "y": 540
+      },
+      "font": null
+    },
+    {
+      "id": "a35d88c9-866d-48d8-b93f-af7d22ace549",
+      "type": 2,
+      "name": "Effects Scale",
+      "value": 100,
+      "font": null
+    }
+  ],
+  "capsuleId": "259c2cf1-5aae-46f7-b24f-1789e6a886ff",
+  "renderMode": "web-equivalent",
+  "webPreset": "Coovetica Waving of",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Poppins-ExtraBold → Poppins ExtraBold; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ffffff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Poppins-ExtraBold",
+      "webFont": "Poppins ExtraBold",
+      "status": "bundled"
+    }
+  ]
+}

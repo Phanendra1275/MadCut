@@ -1,0 +1,107 @@
+{
+  "source": "C:/Users/HP/Downloads/Prasad Tech.mp4",
+  "warning": {
+    "start": 51.44,
+    "end": 52.19
+  },
+  "context": {
+    "start": 49.44,
+    "end": 54.19
+  },
+  "humanVerified": false,
+  "seconds": 11.821,
+  "result": {
+    "language": "te",
+    "cues": [
+      {
+        "id": "2139539b-1aec-4ab5-8529-4a503c7e6a9e",
+        "start": 49.44,
+        "end": 53.96,
+        "text": "దానికి సిగ్గు పడుతుంటారు భయపడుతుంటారు ఇవి రెండు మీరు వదిలేయాలి",
+        "segment": {
+          "start": 0.0,
+          "end": 4.75
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0254,
+          "compressionRatio": 1.7374,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "words": [
+          {
+            "word": "దానికి",
+            "start": 49.44,
+            "end": 49.98,
+            "confidence": 0.953
+          },
+          {
+            "word": "సిగ్గు",
+            "start": 49.98,
+            "end": 50.3,
+            "confidence": 0.999
+          },
+          {
+            "word": "పడుతుంటారు",
+            "start": 50.3,
+            "end": 51.48,
+            "confidence": 0.977
+          },
+          {
+            "word": "భయపడుతుంటారు",
+            "start": 51.48,
+            "end": 52.64,
+            "confidence": 0.991
+          },
+          {
+            "word": "ఇవి",
+            "start": 52.64,
+            "end": 52.88,
+            "confidence": 0.962
+          },
+          {
+            "word": "రెండు",
+            "start": 52.88,
+            "end": 53.0,
+            "confidence": 0.976
+          },
+          {
+            "word": "మీరు",
+            "start": 53.0,
+            "end": 53.18,
+            "confidence": 0.984
+          },
+          {
+            "word": "వదిలేయాలి",
+            "start": 53.18,
+            "end": 53.96,
+            "confidence": 0.99
+          }
+        ],
+        "confidence": 0.979
+      }
+    ],
+    "speechEngine": "Telugu-trained Whisper medium",
+    "languageProbability": null,
+    "speechDevice": "cuda",
+    "recognitionStats": {
+      "decodedWindows": 1,
+      "acousticRetries": 0,
+      "recoverySplits": 0
+    },
+    "duration": 4.75,
+    "speechSpans": [
+      {
+        "start": 0.0,
+        "end": 4.75
+      }
+    ],
+    "preprocessing": {
+      "sampleRate": 16000,
+      "channels": 1,
+      "dcOffsetRemoved": 0
+    },
+    "rawTranscript": "దానికి సిగ్గు పడుతుంటారు భయపడుతుంటారు ఇవి రెండు మీరు వదిలేయాలి"
+  }
+}

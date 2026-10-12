@@ -1,0 +1,265 @@
+{
+  "desktop": {
+    "width": 1920,
+    "height": 970,
+    "scrollWidth": 1920,
+    "scrollHeight": 970,
+    "boxes": {
+      ".topbar": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 60,
+        "bottom": 60
+      },
+      ".editor-rail": {
+        "x": 0,
+        "y": 60,
+        "w": 84,
+        "h": 564,
+        "bottom": 624
+      },
+      ".setup-panel": {
+        "x": 84,
+        "y": 60,
+        "w": 320,
+        "h": 564,
+        "bottom": 624
+      },
+      ".preview-stage": {
+        "x": 404,
+        "y": 60,
+        "w": 1116,
+        "h": 564,
+        "bottom": 624
+      },
+      ".style-panel": {
+        "x": 1520,
+        "y": 60,
+        "w": 400,
+        "h": 564,
+        "bottom": 624
+      },
+      ".timeline-section": {
+        "x": 0,
+        "y": 624,
+        "w": 1920,
+        "h": 346,
+        "bottom": 970
+      }
+    }
+  },
+  "mobile": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "scrollHeight": 844,
+    "boxes": {
+      ".topbar": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 60,
+        "bottom": 60
+      },
+      ".editor-rail": {
+        "x": 0,
+        "y": 60,
+        "w": 390,
+        "h": 42,
+        "bottom": 102
+      },
+      ".setup-panel": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "bottom": 0
+      },
+      ".preview-stage": {
+        "x": 0,
+        "y": 102,
+        "w": 390,
+        "h": 482,
+        "bottom": 584
+      },
+      ".style-panel": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "bottom": 0
+      },
+      ".timeline-section": {
+        "x": 0,
+        "y": 584,
+        "w": 390,
+        "h": 260,
+        "bottom": 844
+      }
+    }
+  },
+  "motion": [
+    {
+      "name": "Glow Script",
+      "changes": 14813
+    },
+    {
+      "name": "Ink Flow",
+      "changes": 3614
+    },
+    {
+      "name": "Script Duo",
+      "changes": 4912
+    },
+    {
+      "name": "Typo Stairs",
+      "changes": 6576
+    },
+    {
+      "name": "Kinetic Stack",
+      "changes": 10383
+    },
+    {
+      "name": "Hyper Clean",
+      "changes": 6075
+    },
+    {
+      "name": "Editorial",
+      "changes": 3670
+    },
+    {
+      "name": "Trio Lockup",
+      "changes": 20346
+    },
+    {
+      "name": "Pop Tag",
+      "changes": 6626
+    },
+    {
+      "name": "Minimal",
+      "changes": 3664
+    },
+    {
+      "name": "Viral Reels",
+      "changes": 6695
+    },
+    {
+      "name": "Karaoke",
+      "changes": 0
+    },
+    {
+      "name": "WhatsApp",
+      "changes": 3650
+    },
+    {
+      "name": "Meme",
+      "changes": 10032
+    },
+    {
+      "name": "Cinematic",
+      "changes": 506
+    },
+    {
+      "name": "Left Slide",
+      "changes": 3010
+    },
+    {
+      "name": "Right Slide",
+      "changes": 3281
+    },
+    {
+      "name": "Up Slide",
+      "changes": 5797
+    },
+    {
+      "name": "Down Slide",
+      "changes": 5797
+    },
+    {
+      "name": "Left Blur Slide",
+      "changes": 4579
+    },
+    {
+      "name": "Right Blur Slide",
+      "changes": 4965
+    },
+    {
+      "name": "Up Blur Slide",
+      "changes": 7321
+    },
+    {
+      "name": "Down Blur Slide",
+      "changes": 7425
+    },
+    {
+      "name": "Left Bounce Slide",
+      "changes": 2683
+    },
+    {
+      "name": "Right Bounce Slide",
+      "changes": 2599
+    },
+    {
+      "name": "Up Bounce Slide",
+      "changes": 2885
+    },
+    {
+      "name": "Down Bounce Slide",
+      "changes": 2885
+    },
+    {
+      "name": "Up Bounce Shrink",
+      "changes": 5734
+    },
+    {
+      "name": "Down Bounce Shrink",
+      "changes": 5433
+    },
+    {
+      "name": "Left Bounce Expand",
+      "changes": 2829
+    },
+    {
+      "name": "Right Bounce Expand",
+      "changes": 2684
+    },
+    {
+      "name": "Flex Bounce",
+      "changes": 2659
+    },
+    {
+      "name": "Gradient Blue",
+      "changes": 5427
+    },
+    {
+      "name": "Gradient Red",
+      "changes": 5321
+    },
+    {
+      "name": "Gradient Red Orange",
+      "changes": 5360
+    },
+    {
+      "name": "Jitter Shine",
+      "changes": 5868
+    },
+    {
+      "name": "Static Shine",
+      "changes": 5846
+    },
+    {
+      "name": "Zoom In",
+      "changes": 5171
+    }
+  ],
+  "regressions": {
+    "silenceClearing": true,
+    "spellingAnchors": true,
+    "pauseGrouping": true,
+    "timeAnchors": true,
+    "overlapGuard": true,
+    "subtitleRoundtrip": true
+  },
+  "errors": []
+}

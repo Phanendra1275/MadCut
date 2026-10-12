@@ -1,0 +1,19 @@
+{
+  "presetCount": 48,
+  "packCount": 33,
+  "dynamicCategory": 24,
+  "mogrtRequests": 0,
+  "transcriptionCueCount": 2,
+  "selectedPreset": "Spinning Butter",
+  "passed": [
+    "upload",
+    "real transcription",
+    "default library",
+    "categories",
+    "original-name search",
+    "instant selection",
+    "caption editing",
+    "preset persistence",
+    "MP4 export"
+  ]
+}

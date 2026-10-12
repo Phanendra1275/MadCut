@@ -1,0 +1,162 @@
+{
+  "id": "template_029",
+  "name": "Spinning Butter",
+  "originalFile": "Spinning Butter.mogrt",
+  "file": "/templates/029.mogrt",
+  "preview": "/template-previews/029.webp",
+  "sourcePreview": "/template-previews/029.source.webp",
+  "category": "Dynamic",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "fdf6a710-7049-4972-9923-5a6a470a5712",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "d94a0e20-8c68-4026-a019-6f681a072dc1",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "20b58928-c924-46de-9346-067582fde840",
+      "type": 6,
+      "name": "Spinning",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Spinning"
+          }
+        ]
+      },
+      "font": "Coolvetica-Regular"
+    },
+    {
+      "id": "a79ef84f-15c2-427a-8caa-ecb81446d1f2",
+      "type": 5,
+      "name": "Transform 2 Position",
+      "value": {
+        "x": 960,
+        "y": 540
+      },
+      "font": null
+    },
+    {
+      "id": "379eeae0-89e5-4608-a45c-ebcf8ec2fbcc",
+      "type": 2,
+      "name": "Transform 2 Scale",
+      "value": 100,
+      "font": null
+    },
+    {
+      "id": "b13768c1-3afc-4b12-9f74-2c5197331c7e",
+      "type": 6,
+      "name": "Butter",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Butter"
+          }
+        ]
+      },
+      "font": "Coolvetica-Regular"
+    },
+    {
+      "id": "f736ba7c-3c5c-480b-b1fe-664110e771bc",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        0.6117647290229797,
+        0,
+        0.6117647290229797,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "62cf8572-6339-4180-9a05-794c9baba2b5",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "37d6451d-0052-4a09-8f4f-52ada1070c74",
+      "type": 5,
+      "name": "Transform 2 Position",
+      "value": {
+        "x": 960,
+        "y": 540
+      },
+      "font": null
+    },
+    {
+      "id": "38921003-45ab-4c78-98f5-ccbab10d6ecb",
+      "type": 2,
+      "name": "Transform 2 Scale",
+      "value": 100,
+      "font": null
+    }
+  ],
+  "capsuleId": "024fdb86-266c-4d8d-9a40-bce36559a904",
+  "renderMode": "web-equivalent",
+  "webPreset": "Spinning Butter",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Coolvetica-Regular → Poppins Bold; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ffffff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Coolvetica-Regular",
+      "webFont": "Poppins Bold",
+      "status": "substitute"
+    }
+  ]
+}

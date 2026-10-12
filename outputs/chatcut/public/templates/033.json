@@ -1,0 +1,167 @@
+{
+  "id": "template_033",
+  "name": "Rock Solidance",
+  "originalFile": "Rock Solidance.mogrt",
+  "file": "/templates/033.mogrt",
+  "preview": "/template-previews/033.webp",
+  "sourcePreview": "/template-previews/033.source.webp",
+  "category": "Original",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "8b7fa065-abc6-4f50-b96c-67ae7a278b20",
+      "type": 6,
+      "name": "ROCK",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "ROCK"
+          }
+        ]
+      },
+      "font": "Coolvetica-Cond"
+    },
+    {
+      "id": "e1af73c4-23b4-42c7-9de3-4a9c87426bee",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "9dcca349-d2ea-4ce9-a558-87d4e1696c26",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "9e5221db-e871-4ae1-a096-89a3571264eb",
+      "type": 5,
+      "name": "Effects Position",
+      "value": {
+        "x": 960,
+        "y": 540
+      },
+      "font": null
+    },
+    {
+      "id": "422a1c4c-0837-487a-b56d-71541eb1f397",
+      "type": 2,
+      "name": "Effects Scale",
+      "value": 100,
+      "font": null
+    },
+    {
+      "id": "ba8ba5f0-a57f-4468-8ce7-4025794530fd",
+      "type": 6,
+      "name": "Solidance",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Solidance"
+          }
+        ]
+      },
+      "font": "EdwardianScriptITC"
+    },
+    {
+      "id": "b6e88239-2210-4dee-99a2-9961ea3db11b",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        0.2539331018924713,
+        0.6745098233222961,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "b68ba8f4-8447-4af5-932e-af1983140333",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "613b0f09-257a-4c44-801c-2eac722fc98e",
+      "type": 5,
+      "name": "Effects Position",
+      "value": {
+        "x": 960,
+        "y": 540
+      },
+      "font": null
+    },
+    {
+      "id": "17329035-5290-4eb9-86a0-d39dd65016bd",
+      "type": 2,
+      "name": "Effects Scale",
+      "value": 100,
+      "font": null
+    }
+  ],
+  "capsuleId": "4d3a865d-bf38-49e0-aac0-c32fade45b42",
+  "renderMode": "web-equivalent",
+  "webPreset": "Rock Solidance",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Coolvetica-Cond → Anton; EdwardianScriptITC → Edwardian Script ITC; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ffffff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Coolvetica-Cond",
+      "webFont": "Anton",
+      "status": "substitute"
+    },
+    {
+      "required": "EdwardianScriptITC",
+      "webFont": "Edwardian Script ITC",
+      "status": "system"
+    }
+  ]
+}

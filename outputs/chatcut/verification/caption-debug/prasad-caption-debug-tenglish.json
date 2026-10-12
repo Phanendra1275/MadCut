@@ -1,0 +1,225 @@
+{
+  "cues": [
+    {
+      "id": "40487b21-56d6-4b0c-8d35-0b61b88d6643",
+      "start": 0,
+      "end": 2.1,
+      "text": "mobiles unboxings",
+      "words": [
+        {
+          "word": "mobiles",
+          "start": 0,
+          "end": 0.94
+        },
+        {
+          "word": "unboxings",
+          "start": 0.94,
+          "end": 2.1
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "9f2d0425-8684-4b4a-8f51-e71cb4edaf3a",
+      "start": 2.1,
+      "end": 3.56,
+      "text": "ivanni ante asalu",
+      "words": [
+        {
+          "word": "ivanni",
+          "start": 2.1,
+          "end": 2.58
+        },
+        {
+          "word": "ante",
+          "start": 2.58,
+          "end": 2.98
+        },
+        {
+          "word": "asalu",
+          "start": 2.98,
+          "end": 3.56
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "9fa60b97-222c-40ee-9f74-605269486456",
+      "start": 3.56,
+      "end": 4.6,
+      "text": "edo vinthaga choosevaru",
+      "words": [
+        {
+          "word": "edo",
+          "start": 3.56,
+          "end": 3.88
+        },
+        {
+          "word": "vinthaga",
+          "start": 3.88,
+          "end": 4.22
+        },
+        {
+          "word": "choosevaru",
+          "start": 4.22,
+          "end": 4.6
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "e665cf8d-ac8c-4239-b65c-b079a7883a9a",
+      "start": 4.6,
+      "end": 5.96,
+      "text": "annamata jaambin",
+      "words": [
+        {
+          "word": "annamata",
+          "start": 4.6,
+          "end": 4.96
+        },
+        {
+          "word": "jaambin",
+          "start": 4.96,
+          "end": 5.96
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "a3e4cbf8-3911-4bf1-b37f-7b1c8318822a",
+      "start": 6.41,
+      "end": 7.25,
+      "text": "kani nenu vallu",
+      "words": [
+        {
+          "word": "kani",
+          "start": 6.41,
+          "end": 6.91
+        },
+        {
+          "word": "nenu",
+          "start": 6.91,
+          "end": 7.03
+        },
+        {
+          "word": "vallu",
+          "start": 7.03,
+          "end": 7.25
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "1bba2710-c1f2-4bdd-bf34-c2723cb4d38d",
+      "start": 7.25,
+      "end": 7.99,
+      "text": "evari maata vinaledu",
+      "words": [
+        {
+          "word": "evari",
+          "start": 7.25,
+          "end": 7.43
+        },
+        {
+          "word": "maata",
+          "start": 7.43,
+          "end": 7.61
+        },
+        {
+          "word": "vinaledu",
+          "start": 7.61,
+          "end": 7.99
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "c365e966-e6ca-45cd-ac4b-3ebfcac69286",
+      "start": 7.99,
+      "end": 9.09,
+      "text": "naa heart ni",
+      "words": [
+        {
+          "word": "naa",
+          "start": 7.99,
+          "end": 8.63
+        },
+        {
+          "word": "heart",
+          "start": 8.63,
+          "end": 8.91
+        },
+        {
+          "word": "ni",
+          "start": 8.91,
+          "end": 9.09
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "ce0df667-119b-4553-a385-552505bdc49b",
+      "start": 9.09,
+      "end": 9.69,
+      "text": "follow ayyanu ikkada",
+      "words": [
+        {
+          "word": "follow",
+          "start": 9.09,
+          "end": 9.27
+        },
+        {
+          "word": "ayyanu",
+          "start": 9.27,
+          "end": 9.55
+        },
+        {
+          "word": "ikkada",
+          "start": 9.55,
+          "end": 9.69
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "0ecec118-397f-4910-973d-07537378f332",
+      "start": 9.69,
+      "end": 10.93,
+      "text": "aithe matram naaku",
+      "words": [
+        {
+          "word": "aithe",
+          "start": 9.69,
+          "end": 9.95
+        },
+        {
+          "word": "matram",
+          "start": 9.95,
+          "end": 10.69
+        },
+        {
+          "word": "naaku",
+          "start": 10.69,
+          "end": 10.93
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "7b8f9be8-793f-4f56-a273-bc7464f30890",
+      "start": 10.93,
+      "end": 11.83,
+      "text": "cheyalanipinchindi",
+      "words": [
+        {
+          "word": "cheyalanipinchindi",
+          "start": 10.93,
+          "end": 11.83
+        }
+      ],
+      "timing": "mapped"
+    }
+  ],
+  "language": "Tenglish"
+}

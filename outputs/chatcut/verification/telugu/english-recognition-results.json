@@ -1,0 +1,109 @@
+[
+  {
+    "requested": "en",
+    "language": "en",
+    "cues": [
+      {
+        "id": "98779562-0821-4039-b75e-95e4cc97efbf",
+        "start": 0,
+        "end": 1.52,
+        "text": "Are you coming to college today?",
+        "words": [
+          {
+            "word": "Are",
+            "start": 0,
+            "end": 0.16
+          },
+          {
+            "word": "you",
+            "start": 0.16,
+            "end": 0.3
+          },
+          {
+            "word": "coming",
+            "start": 0.3,
+            "end": 0.62
+          },
+          {
+            "word": "to",
+            "start": 0.62,
+            "end": 0.84
+          },
+          {
+            "word": "college",
+            "start": 0.84,
+            "end": 1.18
+          },
+          {
+            "word": "today?",
+            "start": 1.18,
+            "end": 1.52
+          }
+        ]
+      },
+      {
+        "id": "9a0df541-655b-4994-bc3b-4182fd188c8e",
+        "start": 2.37,
+        "end": 3.05,
+        "text": "Yes bro.",
+        "words": [
+          {
+            "word": "Yes",
+            "start": 2.37,
+            "end": 2.81
+          },
+          {
+            "word": "bro.",
+            "start": 2.81,
+            "end": 3.05
+          }
+        ]
+      },
+      {
+        "id": "26a2f1ac-3a27-49c6-a955-526fb698c7bb",
+        "start": 3.27,
+        "end": 5.51,
+        "text": "I will be there in 10 minutes.",
+        "words": [
+          {
+            "word": "I",
+            "start": 3.27,
+            "end": 3.71
+          },
+          {
+            "word": "will",
+            "start": 4.17,
+            "end": 4.35
+          },
+          {
+            "word": "be",
+            "start": 4.35,
+            "end": 4.49
+          },
+          {
+            "word": "there",
+            "start": 4.49,
+            "end": 4.71
+          },
+          {
+            "word": "in",
+            "start": 4.71,
+            "end": 4.93
+          },
+          {
+            "word": "10",
+            "start": 4.93,
+            "end": 5.13
+          },
+          {
+            "word": "minutes.",
+            "start": 5.13,
+            "end": 5.51
+          }
+        ]
+      }
+    ],
+    "speechEngine": "Whisper large-v3",
+    "languageProbability": null
+  }
+]

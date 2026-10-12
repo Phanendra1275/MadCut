@@ -1,0 +1,139 @@
+{
+  "templates": 33,
+  "originalBytesPreserved": true,
+  "previewCount": 33,
+  "sha256": [
+    {
+      "id": "template_001",
+      "hash": "6f5457d1fa62b443cb8b37e02987b966049952415bf8f43298817270702306db"
+    },
+    {
+      "id": "template_002",
+      "hash": "064731c7bf0b0033b2b67a478a321feff133cecabab49ea68679b7da86ce0e5d"
+    },
+    {
+      "id": "template_003",
+      "hash": "e9bf8586a234db161736cc5e38fb35e5f2739937c8d4157a38b05c2a302d8e69"
+    },
+    {
+      "id": "template_004",
+      "hash": "e07029089c5290fcd8a9c90b3e2cd348a242226df91ec775684b3ae758d6cc1e"
+    },
+    {
+      "id": "template_005",
+      "hash": "b9b789dc4dcfe0eae6e70ee88d862bd6eb896df2106ce4259ee5c9d2ef3c9630"
+    },
+    {
+      "id": "template_006",
+      "hash": "4f8faba42abda7acb0f762323051cacdd7924a815cf0f302b444db085962b349"
+    },
+    {
+      "id": "template_007",
+      "hash": "5cb78e572daf845c38e1ed531c13d3b3b6aee4e3ce42a1b57ff82dacc37dfb5b"
+    },
+    {
+      "id": "template_008",
+      "hash": "0f2687a55af93d78a8db458bf211f80a33fba51d673f4afa5b305f1c5f45e33a"
+    },
+    {
+      "id": "template_009",
+      "hash": "b2cd4f911d8e303f0b27e4743fad995fefe9ae38656118edc3a15c72407aa803"
+    },
+    {
+      "id": "template_010",
+      "hash": "21929219cc0d32dedfec609549777866b40f319c2b812547c56ae5e4521e3f85"
+    },
+    {
+      "id": "template_011",
+      "hash": "3e6f071e1aa98a0f2043ff392a7c4724fb5eef17f6dbf632b9ff71891e0f169f"
+    },
+    {
+      "id": "template_012",
+      "hash": "dd3d10d673c3251472e749992efb9f7dcfbdc2e0c93e42bb9665f62d10d72d53"
+    },
+    {
+      "id": "template_013",
+      "hash": "1833e77cf6dbbe78e17e6ddefb3b077c8837b6dad60d367d4dae41ca3a81fdcf"
+    },
+    {
+      "id": "template_014",
+      "hash": "e41a984c7be5b93e871d2bd23a76458936a7e86b184d24da38044f476db1cd7f"
+    },
+    {
+      "id": "template_015",
+      "hash": "0d79044af004ea926a8f3eee2521d259afed066f988e107ceeb24ab81daeefe0"
+    },
+    {
+      "id": "template_016",
+      "hash": "3908e9004119cb8e303146d1e08c61dc1e453b70949e699f290b33a70ec73f9c"
+    },
+    {
+      "id": "template_017",
+      "hash": "687657b84af15cad0b763a039ae167a7d806e1bf3b1bdc98cd541ba72cb97050"
+    },
+    {
+      "id": "template_018",
+      "hash": "f50d5ae348bc700613a3bc87399acf76faf80903897d4c13ff509cd7942aa524"
+    },
+    {
+      "id": "template_019",
+      "hash": "89a4407c4cbeef842747262cbc33ff5e635fb513735621dac59921dafd8a2bfe"
+    },
+    {
+      "id": "template_020",
+      "hash": "e453c981584f26536b60844f4f9f6667e3653d23bb8aeb21b0fa8ee35b61a9b8"
+    },
+    {
+      "id": "template_021",
+      "hash": "e26871ba62e0a551016121a4a01973592ae8450c5265b2c1cc9654ba8218eb58"
+    },
+    {
+      "id": "template_022",
+      "hash": "cb8a99417e76f230d5ae376f36d8a058d87c90ec4cb2c9652d7466a7ac1b2ca8"
+    },
+    {
+      "id": "template_023",
+      "hash": "6383411edfeb2a5dbf1122c208bbaee47f9f42767de29a05ac468fe9ef06a675"
+    },
+    {
+      "id": "template_024",
+      "hash": "d08c7bf0fa396875f9d1e4e804fdf9a2215877eca7225da0426867c2471c2aed"
+    },
+    {
+      "id": "template_025",
+      "hash": "c94d2c76d4178b6e04c5f7a5287e8567278482e9d17ebaba2d115f138fab5ffe"
+    },
+    {
+      "id": "template_026",
+      "hash": "37d47fd0d28fb8777ad7daf3e7d21939dc807b09da884b553b261412534bcc08"
+    },
+    {
+      "id": "template_027",
+      "hash": "aef0a6546d2beaa620c9db8eff926f446457ca19a86ebd19f2763b785600af29"
+    },
+    {
+      "id": "template_028",
+      "hash": "44084015a9238d0431f258ed74eae0b812b3885aefb14005ad68dffce65b68b6"
+    },
+    {
+      "id": "template_029",
+      "hash": "d31e0111f1c98c3c407853f1a27198ee00e1474a4fde4a34f083d3208d850d59"
+    },
+    {
+      "id": "template_030",
+      "hash": "daaea55e472f32102b4b5c6cdf3c1c4085ad2755deb4d39f235739f421e2fa82"
+    },
+    {
+      "id": "template_031",
+      "hash": "d6093245537441c962dec143f630a573dfac555f1fa0b39b1124390db9398d6f"
+    },
+    {
+      "id": "template_032",
+      "hash": "02918381f9fc6d50692bf28a38e614e8479ca1f00a3eef538e8bd7203cdafa49"
+    },
+    {
+      "id": "template_033",
+      "hash": "3d294a81c4103b6a0c64a248f35507536be0fb912f27cb1503e28682513846b9"
+    }
+  ]
+}

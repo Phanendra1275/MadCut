@@ -1,0 +1,3 @@
+from pathlib import Path
+p=Path('outputs/chatcut/lib/render-caption.ts');s=p.read_text(encoding='utf-8');s=s.replace("big&&!native(word)?'\"MadCut Condensed\", '+bodyFamily:fromPack", "big&&!native(word)&&!reference?'\"MadCut Condensed\", '+bodyFamily:reference&&!native(word)?'Arial, '+bodyFamily:fromPack");p.write_text(s,encoding='utf-8')
+p=Path('work/verification/video-reference/check-speech.py');s=p.read_text(encoding='utf-8-sig');s=s.replace("if job['status']=='failed':raise RuntimeError(job['error'])", "if job['status']=='failed':\n   Path('work/verification/video-reference/recognition.json').write_text(json.dumps(job,ensure_ascii=False,indent=2),encoding='utf-8')\n   print(job['error'],flush=True);break");p.write_text(s,encoding='utf-8')

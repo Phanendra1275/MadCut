@@ -1,0 +1,10 @@
+{
+  "presets": 52,
+  "sourceMogrts": 33,
+  "referencePresets": 4,
+  "wordsAndTimingsPreserved": true,
+  "threeDistinctFramesEach": true,
+  "persistence": true,
+  "realMp4Export": true,
+  "browserErrors": []
+}

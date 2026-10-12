@@ -1,0 +1,12 @@
+{
+  "firstCaptionsSeconds": 4.689,
+  "totalSeconds": 12.388,
+  "progressiveWhileRunning": true,
+  "nativeCues": 16,
+  "tenglishCues": 16,
+  "defaultMode": "Natural",
+  "emojis": false,
+  "reloadPersistence": true,
+  "navbarBlur": "blur(8px)",
+  "errors": []
+}

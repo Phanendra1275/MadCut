@@ -1,0 +1,165 @@
+{
+  "desktop": {
+    "width": 1920,
+    "height": 970,
+    "scrollWidth": 1920,
+    "scrollHeight": 970,
+    "boxes": {
+      ".topbar": {
+        "x": 0,
+        "y": 0,
+        "w": 1920,
+        "h": 60,
+        "bottom": 60
+      },
+      ".editor-rail": {
+        "x": 0,
+        "y": 60,
+        "w": 84,
+        "h": 564,
+        "bottom": 624
+      },
+      ".setup-panel": {
+        "x": 84,
+        "y": 60,
+        "w": 320,
+        "h": 564,
+        "bottom": 624
+      },
+      ".preview-stage": {
+        "x": 404,
+        "y": 60,
+        "w": 1116,
+        "h": 564,
+        "bottom": 624
+      },
+      ".style-panel": {
+        "x": 1520,
+        "y": 60,
+        "w": 400,
+        "h": 564,
+        "bottom": 624
+      },
+      ".timeline-section": {
+        "x": 0,
+        "y": 624,
+        "w": 1920,
+        "h": 346,
+        "bottom": 970
+      }
+    }
+  },
+  "mobile": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "scrollHeight": 844,
+    "boxes": {
+      ".topbar": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 60,
+        "bottom": 60
+      },
+      ".editor-rail": {
+        "x": 0,
+        "y": 60,
+        "w": 390,
+        "h": 42,
+        "bottom": 102
+      },
+      ".setup-panel": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "bottom": 0
+      },
+      ".preview-stage": {
+        "x": 0,
+        "y": 102,
+        "w": 390,
+        "h": 482,
+        "bottom": 584
+      },
+      ".style-panel": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "bottom": 0
+      },
+      ".timeline-section": {
+        "x": 0,
+        "y": 584,
+        "w": 390,
+        "h": 260,
+        "bottom": 844
+      }
+    }
+  },
+  "motion": [
+    {
+      "name": "Glow Script",
+      "changes": 14813
+    },
+    {
+      "name": "Ink Flow",
+      "changes": 3614
+    },
+    {
+      "name": "Script Duo",
+      "changes": 3215
+    },
+    {
+      "name": "Typo Stairs",
+      "changes": 6576
+    },
+    {
+      "name": "Kinetic Stack",
+      "changes": 10383
+    },
+    {
+      "name": "Hyper Clean",
+      "changes": 6075
+    },
+    {
+      "name": "Editorial",
+      "changes": 3670
+    },
+    {
+      "name": "Trio Lockup",
+      "changes": 20346
+    },
+    {
+      "name": "Pop Tag",
+      "changes": 6626
+    },
+    {
+      "name": "Minimal",
+      "changes": 3664
+    },
+    {
+      "name": "Viral Reels",
+      "changes": 6695
+    },
+    {
+      "name": "Karaoke",
+      "changes": 0
+    },
+    {
+      "name": "WhatsApp",
+      "changes": 3650
+    },
+    {
+      "name": "Meme",
+      "changes": 10032
+    },
+    {
+      "name": "Cinematic",
+      "changes": 506
+    }
+  ],
+  "errors": []
+}

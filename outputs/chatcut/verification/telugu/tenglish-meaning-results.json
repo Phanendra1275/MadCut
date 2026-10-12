@@ -1,0 +1,35 @@
+{
+  "source": [
+    "అతను రాలేదు. నేను 10 నిమిషాల్లో వస్తాను.",
+    "నువ్వు ఈరోజు college కి వస్తున్నావా?",
+    "ఏంటి బ్రో నువ్వు ఇంకా రాలేదు?",
+    "నాకు ఈ వీడియో నచ్చలేదు."
+  ],
+  "cues": [
+    {
+      "id": "0",
+      "start": 0,
+      "end": 3,
+      "text": "athanu raledu. nenu 10 nimishallo vasthaanu."
+    },
+    {
+      "id": "1",
+      "start": 4,
+      "end": 7,
+      "text": "nuvvu eeroju college ki vasthunnava?"
+    },
+    {
+      "id": "2",
+      "start": 8,
+      "end": 11,
+      "text": "enthi bro nuvvu inka raledu?"
+    },
+    {
+      "id": "3",
+      "start": 12,
+      "end": 15,
+      "text": "naaku ee video nachchaledu."
+    }
+  ],
+  "language": "Tenglish"
+}

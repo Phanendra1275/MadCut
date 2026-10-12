@@ -1,0 +1,42 @@
+{
+  "SFUIText-Heavy": [
+    "Inter Black",
+    "substitute"
+  ],
+  "Coolvetica-Regular": [
+    "Poppins Bold",
+    "substitute"
+  ],
+  "Coolvetica-Cond": [
+    "Anton",
+    "substitute"
+  ],
+  "Arial-BoldMT": [
+    "Arial Bold",
+    "system"
+  ],
+  "Poppins-ExtraBold": [
+    "Poppins ExtraBold",
+    "bundled"
+  ],
+  "Poppins-Bold": [
+    "Poppins Bold",
+    "bundled"
+  ],
+  "Inter-Black": [
+    "Inter Black",
+    "bundled"
+  ],
+  "Satisfy-Regular": [
+    "Satisfy",
+    "bundled"
+  ],
+  "Vivaldii": [
+    "Vivaldi",
+    "system"
+  ],
+  "EdwardianScriptITC": [
+    "Edwardian Script ITC",
+    "system"
+  ]
+}

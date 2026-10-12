@@ -1,0 +1,317 @@
+{
+  "id": "template_018",
+  "name": "Gradient master blue",
+  "originalFile": "Gradient master blue.mogrt",
+  "file": "/templates/018.mogrt",
+  "preview": "/template-previews/018.webp",
+  "sourcePreview": "/template-previews/018.source.webp",
+  "category": "Highlight",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "095de99e-3f64-48ec-8e27-3237f1f5567d",
+      "type": 6,
+      "name": "Change text",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Jagat pal"
+          }
+        ]
+      },
+      "font": "Arial-BoldMT"
+    },
+    {
+      "id": "e1205a3e-12de-4f26-88f0-824fc4d95199",
+      "type": 4,
+      "name": "Change Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "f0a17931-717e-40a9-99c4-abc50813f94c",
+      "type": 10,
+      "name": "Advance Control",
+      "value": [
+        "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+        "e79f8a7d-663a-4e61-8736-12df417608ac",
+        "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+        "9610d41e-0a3a-498a-8d25-63732b5addad"
+      ],
+      "font": null
+    },
+    {
+      "id": "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+      "type": 5,
+      "name": "Position",
+      "value": {
+        "x": 0,
+        "y": 60
+      },
+      "font": null
+    },
+    {
+      "id": "e79f8a7d-663a-4e61-8736-12df417608ac",
+      "type": 2,
+      "name": "Tracking",
+      "value": 0,
+      "font": null
+    },
+    {
+      "id": "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+      "type": 2,
+      "name": "Animation Speed",
+      "value": 100,
+      "font": null
+    },
+    {
+      "id": "9610d41e-0a3a-498a-8d25-63732b5addad",
+      "type": 13,
+      "name": "Based On",
+      "value": 3,
+      "font": null
+    },
+    {
+      "id": "9e34c042-b2c9-4eb0-9727-b5cbaae43949",
+      "type": 10,
+      "name": "Text control",
+      "value": [
+        "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+        "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+        "9b14c47d-82de-4f64-89b1-d791d756df8c",
+        "f11f1a64-153a-4579-b10d-3fa2c0f07774"
+      ],
+      "font": null
+    },
+    {
+      "id": "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+      "type": 9,
+      "name": "Scale",
+      "value": [
+        100,
+        100,
+        158.73015873015873
+      ],
+      "font": null
+    },
+    {
+      "id": "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+      "type": 5,
+      "name": "Position",
+      "value": {
+        "x": 550.1697387695312,
+        "y": 1005.98876953125
+      },
+      "font": null
+    },
+    {
+      "id": "9b14c47d-82de-4f64-89b1-d791d756df8c",
+      "type": 3,
+      "name": "Rotation",
+      "value": 0,
+      "font": null
+    },
+    {
+      "id": "f11f1a64-153a-4579-b10d-3fa2c0f07774",
+      "type": 2,
+      "name": "Opacity",
+      "value": 100,
+      "font": null
+    },
+    {
+      "id": "dd1fd27a-3121-4980-a658-d59cd5940843",
+      "type": 10,
+      "name": "Glow",
+      "value": [
+        "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+        "5a851f79-61f2-40d0-b398-041074cc6ddf",
+        "e2422a8b-d652-46ad-8c55-fb02353c2aac"
+      ],
+      "font": null
+    },
+    {
+      "id": "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+      "type": 2,
+      "name": "Glow Threshold",
+      "value": 100,
+      "font": null
+    },
+    {
+      "id": "e2422a8b-d652-46ad-8c55-fb02353c2aac",
+      "type": 2,
+      "name": "Glow Intensity",
+      "value": 0.7100000000000001,
+      "font": null
+    },
+    {
+      "id": "5a851f79-61f2-40d0-b398-041074cc6ddf",
+      "type": 2,
+      "name": "Glow Radius",
+      "value": 104,
+      "font": null
+    },
+    {
+      "id": "1261840d-57de-4dec-9ae4-710829c3d5db",
+      "type": 10,
+      "name": "Gradient / Light",
+      "value": [
+        "c165801c-8660-47ec-966d-5d024467eff6",
+        "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+        "31df61b5-d309-4453-ad15-5f173c216c35",
+        "77b1978f-ec84-471a-8d06-254003cd373a"
+      ],
+      "font": null
+    },
+    {
+      "id": "c165801c-8660-47ec-966d-5d024467eff6",
+      "type": 4,
+      "name": "Gradient Top Color",
+      "value": [
+        0,
+        0.7999997735023499,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+      "type": 4,
+      "name": "Gradient Bottom Color",
+      "value": [
+        0,
+        0.08673585951328278,
+        0.7372549176216125,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "31df61b5-d309-4453-ad15-5f173c216c35",
+      "type": 5,
+      "name": "CC Light Sweep Center",
+      "value": {
+        "x": 411,
+        "y": 964.98876953125
+      },
+      "font": null
+    },
+    {
+      "id": "77b1978f-ec84-471a-8d06-254003cd373a",
+      "type": 5,
+      "name": "CC Light Sweep 2 Center",
+      "value": {
+        "x": 728,
+        "y": 964.98876953125
+      },
+      "font": null
+    },
+    {
+      "id": "644d74c9-c47c-4d93-9e49-18236267c2d1",
+      "type": 10,
+      "name": "moving light sweep ",
+      "value": [
+        "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+        "d1752f82-3817-4f85-8f39-714244d61ef3",
+        "7a885555-5607-4dbd-a180-55dc1d003aac",
+        "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+        "9714c77f-058c-4a9f-93ee-4429e146210e",
+        "be66035e-d5ae-4759-bf30-f525c2b19f3d"
+      ],
+      "font": null
+    },
+    {
+      "id": "d1752f82-3817-4f85-8f39-714244d61ef3",
+      "type": 3,
+      "name": "Light Sweep  Direction",
+      "value": 29,
+      "font": null
+    },
+    {
+      "id": "be66035e-d5ae-4759-bf30-f525c2b19f3d",
+      "type": 2,
+      "name": "Light Sweep Width",
+      "value": 29,
+      "font": null
+    },
+    {
+      "id": "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+      "type": 2,
+      "name": "Light Sweep Intensity",
+      "value": 50,
+      "font": null
+    },
+    {
+      "id": "7a885555-5607-4dbd-a180-55dc1d003aac",
+      "type": 2,
+      "name": "Light Sweep edge Intensity",
+      "value": 150,
+      "font": null
+    },
+    {
+      "id": "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+      "type": 2,
+      "name": "Light Sweep Edge Thickness",
+      "value": 2.2000000000000006,
+      "font": null
+    },
+    {
+      "id": "9714c77f-058c-4a9f-93ee-4429e146210e",
+      "type": 4,
+      "name": "Light Sweep Light Color",
+      "value": [
+        1,
+        0.9803921580314636,
+        0.9411764740943909,
+        1
+      ],
+      "font": null
+    }
+  ],
+  "capsuleId": "6589f9a6-5f17-4eb2-a77e-b0f28621b2fb",
+  "renderMode": "web-equivalent",
+  "webPreset": "Gradient Blue",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ffffff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Arial-BoldMT",
+      "webFont": "Arial Bold",
+      "status": "system"
+    }
+  ]
+}

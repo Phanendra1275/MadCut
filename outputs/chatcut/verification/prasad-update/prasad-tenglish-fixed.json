@@ -1,0 +1,171 @@
+{
+  "cues": [
+    {
+      "id": "2997bdf1-5b32-489d-98f1-45bee06ce7f1",
+      "start": 0,
+      "end": 4.96,
+      "text": "mobiles unboxings ivanni ante asalu edo vinthaga choosevaru annamata",
+      "words": [
+        {
+          "word": "mobiles",
+          "start": 0,
+          "end": 0.94
+        },
+        {
+          "word": "unboxings",
+          "start": 0.94,
+          "end": 2.1
+        },
+        {
+          "word": "ivanni",
+          "start": 2.1,
+          "end": 2.58
+        },
+        {
+          "word": "ante",
+          "start": 2.58,
+          "end": 2.98
+        },
+        {
+          "word": "asalu",
+          "start": 2.98,
+          "end": 3.56
+        },
+        {
+          "word": "edo",
+          "start": 3.56,
+          "end": 3.88
+        },
+        {
+          "word": "vinthaga",
+          "start": 3.88,
+          "end": 4.22
+        },
+        {
+          "word": "choosevaru",
+          "start": 4.22,
+          "end": 4.6
+        },
+        {
+          "word": "annamata",
+          "start": 4.6,
+          "end": 4.96
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "d80a8828-3ff3-4234-acb2-ae291a6d70c9",
+      "start": 4.96,
+      "end": 5.96,
+      "text": "jaambin",
+      "words": [
+        {
+          "word": "jaambin",
+          "start": 4.96,
+          "end": 5.96
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "4540f4c1-dbe2-4c31-9d36-09dc6b59f770",
+      "start": 6.41,
+      "end": 10.93,
+      "text": "kani nenu vallu evari maata vinaledu naa heart ni follow ayyanu ikkada aithe matram naaku",
+      "words": [
+        {
+          "word": "kani",
+          "start": 6.41,
+          "end": 6.91
+        },
+        {
+          "word": "nenu",
+          "start": 6.91,
+          "end": 7.03
+        },
+        {
+          "word": "vallu",
+          "start": 7.03,
+          "end": 7.25
+        },
+        {
+          "word": "evari",
+          "start": 7.25,
+          "end": 7.43
+        },
+        {
+          "word": "maata",
+          "start": 7.43,
+          "end": 7.61
+        },
+        {
+          "word": "vinaledu",
+          "start": 7.61,
+          "end": 7.99
+        },
+        {
+          "word": "naa",
+          "start": 7.99,
+          "end": 8.63
+        },
+        {
+          "word": "heart",
+          "start": 8.63,
+          "end": 8.91
+        },
+        {
+          "word": "ni",
+          "start": 8.91,
+          "end": 9.09
+        },
+        {
+          "word": "follow",
+          "start": 9.09,
+          "end": 9.27
+        },
+        {
+          "word": "ayyanu",
+          "start": 9.27,
+          "end": 9.55
+        },
+        {
+          "word": "ikkada",
+          "start": 9.55,
+          "end": 9.69
+        },
+        {
+          "word": "aithe",
+          "start": 9.69,
+          "end": 9.95
+        },
+        {
+          "word": "matram",
+          "start": 9.95,
+          "end": 10.69
+        },
+        {
+          "word": "naaku",
+          "start": 10.69,
+          "end": 10.93
+        }
+      ],
+      "timing": "mapped"
+    },
+    {
+      "id": "cb558af5-5cfe-42ce-b73b-6746968fb815",
+      "start": 10.93,
+      "end": 11.83,
+      "text": "cheyalanipinchindi",
+      "words": [
+        {
+          "word": "cheyalanipinchindi",
+          "start": 10.93,
+          "end": 11.83
+        }
+      ],
+      "timing": "mapped"
+    }
+  ],
+  "language": "Tenglish"
+}

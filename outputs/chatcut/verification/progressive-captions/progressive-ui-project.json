@@ -1,0 +1,1507 @@
+{
+  "projectId": "e7a77844-6d80-4aed-b072-88b7df0c63ad",
+  "version": 1,
+  "name": "progressive-ui-video",
+  "language": "Tenglish",
+  "tone": "Accurate",
+  "sourceLanguage": "te",
+  "tenglishMode": "Natural",
+  "emojis": false,
+  "original": [
+    {
+      "id": "d87abc0d-e6e4-4d74-8246-81a94b7c1502",
+      "start": 0.14,
+      "end": 2.94,
+      "text": "నేను మాట్లాడడం యూట్యూబ్",
+      "words": [
+        {
+          "word": "నేను",
+          "start": 0.14,
+          "end": 1.52,
+          "confidence": 0.929
+        },
+        {
+          "word": "మాట్లాడడం",
+          "start": 1.52,
+          "end": 2.46,
+          "confidence": 0.928
+        },
+        {
+          "word": "యూట్యూబ్",
+          "start": 2.46,
+          "end": 2.94,
+          "confidence": 0.999
+        }
+      ],
+      "confidence": 0.952,
+      "segment": {
+        "start": 0.14,
+        "end": 9.16
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "c4ddea21-bdff-40ec-b7b8-e3616d40e0b9",
+      "start": 2.94,
+      "end": 3.94,
+      "text": "ఛానల్ కెమెరా ఫేస్",
+      "words": [
+        {
+          "word": "ఛానల్",
+          "start": 2.94,
+          "end": 3.22,
+          "confidence": 0.993
+        },
+        {
+          "word": "కెమెరా",
+          "start": 3.22,
+          "end": 3.6,
+          "confidence": 0.984
+        },
+        {
+          "word": "ఫేస్",
+          "start": 3.6,
+          "end": 3.94,
+          "confidence": 0.917
+        }
+      ],
+      "confidence": 0.965,
+      "segment": {
+        "start": 0.14,
+        "end": 9.16
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "a74dc158-28f3-489d-8d98-51ef46db0574",
+      "start": 3.94,
+      "end": 5.76,
+      "text": "చేయడం మాట్లాడాలి అసలు",
+      "words": [
+        {
+          "word": "చేయడం",
+          "start": 3.94,
+          "end": 4.16,
+          "confidence": 0.988
+        },
+        {
+          "word": "మాట్లాడాలి",
+          "start": 4.16,
+          "end": 5.08,
+          "confidence": 1
+        },
+        {
+          "word": "అసలు",
+          "start": 5.08,
+          "end": 5.76,
+          "confidence": 0.993
+        }
+      ],
+      "confidence": 0.994,
+      "segment": {
+        "start": 0.14,
+        "end": 9.16
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "8b87f001-f358-4ddc-8c0d-cb415d83c206",
+      "start": 5.76,
+      "end": 8,
+      "text": "ఆలోచన భయం కాదు",
+      "words": [
+        {
+          "word": "ఆలోచన",
+          "start": 5.76,
+          "end": 6.46,
+          "confidence": 0.988
+        },
+        {
+          "word": "భయం",
+          "start": 6.46,
+          "end": 7.54,
+          "confidence": 0.876
+        },
+        {
+          "word": "కాదు",
+          "start": 7.54,
+          "end": 8,
+          "confidence": 0.972
+        }
+      ],
+      "confidence": 0.945,
+      "segment": {
+        "start": 0.14,
+        "end": 9.16
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "ac7cdd59-1553-4ace-af4d-19f50a71930f",
+      "start": 8,
+      "end": 8.92,
+      "text": "ఫస్ట్ వీడియో చూస్తే",
+      "words": [
+        {
+          "word": "ఫస్ట్",
+          "start": 8,
+          "end": 8.34,
+          "confidence": 0.98
+        },
+        {
+          "word": "వీడియో",
+          "start": 8.34,
+          "end": 8.62,
+          "confidence": 1
+        },
+        {
+          "word": "చూస్తే",
+          "start": 8.62,
+          "end": 8.92,
+          "confidence": 0.986
+        }
+      ],
+      "confidence": 0.989,
+      "segment": {
+        "start": 0.14,
+        "end": 9.16
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "ca0b5b5f-175e-4eb1-94de-3f6917afa1d9",
+      "start": 9.168,
+      "end": 10.408,
+      "text": "అర్ధం అయిపోద్ది ఎలా",
+      "words": [
+        {
+          "word": "అర్ధం",
+          "start": 9.168,
+          "end": 9.388,
+          "confidence": 0.919
+        },
+        {
+          "word": "అయిపోద్ది",
+          "start": 9.388,
+          "end": 10.048,
+          "confidence": 0.97
+        },
+        {
+          "word": "ఎలా",
+          "start": 10.048,
+          "end": 10.408,
+          "confidence": 0.994
+        }
+      ],
+      "confidence": 0.961,
+      "segment": {
+        "start": 9.168,
+        "end": 14.968
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "3599fabb-6dd4-4566-8145-f2e2536257c7",
+      "start": 10.408,
+      "end": 11.788,
+      "text": "ఉంటారో నేను మాట్లాడేటప్పుడు",
+      "words": [
+        {
+          "word": "ఉంటారో",
+          "start": 10.408,
+          "end": 10.768,
+          "confidence": 0.964
+        },
+        {
+          "word": "నేను",
+          "start": 10.768,
+          "end": 10.948,
+          "confidence": 0.996
+        },
+        {
+          "word": "మాట్లాడేటప్పుడు",
+          "start": 10.948,
+          "end": 11.788,
+          "confidence": 0.998
+        }
+      ],
+      "confidence": 0.986,
+      "segment": {
+        "start": 9.168,
+        "end": 14.968
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "1c7b8abc-c4fc-47ac-bc60-6ffbb12ae67a",
+      "start": 11.788,
+      "end": 12.748,
+      "text": "అంత భయం ఉండేది",
+      "words": [
+        {
+          "word": "అంత",
+          "start": 11.788,
+          "end": 12.208,
+          "confidence": 0.961
+        },
+        {
+          "word": "భయం",
+          "start": 12.208,
+          "end": 12.528,
+          "confidence": 0.995
+        },
+        {
+          "word": "ఉండేది",
+          "start": 12.528,
+          "end": 12.748,
+          "confidence": 0.997
+        }
+      ],
+      "confidence": 0.984,
+      "segment": {
+        "start": 9.168,
+        "end": 14.968
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "8ae03772-2669-4214-bfc3-8c996c5cd733",
+      "start": 12.748,
+      "end": 13.948,
+      "text": "నాకు చుట్టుపక్కల నుంచి",
+      "words": [
+        {
+          "word": "నాకు",
+          "start": 12.748,
+          "end": 13.328,
+          "confidence": 0.999
+        },
+        {
+          "word": "చుట్టుపక్కల",
+          "start": 13.328,
+          "end": 13.768,
+          "confidence": 0.977
+        },
+        {
+          "word": "నుంచి",
+          "start": 13.768,
+          "end": 13.948,
+          "confidence": 0.985
+        }
+      ],
+      "confidence": 0.987,
+      "segment": {
+        "start": 9.168,
+        "end": 14.968
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "4bdb54c8-6e19-410b-bc49-206bf66771b5",
+      "start": 13.948,
+      "end": 14.768,
+      "text": "కూడా మనకేం సపోర్ట్",
+      "words": [
+        {
+          "word": "కూడా",
+          "start": 13.948,
+          "end": 14.068,
+          "confidence": 0.964
+        },
+        {
+          "word": "మనకేం",
+          "start": 14.068,
+          "end": 14.388,
+          "confidence": 0.913
+        },
+        {
+          "word": "సపోర్ట్",
+          "start": 14.388,
+          "end": 14.768,
+          "confidence": 0.996
+        }
+      ],
+      "confidence": 0.958,
+      "segment": {
+        "start": 9.168,
+        "end": 14.968
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "ee00d30b-ff30-446d-831e-912fcb511586",
+      "start": 14.768,
+      "end": 14.968,
+      "text": "అయితే",
+      "words": [
+        {
+          "word": "అయితే",
+          "start": 14.768,
+          "end": 14.968,
+          "confidence": 0.963
+        }
+      ],
+      "confidence": 0.963,
+      "segment": {
+        "start": 9.168,
+        "end": 14.968
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "518b30ba-60f5-4c7c-b5b6-b6a9d0e8cc36",
+      "start": 14.968,
+      "end": 16.338,
+      "text": "అది టెక్ ఛానల్",
+      "words": [
+        {
+          "word": "అది",
+          "start": 14.968,
+          "end": 15.638,
+          "confidence": 0.875
+        },
+        {
+          "word": "టెక్",
+          "start": 15.638,
+          "end": 15.898,
+          "confidence": 0.984
+        },
+        {
+          "word": "ఛానల్",
+          "start": 15.898,
+          "end": 16.338,
+          "confidence": 0.952
+        }
+      ],
+      "confidence": 0.937,
+      "segment": {
+        "start": 14.988,
+        "end": 20.918
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "30a76ba8-f3a6-48eb-8018-00a191d7bd17",
+      "start": 16.338,
+      "end": 17.798,
+      "text": "తెలుగులో స్టార్ట్ చేయడం",
+      "words": [
+        {
+          "word": "తెలుగులో",
+          "start": 16.338,
+          "end": 16.858,
+          "confidence": 0.98
+        },
+        {
+          "word": "స్టార్ట్",
+          "start": 16.858,
+          "end": 17.178,
+          "confidence": 0.999
+        },
+        {
+          "word": "చేయడం",
+          "start": 17.178,
+          "end": 17.798,
+          "confidence": 0.997
+        }
+      ],
+      "confidence": 0.992,
+      "segment": {
+        "start": 14.988,
+        "end": 20.918
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "c3e5b976-f03d-4741-891a-626b196c2b53",
+      "start": 17.798,
+      "end": 18.998,
+      "text": "అది కూడా మొబైల్స్",
+      "words": [
+        {
+          "word": "అది",
+          "start": 17.798,
+          "end": 17.958,
+          "confidence": 0.922
+        },
+        {
+          "word": "కూడా",
+          "start": 17.958,
+          "end": 18.038,
+          "confidence": 0.99
+        },
+        {
+          "word": "మొబైల్స్",
+          "start": 18.038,
+          "end": 18.998,
+          "confidence": 0.983
+        }
+      ],
+      "confidence": 0.965,
+      "segment": {
+        "start": 14.988,
+        "end": 20.918
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "3c029431-c6b3-457f-969b-68cbcdfb3668",
+      "start": 18.998,
+      "end": 20.578,
+      "text": "అన్ బాక్సింగ్స్ ఇవన్నీ",
+      "words": [
+        {
+          "word": "అన్",
+          "start": 18.998,
+          "end": 19.198,
+          "confidence": 0.975
+        },
+        {
+          "word": "బాక్సింగ్స్",
+          "start": 19.198,
+          "end": 20.098,
+          "confidence": 0.95
+        },
+        {
+          "word": "ఇవన్నీ",
+          "start": 20.098,
+          "end": 20.578,
+          "confidence": 0.975
+        }
+      ],
+      "confidence": 0.967,
+      "segment": {
+        "start": 14.988,
+        "end": 20.918
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "f75faea8-4575-495e-a92d-4c7e73810944",
+      "start": 20.578,
+      "end": 20.918,
+      "text": "అంటే",
+      "words": [
+        {
+          "word": "అంటే",
+          "start": 20.578,
+          "end": 20.918,
+          "confidence": 0.998
+        }
+      ],
+      "confidence": 0.998,
+      "segment": {
+        "start": 14.988,
+        "end": 20.918
+      },
+      "needsReview": false,
+      "correction": "preserved"
+    }
+  ],
+  "tracks": {
+    "Telugu": [
+      {
+        "id": "d87abc0d-e6e4-4d74-8246-81a94b7c1502-0",
+        "start": 0.14,
+        "end": 2.94,
+        "text": "నేను మాట్లాడడం యూట్యూబ్",
+        "words": [
+          {
+            "word": "నేను",
+            "start": 0.14,
+            "end": 1.52,
+            "confidence": 0.929
+          },
+          {
+            "word": "మాట్లాడడం",
+            "start": 1.52,
+            "end": 2.46,
+            "confidence": 0.928
+          },
+          {
+            "word": "యూట్యూబ్",
+            "start": 2.46,
+            "end": 2.94,
+            "confidence": 0.999
+          }
+        ],
+        "confidence": 0.952,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "c4ddea21-bdff-40ec-b7b8-e3616d40e0b9-0",
+        "start": 2.94,
+        "end": 3.94,
+        "text": "ఛానల్ కెమెరా ఫేస్",
+        "words": [
+          {
+            "word": "ఛానల్",
+            "start": 2.94,
+            "end": 3.22,
+            "confidence": 0.993
+          },
+          {
+            "word": "కెమెరా",
+            "start": 3.22,
+            "end": 3.6,
+            "confidence": 0.984
+          },
+          {
+            "word": "ఫేస్",
+            "start": 3.6,
+            "end": 3.94,
+            "confidence": 0.917
+          }
+        ],
+        "confidence": 0.965,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "a74dc158-28f3-489d-8d98-51ef46db0574-0",
+        "start": 3.94,
+        "end": 5.76,
+        "text": "చేయడం మాట్లాడాలి అసలు",
+        "words": [
+          {
+            "word": "చేయడం",
+            "start": 3.94,
+            "end": 4.16,
+            "confidence": 0.988
+          },
+          {
+            "word": "మాట్లాడాలి",
+            "start": 4.16,
+            "end": 5.08,
+            "confidence": 1
+          },
+          {
+            "word": "అసలు",
+            "start": 5.08,
+            "end": 5.76,
+            "confidence": 0.993
+          }
+        ],
+        "confidence": 0.994,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "8b87f001-f358-4ddc-8c0d-cb415d83c206-0",
+        "start": 5.76,
+        "end": 8,
+        "text": "ఆలోచన భయం కాదు",
+        "words": [
+          {
+            "word": "ఆలోచన",
+            "start": 5.76,
+            "end": 6.46,
+            "confidence": 0.988
+          },
+          {
+            "word": "భయం",
+            "start": 6.46,
+            "end": 7.54,
+            "confidence": 0.876
+          },
+          {
+            "word": "కాదు",
+            "start": 7.54,
+            "end": 8,
+            "confidence": 0.972
+          }
+        ],
+        "confidence": 0.945,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "ac7cdd59-1553-4ace-af4d-19f50a71930f-0",
+        "start": 8,
+        "end": 8.92,
+        "text": "ఫస్ట్ వీడియో చూస్తే",
+        "words": [
+          {
+            "word": "ఫస్ట్",
+            "start": 8,
+            "end": 8.34,
+            "confidence": 0.98
+          },
+          {
+            "word": "వీడియో",
+            "start": 8.34,
+            "end": 8.62,
+            "confidence": 1
+          },
+          {
+            "word": "చూస్తే",
+            "start": 8.62,
+            "end": 8.92,
+            "confidence": 0.986
+          }
+        ],
+        "confidence": 0.989,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "ca0b5b5f-175e-4eb1-94de-3f6917afa1d9-0",
+        "start": 9.168,
+        "end": 10.408,
+        "text": "అర్ధం అయిపోద్ది ఎలా",
+        "words": [
+          {
+            "word": "అర్ధం",
+            "start": 9.168,
+            "end": 9.388,
+            "confidence": 0.919
+          },
+          {
+            "word": "అయిపోద్ది",
+            "start": 9.388,
+            "end": 10.048,
+            "confidence": 0.97
+          },
+          {
+            "word": "ఎలా",
+            "start": 10.048,
+            "end": 10.408,
+            "confidence": 0.994
+          }
+        ],
+        "confidence": 0.961,
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "3599fabb-6dd4-4566-8145-f2e2536257c7-0",
+        "start": 10.408,
+        "end": 11.788,
+        "text": "ఉంటారో నేను మాట్లాడేటప్పుడు",
+        "words": [
+          {
+            "word": "ఉంటారో",
+            "start": 10.408,
+            "end": 10.768,
+            "confidence": 0.964
+          },
+          {
+            "word": "నేను",
+            "start": 10.768,
+            "end": 10.948,
+            "confidence": 0.996
+          },
+          {
+            "word": "మాట్లాడేటప్పుడు",
+            "start": 10.948,
+            "end": 11.788,
+            "confidence": 0.998
+          }
+        ],
+        "confidence": 0.986,
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "1c7b8abc-c4fc-47ac-bc60-6ffbb12ae67a-0",
+        "start": 11.788,
+        "end": 12.748,
+        "text": "అంత భయం ఉండేది",
+        "words": [
+          {
+            "word": "అంత",
+            "start": 11.788,
+            "end": 12.208,
+            "confidence": 0.961
+          },
+          {
+            "word": "భయం",
+            "start": 12.208,
+            "end": 12.528,
+            "confidence": 0.995
+          },
+          {
+            "word": "ఉండేది",
+            "start": 12.528,
+            "end": 12.748,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.984,
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "8ae03772-2669-4214-bfc3-8c996c5cd733-0",
+        "start": 12.748,
+        "end": 13.948,
+        "text": "నాకు చుట్టుపక్కల నుంచి",
+        "words": [
+          {
+            "word": "నాకు",
+            "start": 12.748,
+            "end": 13.328,
+            "confidence": 0.999
+          },
+          {
+            "word": "చుట్టుపక్కల",
+            "start": 13.328,
+            "end": 13.768,
+            "confidence": 0.977
+          },
+          {
+            "word": "నుంచి",
+            "start": 13.768,
+            "end": 13.948,
+            "confidence": 0.985
+          }
+        ],
+        "confidence": 0.987,
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "4bdb54c8-6e19-410b-bc49-206bf66771b5-0",
+        "start": 13.948,
+        "end": 14.768,
+        "text": "కూడా మనకేం సపోర్ట్",
+        "words": [
+          {
+            "word": "కూడా",
+            "start": 13.948,
+            "end": 14.068,
+            "confidence": 0.964
+          },
+          {
+            "word": "మనకేం",
+            "start": 14.068,
+            "end": 14.388,
+            "confidence": 0.913
+          },
+          {
+            "word": "సపోర్ట్",
+            "start": 14.388,
+            "end": 14.768,
+            "confidence": 0.996
+          }
+        ],
+        "confidence": 0.958,
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "ee00d30b-ff30-446d-831e-912fcb511586-0",
+        "start": 14.768,
+        "end": 14.968,
+        "text": "అయితే",
+        "words": [
+          {
+            "word": "అయితే",
+            "start": 14.768,
+            "end": 14.968,
+            "confidence": 0.963
+          }
+        ],
+        "confidence": 0.963,
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "518b30ba-60f5-4c7c-b5b6-b6a9d0e8cc36-0",
+        "start": 14.968,
+        "end": 16.338,
+        "text": "అది టెక్ ఛానల్",
+        "words": [
+          {
+            "word": "అది",
+            "start": 14.968,
+            "end": 15.638,
+            "confidence": 0.875
+          },
+          {
+            "word": "టెక్",
+            "start": 15.638,
+            "end": 15.898,
+            "confidence": 0.984
+          },
+          {
+            "word": "ఛానల్",
+            "start": 15.898,
+            "end": 16.338,
+            "confidence": 0.952
+          }
+        ],
+        "confidence": 0.937,
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "30a76ba8-f3a6-48eb-8018-00a191d7bd17-0",
+        "start": 16.338,
+        "end": 17.798,
+        "text": "తెలుగులో స్టార్ట్ చేయడం",
+        "words": [
+          {
+            "word": "తెలుగులో",
+            "start": 16.338,
+            "end": 16.858,
+            "confidence": 0.98
+          },
+          {
+            "word": "స్టార్ట్",
+            "start": 16.858,
+            "end": 17.178,
+            "confidence": 0.999
+          },
+          {
+            "word": "చేయడం",
+            "start": 17.178,
+            "end": 17.798,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.992,
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "c3e5b976-f03d-4741-891a-626b196c2b53-0",
+        "start": 17.798,
+        "end": 18.998,
+        "text": "అది కూడా మొబైల్స్",
+        "words": [
+          {
+            "word": "అది",
+            "start": 17.798,
+            "end": 17.958,
+            "confidence": 0.922
+          },
+          {
+            "word": "కూడా",
+            "start": 17.958,
+            "end": 18.038,
+            "confidence": 0.99
+          },
+          {
+            "word": "మొబైల్స్",
+            "start": 18.038,
+            "end": 18.998,
+            "confidence": 0.983
+          }
+        ],
+        "confidence": 0.965,
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "3c029431-c6b3-457f-969b-68cbcdfb3668-0",
+        "start": 18.998,
+        "end": 20.578,
+        "text": "అన్ బాక్సింగ్స్ ఇవన్నీ",
+        "words": [
+          {
+            "word": "అన్",
+            "start": 18.998,
+            "end": 19.198,
+            "confidence": 0.975
+          },
+          {
+            "word": "బాక్సింగ్స్",
+            "start": 19.198,
+            "end": 20.098,
+            "confidence": 0.95
+          },
+          {
+            "word": "ఇవన్నీ",
+            "start": 20.098,
+            "end": 20.578,
+            "confidence": 0.975
+          }
+        ],
+        "confidence": 0.967,
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "f75faea8-4575-495e-a92d-4c7e73810944-0",
+        "start": 20.578,
+        "end": 20.918,
+        "text": "అంటే",
+        "words": [
+          {
+            "word": "అంటే",
+            "start": 20.578,
+            "end": 20.918,
+            "confidence": 0.998
+          }
+        ],
+        "confidence": 0.998,
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      }
+    ],
+    "Tenglish": [
+      {
+        "id": "d87abc0d-e6e4-4d74-8246-81a94b7c1502-0",
+        "start": 0.14,
+        "end": 2.94,
+        "text": "Nenu maatlaadadam YouTube",
+        "words": [
+          {
+            "word": "Nenu",
+            "start": 0.14,
+            "end": 1.52
+          },
+          {
+            "word": "maatlaadadam",
+            "start": 1.52,
+            "end": 2.46
+          },
+          {
+            "word": "YouTube",
+            "start": 2.46,
+            "end": 2.94
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.952,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        }
+      },
+      {
+        "id": "c4ddea21-bdff-40ec-b7b8-e3616d40e0b9-0",
+        "start": 2.94,
+        "end": 3.94,
+        "text": "Chhaanal kemeraa phes",
+        "words": [
+          {
+            "word": "Chhaanal",
+            "start": 2.94,
+            "end": 3.22
+          },
+          {
+            "word": "kemeraa",
+            "start": 3.22,
+            "end": 3.6
+          },
+          {
+            "word": "phes",
+            "start": 3.6,
+            "end": 3.94
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.965,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        }
+      },
+      {
+        "id": "a74dc158-28f3-489d-8d98-51ef46db0574-0",
+        "start": 3.94,
+        "end": 5.76,
+        "text": "Cheyadam maatlaadaali asalu",
+        "words": [
+          {
+            "word": "Cheyadam",
+            "start": 3.94,
+            "end": 4.16
+          },
+          {
+            "word": "maatlaadaali",
+            "start": 4.16,
+            "end": 5.08
+          },
+          {
+            "word": "asalu",
+            "start": 5.08,
+            "end": 5.76
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.994,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        }
+      },
+      {
+        "id": "8b87f001-f358-4ddc-8c0d-cb415d83c206-0",
+        "start": 5.76,
+        "end": 8,
+        "text": "Aalochana bhayam kaadu",
+        "words": [
+          {
+            "word": "Aalochana",
+            "start": 5.76,
+            "end": 6.46
+          },
+          {
+            "word": "bhayam",
+            "start": 6.46,
+            "end": 7.54
+          },
+          {
+            "word": "kaadu",
+            "start": 7.54,
+            "end": 8
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.945,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        }
+      },
+      {
+        "id": "ac7cdd59-1553-4ace-af4d-19f50a71930f-0",
+        "start": 8,
+        "end": 8.92,
+        "text": "Phast video choosthe",
+        "words": [
+          {
+            "word": "Phast",
+            "start": 8,
+            "end": 8.34
+          },
+          {
+            "word": "video",
+            "start": 8.34,
+            "end": 8.62
+          },
+          {
+            "word": "choosthe",
+            "start": 8.62,
+            "end": 8.92
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.989,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        }
+      },
+      {
+        "id": "ca0b5b5f-175e-4eb1-94de-3f6917afa1d9-0",
+        "start": 9.168,
+        "end": 10.408,
+        "text": "Ardham ayipoddi ela",
+        "words": [
+          {
+            "word": "Ardham",
+            "start": 9.168,
+            "end": 9.388
+          },
+          {
+            "word": "ayipoddi",
+            "start": 9.388,
+            "end": 10.048
+          },
+          {
+            "word": "ela",
+            "start": 10.048,
+            "end": 10.408
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.961,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        }
+      },
+      {
+        "id": "3599fabb-6dd4-4566-8145-f2e2536257c7-0",
+        "start": 10.408,
+        "end": 11.788,
+        "text": "Unthaaro nenu maatlaadethappudu",
+        "words": [
+          {
+            "word": "Unthaaro",
+            "start": 10.408,
+            "end": 10.768
+          },
+          {
+            "word": "nenu",
+            "start": 10.768,
+            "end": 10.948
+          },
+          {
+            "word": "maatlaadethappudu",
+            "start": 10.948,
+            "end": 11.788
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.986,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        }
+      },
+      {
+        "id": "1c7b8abc-c4fc-47ac-bc60-6ffbb12ae67a-0",
+        "start": 11.788,
+        "end": 12.748,
+        "text": "Antha bhayam undedi",
+        "words": [
+          {
+            "word": "Antha",
+            "start": 11.788,
+            "end": 12.208
+          },
+          {
+            "word": "bhayam",
+            "start": 12.208,
+            "end": 12.528
+          },
+          {
+            "word": "undedi",
+            "start": 12.528,
+            "end": 12.748
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.984,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        }
+      },
+      {
+        "id": "8ae03772-2669-4214-bfc3-8c996c5cd733-0",
+        "start": 12.748,
+        "end": 13.948,
+        "text": "Naaku chutthupakkala nunchi",
+        "words": [
+          {
+            "word": "Naaku",
+            "start": 12.748,
+            "end": 13.328
+          },
+          {
+            "word": "chutthupakkala",
+            "start": 13.328,
+            "end": 13.768
+          },
+          {
+            "word": "nunchi",
+            "start": 13.768,
+            "end": 13.948
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.987,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        }
+      },
+      {
+        "id": "4bdb54c8-6e19-410b-bc49-206bf66771b5-0",
+        "start": 13.948,
+        "end": 14.768,
+        "text": "Kuda manakem saport",
+        "words": [
+          {
+            "word": "Kuda",
+            "start": 13.948,
+            "end": 14.068
+          },
+          {
+            "word": "manakem",
+            "start": 14.068,
+            "end": 14.388
+          },
+          {
+            "word": "saport",
+            "start": 14.388,
+            "end": 14.768
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.958,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        }
+      },
+      {
+        "id": "ee00d30b-ff30-446d-831e-912fcb511586-0",
+        "start": 14.768,
+        "end": 14.968,
+        "text": "Aithe",
+        "words": [
+          {
+            "word": "Aithe",
+            "start": 14.768,
+            "end": 14.968
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.963,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 9.168,
+          "end": 14.968
+        }
+      },
+      {
+        "id": "518b30ba-60f5-4c7c-b5b6-b6a9d0e8cc36-0",
+        "start": 14.968,
+        "end": 16.338,
+        "text": "Adi tech chhaanal",
+        "words": [
+          {
+            "word": "Adi",
+            "start": 14.968,
+            "end": 15.638
+          },
+          {
+            "word": "tech",
+            "start": 15.638,
+            "end": 15.898
+          },
+          {
+            "word": "chhaanal",
+            "start": 15.898,
+            "end": 16.338
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.937,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        }
+      },
+      {
+        "id": "30a76ba8-f3a6-48eb-8018-00a191d7bd17-0",
+        "start": 16.338,
+        "end": 17.798,
+        "text": "Telugulo sthaart cheyadam",
+        "words": [
+          {
+            "word": "Telugulo",
+            "start": 16.338,
+            "end": 16.858
+          },
+          {
+            "word": "sthaart",
+            "start": 16.858,
+            "end": 17.178
+          },
+          {
+            "word": "cheyadam",
+            "start": 17.178,
+            "end": 17.798
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.992,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        }
+      },
+      {
+        "id": "c3e5b976-f03d-4741-891a-626b196c2b53-0",
+        "start": 17.798,
+        "end": 18.998,
+        "text": "Adi kuda mobiles",
+        "words": [
+          {
+            "word": "Adi",
+            "start": 17.798,
+            "end": 17.958
+          },
+          {
+            "word": "kuda",
+            "start": 17.958,
+            "end": 18.038
+          },
+          {
+            "word": "mobiles",
+            "start": 18.038,
+            "end": 18.998
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.965,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        }
+      },
+      {
+        "id": "3c029431-c6b3-457f-969b-68cbcdfb3668-0",
+        "start": 18.998,
+        "end": 20.578,
+        "text": "Unboxings ivanni",
+        "words": [
+          {
+            "word": "Unboxings",
+            "start": 18.998,
+            "end": 20.098
+          },
+          {
+            "word": "ivanni",
+            "start": 20.098,
+            "end": 20.578
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.967,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        }
+      },
+      {
+        "id": "f75faea8-4575-495e-a92d-4c7e73810944-0",
+        "start": 20.578,
+        "end": 20.918,
+        "text": "Ante",
+        "words": [
+          {
+            "word": "Ante",
+            "start": 20.578,
+            "end": 20.918
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.998,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 14.988,
+          "end": 20.918
+        }
+      }
+    ]
+  },
+  "look": {
+    "template": "Minimal",
+    "size": 48,
+    "color": "#ffffff",
+    "position": 82,
+    "bold": true
+  },
+  "aspect": "original",
+  "duration": 21.08,
+  "captionDelay": {}
+}

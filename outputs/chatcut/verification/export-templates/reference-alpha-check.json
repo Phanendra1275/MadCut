@@ -1,0 +1,15 @@
+{
+  "alphaMin": 0,
+  "alphaMax": 255,
+  "transparentPixels": 612614,
+  "opaquePixels": 9501,
+  "size": [
+    720,
+    900
+  ],
+  "blueBackground": [
+    0,
+    69,
+    185
+  ]
+}

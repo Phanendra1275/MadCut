@@ -1,0 +1,290 @@
+{
+  "id": "template_015",
+  "name": "Static Shine Text Effect",
+  "originalFile": "Static Shine Text Effect.mogrt",
+  "file": "/templates/015.mogrt",
+  "preview": "/template-previews/015.webp",
+  "sourcePreview": "/template-previews/015.source.webp",
+  "category": "Highlight",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "14b4298e-42f7-4b3d-9b21-6dd057a5a174",
+      "type": 6,
+      "name": "Text",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "TheCine"
+          }
+        ]
+      },
+      "font": "Inter-Black"
+    },
+    {
+      "id": "51412c2f-2328-4fb9-94dc-8116c186808f",
+      "type": 4,
+      "name": "Fill Color",
+      "value": [
+        1,
+        0.3766544461250305,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "943f5a1f-d0a6-4436-b338-4b7da7936626",
+      "type": 2,
+      "name": "Character Spacing",
+      "value": 0,
+      "font": null
+    },
+    {
+      "id": "16c9b6d8-582e-4508-9e15-b633aec521f3",
+      "type": 2,
+      "name": "Line Spacing (For More Than 1 Line)",
+      "value": 0,
+      "font": null
+    },
+    {
+      "id": "a561e8be-6f6f-4380-9af3-e9bc761d6ed2",
+      "type": 10,
+      "name": "Glow",
+      "value": [
+        "c97cc4ae-c765-4f38-8194-b91c8c3b5adb",
+        "243c5733-5721-4cf7-95aa-351e627af138"
+      ],
+      "font": null
+    },
+    {
+      "id": "c97cc4ae-c765-4f38-8194-b91c8c3b5adb",
+      "type": 2,
+      "name": "Glow Intensity",
+      "value": 0.7000000000000001,
+      "font": null
+    },
+    {
+      "id": "243c5733-5721-4cf7-95aa-351e627af138",
+      "type": 2,
+      "name": "Glow Radius",
+      "value": 56.5,
+      "font": null
+    },
+    {
+      "id": "d3df7605-6234-4af8-bab9-6b2f43292bb2",
+      "type": 10,
+      "name": "#1 Shine Effect",
+      "value": [
+        "caffc51b-785d-4099-81e5-a90e61e3d90d",
+        "66ce2e29-a7aa-4492-a4c5-0ebd67f0b4dd",
+        "f2b27f03-1d06-4020-9ec3-d810396458ca",
+        "08179c02-976c-487b-80b7-eca194fc9cb5",
+        "53720270-357e-4c99-926d-17ed56d7e9e9",
+        "ea625eee-dff7-44a9-9074-4a3e90bc3cf0",
+        "3a410617-cec8-4757-8bc9-032029287387",
+        "009b8324-bb15-4fea-af4d-90d7ae3fde0a"
+      ],
+      "font": null
+    },
+    {
+      "id": "66ce2e29-a7aa-4492-a4c5-0ebd67f0b4dd",
+      "type": 4,
+      "name": "#1 Light Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "caffc51b-785d-4099-81e5-a90e61e3d90d",
+      "type": 5,
+      "name": "#1 Position",
+      "value": {
+        "x": 652.7777777777778,
+        "y": 438
+      },
+      "font": null
+    },
+    {
+      "id": "f2b27f03-1d06-4020-9ec3-d810396458ca",
+      "type": 3,
+      "name": "#1 Angle",
+      "value": 135,
+      "font": null
+    },
+    {
+      "id": "08179c02-976c-487b-80b7-eca194fc9cb5",
+      "type": 13,
+      "name": "#1 Shape Of Beam",
+      "value": 1,
+      "font": null
+    },
+    {
+      "id": "53720270-357e-4c99-926d-17ed56d7e9e9",
+      "type": 2,
+      "name": "#1 Width",
+      "value": 24.8,
+      "font": null
+    },
+    {
+      "id": "ea625eee-dff7-44a9-9074-4a3e90bc3cf0",
+      "type": 2,
+      "name": "#1 Shine Intensity",
+      "value": 4.800000000000001,
+      "font": null
+    },
+    {
+      "id": "3a410617-cec8-4757-8bc9-032029287387",
+      "type": 2,
+      "name": "#1 Edge Intensity",
+      "value": 41.800000000000004,
+      "font": null
+    },
+    {
+      "id": "009b8324-bb15-4fea-af4d-90d7ae3fde0a",
+      "type": 2,
+      "name": "#1 Edge Thickness",
+      "value": 4.2,
+      "font": null
+    },
+    {
+      "id": "09f81301-1f99-4217-8199-dc849177128c",
+      "type": 10,
+      "name": "#2 Shine Effect",
+      "value": [
+        "c1932288-5336-440b-8cd3-0293c745553f",
+        "d9771cf7-c7fe-4813-8ee9-133c75972e8d",
+        "7bc62c67-f058-4a18-bd4c-62f7c8cee664",
+        "2c80b36b-f862-4887-9a2b-a27796e6d75e",
+        "3b05d981-450d-4784-bc90-5202b00f3273",
+        "d6bd7fbe-103c-4052-a646-fdef60f3ffd8",
+        "f9171811-ae21-4ab2-88c4-a3e54087306c",
+        "d36a5575-7eea-4bd4-8426-ab928a0757e9"
+      ],
+      "font": null
+    },
+    {
+      "id": "c1932288-5336-440b-8cd3-0293c745553f",
+      "type": 4,
+      "name": "#2 Light Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "d9771cf7-c7fe-4813-8ee9-133c75972e8d",
+      "type": 5,
+      "name": "#2 Position",
+      "value": {
+        "x": 1208,
+        "y": 546
+      },
+      "font": null
+    },
+    {
+      "id": "7bc62c67-f058-4a18-bd4c-62f7c8cee664",
+      "type": 3,
+      "name": "#2 Angle",
+      "value": -24,
+      "font": null
+    },
+    {
+      "id": "2c80b36b-f862-4887-9a2b-a27796e6d75e",
+      "type": 13,
+      "name": "#2 Shape Of Beam",
+      "value": 1,
+      "font": null
+    },
+    {
+      "id": "3b05d981-450d-4784-bc90-5202b00f3273",
+      "type": 2,
+      "name": "#2 Width",
+      "value": 24.400000000000002,
+      "font": null
+    },
+    {
+      "id": "d6bd7fbe-103c-4052-a646-fdef60f3ffd8",
+      "type": 2,
+      "name": "#2 Shine Intensity",
+      "value": 4.9,
+      "font": null
+    },
+    {
+      "id": "f9171811-ae21-4ab2-88c4-a3e54087306c",
+      "type": 2,
+      "name": "#2 Edge Intensity",
+      "value": 46.300000000000004,
+      "font": null
+    },
+    {
+      "id": "d36a5575-7eea-4bd4-8426-ab928a0757e9",
+      "type": 2,
+      "name": "#2 Edge Thickness",
+      "value": 4.4,
+      "font": null
+    },
+    {
+      "id": "8c7795be-b466-4633-976a-1dfff8d76209",
+      "type": 8,
+      "name": "Comment",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Created by @The.cinecut"
+          }
+        ]
+      },
+      "font": null
+    }
+  ],
+  "capsuleId": "4018a78b-6382-4150-ad53-7832f66f3cf5",
+  "renderMode": "web-equivalent",
+  "webPreset": "Static Shine",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Inter-Black → Inter Black; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ff6000",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Inter-Black",
+      "webFont": "Inter Black",
+      "status": "bundled"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "cases": [
+    {
+      "source": "నువ్వు ఎక్కడికి వెళ్తున్నావు?",
+      "natural": "Nuvvu ekkadiki velthunnav?",
+      "speechAnchors": 3
+    },
+    {
+      "source": "ఏం చేస్తున్నావు?",
+      "natural": "Em chesthunnav?",
+      "speechAnchors": 2
+    },
+    {
+      "source": "నేను కూడా వస్తాను.",
+      "natural": "Nenu kuda vastha.",
+      "speechAnchors": 3
+    },
+    {
+      "source": "చాలా బాగుంది.",
+      "natural": "Chala bagundi.",
+      "speechAnchors": 2
+    },
+    {
+      "source": "నాకు అర్థం కాలేదు.",
+      "natural": "Naaku artham kaaledu.",
+      "speechAnchors": 3
+    },
+    {
+      "source": "వస్తున్నావు",
+      "natural": "Vasthunnav",
+      "speechAnchors": 1
+    },
+    {
+      "source": "వెళ్లావు",
+      "natural": "Vellav",
+      "speechAnchors": 1
+    },
+    {
+      "source": "చేశావు",
+      "natural": "Chesav",
+      "speechAnchors": 1
+    },
+    {
+      "source": "చెప్పావు",
+      "natural": "Cheppav",
+      "speechAnchors": 1
+    },
+    {
+      "source": "వెళ్తాను",
+      "natural": "Veltha",
+      "speechAnchors": 1
+    },
+    {
+      "source": "చేస్తాను",
+      "natural": "Chestha",
+      "speechAnchors": 1
+    },
+    {
+      "source": "ఉన్నాను",
+      "natural": "Unna",
+      "speechAnchors": 1
+    },
+    {
+      "source": "ఉన్నావు",
+      "natural": "Unnav",
+      "speechAnchors": 1
+    },
+    {
+      "source": "ఉంటుంది",
+      "natural": "Untundi",
+      "speechAnchors": 1
+    },
+    {
+      "source": "ఉన్నాడు",
+      "natural": "Unnadu",
+      "speechAnchors": 1
+    },
+    {
+      "source": "ఈ వీడియోని edit చేసి నాకు పంపు.",
+      "natural": "Ee video ni edit chesi naaku pampu.",
+      "speechAnchors": 7
+    },
+    {
+      "source": "రేపు మీటింగ్ ఉంది.",
+      "natural": "Repu meeting undi.",
+      "speechAnchors": 3
+    },
+    {
+      "source": "వీడియో upload చేశావా?",
+      "natural": "Video upload chesava?",
+      "speechAnchors": 3
+    },
+    {
+      "source": "బ్రో, ఈ డిజైన్ చాలా బాగుంది.",
+      "natural": "Bro, ee design chala bagundi.",
+      "speechAnchors": 5
+    },
+    {
+      "source": "వెబ్‌సైట్ రెడీ అయ్యిందా?",
+      "natural": "Website ready ayyinda?",
+      "speechAnchors": 3
+    },
+    {
+      "source": "ఫైల్ send చెయ్యి.",
+      "natural": "File send cheyyi.",
+      "speechAnchors": 3
+    }
+  ],
+  "additionalGuards": [
+    "proper nouns",
+    "contextual artham versus half",
+    "high-confidence obvious typo",
+    "formal mode",
+    "no invented bro/emoji"
+  ]
+}

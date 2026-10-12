@@ -1,0 +1,111 @@
+{
+  "id": "template_008",
+  "name": "Santhosham",
+  "originalFile": "Santhosham.mogrt",
+  "file": "/templates/008.mogrt",
+  "preview": "/template-previews/008.webp",
+  "sourcePreview": "/template-previews/008.source.webp",
+  "category": "Highlight",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "da69a8f1-5429-4027-b653-e78af4798ff2",
+      "type": 6,
+      "name": "Santhosham",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Santhosham"
+          }
+        ]
+      },
+      "font": "Coolvetica-Regular"
+    },
+    {
+      "id": "79b8107b-35a7-40c8-b989-26d4fd13e9fb",
+      "type": 5,
+      "name": "Santhosham Position",
+      "value": {
+        "x": 498,
+        "y": 604
+      },
+      "font": null
+    },
+    {
+      "id": "a93f24b1-3181-468b-aac0-34190d84927b",
+      "type": 9,
+      "name": "Santhosham Scale",
+      "value": [
+        188.82724826352015,
+        188.82724826352015,
+        188.82724826352015
+      ],
+      "font": null
+    },
+    {
+      "id": "7f7cbda4-d627-42a1-9ebe-905adb039db0",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "a9aebe3e-daea-44db-9709-3c204abb7183",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    }
+  ],
+  "capsuleId": "1cf2fa47-8cf6-49b2-b666-8c849d293c61",
+  "renderMode": "web-equivalent",
+  "webPreset": "Santhosham",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Coolvetica-Regular → Poppins Bold; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ffffff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Coolvetica-Regular",
+      "webFont": "Poppins Bold",
+      "status": "substitute"
+    }
+  ]
+}

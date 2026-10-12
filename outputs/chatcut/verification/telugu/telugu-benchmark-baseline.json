@@ -1,0 +1,45 @@
+{
+  "mode": "baseline",
+  "wordErrors": 25,
+  "referenceWords": 42,
+  "WER": 59.52,
+  "CER": 19.32,
+  "samples": [
+    {
+      "id": 1912,
+      "audio": "work\\verification\\telugu-heldout-1.wav",
+      "reference": "చిన్న ద్వీపాలలో చాలా వరకు స్వతంత్ర దేశాలు, లేదా ఫ్రాన్స్ తో సంబంధం కలిగి ఉన్నాయి, ఇంకా వీటిని  లగ్జరీ బీచ్ రిసార్ట్ స్ అని పిలుస్తారు.",
+      "text": "చిన్న ద్వేపాలలో చాలా వర్కు స్వతంత్ర దేశాలు లేదా ఫ్రాంస్ తో సమ్బందం కలికి ఉన్నాఈ ఇంకా విటిని లక్జరి బిచ్ రేసాట్స్ను అని ప",
+      "wordErrors": 12,
+      "referenceWords": 20,
+      "characterErrors": 28,
+      "referenceCharacters": 111,
+      "seconds": 169.49,
+      "cues": null
+    },
+    {
+      "id": 1908,
+      "audio": "work\\verification\\telugu-heldout-2.wav",
+      "reference": "కొన్ని క్రియలు ఆబ్జెక్టుల మధ్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం.",
+      "text": "కొన్ని క్రేలు అబ్జేక్ట్లు మద్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం",
+      "wordErrors": 3,
+      "referenceWords": 10,
+      "characterErrors": 7,
+      "referenceCharacters": 66,
+      "seconds": 72.38,
+      "cues": null
+    },
+    {
+      "id": 1783,
+      "audio": "work\\verification\\telugu-heldout-3.wav",
+      "reference": "ప్రాంతీయ మరియు కాలానుగుణ తీవ్రమైన వాతావరణ దృగ్విషయాలలో మంచు తుఫానులు మరియు దుమ్ము తుఫానులు ఉన్నాయి.",
+      "text": "ప్రాంతియా మర్యు కాలాను గున తేవ్రమైన వాతావర్న ద్రుగ్విషియాలలో మంచు తుఫానులు మర్యు దుము తుఫానులు ఉన్నాఈ",
+      "wordErrors": 10,
+      "referenceWords": 12,
+      "characterErrors": 16,
+      "referenceCharacters": 87,
+      "seconds": 98.23,
+      "cues": null
+    }
+  ]
+}

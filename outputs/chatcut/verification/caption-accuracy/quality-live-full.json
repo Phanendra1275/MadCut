@@ -1,0 +1,6073 @@
+{
+  "elapsedSeconds": 88.719,
+  "events": [
+    {
+      "seconds": 5.766,
+      "progress": 12,
+      "cues": 5,
+      "status": "running"
+    },
+    {
+      "seconds": 19.782,
+      "progress": 19,
+      "cues": 9,
+      "status": "running"
+    },
+    {
+      "seconds": 20.047,
+      "progress": 25,
+      "cues": 14,
+      "status": "running"
+    },
+    {
+      "seconds": 33.172,
+      "progress": 37,
+      "cues": 22,
+      "status": "running"
+    },
+    {
+      "seconds": 35.282,
+      "progress": 42,
+      "cues": 24,
+      "status": "running"
+    },
+    {
+      "seconds": 56.594,
+      "progress": 54,
+      "cues": 35,
+      "status": "running"
+    },
+    {
+      "seconds": 61.313,
+      "progress": 63,
+      "cues": 40,
+      "status": "running"
+    },
+    {
+      "seconds": 73.594,
+      "progress": 75,
+      "cues": 47,
+      "status": "running"
+    },
+    {
+      "seconds": 88.422,
+      "progress": 89,
+      "cues": 55,
+      "status": "running"
+    },
+    {
+      "seconds": 88.719,
+      "progress": 100,
+      "cues": 55,
+      "status": "complete"
+    }
+  ],
+  "result": {
+    "language": "te",
+    "cues": [
+      {
+        "id": "07bdd285-16eb-4268-8f05-e2938e9067ee",
+        "start": 0.14,
+        "end": 2.94,
+        "text": "నేను మాట్లాడడం యూట్యూబ్",
+        "words": [
+          {
+            "word": "నేను",
+            "start": 0.14,
+            "end": 1.52,
+            "confidence": 0.929
+          },
+          {
+            "word": "మాట్లాడడం",
+            "start": 1.52,
+            "end": 2.46,
+            "confidence": 0.928
+          },
+          {
+            "word": "యూట్యూబ్",
+            "start": 2.46,
+            "end": 2.94,
+            "confidence": 0.999
+          }
+        ],
+        "confidence": 0.952,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0413,
+          "compressionRatio": 1.8865,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "4f4bcfb3-507e-42ca-9e3c-884a656fb9eb",
+        "start": 2.94,
+        "end": 3.94,
+        "text": "ఛానల్ కెమెరా ఫేస్",
+        "words": [
+          {
+            "word": "ఛానల్",
+            "start": 2.94,
+            "end": 3.22,
+            "confidence": 0.993
+          },
+          {
+            "word": "కెమెరా",
+            "start": 3.22,
+            "end": 3.6,
+            "confidence": 0.984
+          },
+          {
+            "word": "ఫేస్",
+            "start": 3.6,
+            "end": 3.94,
+            "confidence": 0.917
+          }
+        ],
+        "confidence": 0.965,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0413,
+          "compressionRatio": 1.8865,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "6ce2fa12-4b89-4e4f-abb5-b48436997961",
+        "start": 3.94,
+        "end": 5.76,
+        "text": "చేయడం మాట్లాడాలి అసలు",
+        "words": [
+          {
+            "word": "చేయడం",
+            "start": 3.94,
+            "end": 4.16,
+            "confidence": 0.988
+          },
+          {
+            "word": "మాట్లాడాలి",
+            "start": 4.16,
+            "end": 5.08,
+            "confidence": 1.0
+          },
+          {
+            "word": "అసలు",
+            "start": 5.08,
+            "end": 5.76,
+            "confidence": 0.993
+          }
+        ],
+        "confidence": 0.994,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0413,
+          "compressionRatio": 1.8865,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "d235f9fb-e322-419a-afe3-975945975779",
+        "start": 5.76,
+        "end": 8.0,
+        "text": "ఆలోచన భయం కాదు",
+        "words": [
+          {
+            "word": "ఆలోచన",
+            "start": 5.76,
+            "end": 6.46,
+            "confidence": 0.988
+          },
+          {
+            "word": "భయం",
+            "start": 6.46,
+            "end": 7.54,
+            "confidence": 0.876
+          },
+          {
+            "word": "కాదు",
+            "start": 7.54,
+            "end": 8.0,
+            "confidence": 0.972
+          }
+        ],
+        "confidence": 0.945,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0413,
+          "compressionRatio": 1.8865,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "c7060b83-060d-4b04-a596-1afd11f2aa21",
+        "start": 8.0,
+        "end": 8.92,
+        "text": "ఫస్ట్ వీడియో చూస్తే",
+        "words": [
+          {
+            "word": "ఫస్ట్",
+            "start": 8.0,
+            "end": 8.34,
+            "confidence": 0.98
+          },
+          {
+            "word": "వీడియో",
+            "start": 8.34,
+            "end": 8.62,
+            "confidence": 1.0
+          },
+          {
+            "word": "చూస్తే",
+            "start": 8.62,
+            "end": 8.92,
+            "confidence": 0.986
+          }
+        ],
+        "confidence": 0.989,
+        "segment": {
+          "start": 0.14,
+          "end": 9.16
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0413,
+          "compressionRatio": 1.8865,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "17a113c4-9f23-481d-b6aa-34f18adac9d8",
+        "start": 9.168,
+        "end": 10.408,
+        "text": "అర్ధం అయిపోద్ది ఎలా",
+        "words": [
+          {
+            "word": "అర్ధం",
+            "start": 9.168,
+            "end": 9.348,
+            "confidence": 0.912
+          },
+          {
+            "word": "అయిపోద్ది",
+            "start": 9.348,
+            "end": 10.048,
+            "confidence": 0.965
+          },
+          {
+            "word": "ఎలా",
+            "start": 10.048,
+            "end": 10.408,
+            "confidence": 0.995
+          }
+        ],
+        "confidence": 0.957,
+        "segment": {
+          "start": 9.168,
+          "end": 13.768
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0274,
+          "compressionRatio": 1.8358,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "7e9bb99d-3241-47bf-88b1-d257ac00da3c",
+        "start": 10.408,
+        "end": 11.808,
+        "text": "ఉంటారో నేను మాట్లాడేటప్పుడు",
+        "words": [
+          {
+            "word": "ఉంటారో",
+            "start": 10.408,
+            "end": 10.768,
+            "confidence": 0.959
+          },
+          {
+            "word": "నేను",
+            "start": 10.768,
+            "end": 10.948,
+            "confidence": 0.996
+          },
+          {
+            "word": "మాట్లాడేటప్పుడు",
+            "start": 10.948,
+            "end": 11.808,
+            "confidence": 0.998
+          }
+        ],
+        "confidence": 0.984,
+        "segment": {
+          "start": 9.168,
+          "end": 13.768
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0274,
+          "compressionRatio": 1.8358,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "e2827fad-76b6-44cd-a85b-2538ac71715c",
+        "start": 11.808,
+        "end": 12.748,
+        "text": "అంత భయం ఉండేది",
+        "words": [
+          {
+            "word": "అంత",
+            "start": 11.808,
+            "end": 12.208,
+            "confidence": 0.966
+          },
+          {
+            "word": "భయం",
+            "start": 12.208,
+            "end": 12.508,
+            "confidence": 0.994
+          },
+          {
+            "word": "ఉండేది",
+            "start": 12.508,
+            "end": 12.748,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.986,
+        "segment": {
+          "start": 9.168,
+          "end": 13.768
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0274,
+          "compressionRatio": 1.8358,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "00880294-cdf0-42c1-a680-e38ac0945e34",
+        "start": 12.748,
+        "end": 13.788,
+        "text": "నాకు చుట్టుపక్కల",
+        "words": [
+          {
+            "word": "నాకు",
+            "start": 12.748,
+            "end": 13.308,
+            "confidence": 0.999
+          },
+          {
+            "word": "చుట్టుపక్కల",
+            "start": 13.308,
+            "end": 13.788,
+            "confidence": 0.965
+          }
+        ],
+        "confidence": 0.982,
+        "segment": {
+          "start": 9.168,
+          "end": 13.768
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0274,
+          "compressionRatio": 1.8358,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "8dcfc3fc-6958-4986-9e18-48cd6b1a7658",
+        "start": 13.788,
+        "end": 14.358,
+        "text": "నుంచి కూడా మనకి",
+        "words": [
+          {
+            "word": "నుంచి",
+            "start": 13.788,
+            "end": 13.978,
+            "confidence": 0.947
+          },
+          {
+            "word": "కూడా",
+            "start": 13.978,
+            "end": 14.038,
+            "confidence": 0.951
+          },
+          {
+            "word": "మనకి",
+            "start": 14.038,
+            "end": 14.358,
+            "confidence": 0.947
+          }
+        ],
+        "confidence": 0.948,
+        "segment": {
+          "start": 13.778,
+          "end": 18.078
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.7571,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "49ee2c49-4b92-4072-971e-0160ae5efdcc",
+        "start": 14.358,
+        "end": 14.978,
+        "text": "ఏం సపోర్ట్ అయితే",
+        "words": [
+          {
+            "word": "ఏం",
+            "start": 14.358,
+            "end": 14.438,
+            "confidence": 0.892
+          },
+          {
+            "word": "సపోర్ట్",
+            "start": 14.438,
+            "end": 14.758,
+            "confidence": 0.995
+          },
+          {
+            "word": "అయితే",
+            "start": 14.758,
+            "end": 14.978,
+            "confidence": 0.968
+          }
+        ],
+        "confidence": 0.952,
+        "segment": {
+          "start": 13.778,
+          "end": 18.078
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.7571,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "76a13750-51d8-47bd-bf7c-fb0916f97b80",
+        "start": 14.978,
+        "end": 15.898,
+        "text": "ఉండదో అది టెక్",
+        "words": [
+          {
+            "word": "ఉండదో",
+            "start": 14.978,
+            "end": 15.378,
+            "confidence": 0.99
+          },
+          {
+            "word": "అది",
+            "start": 15.378,
+            "end": 15.678,
+            "confidence": 0.984
+          },
+          {
+            "word": "టెక్",
+            "start": 15.678,
+            "end": 15.898,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.99,
+        "segment": {
+          "start": 13.778,
+          "end": 18.078
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.7571,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "681c11c3-5ac7-45f9-baaa-3998908d8647",
+        "start": 15.898,
+        "end": 17.158,
+        "text": "ఛానల్ తెలుగులో స్టార్ట్",
+        "words": [
+          {
+            "word": "ఛానల్",
+            "start": 15.898,
+            "end": 16.438,
+            "confidence": 0.956
+          },
+          {
+            "word": "తెలుగులో",
+            "start": 16.438,
+            "end": 16.858,
+            "confidence": 0.982
+          },
+          {
+            "word": "స్టార్ట్",
+            "start": 16.858,
+            "end": 17.158,
+            "confidence": 0.999
+          }
+        ],
+        "confidence": 0.979,
+        "segment": {
+          "start": 13.778,
+          "end": 18.078
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.7571,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "cf54c130-d4c5-45d6-8192-e0d92e2b74b7",
+        "start": 17.158,
+        "end": 18.078,
+        "text": "చేయడం అది కూడా",
+        "words": [
+          {
+            "word": "చేయడం",
+            "start": 17.158,
+            "end": 17.678,
+            "confidence": 0.992
+          },
+          {
+            "word": "అది",
+            "start": 17.678,
+            "end": 17.938,
+            "confidence": 0.995
+          },
+          {
+            "word": "కూడా",
+            "start": 17.938,
+            "end": 18.078,
+            "confidence": 0.995
+          }
+        ],
+        "confidence": 0.994,
+        "segment": {
+          "start": 13.778,
+          "end": 18.078
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.7571,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "685e5192-8f81-4f8b-9a66-7065667213d0",
+        "start": 18.192,
+        "end": 20.092,
+        "text": "బైల్స్ అన్ బాక్సింగ్స్",
+        "words": [
+          {
+            "word": "బైల్స్",
+            "start": 18.192,
+            "end": 18.952,
+            "confidence": 0.844
+          },
+          {
+            "word": "అన్",
+            "start": 18.952,
+            "end": 19.192,
+            "confidence": 0.974
+          },
+          {
+            "word": "బాక్సింగ్స్",
+            "start": 19.192,
+            "end": 20.092,
+            "confidence": 0.951
+          }
+        ],
+        "confidence": 0.923,
+        "segment": {
+          "start": 18.192,
+          "end": 22.572
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0603,
+          "compressionRatio": 1.6486,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "c222e0bf-06bb-4c20-8674-bd1da9730d43",
+        "start": 20.092,
+        "end": 21.572,
+        "text": "ఇవన్నీ అంటే అసలు",
+        "words": [
+          {
+            "word": "ఇవన్నీ",
+            "start": 20.092,
+            "end": 20.572,
+            "confidence": 0.971
+          },
+          {
+            "word": "అంటే",
+            "start": 20.572,
+            "end": 20.972,
+            "confidence": 0.999
+          },
+          {
+            "word": "అసలు",
+            "start": 20.972,
+            "end": 21.572,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.989,
+        "segment": {
+          "start": 18.192,
+          "end": 22.572
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0603,
+          "compressionRatio": 1.6486,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "5f110b14-3dda-41ff-95c6-994811787863",
+        "start": 21.572,
+        "end": 22.572,
+        "text": "ఏదో వింతగా చూసేవారు",
+        "words": [
+          {
+            "word": "ఏదో",
+            "start": 21.572,
+            "end": 21.872,
+            "confidence": 0.974
+          },
+          {
+            "word": "వింతగా",
+            "start": 21.872,
+            "end": 22.232,
+            "confidence": 0.983
+          },
+          {
+            "word": "చూసేవారు",
+            "start": 22.232,
+            "end": 22.572,
+            "confidence": 0.927
+          }
+        ],
+        "confidence": 0.961,
+        "segment": {
+          "start": 18.192,
+          "end": 22.572
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0603,
+          "compressionRatio": 1.6486,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "fd2d89f5-aebf-479b-b88a-f194b8f84197",
+        "start": 22.882,
+        "end": 24.622,
+        "text": "జాంబిని చూసినట్టు నన్ను",
+        "words": [
+          {
+            "word": "జాంబిని",
+            "start": 22.882,
+            "end": 23.942,
+            "confidence": 0.869
+          },
+          {
+            "word": "చూసినట్టు",
+            "start": 23.942,
+            "end": 24.322,
+            "confidence": 0.972
+          },
+          {
+            "word": "నన్ను",
+            "start": 24.322,
+            "end": 24.622,
+            "confidence": 0.987
+          }
+        ],
+        "confidence": 0.943,
+        "segment": {
+          "start": 22.882,
+          "end": 27.182
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0534,
+          "compressionRatio": 1.906,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "0c7562e2-ac2e-4b53-9bf7-785695104726",
+        "start": 24.622,
+        "end": 25.182,
+        "text": "కానీ నేను వాళ్ళు",
+        "words": [
+          {
+            "word": "కానీ",
+            "start": 24.622,
+            "end": 24.902,
+            "confidence": 0.97
+          },
+          {
+            "word": "నేను",
+            "start": 24.902,
+            "end": 25.022,
+            "confidence": 0.99
+          },
+          {
+            "word": "వాళ్ళు",
+            "start": 25.022,
+            "end": 25.182,
+            "confidence": 0.962
+          }
+        ],
+        "confidence": 0.974,
+        "segment": {
+          "start": 22.882,
+          "end": 27.182
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0534,
+          "compressionRatio": 1.906,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "76f13a91-12f7-4458-95fc-91778bd50aba",
+        "start": 25.182,
+        "end": 25.982,
+        "text": "ఎవరి మాట వినలేదు",
+        "words": [
+          {
+            "word": "ఎవరి",
+            "start": 25.182,
+            "end": 25.442,
+            "confidence": 0.963
+          },
+          {
+            "word": "మాట",
+            "start": 25.442,
+            "end": 25.622,
+            "confidence": 0.997
+          },
+          {
+            "word": "వినలేదు",
+            "start": 25.622,
+            "end": 25.982,
+            "confidence": 0.994
+          }
+        ],
+        "confidence": 0.985,
+        "segment": {
+          "start": 22.882,
+          "end": 27.182
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0534,
+          "compressionRatio": 1.906,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "81426bdb-3a32-4bb0-910e-f3a7fa07ce09",
+        "start": 25.982,
+        "end": 27.022,
+        "text": "నా హార్ట్ ని",
+        "words": [
+          {
+            "word": "నా",
+            "start": 25.982,
+            "end": 26.622,
+            "confidence": 0.994
+          },
+          {
+            "word": "హార్ట్",
+            "start": 26.622,
+            "end": 26.922,
+            "confidence": 0.997
+          },
+          {
+            "word": "ని",
+            "start": 26.922,
+            "end": 27.022,
+            "confidence": 0.962
+          }
+        ],
+        "confidence": 0.984,
+        "segment": {
+          "start": 22.882,
+          "end": 27.182
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0534,
+          "compressionRatio": 1.906,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "5a761669-5011-4ecd-ad75-52f8f7c41502",
+        "start": 27.022,
+        "end": 27.182,
+        "text": "ఫాలో",
+        "words": [
+          {
+            "word": "ఫాలో",
+            "start": 27.022,
+            "end": 27.182,
+            "confidence": 0.968
+          }
+        ],
+        "confidence": 0.968,
+        "segment": {
+          "start": 22.882,
+          "end": 27.182
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0534,
+          "compressionRatio": 1.906,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "e6f2e410-391b-4805-ad29-219c12dcc7a1",
+        "start": 27.216,
+        "end": 29.856,
+        "text": "ఎక్కడైతే మాత్రం చేయాలనిపించింది",
+        "words": [
+          {
+            "word": "ఎక్కడైతే",
+            "start": 27.216,
+            "end": 27.936,
+            "confidence": 0.94
+          },
+          {
+            "word": "మాత్రం",
+            "start": 27.936,
+            "end": 28.816,
+            "confidence": 1.0
+          },
+          {
+            "word": "చేయాలనిపించింది",
+            "start": 28.816,
+            "end": 29.856,
+            "confidence": 0.979
+          }
+        ],
+        "confidence": 0.973,
+        "segment": {
+          "start": 27.216,
+          "end": 30.496
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0291,
+          "compressionRatio": 1.3537,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "5c23a76f-d575-473b-a27b-e5b5211062ff",
+        "start": 29.856,
+        "end": 30.436,
+        "text": "చేద్దాం",
+        "words": [
+          {
+            "word": "చేద్దాం",
+            "start": 29.856,
+            "end": 30.436,
+            "confidence": 0.998
+          }
+        ],
+        "confidence": 0.998,
+        "segment": {
+          "start": 27.216,
+          "end": 30.496
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0291,
+          "compressionRatio": 1.3537,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "a0a093f2-7969-4abf-8330-7b3716a43851",
+        "start": 30.596,
+        "end": 31.596,
+        "text": "అందరు నవ్వుకునే వాళ్ళు",
+        "words": [
+          {
+            "word": "అందరు",
+            "start": 30.596,
+            "end": 30.916,
+            "confidence": 0.935
+          },
+          {
+            "word": "నవ్వుకునే",
+            "start": 30.916,
+            "end": 31.316,
+            "confidence": 0.98
+          },
+          {
+            "word": "వాళ్ళు",
+            "start": 31.316,
+            "end": 31.596,
+            "confidence": 0.945
+          }
+        ],
+        "confidence": 0.953,
+        "segment": {
+          "start": 30.596,
+          "end": 35.136
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0386,
+          "compressionRatio": 2.0127,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "ec696937-06f0-465f-8f66-47ffd1f477a6",
+        "start": 31.596,
+        "end": 32.916,
+        "text": "నేను అసిస్టెంట్ ప్రొఫెసర్",
+        "words": [
+          {
+            "word": "నేను",
+            "start": 31.596,
+            "end": 32.196,
+            "confidence": 0.974
+          },
+          {
+            "word": "అసిస్టెంట్",
+            "start": 32.196,
+            "end": 32.616,
+            "confidence": 0.982
+          },
+          {
+            "word": "ప్రొఫెసర్",
+            "start": 32.616,
+            "end": 32.916,
+            "confidence": 0.98
+          }
+        ],
+        "confidence": 0.979,
+        "segment": {
+          "start": 30.596,
+          "end": 35.136
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0386,
+          "compressionRatio": 2.0127,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "77bfac8e-b403-4929-aa13-cae826e97960",
+        "start": 32.916,
+        "end": 33.716,
+        "text": "గా పని చేశాను",
+        "words": [
+          {
+            "word": "గా",
+            "start": 32.916,
+            "end": 33.056,
+            "confidence": 0.976
+          },
+          {
+            "word": "పని",
+            "start": 33.056,
+            "end": 33.296,
+            "confidence": 0.999
+          },
+          {
+            "word": "చేశాను",
+            "start": 33.296,
+            "end": 33.716,
+            "confidence": 0.911
+          }
+        ],
+        "confidence": 0.962,
+        "segment": {
+          "start": 30.596,
+          "end": 35.136
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0386,
+          "compressionRatio": 2.0127,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "3eafa8a2-6a2c-403a-bfdb-a609fadc8cd0",
+        "start": 33.716,
+        "end": 34.336,
+        "text": "అప్పుడు నా ఫస్ట్",
+        "words": [
+          {
+            "word": "అప్పుడు",
+            "start": 33.716,
+            "end": 33.916,
+            "confidence": 0.967
+          },
+          {
+            "word": "నా",
+            "start": 33.916,
+            "end": 34.016,
+            "confidence": 0.973
+          },
+          {
+            "word": "ఫస్ట్",
+            "start": 34.016,
+            "end": 34.336,
+            "confidence": 0.996
+          }
+        ],
+        "confidence": 0.979,
+        "segment": {
+          "start": 30.596,
+          "end": 35.136
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0386,
+          "compressionRatio": 2.0127,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "c3757127-e47b-47fd-a29e-9f1223d5dc97",
+        "start": 34.336,
+        "end": 35.136,
+        "text": "వీడియోస్ అన్ని చూసుకొని",
+        "words": [
+          {
+            "word": "వీడియోస్",
+            "start": 34.336,
+            "end": 34.716,
+            "confidence": 0.968
+          },
+          {
+            "word": "అన్ని",
+            "start": 34.716,
+            "end": 34.836,
+            "confidence": 0.94
+          },
+          {
+            "word": "చూసుకొని",
+            "start": 34.836,
+            "end": 35.136,
+            "confidence": 0.958
+          }
+        ],
+        "confidence": 0.955,
+        "segment": {
+          "start": 30.596,
+          "end": 35.136
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0386,
+          "compressionRatio": 2.0127,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "25740b69-131d-4545-9a7e-4d2b16e04788",
+        "start": 35.176,
+        "end": 35.961,
+        "text": "స్టూడెంట్స్ కూడా నవ్వుకునే",
+        "segment": {
+          "start": 35.176,
+          "end": 39.626
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0257,
+          "compressionRatio": 2.0725,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [
+          "estimated-word-timing"
+        ],
+        "acousticRetry": "not-needed",
+        "needsReview": true,
+        "correction": "preserved"
+      },
+      {
+        "id": "7f75766a-f38d-44a0-92bd-36d1395b7e9c",
+        "start": 35.961,
+        "end": 36.747,
+        "text": "వాళ్ళు అవన్నీ పక్కా",
+        "segment": {
+          "start": 35.176,
+          "end": 39.626
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0257,
+          "compressionRatio": 2.0725,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [
+          "estimated-word-timing"
+        ],
+        "acousticRetry": "not-needed",
+        "needsReview": true,
+        "correction": "preserved"
+      },
+      {
+        "id": "28fa21cc-f3c6-462c-98b7-739ae4e0b318",
+        "start": 36.747,
+        "end": 37.532,
+        "text": "పెట్టేసి నా హార్ట్",
+        "segment": {
+          "start": 35.176,
+          "end": 39.626
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0257,
+          "compressionRatio": 2.0725,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [
+          "estimated-word-timing"
+        ],
+        "acousticRetry": "not-needed",
+        "needsReview": true,
+        "correction": "preserved"
+      },
+      {
+        "id": "d471e755-02d1-447e-b1e2-d8be39d9ca67",
+        "start": 37.532,
+        "end": 38.317,
+        "text": "నేను ఫాలో అయ్యా",
+        "segment": {
+          "start": 35.176,
+          "end": 39.626
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0257,
+          "compressionRatio": 2.0725,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [
+          "estimated-word-timing"
+        ],
+        "acousticRetry": "not-needed",
+        "needsReview": true,
+        "correction": "preserved"
+      },
+      {
+        "id": "c1cc5499-3dfe-4270-80f2-2c8e07166e1d",
+        "start": 38.317,
+        "end": 39.102,
+        "text": "నా మైండ్ నేను",
+        "segment": {
+          "start": 35.176,
+          "end": 39.626
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0257,
+          "compressionRatio": 2.0725,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [
+          "estimated-word-timing"
+        ],
+        "acousticRetry": "not-needed",
+        "needsReview": true,
+        "correction": "preserved"
+      },
+      {
+        "id": "caab8037-bb36-4c78-8516-de33255ad2d0",
+        "start": 39.102,
+        "end": 39.626,
+        "text": "ఫాలో అయ్యా",
+        "segment": {
+          "start": 35.176,
+          "end": 39.626
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0257,
+          "compressionRatio": 2.0725,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [
+          "estimated-word-timing"
+        ],
+        "acousticRetry": "not-needed",
+        "needsReview": true,
+        "correction": "preserved"
+      },
+      {
+        "id": "85b48fde-eb20-4d3e-9ea7-de41b2abdd82",
+        "start": 39.632,
+        "end": 41.852,
+        "text": "సో అది ఎన్ని",
+        "words": [
+          {
+            "word": "సో",
+            "start": 39.632,
+            "end": 40.412,
+            "confidence": 0.843
+          },
+          {
+            "word": "అది",
+            "start": 40.412,
+            "end": 40.912,
+            "confidence": 0.992
+          },
+          {
+            "word": "ఎన్ని",
+            "start": 40.912,
+            "end": 41.852,
+            "confidence": 0.994
+          }
+        ],
+        "confidence": 0.943,
+        "segment": {
+          "start": 39.632,
+          "end": 46.442
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0326,
+          "compressionRatio": 2.2397,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "13497eae-944e-47ef-8140-452a62c405a2",
+        "start": 41.852,
+        "end": 42.952,
+        "text": "అడ్డంకులు వచ్చినా గాని",
+        "words": [
+          {
+            "word": "అడ్డంకులు",
+            "start": 41.852,
+            "end": 42.252,
+            "confidence": 0.989
+          },
+          {
+            "word": "వచ్చినా",
+            "start": 42.252,
+            "end": 42.472,
+            "confidence": 0.971
+          },
+          {
+            "word": "గాని",
+            "start": 42.472,
+            "end": 42.952,
+            "confidence": 0.913
+          }
+        ],
+        "confidence": 0.958,
+        "segment": {
+          "start": 39.632,
+          "end": 46.442
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0326,
+          "compressionRatio": 2.2397,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "d69addd4-61a3-48bf-8ee1-df14995dc778",
+        "start": 42.952,
+        "end": 43.852,
+        "text": "అది నేను వదల్లేదు",
+        "words": [
+          {
+            "word": "అది",
+            "start": 42.952,
+            "end": 43.252,
+            "confidence": 0.996
+          },
+          {
+            "word": "నేను",
+            "start": 43.252,
+            "end": 43.472,
+            "confidence": 0.999
+          },
+          {
+            "word": "వదల్లేదు",
+            "start": 43.472,
+            "end": 43.852,
+            "confidence": 0.916
+          }
+        ],
+        "confidence": 0.97,
+        "segment": {
+          "start": 39.632,
+          "end": 46.442
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0326,
+          "compressionRatio": 2.2397,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "6aeaeaa8-5364-4708-bdaa-ecfbdfbea961",
+        "start": 43.852,
+        "end": 45.312,
+        "text": "అన్నమాట చేసుకుంటే చేసుకుంటే",
+        "words": [
+          {
+            "word": "అన్నమాట",
+            "start": 43.852,
+            "end": 44.332,
+            "confidence": 0.966
+          },
+          {
+            "word": "చేసుకుంటే",
+            "start": 44.332,
+            "end": 44.912,
+            "confidence": 0.991
+          },
+          {
+            "word": "చేసుకుంటే",
+            "start": 44.912,
+            "end": 45.312,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.985,
+        "segment": {
+          "start": 39.632,
+          "end": 46.442
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0326,
+          "compressionRatio": 2.2397,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "e520f45c-f22b-4a33-befd-175f8279d935",
+        "start": 45.312,
+        "end": 46.192,
+        "text": "చేసుకుంటూ వచ్చాను",
+        "words": [
+          {
+            "word": "చేసుకుంటూ",
+            "start": 45.312,
+            "end": 45.772,
+            "confidence": 0.971
+          },
+          {
+            "word": "వచ్చాను",
+            "start": 45.772,
+            "end": 46.192,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.984,
+        "segment": {
+          "start": 39.632,
+          "end": 46.442
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0326,
+          "compressionRatio": 2.2397,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "c1030d0e-864a-4ad4-a07f-2973e02ceca3",
+        "start": 46.508,
+        "end": 47.268,
+        "text": "ఇక్కడ దాక అయితే",
+        "words": [
+          {
+            "word": "ఇక్కడ",
+            "start": 46.508,
+            "end": 46.908,
+            "confidence": 0.993
+          },
+          {
+            "word": "దాక",
+            "start": 46.908,
+            "end": 47.108,
+            "confidence": 0.933
+          },
+          {
+            "word": "అయితే",
+            "start": 47.108,
+            "end": 47.268,
+            "confidence": 0.919
+          }
+        ],
+        "confidence": 0.948,
+        "segment": {
+          "start": 46.508,
+          "end": 51.488
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0342,
+          "compressionRatio": 1.7069,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "e9acb06a-3d13-457f-a5ac-461f15cacb41",
+        "start": 47.268,
+        "end": 48.688,
+        "text": "వచ్చాను అనుకున్నది చాలా",
+        "words": [
+          {
+            "word": "వచ్చాను",
+            "start": 47.268,
+            "end": 47.728,
+            "confidence": 0.987
+          },
+          {
+            "word": "అనుకున్నది",
+            "start": 47.728,
+            "end": 48.408,
+            "confidence": 0.996
+          },
+          {
+            "word": "చాలా",
+            "start": 48.408,
+            "end": 48.688,
+            "confidence": 0.998
+          }
+        ],
+        "confidence": 0.994,
+        "segment": {
+          "start": 46.508,
+          "end": 51.488
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0342,
+          "compressionRatio": 1.7069,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "81877ca4-cfa2-4f29-8bbe-a91c6a77cfdb",
+        "start": 48.688,
+        "end": 50.308,
+        "text": "మంది చేయడానికి సిగ్గు",
+        "words": [
+          {
+            "word": "మంది",
+            "start": 48.688,
+            "end": 49.148,
+            "confidence": 0.948
+          },
+          {
+            "word": "చేయడానికి",
+            "start": 49.148,
+            "end": 50.048,
+            "confidence": 0.997
+          },
+          {
+            "word": "సిగ్గు",
+            "start": 50.048,
+            "end": 50.308,
+            "confidence": 1.0
+          }
+        ],
+        "confidence": 0.982,
+        "segment": {
+          "start": 46.508,
+          "end": 51.488
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0342,
+          "compressionRatio": 1.7069,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "041f9f46-fc4d-4575-ada9-bc6ca3b38b6b",
+        "start": 50.308,
+        "end": 51.488,
+        "text": "పడుతుంటారు",
+        "words": [
+          {
+            "word": "పడుతుంటారు",
+            "start": 50.308,
+            "end": 51.488,
+            "confidence": 0.985
+          }
+        ],
+        "confidence": 0.985,
+        "segment": {
+          "start": 46.508,
+          "end": 51.488
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0342,
+          "compressionRatio": 1.7069,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "13926a61-dd6d-495b-8c68-8366c9bec1fd",
+        "start": 51.488,
+        "end": 53.038,
+        "text": "భయపడుతుంటారు ఇవి రెండు",
+        "words": [
+          {
+            "word": "భయపడుతుంటారు",
+            "start": 51.488,
+            "end": 52.718,
+            "confidence": 0.997
+          },
+          {
+            "word": "ఇవి",
+            "start": 52.718,
+            "end": 52.918,
+            "confidence": 0.928
+          },
+          {
+            "word": "రెండు",
+            "start": 52.918,
+            "end": 53.038,
+            "confidence": 0.956
+          }
+        ],
+        "confidence": 0.96,
+        "segment": {
+          "start": 51.568,
+          "end": 55.458
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0313,
+          "compressionRatio": 1.57,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "5b35cb1d-91b0-4236-8620-6245211a7ded",
+        "start": 53.038,
+        "end": 54.978,
+        "text": "వదిలేయాలి మీరు అనుకున్నారు",
+        "words": [
+          {
+            "word": "వదిలేయాలి",
+            "start": 53.038,
+            "end": 53.978,
+            "confidence": 0.967
+          },
+          {
+            "word": "మీరు",
+            "start": 53.978,
+            "end": 54.358,
+            "confidence": 0.971
+          },
+          {
+            "word": "అనుకున్నారు",
+            "start": 54.358,
+            "end": 54.978,
+            "confidence": 0.98
+          }
+        ],
+        "confidence": 0.973,
+        "segment": {
+          "start": 51.568,
+          "end": 55.458
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0313,
+          "compressionRatio": 1.57,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "44950650-94a7-4a0d-b374-b7f89c1ff579",
+        "start": 54.978,
+        "end": 55.458,
+        "text": "లైఫ్ లో",
+        "words": [
+          {
+            "word": "లైఫ్",
+            "start": 54.978,
+            "end": 55.338,
+            "confidence": 0.985
+          },
+          {
+            "word": "లో",
+            "start": 55.338,
+            "end": 55.458,
+            "confidence": 0.937
+          }
+        ],
+        "confidence": 0.961,
+        "segment": {
+          "start": 51.568,
+          "end": 55.458
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0313,
+          "compressionRatio": 1.57,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "687ecbb3-cc03-425e-b4a0-b60d35ce3ca8",
+        "start": 55.856,
+        "end": 57.056,
+        "text": "ఎవరో ఏదో అనుకుంటారు",
+        "words": [
+          {
+            "word": "ఎవరో",
+            "start": 55.856,
+            "end": 56.476,
+            "confidence": 0.955
+          },
+          {
+            "word": "ఏదో",
+            "start": 56.476,
+            "end": 56.616,
+            "confidence": 0.936
+          },
+          {
+            "word": "అనుకుంటారు",
+            "start": 56.616,
+            "end": 57.056,
+            "confidence": 0.982
+          }
+        ],
+        "confidence": 0.958,
+        "segment": {
+          "start": 55.856,
+          "end": 60.676
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0204,
+          "compressionRatio": 1.8163,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "dc60f5ee-6074-468b-8000-7ad5d51c49e7",
+        "start": 57.056,
+        "end": 57.756,
+        "text": "అని చెప్పేసి అక్కడతో",
+        "words": [
+          {
+            "word": "అని",
+            "start": 57.056,
+            "end": 57.176,
+            "confidence": 0.999
+          },
+          {
+            "word": "చెప్పేసి",
+            "start": 57.176,
+            "end": 57.496,
+            "confidence": 0.998
+          },
+          {
+            "word": "అక్కడతో",
+            "start": 57.496,
+            "end": 57.756,
+            "confidence": 0.94
+          }
+        ],
+        "confidence": 0.979,
+        "segment": {
+          "start": 55.856,
+          "end": 60.676
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0204,
+          "compressionRatio": 1.8163,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "38a8dd73-d303-45ad-b043-66308f606349",
+        "start": 57.756,
+        "end": 59.656,
+        "text": "ఆగిపోకండి ట్రై చేయండి",
+        "words": [
+          {
+            "word": "ఆగిపోకండి",
+            "start": 57.756,
+            "end": 58.816,
+            "confidence": 0.994
+          },
+          {
+            "word": "ట్రై",
+            "start": 58.816,
+            "end": 59.076,
+            "confidence": 0.999
+          },
+          {
+            "word": "చేయండి",
+            "start": 59.076,
+            "end": 59.656,
+            "confidence": 0.998
+          }
+        ],
+        "confidence": 0.997,
+        "segment": {
+          "start": 55.856,
+          "end": 60.676
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0204,
+          "compressionRatio": 1.8163,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "46f10d04-8812-4505-bc49-c7f4863911a1",
+        "start": 59.656,
+        "end": 60.676,
+        "text": "మీరు ప్రయత్నించి ఓడిపోతే",
+        "words": [
+          {
+            "word": "మీరు",
+            "start": 59.656,
+            "end": 59.856,
+            "confidence": 0.998
+          },
+          {
+            "word": "ప్రయత్నించి",
+            "start": 59.856,
+            "end": 60.276,
+            "confidence": 0.997
+          },
+          {
+            "word": "ఓడిపోతే",
+            "start": 60.276,
+            "end": 60.676,
+            "confidence": 0.997
+          }
+        ],
+        "confidence": 0.997,
+        "segment": {
+          "start": 55.856,
+          "end": 60.676
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0204,
+          "compressionRatio": 1.8163,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "b6200bd1-f280-49a5-b51e-2644673bacad",
+        "start": 60.906,
+        "end": 62.346,
+        "text": "లేదు కానీ ప్రయత్నించకుండానే",
+        "words": [
+          {
+            "word": "లేదు",
+            "start": 60.906,
+            "end": 61.126,
+            "confidence": 0.941
+          },
+          {
+            "word": "కానీ",
+            "start": 61.126,
+            "end": 61.386,
+            "confidence": 0.97
+          },
+          {
+            "word": "ప్రయత్నించకుండానే",
+            "start": 61.386,
+            "end": 62.346,
+            "confidence": 0.99
+          }
+        ],
+        "confidence": 0.967,
+        "segment": {
+          "start": 60.906,
+          "end": 65.086
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.9366,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "218e42c3-e131-4648-a2f6-149c655b1251",
+        "start": 62.346,
+        "end": 63.426,
+        "text": "మీరు ఓటమిని ఒప్పుకున్నారు",
+        "words": [
+          {
+            "word": "మీరు",
+            "start": 62.346,
+            "end": 62.666,
+            "confidence": 0.996
+          },
+          {
+            "word": "ఓటమిని",
+            "start": 62.666,
+            "end": 62.986,
+            "confidence": 0.932
+          },
+          {
+            "word": "ఒప్పుకున్నారు",
+            "start": 62.986,
+            "end": 63.426,
+            "confidence": 0.974
+          }
+        ],
+        "confidence": 0.967,
+        "segment": {
+          "start": 60.906,
+          "end": 65.086
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.9366,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "8e6ad528-ed32-4bd0-bff1-1910a3a72677",
+        "start": 63.426,
+        "end": 64.486,
+        "text": "అనుకోండి అక్కడతో మీరు",
+        "words": [
+          {
+            "word": "అనుకోండి",
+            "start": 63.426,
+            "end": 63.886,
+            "confidence": 0.999
+          },
+          {
+            "word": "అక్కడతో",
+            "start": 63.886,
+            "end": 64.286,
+            "confidence": 0.94
+          },
+          {
+            "word": "మీరు",
+            "start": 64.286,
+            "end": 64.486,
+            "confidence": 0.979
+          }
+        ],
+        "confidence": 0.973,
+        "segment": {
+          "start": 60.906,
+          "end": 65.086
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.9366,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "2bc9aa04-d330-41de-957e-f031f287986b",
+        "start": 64.486,
+        "end": 65.086,
+        "text": "ఎండ్ అయిపోయినట్టే",
+        "words": [
+          {
+            "word": "ఎండ్",
+            "start": 64.486,
+            "end": 64.606,
+            "confidence": 0.922
+          },
+          {
+            "word": "అయిపోయినట్టే",
+            "start": 64.606,
+            "end": 65.086,
+            "confidence": 0.96
+          }
+        ],
+        "confidence": 0.941,
+        "segment": {
+          "start": 60.906,
+          "end": 65.086
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0364,
+          "compressionRatio": 1.9366,
+          "noSpeechProbability": 0.0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      }
+    ],
+    "speechEngine": "Telugu-trained Whisper medium",
+    "languageProbability": null,
+    "speechDevice": "cuda",
+    "recognitionStats": {
+      "decodedWindows": 19,
+      "acousticRetries": 0,
+      "recoverySplits": 5
+    },
+    "srt": "1\n00:00:00,140 --> 00:00:02,940\nనేను మాట్లాడడం యూట్యూబ్\n\n2\n00:00:02,940 --> 00:00:03,940\nఛానల్ కెమెరా ఫేస్\n\n3\n00:00:03,940 --> 00:00:05,760\nచేయడం మాట్లాడాలి అసలు\n\n4\n00:00:05,760 --> 00:00:08,000\nఆలోచన భయం కాదు\n\n5\n00:00:08,000 --> 00:00:08,920\nఫస్ట్ వీడియో చూస్తే\n\n6\n00:00:09,168 --> 00:00:10,408\nఅర్ధం అయిపోద్ది ఎలా\n\n7\n00:00:10,408 --> 00:00:11,808\nఉంటారో నేను మాట్లాడేటప్పుడు\n\n8\n00:00:11,808 --> 00:00:12,748\nఅంత భయం ఉండేది\n\n9\n00:00:12,748 --> 00:00:13,788\nనాకు చుట్టుపక్కల\n\n10\n00:00:13,788 --> 00:00:14,358\nనుంచి కూడా మనకి\n\n11\n00:00:14,358 --> 00:00:14,978\nఏం సపోర్ట్ అయితే\n\n12\n00:00:14,978 --> 00:00:15,898\nఉండదో అది టెక్\n\n13\n00:00:15,898 --> 00:00:17,158\nఛానల్ తెలుగులో స్టార్ట్\n\n14\n00:00:17,158 --> 00:00:18,078\nచేయడం అది కూడా\n\n15\n00:00:18,192 --> 00:00:20,092\nబైల్స్ అన్ బాక్సింగ్స్\n\n16\n00:00:20,092 --> 00:00:21,572\nఇవన్నీ అంటే అసలు\n\n17\n00:00:21,572 --> 00:00:22,572\nఏదో వింతగా చూసేవారు\n\n18\n00:00:22,882 --> 00:00:24,622\nజాంబిని చూసినట్టు నన్ను\n\n19\n00:00:24,622 --> 00:00:25,182\nకానీ నేను వాళ్ళు\n\n20\n00:00:25,182 --> 00:00:25,982\nఎవరి మాట వినలేదు\n\n21\n00:00:25,982 --> 00:00:27,022\nనా హార్ట్ ని\n\n22\n00:00:27,022 --> 00:00:27,182\nఫాలో\n\n23\n00:00:27,216 --> 00:00:29,856\nఎక్కడైతే మాత్రం చేయాలనిపించింది\n\n24\n00:00:29,856 --> 00:00:30,436\nచేద్దాం\n\n25\n00:00:30,596 --> 00:00:31,596\nఅందరు నవ్వుకునే వాళ్ళు\n\n26\n00:00:31,596 --> 00:00:32,916\nనేను అసిస్టెంట్ ప్రొఫెసర్\n\n27\n00:00:32,916 --> 00:00:33,716\nగా పని చేశాను\n\n28\n00:00:33,716 --> 00:00:34,336\nఅప్పుడు నా ఫస్ట్\n\n29\n00:00:34,336 --> 00:00:35,136\nవీడియోస్ అన్ని చూసుకొని\n\n30\n00:00:35,176 --> 00:00:35,961\nస్టూడెంట్స్ కూడా నవ్వుకునే\n\n31\n00:00:35,961 --> 00:00:36,747\nవాళ్ళు అవన్నీ పక్కా\n\n32\n00:00:36,747 --> 00:00:37,532\nపెట్టేసి నా హార్ట్\n\n33\n00:00:37,532 --> 00:00:38,317\nనేను ఫాలో అయ్యా\n\n34\n00:00:38,317 --> 00:00:39,102\nనా మైండ్ నేను\n\n35\n00:00:39,102 --> 00:00:39,626\nఫాలో అయ్యా\n\n36\n00:00:39,632 --> 00:00:41,852\nసో అది ఎన్ని\n\n37\n00:00:41,852 --> 00:00:42,952\nఅడ్డంకులు వచ్చినా గాని\n\n38\n00:00:42,952 --> 00:00:43,852\nఅది నేను వదల్లేదు\n\n39\n00:00:43,852 --> 00:00:45,312\nఅన్నమాట చేసుకుంటే చేసుకుంటే\n\n40\n00:00:45,312 --> 00:00:46,192\nచేసుకుంటూ వచ్చాను\n\n41\n00:00:46,508 --> 00:00:47,268\nఇక్కడ దాక అయితే\n\n42\n00:00:47,268 --> 00:00:48,688\nవచ్చాను అనుకున్నది చాలా\n\n43\n00:00:48,688 --> 00:00:50,308\nమంది చేయడానికి సిగ్గు\n\n44\n00:00:50,308 --> 00:00:51,488\nపడుతుంటారు\n\n45\n00:00:51,488 --> 00:00:53,038\nభయపడుతుంటారు ఇవి రెండు\n\n46\n00:00:53,038 --> 00:00:54,978\nవదిలేయాలి మీరు అనుకున్నారు\n\n47\n00:00:54,978 --> 00:00:55,458\nలైఫ్ లో\n\n48\n00:00:55,856 --> 00:00:57,056\nఎవరో ఏదో అనుకుంటారు\n\n49\n00:00:57,056 --> 00:00:57,756\nఅని చెప్పేసి అక్కడతో\n\n50\n00:00:57,756 --> 00:00:59,656\nఆగిపోకండి ట్రై చేయండి\n\n51\n00:00:59,656 --> 00:01:00,676\nమీరు ప్రయత్నించి ఓడిపోతే\n\n52\n00:01:00,906 --> 00:01:02,346\nలేదు కానీ ప్రయత్నించకుండానే\n\n53\n00:01:02,346 --> 00:01:03,426\nమీరు ఓటమిని ఒప్పుకున్నారు\n\n54\n00:01:03,426 --> 00:01:04,486\nఅనుకోండి అక్కడతో మీరు\n\n55\n00:01:04,486 --> 00:01:05,086\nఎండ్ అయిపోయినట్టే\n",
+    "versions": {
+      "Telugu": [
+        {
+          "id": "07bdd285-16eb-4268-8f05-e2938e9067ee",
+          "start": 0.14,
+          "end": 2.94,
+          "text": "నేను మాట్లాడడం యూట్యూబ్",
+          "words": [
+            {
+              "word": "నేను",
+              "start": 0.14,
+              "end": 1.52,
+              "confidence": 0.929
+            },
+            {
+              "word": "మాట్లాడడం",
+              "start": 1.52,
+              "end": 2.46,
+              "confidence": 0.928
+            },
+            {
+              "word": "యూట్యూబ్",
+              "start": 2.46,
+              "end": 2.94,
+              "confidence": 0.999
+            }
+          ],
+          "confidence": 0.952,
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "4f4bcfb3-507e-42ca-9e3c-884a656fb9eb",
+          "start": 2.94,
+          "end": 3.94,
+          "text": "ఛానల్ కెమెరా ఫేస్",
+          "words": [
+            {
+              "word": "ఛానల్",
+              "start": 2.94,
+              "end": 3.22,
+              "confidence": 0.993
+            },
+            {
+              "word": "కెమెరా",
+              "start": 3.22,
+              "end": 3.6,
+              "confidence": 0.984
+            },
+            {
+              "word": "ఫేస్",
+              "start": 3.6,
+              "end": 3.94,
+              "confidence": 0.917
+            }
+          ],
+          "confidence": 0.965,
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "6ce2fa12-4b89-4e4f-abb5-b48436997961",
+          "start": 3.94,
+          "end": 5.76,
+          "text": "చేయడం మాట్లాడాలి అసలు",
+          "words": [
+            {
+              "word": "చేయడం",
+              "start": 3.94,
+              "end": 4.16,
+              "confidence": 0.988
+            },
+            {
+              "word": "మాట్లాడాలి",
+              "start": 4.16,
+              "end": 5.08,
+              "confidence": 1.0
+            },
+            {
+              "word": "అసలు",
+              "start": 5.08,
+              "end": 5.76,
+              "confidence": 0.993
+            }
+          ],
+          "confidence": 0.994,
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "d235f9fb-e322-419a-afe3-975945975779",
+          "start": 5.76,
+          "end": 8.0,
+          "text": "ఆలోచన భయం కాదు",
+          "words": [
+            {
+              "word": "ఆలోచన",
+              "start": 5.76,
+              "end": 6.46,
+              "confidence": 0.988
+            },
+            {
+              "word": "భయం",
+              "start": 6.46,
+              "end": 7.54,
+              "confidence": 0.876
+            },
+            {
+              "word": "కాదు",
+              "start": 7.54,
+              "end": 8.0,
+              "confidence": 0.972
+            }
+          ],
+          "confidence": 0.945,
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "c7060b83-060d-4b04-a596-1afd11f2aa21",
+          "start": 8.0,
+          "end": 8.92,
+          "text": "ఫస్ట్ వీడియో చూస్తే",
+          "words": [
+            {
+              "word": "ఫస్ట్",
+              "start": 8.0,
+              "end": 8.34,
+              "confidence": 0.98
+            },
+            {
+              "word": "వీడియో",
+              "start": 8.34,
+              "end": 8.62,
+              "confidence": 1.0
+            },
+            {
+              "word": "చూస్తే",
+              "start": 8.62,
+              "end": 8.92,
+              "confidence": 0.986
+            }
+          ],
+          "confidence": 0.989,
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "17a113c4-9f23-481d-b6aa-34f18adac9d8",
+          "start": 9.168,
+          "end": 10.408,
+          "text": "అర్ధం అయిపోద్ది ఎలా",
+          "words": [
+            {
+              "word": "అర్ధం",
+              "start": 9.168,
+              "end": 9.348,
+              "confidence": 0.912
+            },
+            {
+              "word": "అయిపోద్ది",
+              "start": 9.348,
+              "end": 10.048,
+              "confidence": 0.965
+            },
+            {
+              "word": "ఎలా",
+              "start": 10.048,
+              "end": 10.408,
+              "confidence": 0.995
+            }
+          ],
+          "confidence": 0.957,
+          "segment": {
+            "start": 9.168,
+            "end": 13.768
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0274,
+            "compressionRatio": 1.8358,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "7e9bb99d-3241-47bf-88b1-d257ac00da3c",
+          "start": 10.408,
+          "end": 11.808,
+          "text": "ఉంటారో నేను మాట్లాడేటప్పుడు",
+          "words": [
+            {
+              "word": "ఉంటారో",
+              "start": 10.408,
+              "end": 10.768,
+              "confidence": 0.959
+            },
+            {
+              "word": "నేను",
+              "start": 10.768,
+              "end": 10.948,
+              "confidence": 0.996
+            },
+            {
+              "word": "మాట్లాడేటప్పుడు",
+              "start": 10.948,
+              "end": 11.808,
+              "confidence": 0.998
+            }
+          ],
+          "confidence": 0.984,
+          "segment": {
+            "start": 9.168,
+            "end": 13.768
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0274,
+            "compressionRatio": 1.8358,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "e2827fad-76b6-44cd-a85b-2538ac71715c",
+          "start": 11.808,
+          "end": 12.748,
+          "text": "అంత భయం ఉండేది",
+          "words": [
+            {
+              "word": "అంత",
+              "start": 11.808,
+              "end": 12.208,
+              "confidence": 0.966
+            },
+            {
+              "word": "భయం",
+              "start": 12.208,
+              "end": 12.508,
+              "confidence": 0.994
+            },
+            {
+              "word": "ఉండేది",
+              "start": 12.508,
+              "end": 12.748,
+              "confidence": 0.997
+            }
+          ],
+          "confidence": 0.986,
+          "segment": {
+            "start": 9.168,
+            "end": 13.768
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0274,
+            "compressionRatio": 1.8358,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "00880294-cdf0-42c1-a680-e38ac0945e34",
+          "start": 12.748,
+          "end": 13.788,
+          "text": "నాకు చుట్టుపక్కల",
+          "words": [
+            {
+              "word": "నాకు",
+              "start": 12.748,
+              "end": 13.308,
+              "confidence": 0.999
+            },
+            {
+              "word": "చుట్టుపక్కల",
+              "start": 13.308,
+              "end": 13.788,
+              "confidence": 0.965
+            }
+          ],
+          "confidence": 0.982,
+          "segment": {
+            "start": 9.168,
+            "end": 13.768
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0274,
+            "compressionRatio": 1.8358,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "8dcfc3fc-6958-4986-9e18-48cd6b1a7658",
+          "start": 13.788,
+          "end": 14.358,
+          "text": "నుంచి కూడా మనకి",
+          "words": [
+            {
+              "word": "నుంచి",
+              "start": 13.788,
+              "end": 13.978,
+              "confidence": 0.947
+            },
+            {
+              "word": "కూడా",
+              "start": 13.978,
+              "end": 14.038,
+              "confidence": 0.951
+            },
+            {
+              "word": "మనకి",
+              "start": 14.038,
+              "end": 14.358,
+              "confidence": 0.947
+            }
+          ],
+          "confidence": 0.948,
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "49ee2c49-4b92-4072-971e-0160ae5efdcc",
+          "start": 14.358,
+          "end": 14.978,
+          "text": "ఏం సపోర్ట్ అయితే",
+          "words": [
+            {
+              "word": "ఏం",
+              "start": 14.358,
+              "end": 14.438,
+              "confidence": 0.892
+            },
+            {
+              "word": "సపోర్ట్",
+              "start": 14.438,
+              "end": 14.758,
+              "confidence": 0.995
+            },
+            {
+              "word": "అయితే",
+              "start": 14.758,
+              "end": 14.978,
+              "confidence": 0.968
+            }
+          ],
+          "confidence": 0.952,
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "76a13750-51d8-47bd-bf7c-fb0916f97b80",
+          "start": 14.978,
+          "end": 15.898,
+          "text": "ఉండదో అది టెక్",
+          "words": [
+            {
+              "word": "ఉండదో",
+              "start": 14.978,
+              "end": 15.378,
+              "confidence": 0.99
+            },
+            {
+              "word": "అది",
+              "start": 15.378,
+              "end": 15.678,
+              "confidence": 0.984
+            },
+            {
+              "word": "టెక్",
+              "start": 15.678,
+              "end": 15.898,
+              "confidence": 0.997
+            }
+          ],
+          "confidence": 0.99,
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "681c11c3-5ac7-45f9-baaa-3998908d8647",
+          "start": 15.898,
+          "end": 17.158,
+          "text": "ఛానల్ తెలుగులో స్టార్ట్",
+          "words": [
+            {
+              "word": "ఛానల్",
+              "start": 15.898,
+              "end": 16.438,
+              "confidence": 0.956
+            },
+            {
+              "word": "తెలుగులో",
+              "start": 16.438,
+              "end": 16.858,
+              "confidence": 0.982
+            },
+            {
+              "word": "స్టార్ట్",
+              "start": 16.858,
+              "end": 17.158,
+              "confidence": 0.999
+            }
+          ],
+          "confidence": 0.979,
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "cf54c130-d4c5-45d6-8192-e0d92e2b74b7",
+          "start": 17.158,
+          "end": 18.078,
+          "text": "చేయడం అది కూడా",
+          "words": [
+            {
+              "word": "చేయడం",
+              "start": 17.158,
+              "end": 17.678,
+              "confidence": 0.992
+            },
+            {
+              "word": "అది",
+              "start": 17.678,
+              "end": 17.938,
+              "confidence": 0.995
+            },
+            {
+              "word": "కూడా",
+              "start": 17.938,
+              "end": 18.078,
+              "confidence": 0.995
+            }
+          ],
+          "confidence": 0.994,
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "685e5192-8f81-4f8b-9a66-7065667213d0",
+          "start": 18.192,
+          "end": 20.092,
+          "text": "బైల్స్ అన్ బాక్సింగ్స్",
+          "words": [
+            {
+              "word": "బైల్స్",
+              "start": 18.192,
+              "end": 18.952,
+              "confidence": 0.844
+            },
+            {
+              "word": "అన్",
+              "start": 18.952,
+              "end": 19.192,
+              "confidence": 0.974
+            },
+            {
+              "word": "బాక్సింగ్స్",
+              "start": 19.192,
+              "end": 20.092,
+              "confidence": 0.951
+            }
+          ],
+          "confidence": 0.923,
+          "segment": {
+            "start": 18.192,
+            "end": 22.572
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0603,
+            "compressionRatio": 1.6486,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "c222e0bf-06bb-4c20-8674-bd1da9730d43",
+          "start": 20.092,
+          "end": 21.572,
+          "text": "ఇవన్నీ అంటే అసలు",
+          "words": [
+            {
+              "word": "ఇవన్నీ",
+              "start": 20.092,
+              "end": 20.572,
+              "confidence": 0.971
+            },
+            {
+              "word": "అంటే",
+              "start": 20.572,
+              "end": 20.972,
+              "confidence": 0.999
+            },
+            {
+              "word": "అసలు",
+              "start": 20.972,
+              "end": 21.572,
+              "confidence": 0.997
+            }
+          ],
+          "confidence": 0.989,
+          "segment": {
+            "start": 18.192,
+            "end": 22.572
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0603,
+            "compressionRatio": 1.6486,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "5f110b14-3dda-41ff-95c6-994811787863",
+          "start": 21.572,
+          "end": 22.572,
+          "text": "ఏదో వింతగా చూసేవారు",
+          "words": [
+            {
+              "word": "ఏదో",
+              "start": 21.572,
+              "end": 21.872,
+              "confidence": 0.974
+            },
+            {
+              "word": "వింతగా",
+              "start": 21.872,
+              "end": 22.232,
+              "confidence": 0.983
+            },
+            {
+              "word": "చూసేవారు",
+              "start": 22.232,
+              "end": 22.572,
+              "confidence": 0.927
+            }
+          ],
+          "confidence": 0.961,
+          "segment": {
+            "start": 18.192,
+            "end": 22.572
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0603,
+            "compressionRatio": 1.6486,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "fd2d89f5-aebf-479b-b88a-f194b8f84197",
+          "start": 22.882,
+          "end": 24.622,
+          "text": "జాంబిని చూసినట్టు నన్ను",
+          "words": [
+            {
+              "word": "జాంబిని",
+              "start": 22.882,
+              "end": 23.942,
+              "confidence": 0.869
+            },
+            {
+              "word": "చూసినట్టు",
+              "start": 23.942,
+              "end": 24.322,
+              "confidence": 0.972
+            },
+            {
+              "word": "నన్ను",
+              "start": 24.322,
+              "end": 24.622,
+              "confidence": 0.987
+            }
+          ],
+          "confidence": 0.943,
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "0c7562e2-ac2e-4b53-9bf7-785695104726",
+          "start": 24.622,
+          "end": 25.182,
+          "text": "కానీ నేను వాళ్ళు",
+          "words": [
+            {
+              "word": "కానీ",
+              "start": 24.622,
+              "end": 24.902,
+              "confidence": 0.97
+            },
+            {
+              "word": "నేను",
+              "start": 24.902,
+              "end": 25.022,
+              "confidence": 0.99
+            },
+            {
+              "word": "వాళ్ళు",
+              "start": 25.022,
+              "end": 25.182,
+              "confidence": 0.962
+            }
+          ],
+          "confidence": 0.974,
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "76f13a91-12f7-4458-95fc-91778bd50aba",
+          "start": 25.182,
+          "end": 25.982,
+          "text": "ఎవరి మాట వినలేదు",
+          "words": [
+            {
+              "word": "ఎవరి",
+              "start": 25.182,
+              "end": 25.442,
+              "confidence": 0.963
+            },
+            {
+              "word": "మాట",
+              "start": 25.442,
+              "end": 25.622,
+              "confidence": 0.997
+            },
+            {
+              "word": "వినలేదు",
+              "start": 25.622,
+              "end": 25.982,
+              "confidence": 0.994
+            }
+          ],
+          "confidence": 0.985,
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "81426bdb-3a32-4bb0-910e-f3a7fa07ce09",
+          "start": 25.982,
+          "end": 27.022,
+          "text": "నా హార్ట్ ని",
+          "words": [
+            {
+              "word": "నా",
+              "start": 25.982,
+              "end": 26.622,
+              "confidence": 0.994
+            },
+            {
+              "word": "హార్ట్",
+              "start": 26.622,
+              "end": 26.922,
+              "confidence": 0.997
+            },
+            {
+              "word": "ని",
+              "start": 26.922,
+              "end": 27.022,
+              "confidence": 0.962
+            }
+          ],
+          "confidence": 0.984,
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "5a761669-5011-4ecd-ad75-52f8f7c41502",
+          "start": 27.022,
+          "end": 27.182,
+          "text": "ఫాలో",
+          "words": [
+            {
+              "word": "ఫాలో",
+              "start": 27.022,
+              "end": 27.182,
+              "confidence": 0.968
+            }
+          ],
+          "confidence": 0.968,
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "e6f2e410-391b-4805-ad29-219c12dcc7a1",
+          "start": 27.216,
+          "end": 29.856,
+          "text": "ఎక్కడైతే మాత్రం చేయాలనిపించింది",
+          "words": [
+            {
+              "word": "ఎక్కడైతే",
+              "start": 27.216,
+              "end": 27.936,
+              "confidence": 0.94
+            },
+            {
+              "word": "మాత్రం",
+              "start": 27.936,
+              "end": 28.816,
+              "confidence": 1.0
+            },
+            {
+              "word": "చేయాలనిపించింది",
+              "start": 28.816,
+              "end": 29.856,
+              "confidence": 0.979
+            }
+          ],
+          "confidence": 0.973,
+          "segment": {
+            "start": 27.216,
+            "end": 30.496
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0291,
+            "compressionRatio": 1.3537,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "5c23a76f-d575-473b-a27b-e5b5211062ff",
+          "start": 29.856,
+          "end": 30.436,
+          "text": "చేద్దాం",
+          "words": [
+            {
+              "word": "చేద్దాం",
+              "start": 29.856,
+              "end": 30.436,
+              "confidence": 0.998
+            }
+          ],
+          "confidence": 0.998,
+          "segment": {
+            "start": 27.216,
+            "end": 30.496
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0291,
+            "compressionRatio": 1.3537,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "a0a093f2-7969-4abf-8330-7b3716a43851",
+          "start": 30.596,
+          "end": 31.596,
+          "text": "అందరు నవ్వుకునే వాళ్ళు",
+          "words": [
+            {
+              "word": "అందరు",
+              "start": 30.596,
+              "end": 30.916,
+              "confidence": 0.935
+            },
+            {
+              "word": "నవ్వుకునే",
+              "start": 30.916,
+              "end": 31.316,
+              "confidence": 0.98
+            },
+            {
+              "word": "వాళ్ళు",
+              "start": 31.316,
+              "end": 31.596,
+              "confidence": 0.945
+            }
+          ],
+          "confidence": 0.953,
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "ec696937-06f0-465f-8f66-47ffd1f477a6",
+          "start": 31.596,
+          "end": 32.916,
+          "text": "నేను అసిస్టెంట్ ప్రొఫెసర్",
+          "words": [
+            {
+              "word": "నేను",
+              "start": 31.596,
+              "end": 32.196,
+              "confidence": 0.974
+            },
+            {
+              "word": "అసిస్టెంట్",
+              "start": 32.196,
+              "end": 32.616,
+              "confidence": 0.982
+            },
+            {
+              "word": "ప్రొఫెసర్",
+              "start": 32.616,
+              "end": 32.916,
+              "confidence": 0.98
+            }
+          ],
+          "confidence": 0.979,
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "77bfac8e-b403-4929-aa13-cae826e97960",
+          "start": 32.916,
+          "end": 33.716,
+          "text": "గా పని చేశాను",
+          "words": [
+            {
+              "word": "గా",
+              "start": 32.916,
+              "end": 33.056,
+              "confidence": 0.976
+            },
+            {
+              "word": "పని",
+              "start": 33.056,
+              "end": 33.296,
+              "confidence": 0.999
+            },
+            {
+              "word": "చేశాను",
+              "start": 33.296,
+              "end": 33.716,
+              "confidence": 0.911
+            }
+          ],
+          "confidence": 0.962,
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "3eafa8a2-6a2c-403a-bfdb-a609fadc8cd0",
+          "start": 33.716,
+          "end": 34.336,
+          "text": "అప్పుడు నా ఫస్ట్",
+          "words": [
+            {
+              "word": "అప్పుడు",
+              "start": 33.716,
+              "end": 33.916,
+              "confidence": 0.967
+            },
+            {
+              "word": "నా",
+              "start": 33.916,
+              "end": 34.016,
+              "confidence": 0.973
+            },
+            {
+              "word": "ఫస్ట్",
+              "start": 34.016,
+              "end": 34.336,
+              "confidence": 0.996
+            }
+          ],
+          "confidence": 0.979,
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "c3757127-e47b-47fd-a29e-9f1223d5dc97",
+          "start": 34.336,
+          "end": 35.136,
+          "text": "వీడియోస్ అన్ని చూసుకొని",
+          "words": [
+            {
+              "word": "వీడియోస్",
+              "start": 34.336,
+              "end": 34.716,
+              "confidence": 0.968
+            },
+            {
+              "word": "అన్ని",
+              "start": 34.716,
+              "end": 34.836,
+              "confidence": 0.94
+            },
+            {
+              "word": "చూసుకొని",
+              "start": 34.836,
+              "end": 35.136,
+              "confidence": 0.958
+            }
+          ],
+          "confidence": 0.955,
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "25740b69-131d-4545-9a7e-4d2b16e04788",
+          "start": 35.176,
+          "end": 35.961,
+          "text": "స్టూడెంట్స్ కూడా నవ్వుకునే",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed",
+          "needsReview": true,
+          "correction": "preserved"
+        },
+        {
+          "id": "7f75766a-f38d-44a0-92bd-36d1395b7e9c",
+          "start": 35.961,
+          "end": 36.747,
+          "text": "వాళ్ళు అవన్నీ పక్కా",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed",
+          "needsReview": true,
+          "correction": "preserved"
+        },
+        {
+          "id": "28fa21cc-f3c6-462c-98b7-739ae4e0b318",
+          "start": 36.747,
+          "end": 37.532,
+          "text": "పెట్టేసి నా హార్ట్",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed",
+          "needsReview": true,
+          "correction": "preserved"
+        },
+        {
+          "id": "d471e755-02d1-447e-b1e2-d8be39d9ca67",
+          "start": 37.532,
+          "end": 38.317,
+          "text": "నేను ఫాలో అయ్యా",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed",
+          "needsReview": true,
+          "correction": "preserved"
+        },
+        {
+          "id": "c1cc5499-3dfe-4270-80f2-2c8e07166e1d",
+          "start": 38.317,
+          "end": 39.102,
+          "text": "నా మైండ్ నేను",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed",
+          "needsReview": true,
+          "correction": "preserved"
+        },
+        {
+          "id": "caab8037-bb36-4c78-8516-de33255ad2d0",
+          "start": 39.102,
+          "end": 39.626,
+          "text": "ఫాలో అయ్యా",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed",
+          "needsReview": true,
+          "correction": "preserved"
+        },
+        {
+          "id": "85b48fde-eb20-4d3e-9ea7-de41b2abdd82",
+          "start": 39.632,
+          "end": 41.852,
+          "text": "సో అది ఎన్ని",
+          "words": [
+            {
+              "word": "సో",
+              "start": 39.632,
+              "end": 40.412,
+              "confidence": 0.843
+            },
+            {
+              "word": "అది",
+              "start": 40.412,
+              "end": 40.912,
+              "confidence": 0.992
+            },
+            {
+              "word": "ఎన్ని",
+              "start": 40.912,
+              "end": 41.852,
+              "confidence": 0.994
+            }
+          ],
+          "confidence": 0.943,
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "13497eae-944e-47ef-8140-452a62c405a2",
+          "start": 41.852,
+          "end": 42.952,
+          "text": "అడ్డంకులు వచ్చినా గాని",
+          "words": [
+            {
+              "word": "అడ్డంకులు",
+              "start": 41.852,
+              "end": 42.252,
+              "confidence": 0.989
+            },
+            {
+              "word": "వచ్చినా",
+              "start": 42.252,
+              "end": 42.472,
+              "confidence": 0.971
+            },
+            {
+              "word": "గాని",
+              "start": 42.472,
+              "end": 42.952,
+              "confidence": 0.913
+            }
+          ],
+          "confidence": 0.958,
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "d69addd4-61a3-48bf-8ee1-df14995dc778",
+          "start": 42.952,
+          "end": 43.852,
+          "text": "అది నేను వదల్లేదు",
+          "words": [
+            {
+              "word": "అది",
+              "start": 42.952,
+              "end": 43.252,
+              "confidence": 0.996
+            },
+            {
+              "word": "నేను",
+              "start": 43.252,
+              "end": 43.472,
+              "confidence": 0.999
+            },
+            {
+              "word": "వదల్లేదు",
+              "start": 43.472,
+              "end": 43.852,
+              "confidence": 0.916
+            }
+          ],
+          "confidence": 0.97,
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "6aeaeaa8-5364-4708-bdaa-ecfbdfbea961",
+          "start": 43.852,
+          "end": 45.312,
+          "text": "అన్నమాట చేసుకుంటే చేసుకుంటే",
+          "words": [
+            {
+              "word": "అన్నమాట",
+              "start": 43.852,
+              "end": 44.332,
+              "confidence": 0.966
+            },
+            {
+              "word": "చేసుకుంటే",
+              "start": 44.332,
+              "end": 44.912,
+              "confidence": 0.991
+            },
+            {
+              "word": "చేసుకుంటే",
+              "start": 44.912,
+              "end": 45.312,
+              "confidence": 0.997
+            }
+          ],
+          "confidence": 0.985,
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "e520f45c-f22b-4a33-befd-175f8279d935",
+          "start": 45.312,
+          "end": 46.192,
+          "text": "చేసుకుంటూ వచ్చాను",
+          "words": [
+            {
+              "word": "చేసుకుంటూ",
+              "start": 45.312,
+              "end": 45.772,
+              "confidence": 0.971
+            },
+            {
+              "word": "వచ్చాను",
+              "start": 45.772,
+              "end": 46.192,
+              "confidence": 0.997
+            }
+          ],
+          "confidence": 0.984,
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "c1030d0e-864a-4ad4-a07f-2973e02ceca3",
+          "start": 46.508,
+          "end": 47.268,
+          "text": "ఇక్కడ దాక అయితే",
+          "words": [
+            {
+              "word": "ఇక్కడ",
+              "start": 46.508,
+              "end": 46.908,
+              "confidence": 0.993
+            },
+            {
+              "word": "దాక",
+              "start": 46.908,
+              "end": 47.108,
+              "confidence": 0.933
+            },
+            {
+              "word": "అయితే",
+              "start": 47.108,
+              "end": 47.268,
+              "confidence": 0.919
+            }
+          ],
+          "confidence": 0.948,
+          "segment": {
+            "start": 46.508,
+            "end": 51.488
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0342,
+            "compressionRatio": 1.7069,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "e9acb06a-3d13-457f-a5ac-461f15cacb41",
+          "start": 47.268,
+          "end": 48.688,
+          "text": "వచ్చాను అనుకున్నది చాలా",
+          "words": [
+            {
+              "word": "వచ్చాను",
+              "start": 47.268,
+              "end": 47.728,
+              "confidence": 0.987
+            },
+            {
+              "word": "అనుకున్నది",
+              "start": 47.728,
+              "end": 48.408,
+              "confidence": 0.996
+            },
+            {
+              "word": "చాలా",
+              "start": 48.408,
+              "end": 48.688,
+              "confidence": 0.998
+            }
+          ],
+          "confidence": 0.994,
+          "segment": {
+            "start": 46.508,
+            "end": 51.488
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0342,
+            "compressionRatio": 1.7069,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "81877ca4-cfa2-4f29-8bbe-a91c6a77cfdb",
+          "start": 48.688,
+          "end": 50.308,
+          "text": "మంది చేయడానికి సిగ్గు",
+          "words": [
+            {
+              "word": "మంది",
+              "start": 48.688,
+              "end": 49.148,
+              "confidence": 0.948
+            },
+            {
+              "word": "చేయడానికి",
+              "start": 49.148,
+              "end": 50.048,
+              "confidence": 0.997
+            },
+            {
+              "word": "సిగ్గు",
+              "start": 50.048,
+              "end": 50.308,
+              "confidence": 1.0
+            }
+          ],
+          "confidence": 0.982,
+          "segment": {
+            "start": 46.508,
+            "end": 51.488
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0342,
+            "compressionRatio": 1.7069,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "041f9f46-fc4d-4575-ada9-bc6ca3b38b6b",
+          "start": 50.308,
+          "end": 51.488,
+          "text": "పడుతుంటారు",
+          "words": [
+            {
+              "word": "పడుతుంటారు",
+              "start": 50.308,
+              "end": 51.488,
+              "confidence": 0.985
+            }
+          ],
+          "confidence": 0.985,
+          "segment": {
+            "start": 46.508,
+            "end": 51.488
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0342,
+            "compressionRatio": 1.7069,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "13926a61-dd6d-495b-8c68-8366c9bec1fd",
+          "start": 51.488,
+          "end": 53.038,
+          "text": "భయపడుతుంటారు ఇవి రెండు",
+          "words": [
+            {
+              "word": "భయపడుతుంటారు",
+              "start": 51.488,
+              "end": 52.718,
+              "confidence": 0.997
+            },
+            {
+              "word": "ఇవి",
+              "start": 52.718,
+              "end": 52.918,
+              "confidence": 0.928
+            },
+            {
+              "word": "రెండు",
+              "start": 52.918,
+              "end": 53.038,
+              "confidence": 0.956
+            }
+          ],
+          "confidence": 0.96,
+          "segment": {
+            "start": 51.568,
+            "end": 55.458
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0313,
+            "compressionRatio": 1.57,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "5b35cb1d-91b0-4236-8620-6245211a7ded",
+          "start": 53.038,
+          "end": 54.978,
+          "text": "వదిలేయాలి మీరు అనుకున్నారు",
+          "words": [
+            {
+              "word": "వదిలేయాలి",
+              "start": 53.038,
+              "end": 53.978,
+              "confidence": 0.967
+            },
+            {
+              "word": "మీరు",
+              "start": 53.978,
+              "end": 54.358,
+              "confidence": 0.971
+            },
+            {
+              "word": "అనుకున్నారు",
+              "start": 54.358,
+              "end": 54.978,
+              "confidence": 0.98
+            }
+          ],
+          "confidence": 0.973,
+          "segment": {
+            "start": 51.568,
+            "end": 55.458
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0313,
+            "compressionRatio": 1.57,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "44950650-94a7-4a0d-b374-b7f89c1ff579",
+          "start": 54.978,
+          "end": 55.458,
+          "text": "లైఫ్ లో",
+          "words": [
+            {
+              "word": "లైఫ్",
+              "start": 54.978,
+              "end": 55.338,
+              "confidence": 0.985
+            },
+            {
+              "word": "లో",
+              "start": 55.338,
+              "end": 55.458,
+              "confidence": 0.937
+            }
+          ],
+          "confidence": 0.961,
+          "segment": {
+            "start": 51.568,
+            "end": 55.458
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0313,
+            "compressionRatio": 1.57,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "687ecbb3-cc03-425e-b4a0-b60d35ce3ca8",
+          "start": 55.856,
+          "end": 57.056,
+          "text": "ఎవరో ఏదో అనుకుంటారు",
+          "words": [
+            {
+              "word": "ఎవరో",
+              "start": 55.856,
+              "end": 56.476,
+              "confidence": 0.955
+            },
+            {
+              "word": "ఏదో",
+              "start": 56.476,
+              "end": 56.616,
+              "confidence": 0.936
+            },
+            {
+              "word": "అనుకుంటారు",
+              "start": 56.616,
+              "end": 57.056,
+              "confidence": 0.982
+            }
+          ],
+          "confidence": 0.958,
+          "segment": {
+            "start": 55.856,
+            "end": 60.676
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0204,
+            "compressionRatio": 1.8163,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "dc60f5ee-6074-468b-8000-7ad5d51c49e7",
+          "start": 57.056,
+          "end": 57.756,
+          "text": "అని చెప్పేసి అక్కడతో",
+          "words": [
+            {
+              "word": "అని",
+              "start": 57.056,
+              "end": 57.176,
+              "confidence": 0.999
+            },
+            {
+              "word": "చెప్పేసి",
+              "start": 57.176,
+              "end": 57.496,
+              "confidence": 0.998
+            },
+            {
+              "word": "అక్కడతో",
+              "start": 57.496,
+              "end": 57.756,
+              "confidence": 0.94
+            }
+          ],
+          "confidence": 0.979,
+          "segment": {
+            "start": 55.856,
+            "end": 60.676
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0204,
+            "compressionRatio": 1.8163,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "38a8dd73-d303-45ad-b043-66308f606349",
+          "start": 57.756,
+          "end": 59.656,
+          "text": "ఆగిపోకండి ట్రై చేయండి",
+          "words": [
+            {
+              "word": "ఆగిపోకండి",
+              "start": 57.756,
+              "end": 58.816,
+              "confidence": 0.994
+            },
+            {
+              "word": "ట్రై",
+              "start": 58.816,
+              "end": 59.076,
+              "confidence": 0.999
+            },
+            {
+              "word": "చేయండి",
+              "start": 59.076,
+              "end": 59.656,
+              "confidence": 0.998
+            }
+          ],
+          "confidence": 0.997,
+          "segment": {
+            "start": 55.856,
+            "end": 60.676
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0204,
+            "compressionRatio": 1.8163,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "46f10d04-8812-4505-bc49-c7f4863911a1",
+          "start": 59.656,
+          "end": 60.676,
+          "text": "మీరు ప్రయత్నించి ఓడిపోతే",
+          "words": [
+            {
+              "word": "మీరు",
+              "start": 59.656,
+              "end": 59.856,
+              "confidence": 0.998
+            },
+            {
+              "word": "ప్రయత్నించి",
+              "start": 59.856,
+              "end": 60.276,
+              "confidence": 0.997
+            },
+            {
+              "word": "ఓడిపోతే",
+              "start": 60.276,
+              "end": 60.676,
+              "confidence": 0.997
+            }
+          ],
+          "confidence": 0.997,
+          "segment": {
+            "start": 55.856,
+            "end": 60.676
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0204,
+            "compressionRatio": 1.8163,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "b6200bd1-f280-49a5-b51e-2644673bacad",
+          "start": 60.906,
+          "end": 62.346,
+          "text": "లేదు కానీ ప్రయత్నించకుండానే",
+          "words": [
+            {
+              "word": "లేదు",
+              "start": 60.906,
+              "end": 61.126,
+              "confidence": 0.941
+            },
+            {
+              "word": "కానీ",
+              "start": 61.126,
+              "end": 61.386,
+              "confidence": 0.97
+            },
+            {
+              "word": "ప్రయత్నించకుండానే",
+              "start": 61.386,
+              "end": 62.346,
+              "confidence": 0.99
+            }
+          ],
+          "confidence": 0.967,
+          "segment": {
+            "start": 60.906,
+            "end": 65.086
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.9366,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "218e42c3-e131-4648-a2f6-149c655b1251",
+          "start": 62.346,
+          "end": 63.426,
+          "text": "మీరు ఓటమిని ఒప్పుకున్నారు",
+          "words": [
+            {
+              "word": "మీరు",
+              "start": 62.346,
+              "end": 62.666,
+              "confidence": 0.996
+            },
+            {
+              "word": "ఓటమిని",
+              "start": 62.666,
+              "end": 62.986,
+              "confidence": 0.932
+            },
+            {
+              "word": "ఒప్పుకున్నారు",
+              "start": 62.986,
+              "end": 63.426,
+              "confidence": 0.974
+            }
+          ],
+          "confidence": 0.967,
+          "segment": {
+            "start": 60.906,
+            "end": 65.086
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.9366,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "8e6ad528-ed32-4bd0-bff1-1910a3a72677",
+          "start": 63.426,
+          "end": 64.486,
+          "text": "అనుకోండి అక్కడతో మీరు",
+          "words": [
+            {
+              "word": "అనుకోండి",
+              "start": 63.426,
+              "end": 63.886,
+              "confidence": 0.999
+            },
+            {
+              "word": "అక్కడతో",
+              "start": 63.886,
+              "end": 64.286,
+              "confidence": 0.94
+            },
+            {
+              "word": "మీరు",
+              "start": 64.286,
+              "end": 64.486,
+              "confidence": 0.979
+            }
+          ],
+          "confidence": 0.973,
+          "segment": {
+            "start": 60.906,
+            "end": 65.086
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.9366,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "2bc9aa04-d330-41de-957e-f031f287986b",
+          "start": 64.486,
+          "end": 65.086,
+          "text": "ఎండ్ అయిపోయినట్టే",
+          "words": [
+            {
+              "word": "ఎండ్",
+              "start": 64.486,
+              "end": 64.606,
+              "confidence": 0.922
+            },
+            {
+              "word": "అయిపోయినట్టే",
+              "start": 64.606,
+              "end": 65.086,
+              "confidence": 0.96
+            }
+          ],
+          "confidence": 0.941,
+          "segment": {
+            "start": 60.906,
+            "end": 65.086
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.9366,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed",
+          "needsReview": false,
+          "correction": "preserved"
+        }
+      ],
+      "Tenglish": [
+        {
+          "id": "07bdd285-16eb-4268-8f05-e2938e9067ee",
+          "start": 0.14,
+          "end": 2.94,
+          "text": "Nenu maatlaadadam YouTube",
+          "words": [
+            {
+              "word": "Nenu",
+              "start": 0.14,
+              "end": 1.52
+            },
+            {
+              "word": "maatlaadadam",
+              "start": 1.52,
+              "end": 2.46
+            },
+            {
+              "word": "YouTube",
+              "start": 2.46,
+              "end": 2.94
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.952,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "4f4bcfb3-507e-42ca-9e3c-884a656fb9eb",
+          "start": 2.94,
+          "end": 3.94,
+          "text": "Chhaanal kemeraa phes",
+          "words": [
+            {
+              "word": "Chhaanal",
+              "start": 2.94,
+              "end": 3.22
+            },
+            {
+              "word": "kemeraa",
+              "start": 3.22,
+              "end": 3.6
+            },
+            {
+              "word": "phes",
+              "start": 3.6,
+              "end": 3.94
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.965,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "6ce2fa12-4b89-4e4f-abb5-b48436997961",
+          "start": 3.94,
+          "end": 5.76,
+          "text": "Cheyadam maatlaadaali asalu",
+          "words": [
+            {
+              "word": "Cheyadam",
+              "start": 3.94,
+              "end": 4.16
+            },
+            {
+              "word": "maatlaadaali",
+              "start": 4.16,
+              "end": 5.08
+            },
+            {
+              "word": "asalu",
+              "start": 5.08,
+              "end": 5.76
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.994,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "d235f9fb-e322-419a-afe3-975945975779",
+          "start": 5.76,
+          "end": 8.0,
+          "text": "Aalochana bhayam kaadu",
+          "words": [
+            {
+              "word": "Aalochana",
+              "start": 5.76,
+              "end": 6.46
+            },
+            {
+              "word": "bhayam",
+              "start": 6.46,
+              "end": 7.54
+            },
+            {
+              "word": "kaadu",
+              "start": 7.54,
+              "end": 8.0
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.945,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "c7060b83-060d-4b04-a596-1afd11f2aa21",
+          "start": 8.0,
+          "end": 8.92,
+          "text": "Phast video choosthe",
+          "words": [
+            {
+              "word": "Phast",
+              "start": 8.0,
+              "end": 8.34
+            },
+            {
+              "word": "video",
+              "start": 8.34,
+              "end": 8.62
+            },
+            {
+              "word": "choosthe",
+              "start": 8.62,
+              "end": 8.92
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.989,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 0.14,
+            "end": 9.16
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0413,
+            "compressionRatio": 1.8865,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "17a113c4-9f23-481d-b6aa-34f18adac9d8",
+          "start": 9.168,
+          "end": 10.408,
+          "text": "Ardham ayipoddi ela",
+          "words": [
+            {
+              "word": "Ardham",
+              "start": 9.168,
+              "end": 9.348
+            },
+            {
+              "word": "ayipoddi",
+              "start": 9.348,
+              "end": 10.048
+            },
+            {
+              "word": "ela",
+              "start": 10.048,
+              "end": 10.408
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.957,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 9.168,
+            "end": 13.768
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0274,
+            "compressionRatio": 1.8358,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "7e9bb99d-3241-47bf-88b1-d257ac00da3c",
+          "start": 10.408,
+          "end": 11.808,
+          "text": "Unthaaro nenu maatlaadethappudu",
+          "words": [
+            {
+              "word": "Unthaaro",
+              "start": 10.408,
+              "end": 10.768
+            },
+            {
+              "word": "nenu",
+              "start": 10.768,
+              "end": 10.948
+            },
+            {
+              "word": "maatlaadethappudu",
+              "start": 10.948,
+              "end": 11.808
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.984,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 9.168,
+            "end": 13.768
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0274,
+            "compressionRatio": 1.8358,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "e2827fad-76b6-44cd-a85b-2538ac71715c",
+          "start": 11.808,
+          "end": 12.748,
+          "text": "Antha bhayam undedi",
+          "words": [
+            {
+              "word": "Antha",
+              "start": 11.808,
+              "end": 12.208
+            },
+            {
+              "word": "bhayam",
+              "start": 12.208,
+              "end": 12.508
+            },
+            {
+              "word": "undedi",
+              "start": 12.508,
+              "end": 12.748
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.986,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 9.168,
+            "end": 13.768
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0274,
+            "compressionRatio": 1.8358,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "00880294-cdf0-42c1-a680-e38ac0945e34",
+          "start": 12.748,
+          "end": 13.788,
+          "text": "Naaku chutthupakkala",
+          "words": [
+            {
+              "word": "Naaku",
+              "start": 12.748,
+              "end": 13.308
+            },
+            {
+              "word": "chutthupakkala",
+              "start": 13.308,
+              "end": 13.788
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.982,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 9.168,
+            "end": 13.768
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0274,
+            "compressionRatio": 1.8358,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "8dcfc3fc-6958-4986-9e18-48cd6b1a7658",
+          "start": 13.788,
+          "end": 14.358,
+          "text": "Nunchi kuda manaki",
+          "words": [
+            {
+              "word": "Nunchi",
+              "start": 13.788,
+              "end": 13.978
+            },
+            {
+              "word": "kuda",
+              "start": 13.978,
+              "end": 14.038
+            },
+            {
+              "word": "manaki",
+              "start": 14.038,
+              "end": 14.358
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.948,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "49ee2c49-4b92-4072-971e-0160ae5efdcc",
+          "start": 14.358,
+          "end": 14.978,
+          "text": "Em saport aithe",
+          "words": [
+            {
+              "word": "Em",
+              "start": 14.358,
+              "end": 14.438
+            },
+            {
+              "word": "saport",
+              "start": 14.438,
+              "end": 14.758
+            },
+            {
+              "word": "aithe",
+              "start": 14.758,
+              "end": 14.978
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.952,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "76a13750-51d8-47bd-bf7c-fb0916f97b80",
+          "start": 14.978,
+          "end": 15.898,
+          "text": "Undado adi tech",
+          "words": [
+            {
+              "word": "Undado",
+              "start": 14.978,
+              "end": 15.378
+            },
+            {
+              "word": "adi",
+              "start": 15.378,
+              "end": 15.678
+            },
+            {
+              "word": "tech",
+              "start": 15.678,
+              "end": 15.898
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.99,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "681c11c3-5ac7-45f9-baaa-3998908d8647",
+          "start": 15.898,
+          "end": 17.158,
+          "text": "Chhaanal telugulo sthaart",
+          "words": [
+            {
+              "word": "Chhaanal",
+              "start": 15.898,
+              "end": 16.438
+            },
+            {
+              "word": "telugulo",
+              "start": 16.438,
+              "end": 16.858
+            },
+            {
+              "word": "sthaart",
+              "start": 16.858,
+              "end": 17.158
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.979,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "cf54c130-d4c5-45d6-8192-e0d92e2b74b7",
+          "start": 17.158,
+          "end": 18.078,
+          "text": "Cheyadam adi kuda",
+          "words": [
+            {
+              "word": "Cheyadam",
+              "start": 17.158,
+              "end": 17.678
+            },
+            {
+              "word": "adi",
+              "start": 17.678,
+              "end": 17.938
+            },
+            {
+              "word": "kuda",
+              "start": 17.938,
+              "end": 18.078
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.994,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 13.778,
+            "end": 18.078
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.7571,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "685e5192-8f81-4f8b-9a66-7065667213d0",
+          "start": 18.192,
+          "end": 20.092,
+          "text": "Bails unboxings",
+          "words": [
+            {
+              "word": "Bails",
+              "start": 18.192,
+              "end": 18.952
+            },
+            {
+              "word": "unboxings",
+              "start": 18.952,
+              "end": 20.092
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.923,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 18.192,
+            "end": 22.572
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0603,
+            "compressionRatio": 1.6486,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "c222e0bf-06bb-4c20-8674-bd1da9730d43",
+          "start": 20.092,
+          "end": 21.572,
+          "text": "Ivanni ante asalu",
+          "words": [
+            {
+              "word": "Ivanni",
+              "start": 20.092,
+              "end": 20.572
+            },
+            {
+              "word": "ante",
+              "start": 20.572,
+              "end": 20.972
+            },
+            {
+              "word": "asalu",
+              "start": 20.972,
+              "end": 21.572
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.989,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 18.192,
+            "end": 22.572
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0603,
+            "compressionRatio": 1.6486,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "5f110b14-3dda-41ff-95c6-994811787863",
+          "start": 21.572,
+          "end": 22.572,
+          "text": "Edo vinthaga choosevaru",
+          "words": [
+            {
+              "word": "Edo",
+              "start": 21.572,
+              "end": 21.872
+            },
+            {
+              "word": "vinthaga",
+              "start": 21.872,
+              "end": 22.232
+            },
+            {
+              "word": "choosevaru",
+              "start": 22.232,
+              "end": 22.572
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.961,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 18.192,
+            "end": 22.572
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0603,
+            "compressionRatio": 1.6486,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "fd2d89f5-aebf-479b-b88a-f194b8f84197",
+          "start": 22.882,
+          "end": 24.622,
+          "text": "Jaambini choosinatthu nannu",
+          "words": [
+            {
+              "word": "Jaambini",
+              "start": 22.882,
+              "end": 23.942
+            },
+            {
+              "word": "choosinatthu",
+              "start": 23.942,
+              "end": 24.322
+            },
+            {
+              "word": "nannu",
+              "start": 24.322,
+              "end": 24.622
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.943,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "0c7562e2-ac2e-4b53-9bf7-785695104726",
+          "start": 24.622,
+          "end": 25.182,
+          "text": "Kani nenu vallu",
+          "words": [
+            {
+              "word": "Kani",
+              "start": 24.622,
+              "end": 24.902
+            },
+            {
+              "word": "nenu",
+              "start": 24.902,
+              "end": 25.022
+            },
+            {
+              "word": "vallu",
+              "start": 25.022,
+              "end": 25.182
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.974,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "76f13a91-12f7-4458-95fc-91778bd50aba",
+          "start": 25.182,
+          "end": 25.982,
+          "text": "Evari maata vinaledu",
+          "words": [
+            {
+              "word": "Evari",
+              "start": 25.182,
+              "end": 25.442
+            },
+            {
+              "word": "maata",
+              "start": 25.442,
+              "end": 25.622
+            },
+            {
+              "word": "vinaledu",
+              "start": 25.622,
+              "end": 25.982
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.985,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "81426bdb-3a32-4bb0-910e-f3a7fa07ce09",
+          "start": 25.982,
+          "end": 27.022,
+          "text": "Naa heart ni",
+          "words": [
+            {
+              "word": "Naa",
+              "start": 25.982,
+              "end": 26.622
+            },
+            {
+              "word": "heart",
+              "start": 26.622,
+              "end": 26.922
+            },
+            {
+              "word": "ni",
+              "start": 26.922,
+              "end": 27.022
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.984,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "5a761669-5011-4ecd-ad75-52f8f7c41502",
+          "start": 27.022,
+          "end": 27.182,
+          "text": "Follow",
+          "words": [
+            {
+              "word": "Follow",
+              "start": 27.022,
+              "end": 27.182
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.968,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 22.882,
+            "end": 27.182
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0534,
+            "compressionRatio": 1.906,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "e6f2e410-391b-4805-ad29-219c12dcc7a1",
+          "start": 27.216,
+          "end": 29.856,
+          "text": "Ekkadaithe matram cheyalanipinchindi",
+          "words": [
+            {
+              "word": "Ekkadaithe",
+              "start": 27.216,
+              "end": 27.936
+            },
+            {
+              "word": "matram",
+              "start": 27.936,
+              "end": 28.816
+            },
+            {
+              "word": "cheyalanipinchindi",
+              "start": 28.816,
+              "end": 29.856
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.973,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 27.216,
+            "end": 30.496
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0291,
+            "compressionRatio": 1.3537,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "5c23a76f-d575-473b-a27b-e5b5211062ff",
+          "start": 29.856,
+          "end": 30.436,
+          "text": "Cheddaam",
+          "words": [
+            {
+              "word": "Cheddaam",
+              "start": 29.856,
+              "end": 30.436
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.998,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 27.216,
+            "end": 30.496
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0291,
+            "compressionRatio": 1.3537,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "a0a093f2-7969-4abf-8330-7b3716a43851",
+          "start": 30.596,
+          "end": 31.596,
+          "text": "Andaru navvukune vallu",
+          "words": [
+            {
+              "word": "Andaru",
+              "start": 30.596,
+              "end": 30.916
+            },
+            {
+              "word": "navvukune",
+              "start": 30.916,
+              "end": 31.316
+            },
+            {
+              "word": "vallu",
+              "start": 31.316,
+              "end": 31.596
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.953,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "ec696937-06f0-465f-8f66-47ffd1f477a6",
+          "start": 31.596,
+          "end": 32.916,
+          "text": "Nenu asisthent prophesar",
+          "words": [
+            {
+              "word": "Nenu",
+              "start": 31.596,
+              "end": 32.196
+            },
+            {
+              "word": "asisthent",
+              "start": 32.196,
+              "end": 32.616
+            },
+            {
+              "word": "prophesar",
+              "start": 32.616,
+              "end": 32.916
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.979,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "77bfac8e-b403-4929-aa13-cae826e97960",
+          "start": 32.916,
+          "end": 33.716,
+          "text": "Gaa pani cheshaanu",
+          "words": [
+            {
+              "word": "Gaa",
+              "start": 32.916,
+              "end": 33.056
+            },
+            {
+              "word": "pani",
+              "start": 33.056,
+              "end": 33.296
+            },
+            {
+              "word": "cheshaanu",
+              "start": 33.296,
+              "end": 33.716
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.962,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "3eafa8a2-6a2c-403a-bfdb-a609fadc8cd0",
+          "start": 33.716,
+          "end": 34.336,
+          "text": "Appudu naa phast",
+          "words": [
+            {
+              "word": "Appudu",
+              "start": 33.716,
+              "end": 33.916
+            },
+            {
+              "word": "naa",
+              "start": 33.916,
+              "end": 34.016
+            },
+            {
+              "word": "phast",
+              "start": 34.016,
+              "end": 34.336
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.979,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "c3757127-e47b-47fd-a29e-9f1223d5dc97",
+          "start": 34.336,
+          "end": 35.136,
+          "text": "Videos anni choosukoni",
+          "words": [
+            {
+              "word": "Videos",
+              "start": 34.336,
+              "end": 34.716
+            },
+            {
+              "word": "anni",
+              "start": 34.716,
+              "end": 34.836
+            },
+            {
+              "word": "choosukoni",
+              "start": 34.836,
+              "end": 35.136
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.955,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 30.596,
+            "end": 35.136
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0386,
+            "compressionRatio": 2.0127,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "25740b69-131d-4545-9a7e-4d2b16e04788",
+          "start": 35.176,
+          "end": 35.961,
+          "text": "Sthoodents kuda navvukune",
+          "needsReview": true,
+          "correction": "preserved",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "7f75766a-f38d-44a0-92bd-36d1395b7e9c",
+          "start": 35.961,
+          "end": 36.747,
+          "text": "Vallu avannee pakkaa",
+          "needsReview": true,
+          "correction": "preserved",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "28fa21cc-f3c6-462c-98b7-739ae4e0b318",
+          "start": 36.747,
+          "end": 37.532,
+          "text": "Petthesi naa heart",
+          "needsReview": true,
+          "correction": "preserved",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "d471e755-02d1-447e-b1e2-d8be39d9ca67",
+          "start": 37.532,
+          "end": 38.317,
+          "text": "Nenu follow ayyaa",
+          "needsReview": true,
+          "correction": "preserved",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "c1cc5499-3dfe-4270-80f2-2c8e07166e1d",
+          "start": 38.317,
+          "end": 39.102,
+          "text": "Naa maind nenu",
+          "needsReview": true,
+          "correction": "preserved",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "caab8037-bb36-4c78-8516-de33255ad2d0",
+          "start": 39.102,
+          "end": 39.626,
+          "text": "Follow ayyaa",
+          "needsReview": true,
+          "correction": "preserved",
+          "segment": {
+            "start": 35.176,
+            "end": 39.626
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0257,
+            "compressionRatio": 2.0725,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [
+            "estimated-word-timing"
+          ],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "85b48fde-eb20-4d3e-9ea7-de41b2abdd82",
+          "start": 39.632,
+          "end": 41.852,
+          "text": "So adi enni",
+          "words": [
+            {
+              "word": "So",
+              "start": 39.632,
+              "end": 40.412
+            },
+            {
+              "word": "adi",
+              "start": 40.412,
+              "end": 40.912
+            },
+            {
+              "word": "enni",
+              "start": 40.912,
+              "end": 41.852
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.943,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "13497eae-944e-47ef-8140-452a62c405a2",
+          "start": 41.852,
+          "end": 42.952,
+          "text": "Addankulu vachchinaa gaani",
+          "words": [
+            {
+              "word": "Addankulu",
+              "start": 41.852,
+              "end": 42.252
+            },
+            {
+              "word": "vachchinaa",
+              "start": 42.252,
+              "end": 42.472
+            },
+            {
+              "word": "gaani",
+              "start": 42.472,
+              "end": 42.952
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.958,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "d69addd4-61a3-48bf-8ee1-df14995dc778",
+          "start": 42.952,
+          "end": 43.852,
+          "text": "Adi nenu vadalledu",
+          "words": [
+            {
+              "word": "Adi",
+              "start": 42.952,
+              "end": 43.252
+            },
+            {
+              "word": "nenu",
+              "start": 43.252,
+              "end": 43.472
+            },
+            {
+              "word": "vadalledu",
+              "start": 43.472,
+              "end": 43.852
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.97,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "6aeaeaa8-5364-4708-bdaa-ecfbdfbea961",
+          "start": 43.852,
+          "end": 45.312,
+          "text": "Annamata chesukunthe chesukunthe",
+          "words": [
+            {
+              "word": "Annamata",
+              "start": 43.852,
+              "end": 44.332
+            },
+            {
+              "word": "chesukunthe",
+              "start": 44.332,
+              "end": 44.912
+            },
+            {
+              "word": "chesukunthe",
+              "start": 44.912,
+              "end": 45.312
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.985,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "e520f45c-f22b-4a33-befd-175f8279d935",
+          "start": 45.312,
+          "end": 46.192,
+          "text": "Chesukunthoo vachchaanu",
+          "words": [
+            {
+              "word": "Chesukunthoo",
+              "start": 45.312,
+              "end": 45.772
+            },
+            {
+              "word": "vachchaanu",
+              "start": 45.772,
+              "end": 46.192
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.984,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 39.632,
+            "end": 46.442
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0326,
+            "compressionRatio": 2.2397,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "c1030d0e-864a-4ad4-a07f-2973e02ceca3",
+          "start": 46.508,
+          "end": 47.268,
+          "text": "Ikkada daaka aithe",
+          "words": [
+            {
+              "word": "Ikkada",
+              "start": 46.508,
+              "end": 46.908
+            },
+            {
+              "word": "daaka",
+              "start": 46.908,
+              "end": 47.108
+            },
+            {
+              "word": "aithe",
+              "start": 47.108,
+              "end": 47.268
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.948,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 46.508,
+            "end": 51.488
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0342,
+            "compressionRatio": 1.7069,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "e9acb06a-3d13-457f-a5ac-461f15cacb41",
+          "start": 47.268,
+          "end": 48.688,
+          "text": "Vachchaanu anukunnadi chala",
+          "words": [
+            {
+              "word": "Vachchaanu",
+              "start": 47.268,
+              "end": 47.728
+            },
+            {
+              "word": "anukunnadi",
+              "start": 47.728,
+              "end": 48.408
+            },
+            {
+              "word": "chala",
+              "start": 48.408,
+              "end": 48.688
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.994,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 46.508,
+            "end": 51.488
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0342,
+            "compressionRatio": 1.7069,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "81877ca4-cfa2-4f29-8bbe-a91c6a77cfdb",
+          "start": 48.688,
+          "end": 50.308,
+          "text": "Mandi cheyadaaniki siggu",
+          "words": [
+            {
+              "word": "Mandi",
+              "start": 48.688,
+              "end": 49.148
+            },
+            {
+              "word": "cheyadaaniki",
+              "start": 49.148,
+              "end": 50.048
+            },
+            {
+              "word": "siggu",
+              "start": 50.048,
+              "end": 50.308
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.982,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 46.508,
+            "end": 51.488
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0342,
+            "compressionRatio": 1.7069,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "041f9f46-fc4d-4575-ada9-bc6ca3b38b6b",
+          "start": 50.308,
+          "end": 51.488,
+          "text": "Paduthunthaaru",
+          "words": [
+            {
+              "word": "Paduthunthaaru",
+              "start": 50.308,
+              "end": 51.488
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.985,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 46.508,
+            "end": 51.488
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0342,
+            "compressionRatio": 1.7069,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "13926a61-dd6d-495b-8c68-8366c9bec1fd",
+          "start": 51.488,
+          "end": 53.038,
+          "text": "Bhayapaduthunthaaru ivi rendu",
+          "words": [
+            {
+              "word": "Bhayapaduthunthaaru",
+              "start": 51.488,
+              "end": 52.718
+            },
+            {
+              "word": "ivi",
+              "start": 52.718,
+              "end": 52.918
+            },
+            {
+              "word": "rendu",
+              "start": 52.918,
+              "end": 53.038
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.96,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 51.568,
+            "end": 55.458
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0313,
+            "compressionRatio": 1.57,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "5b35cb1d-91b0-4236-8620-6245211a7ded",
+          "start": 53.038,
+          "end": 54.978,
+          "text": "Vadileyaali meeru anukunnaaru",
+          "words": [
+            {
+              "word": "Vadileyaali",
+              "start": 53.038,
+              "end": 53.978
+            },
+            {
+              "word": "meeru",
+              "start": 53.978,
+              "end": 54.358
+            },
+            {
+              "word": "anukunnaaru",
+              "start": 54.358,
+              "end": 54.978
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.973,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 51.568,
+            "end": 55.458
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0313,
+            "compressionRatio": 1.57,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "44950650-94a7-4a0d-b374-b7f89c1ff579",
+          "start": 54.978,
+          "end": 55.458,
+          "text": "Laiph lo",
+          "words": [
+            {
+              "word": "Laiph",
+              "start": 54.978,
+              "end": 55.338
+            },
+            {
+              "word": "lo",
+              "start": 55.338,
+              "end": 55.458
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.961,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 51.568,
+            "end": 55.458
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0313,
+            "compressionRatio": 1.57,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "687ecbb3-cc03-425e-b4a0-b60d35ce3ca8",
+          "start": 55.856,
+          "end": 57.056,
+          "text": "Evaro edo anukunthaaru",
+          "words": [
+            {
+              "word": "Evaro",
+              "start": 55.856,
+              "end": 56.476
+            },
+            {
+              "word": "edo",
+              "start": 56.476,
+              "end": 56.616
+            },
+            {
+              "word": "anukunthaaru",
+              "start": 56.616,
+              "end": 57.056
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.958,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 55.856,
+            "end": 60.676
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0204,
+            "compressionRatio": 1.8163,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "dc60f5ee-6074-468b-8000-7ad5d51c49e7",
+          "start": 57.056,
+          "end": 57.756,
+          "text": "Ani cheppesi akkadatho",
+          "words": [
+            {
+              "word": "Ani",
+              "start": 57.056,
+              "end": 57.176
+            },
+            {
+              "word": "cheppesi",
+              "start": 57.176,
+              "end": 57.496
+            },
+            {
+              "word": "akkadatho",
+              "start": 57.496,
+              "end": 57.756
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.979,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 55.856,
+            "end": 60.676
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0204,
+            "compressionRatio": 1.8163,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "38a8dd73-d303-45ad-b043-66308f606349",
+          "start": 57.756,
+          "end": 59.656,
+          "text": "Aagipokandi trai cheyandi",
+          "words": [
+            {
+              "word": "Aagipokandi",
+              "start": 57.756,
+              "end": 58.816
+            },
+            {
+              "word": "trai",
+              "start": 58.816,
+              "end": 59.076
+            },
+            {
+              "word": "cheyandi",
+              "start": 59.076,
+              "end": 59.656
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.997,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 55.856,
+            "end": 60.676
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0204,
+            "compressionRatio": 1.8163,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "46f10d04-8812-4505-bc49-c7f4863911a1",
+          "start": 59.656,
+          "end": 60.676,
+          "text": "Meeru prayatninchi odipothe",
+          "words": [
+            {
+              "word": "Meeru",
+              "start": 59.656,
+              "end": 59.856
+            },
+            {
+              "word": "prayatninchi",
+              "start": 59.856,
+              "end": 60.276
+            },
+            {
+              "word": "odipothe",
+              "start": 60.276,
+              "end": 60.676
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.997,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 55.856,
+            "end": 60.676
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0204,
+            "compressionRatio": 1.8163,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "b6200bd1-f280-49a5-b51e-2644673bacad",
+          "start": 60.906,
+          "end": 62.346,
+          "text": "Ledu kani prayatninchakundaane",
+          "words": [
+            {
+              "word": "Ledu",
+              "start": 60.906,
+              "end": 61.126
+            },
+            {
+              "word": "kani",
+              "start": 61.126,
+              "end": 61.386
+            },
+            {
+              "word": "prayatninchakundaane",
+              "start": 61.386,
+              "end": 62.346
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.967,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 60.906,
+            "end": 65.086
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.9366,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "218e42c3-e131-4648-a2f6-149c655b1251",
+          "start": 62.346,
+          "end": 63.426,
+          "text": "Meeru othamini oppukunnaaru",
+          "words": [
+            {
+              "word": "Meeru",
+              "start": 62.346,
+              "end": 62.666
+            },
+            {
+              "word": "othamini",
+              "start": 62.666,
+              "end": 62.986
+            },
+            {
+              "word": "oppukunnaaru",
+              "start": 62.986,
+              "end": 63.426
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.967,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 60.906,
+            "end": 65.086
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.9366,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "8e6ad528-ed32-4bd0-bff1-1910a3a72677",
+          "start": 63.426,
+          "end": 64.486,
+          "text": "Anukondi akkadatho meeru",
+          "words": [
+            {
+              "word": "Anukondi",
+              "start": 63.426,
+              "end": 63.886
+            },
+            {
+              "word": "akkadatho",
+              "start": 63.886,
+              "end": 64.286
+            },
+            {
+              "word": "meeru",
+              "start": 64.286,
+              "end": 64.486
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.973,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 60.906,
+            "end": 65.086
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.9366,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        },
+        {
+          "id": "2bc9aa04-d330-41de-957e-f031f287986b",
+          "start": 64.486,
+          "end": 65.086,
+          "text": "End ayipoyinatthe",
+          "words": [
+            {
+              "word": "End",
+              "start": 64.486,
+              "end": 64.606
+            },
+            {
+              "word": "ayipoyinatthe",
+              "start": 64.606,
+              "end": 65.086
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.941,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 60.906,
+            "end": 65.086
+          },
+          "recognitionQuality": {
+            "averageLogProbability": -0.0364,
+            "compressionRatio": 1.9366,
+            "noSpeechProbability": 0.0
+          },
+          "reviewReasons": [],
+          "acousticRetry": "not-needed"
+        }
+      ]
+    },
+    "pipeline": "speech-to-timed-subtitles",
+    "cacheHit": false,
+    "processingSeconds": 88.418
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "passed": [
+    "confidence gate",
+    "improved-score guard",
+    "negation guard",
+    "name guard",
+    "missing timing flag",
+    "long alignment flag",
+    "incremental memo",
+    "unchanged correction timing"
+  ]
+}

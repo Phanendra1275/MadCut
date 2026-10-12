@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+outputs/chatcut/node_modules/
+
+# Local runtimes, caches, and models
+.local/
+outputs/chatcut/.local/
+*.log
+*.tmp
+outputs/chatcut/.local/logs/
+
+# Build artifacts
+outputs/chatcut/local-dist/
+outputs/chatcut/.next/
+outputs/chatcut/.vinext/
+outputs/chatcut/dist/
+outputs/chatcut/out/
+local-dist/
+
+# Vercel
+.vercel/
+outputs/chatcut/.vercel/
+
+# Environment files
+.env*
+outputs/chatcut/.env*
+
+# OS files
+.DS_Store
+Thumbs.db

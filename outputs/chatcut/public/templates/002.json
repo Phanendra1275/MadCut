@@ -1,0 +1,142 @@
+{
+  "id": "template_002",
+  "name": "Premium Text",
+  "originalFile": "Premium Text.mogrt",
+  "file": "/templates/002.mogrt",
+  "preview": "/template-previews/002.webp",
+  "sourcePreview": "/template-previews/002.source.webp",
+  "category": "Bold",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "24347e10-bf3c-48e1-b189-6a1474f1ffde",
+      "type": 6,
+      "name": "Change your text Here",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Follow Me !"
+          }
+        ]
+      },
+      "font": "SFUIText-Heavy"
+    },
+    {
+      "id": "eaa7d42c-5d4f-43b1-b505-da8b0284d9f1",
+      "type": 4,
+      "name": "Fill Color",
+      "value": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "23b7072d-ba8f-4740-9b35-127d10d5e648",
+      "type": 2,
+      "name": "Deep Glow Radius",
+      "value": 0,
+      "font": null
+    },
+    {
+      "id": "ee4a78ac-4f90-4224-bd47-3a71cbabde99",
+      "type": 2,
+      "name": "Deep Glow Exposure",
+      "value": 0.0749063670411985,
+      "font": null
+    },
+    {
+      "id": "3fbf6cd8-fb30-45b1-b3a5-f20522ac1a7c",
+      "type": 5,
+      "name": "CC Light Sweep Center",
+      "value": {
+        "x": 2986,
+        "y": 5216
+      },
+      "font": null
+    },
+    {
+      "id": "5667a534-2cb9-4616-875f-0674ce6c5570",
+      "type": 3,
+      "name": "CC Light Sweep Direction",
+      "value": -30,
+      "font": null
+    },
+    {
+      "id": "ed9b9857-e3ea-4184-88b9-c4f781f3f8f0",
+      "type": 2,
+      "name": "CC Light Sweep Width",
+      "value": 118,
+      "font": null
+    },
+    {
+      "id": "c7b0aa1b-fa33-4e01-9f15-92f9a7e4cd1a",
+      "type": 4,
+      "name": "CC Light Sweep Light Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "6368eea0-70a0-4f0b-a603-d166a3d826ed",
+      "type": 13,
+      "name": "CC Light Sweep Shape",
+      "value": 2,
+      "font": null
+    },
+    {
+      "id": "6d1bb6e7-145b-4cd3-97d1-2425b517596d",
+      "type": 2,
+      "name": "Drop Shadow Opacity",
+      "value": 100,
+      "font": null
+    }
+  ],
+  "capsuleId": "2ea2806e-c6c1-4507-afbb-70c99ae007e2",
+  "renderMode": "web-equivalent",
+  "webPreset": "Premium Text",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "SFUIText-Heavy → Inter Black; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ff0000",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ff0000"
+  },
+  "fonts": [
+    {
+      "required": "SFUIText-Heavy",
+      "webFont": "Inter Black",
+      "status": "substitute"
+    }
+  ]
+}

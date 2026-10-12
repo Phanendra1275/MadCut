@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "template_001",
+    "name": "Left Blure Slide new",
+    "file": "/templates/001.mogrt",
+    "preview": "/template-previews/001.webp?fonts=2",
+    "sourcePreview": "/template-previews/001.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Left Blur Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_002",
+    "name": "Premium Text",
+    "file": "/templates/002.mogrt",
+    "preview": "/template-previews/002.webp?fonts=2",
+    "sourcePreview": "/template-previews/002.source.webp",
+    "category": "Bold",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Premium Text",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ff0000",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ff0000"
+    },
+    "fonts": [
+      {
+        "required": "SFUIText-Heavy",
+        "webFont": "Inter Black",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_003",
+    "name": "Right Bounce slide",
+    "file": "/templates/003.mogrt",
+    "preview": "/template-previews/003.webp?fonts=2",
+    "sourcePreview": "/template-previews/003.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Right Bounce Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_004",
+    "name": "Down Blure Slide new",
+    "file": "/templates/004.mogrt",
+    "preview": "/template-previews/004.webp?fonts=2",
+    "sourcePreview": "/template-previews/004.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Down Blur Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_005",
+    "name": "Up Bounce shrink slide",
+    "file": "/templates/005.mogrt",
+    "preview": "/template-previews/005.webp?fonts=2",
+    "sourcePreview": "/template-previews/005.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Up Bounce Shrink",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_006",
+    "name": "Left Bounce slide",
+    "file": "/templates/006.mogrt",
+    "preview": "/template-previews/006.webp?fonts=2",
+    "sourcePreview": "/template-previews/006.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Left Bounce Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_007",
+    "name": "Right Blure Slide new",
+    "file": "/templates/007.mogrt",
+    "preview": "/template-previews/007.webp?fonts=2",
+    "sourcePreview": "/template-previews/007.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Right Blur Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_008",
+    "name": "Santhosham",
+    "file": "/templates/008.mogrt",
+    "preview": "/template-previews/008.webp?fonts=2",
+    "sourcePreview": "/template-previews/008.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Santhosham",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Regular",
+        "webFont": "Poppins Bold",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_009",
+    "name": "Left Slide new",
+    "file": "/templates/009.mogrt",
+    "preview": "/template-previews/009.webp?fonts=2",
+    "sourcePreview": "/template-previews/009.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Left Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_010",
+    "name": "Right Bounce Expend slide",
+    "file": "/templates/010.mogrt",
+    "preview": "/template-previews/010.webp?fonts=2",
+    "sourcePreview": "/template-previews/010.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Right Bounce Expand",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_011",
+    "name": "Up Slide new",
+    "file": "/templates/011.mogrt",
+    "preview": "/template-previews/011.webp?fonts=2",
+    "sourcePreview": "/template-previews/011.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Up Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_012",
+    "name": "down Bounce shrink slide",
+    "file": "/templates/012.mogrt",
+    "preview": "/template-previews/012.webp?fonts=2",
+    "sourcePreview": "/template-previews/012.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Down Bounce Shrink",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_013",
+    "name": "Premium Text Without Animation",
+    "file": "/templates/013.mogrt",
+    "preview": "/template-previews/013.webp?fonts=2",
+    "sourcePreview": "/template-previews/013.source.webp",
+    "category": "Bold",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Premium Text Without Animation",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ff0000",
+    "defaults": {
+      "entry": "Auto",
+      "motion": false,
+      "color": "#ff0000"
+    },
+    "fonts": [
+      {
+        "required": "SFUIText-Heavy",
+        "webFont": "Inter Black",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_014",
+    "name": "Jitter Shine Text Effect",
+    "file": "/templates/014.mogrt",
+    "preview": "/template-previews/014.webp?fonts=2",
+    "sourcePreview": "/template-previews/014.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Jitter Shine",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ff6000",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Inter-Black",
+        "webFont": "Inter Black",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_015",
+    "name": "Static Shine Text Effect",
+    "file": "/templates/015.mogrt",
+    "preview": "/template-previews/015.webp?fonts=2",
+    "sourcePreview": "/template-previews/015.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Static Shine",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ff6000",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Inter-Black",
+        "webFont": "Inter Black",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_016",
+    "name": "Up Blure Slide new",
+    "file": "/templates/016.mogrt",
+    "preview": "/template-previews/016.webp?fonts=2",
+    "sourcePreview": "/template-previews/016.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Up Blur Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_017",
+    "name": "Left Bounce Expend slide",
+    "file": "/templates/017.mogrt",
+    "preview": "/template-previews/017.webp?fonts=2",
+    "sourcePreview": "/template-previews/017.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Left Bounce Expand",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_018",
+    "name": "Gradient master blue",
+    "file": "/templates/018.mogrt",
+    "preview": "/template-previews/018.webp?fonts=2",
+    "sourcePreview": "/template-previews/018.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Gradient Blue",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_019",
+    "name": "Down Slide new",
+    "file": "/templates/019.mogrt",
+    "preview": "/template-previews/019.webp?fonts=2",
+    "sourcePreview": "/template-previews/019.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Down Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_020",
+    "name": "Up Bounce slide",
+    "file": "/templates/020.mogrt",
+    "preview": "/template-previews/020.webp?fonts=2",
+    "sourcePreview": "/template-previews/020.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Up Bounce Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_021",
+    "name": "Right Slide new",
+    "file": "/templates/021.mogrt",
+    "preview": "/template-previews/021.webp?fonts=2",
+    "sourcePreview": "/template-previews/021.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Right Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_022",
+    "name": "Coovetica Waving of",
+    "file": "/templates/022.mogrt",
+    "preview": "/template-previews/022.webp?fonts=2",
+    "sourcePreview": "/template-previews/022.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Coovetica Waving of",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Poppins-ExtraBold",
+        "webFont": "Poppins ExtraBold",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_023",
+    "name": "Gradient master red",
+    "file": "/templates/023.mogrt",
+    "preview": "/template-previews/023.webp?fonts=2",
+    "sourcePreview": "/template-previews/023.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Gradient Red",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_024",
+    "name": "Down Bounce slide",
+    "file": "/templates/024.mogrt",
+    "preview": "/template-previews/024.webp?fonts=2",
+    "sourcePreview": "/template-previews/024.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Down Bounce Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_025",
+    "name": "Slide Collide",
+    "file": "/templates/025.mogrt",
+    "preview": "/template-previews/025.webp?fonts=2",
+    "sourcePreview": "/template-previews/025.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Slide Collide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#2b1800",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Regular",
+        "webFont": "Poppins Bold",
+        "status": "substitute"
+      },
+      {
+        "required": "Vivaldii",
+        "webFont": "Vivaldi",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_026",
+    "name": "only flex bounce text",
+    "file": "/templates/026.mogrt",
+    "preview": "/template-previews/026.webp?fonts=2",
+    "sourcePreview": "/template-previews/026.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Flex Bounce",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_027",
+    "name": "Gradient master red 2.0",
+    "file": "/templates/027.mogrt",
+    "preview": "/template-previews/027.webp?fonts=2",
+    "sourcePreview": "/template-previews/027.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Gradient Red Orange",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_028",
+    "name": "Zoom In",
+    "file": "/templates/028.mogrt",
+    "preview": "/template-previews/028.webp?fonts=2",
+    "sourcePreview": "/template-previews/028.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Zoom In",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#00d2ff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Poppins-ExtraBold",
+        "webFont": "Poppins ExtraBold",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_029",
+    "name": "Spinning Butter",
+    "file": "/templates/029.mogrt",
+    "preview": "/template-previews/029.webp?fonts=2",
+    "sourcePreview": "/template-previews/029.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Spinning Butter",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Regular",
+        "webFont": "Poppins Bold",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_030",
+    "name": "Butter Up",
+    "file": "/templates/030.mogrt",
+    "preview": "/template-previews/030.webp?fonts=2",
+    "sourcePreview": "/template-previews/030.source.webp",
+    "category": "Original",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Butter Up",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Satisfy-Regular",
+        "webFont": "Satisfy",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_031",
+    "name": "cracked",
+    "file": "/templates/031.mogrt",
+    "preview": "/template-previews/031.webp?fonts=2",
+    "sourcePreview": "/template-previews/031.source.webp",
+    "category": "Original",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "cracked",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Regular",
+        "webFont": "Poppins Bold",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_032",
+    "name": "Ocean Waves",
+    "file": "/templates/032.mogrt",
+    "preview": "/template-previews/032.webp?fonts=2",
+    "sourcePreview": "/template-previews/032.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Ocean Waves",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#00e2ff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Poppins-Bold",
+        "webFont": "Poppins Bold",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_033",
+    "name": "Rock Solidance",
+    "file": "/templates/033.mogrt",
+    "preview": "/template-previews/033.webp?fonts=2",
+    "sourcePreview": "/template-previews/033.source.webp",
+    "category": "Original",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "renderMode": "web-equivalent",
+    "webPreset": "Rock Solidance",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Cond",
+        "webFont": "Anton",
+        "status": "substitute"
+      },
+      {
+        "required": "EdwardianScriptITC",
+        "webFont": "Edwardian Script ITC",
+        "status": "system"
+      }
+    ]
+  }
+]

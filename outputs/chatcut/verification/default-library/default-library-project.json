@@ -1,0 +1,374 @@
+{
+  "projectId": "022d4eae-1d7c-42d4-94e1-20b87bac8d96",
+  "version": 1,
+  "name": "prasad-frame-test",
+  "language": "Tenglish",
+  "tone": "Accurate",
+  "sourceLanguage": "te",
+  "tenglishMode": "Natural",
+  "emojis": false,
+  "original": [
+    {
+      "id": "b7bf3ead-0f0e-4425-912d-e1c72ffeb62a",
+      "start": 0,
+      "end": 2.58,
+      "text": "మొబైల్స్ అన్బాక్సింగ్స్ ఇవన్నీ",
+      "words": [
+        {
+          "word": "మొబైల్స్",
+          "start": 0,
+          "end": 0.94,
+          "confidence": 0.979
+        },
+        {
+          "word": "అన్బాక్సింగ్స్",
+          "start": 0.94,
+          "end": 2.12,
+          "confidence": 0.943
+        },
+        {
+          "word": "ఇవన్నీ",
+          "start": 2.12,
+          "end": 2.58,
+          "confidence": 0.983
+        }
+      ],
+      "confidence": 0.968,
+      "segment": {
+        "start": 0,
+        "end": 3
+      },
+      "recognitionQuality": {
+        "averageLogProbability": -0.0431,
+        "compressionRatio": 1.3026,
+        "noSpeechProbability": 0
+      },
+      "reviewReasons": [],
+      "acousticRetry": "not-needed",
+      "needsReview": false,
+      "correction": "preserved"
+    },
+    {
+      "id": "841f2b4c-512b-4c04-830a-12f2c0839a5c",
+      "start": 2.58,
+      "end": 2.9,
+      "text": "అంటే",
+      "words": [
+        {
+          "word": "అంటే",
+          "start": 2.58,
+          "end": 2.9,
+          "confidence": 0.999
+        }
+      ],
+      "confidence": 0.999,
+      "segment": {
+        "start": 0,
+        "end": 3
+      },
+      "recognitionQuality": {
+        "averageLogProbability": -0.0431,
+        "compressionRatio": 1.3026,
+        "noSpeechProbability": 0
+      },
+      "reviewReasons": [],
+      "acousticRetry": "not-needed",
+      "needsReview": false,
+      "correction": "preserved"
+    }
+  ],
+  "tracks": {
+    "Telugu": [
+      {
+        "id": "b7bf3ead-0f0e-4425-912d-e1c72ffeb62a-0",
+        "start": 0,
+        "end": 2.58,
+        "text": "మొబైల్స్ అన్బాక్సింగ్స్ ఇవన్నీ",
+        "words": [
+          {
+            "word": "మొబైల్స్",
+            "start": 0,
+            "end": 0.94,
+            "confidence": 0.979
+          },
+          {
+            "word": "అన్బాక్సింగ్స్",
+            "start": 0.94,
+            "end": 2.12,
+            "confidence": 0.943
+          },
+          {
+            "word": "ఇవన్నీ",
+            "start": 2.12,
+            "end": 2.58,
+            "confidence": 0.983
+          }
+        ],
+        "confidence": 0.968,
+        "segment": {
+          "start": 0,
+          "end": 3
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0431,
+          "compressionRatio": 1.3026,
+          "noSpeechProbability": 0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "841f2b4c-512b-4c04-830a-12f2c0839a5c-0",
+        "start": 2.58,
+        "end": 2.9,
+        "text": "అంటే",
+        "words": [
+          {
+            "word": "అంటే",
+            "start": 2.58,
+            "end": 2.9,
+            "confidence": 0.999
+          }
+        ],
+        "confidence": 0.999,
+        "segment": {
+          "start": 0,
+          "end": 3
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0431,
+          "compressionRatio": 1.3026,
+          "noSpeechProbability": 0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      }
+    ],
+    "Tenglish": [
+      {
+        "id": "b7bf3ead-0f0e-4425-912d-e1c72ffeb62a-0",
+        "start": 0,
+        "end": 2.58,
+        "text": "Mobiles unboxings ivanni!",
+        "words": [
+          {
+            "word": "Mobiles",
+            "start": 0,
+            "end": 0.94
+          },
+          {
+            "word": "unboxings",
+            "start": 0.94,
+            "end": 2.12
+          },
+          {
+            "word": "ivanni!",
+            "start": 2.12,
+            "end": 2.58
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.968,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0,
+          "end": 3
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0431,
+          "compressionRatio": 1.3026,
+          "noSpeechProbability": 0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed"
+      },
+      {
+        "id": "841f2b4c-512b-4c04-830a-12f2c0839a5c-0",
+        "start": 2.58,
+        "end": 2.9,
+        "text": "ante",
+        "words": [
+          {
+            "word": "ante",
+            "start": 2.58,
+            "end": 2.9
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.999,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0,
+          "end": 3
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0431,
+          "compressionRatio": 1.3026,
+          "noSpeechProbability": 0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed"
+      }
+    ]
+  },
+  "look": {
+    "template": "Spinning Butter",
+    "size": 48,
+    "color": "#ffffff",
+    "position": 82,
+    "bold": true,
+    "entry": "Auto",
+    "motion": true,
+    "accent": "#ffffff",
+    "font": "Auto"
+  },
+  "aspect": "original",
+  "duration": 3,
+  "captionDelay": {},
+  "originalTracks": {
+    "Telugu": [
+      {
+        "id": "b7bf3ead-0f0e-4425-912d-e1c72ffeb62a-0",
+        "start": 0,
+        "end": 2.58,
+        "text": "మొబైల్స్ అన్బాక్సింగ్స్ ఇవన్నీ",
+        "words": [
+          {
+            "word": "మొబైల్స్",
+            "start": 0,
+            "end": 0.94,
+            "confidence": 0.979
+          },
+          {
+            "word": "అన్బాక్సింగ్స్",
+            "start": 0.94,
+            "end": 2.12,
+            "confidence": 0.943
+          },
+          {
+            "word": "ఇవన్నీ",
+            "start": 2.12,
+            "end": 2.58,
+            "confidence": 0.983
+          }
+        ],
+        "confidence": 0.968,
+        "segment": {
+          "start": 0,
+          "end": 3
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0431,
+          "compressionRatio": 1.3026,
+          "noSpeechProbability": 0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "841f2b4c-512b-4c04-830a-12f2c0839a5c-0",
+        "start": 2.58,
+        "end": 2.9,
+        "text": "అంటే",
+        "words": [
+          {
+            "word": "అంటే",
+            "start": 2.58,
+            "end": 2.9,
+            "confidence": 0.999
+          }
+        ],
+        "confidence": 0.999,
+        "segment": {
+          "start": 0,
+          "end": 3
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0431,
+          "compressionRatio": 1.3026,
+          "noSpeechProbability": 0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed",
+        "needsReview": false,
+        "correction": "preserved"
+      }
+    ],
+    "Tenglish": [
+      {
+        "id": "b7bf3ead-0f0e-4425-912d-e1c72ffeb62a-0",
+        "start": 0,
+        "end": 2.58,
+        "text": "Mobiles unboxings ivanni",
+        "words": [
+          {
+            "word": "Mobiles",
+            "start": 0,
+            "end": 0.94
+          },
+          {
+            "word": "unboxings",
+            "start": 0.94,
+            "end": 2.12
+          },
+          {
+            "word": "ivanni",
+            "start": 2.12,
+            "end": 2.58
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.968,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0,
+          "end": 3
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0431,
+          "compressionRatio": 1.3026,
+          "noSpeechProbability": 0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed"
+      },
+      {
+        "id": "841f2b4c-512b-4c04-830a-12f2c0839a5c-0",
+        "start": 2.58,
+        "end": 2.9,
+        "text": "ante",
+        "words": [
+          {
+            "word": "ante",
+            "start": 2.58,
+            "end": 2.9
+          }
+        ],
+        "timing": "mapped",
+        "confidence": 0.999,
+        "needsReview": false,
+        "correction": "preserved",
+        "segment": {
+          "start": 0,
+          "end": 3
+        },
+        "recognitionQuality": {
+          "averageLogProbability": -0.0431,
+          "compressionRatio": 1.3026,
+          "noSpeechProbability": 0
+        },
+        "reviewReasons": [],
+        "acousticRetry": "not-needed"
+      }
+    ]
+  }
+}

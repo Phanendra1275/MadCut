@@ -1,0 +1,31 @@
+[
+  {
+    "id": "typo",
+    "start": 0,
+    "end": 3.2,
+    "text": "నువ్వు ఎక్కడికి వెళ్తున్నావు",
+    "confidence": 0.4,
+    "needsReview": true,
+    "correction": "spelling-rule",
+    "rawText": "నువ్వు ఎక్కడికి వెళ్తునావ్",
+    "timing": "edited"
+  },
+  {
+    "id": "context",
+    "start": 3.2,
+    "end": 6,
+    "text": "ఏం చేస్తున్నావు",
+    "confidence": 0.4,
+    "needsReview": true,
+    "correction": "uncertain-preserved"
+  },
+  {
+    "id": "protected",
+    "start": 6,
+    "end": 9,
+    "text": "Phanendra GMRIT Instagram YouTube ChatGPT 123",
+    "confidence": 0.4,
+    "needsReview": true,
+    "correction": "uncertain-preserved"
+  }
+]

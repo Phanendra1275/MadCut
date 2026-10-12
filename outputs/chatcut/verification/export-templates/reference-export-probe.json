@@ -1,0 +1,68 @@
+{
+  "reference-video-60.mp4": [
+    {
+      "codec_type": "video",
+      "codec_name": "h264",
+      "pix_fmt": "yuv420p",
+      "width": 720,
+      "height": 900,
+      "r_frame_rate": "60/1",
+      "duration": "3.000000",
+      "profile": "High"
+    },
+    {
+      "codec_type": "audio",
+      "codec_name": "aac",
+      "pix_fmt": null,
+      "width": null,
+      "height": null,
+      "r_frame_rate": "0/0",
+      "duration": "3.000000",
+      "profile": "LC"
+    }
+  ],
+  "reference-blue-60.mp4": [
+    {
+      "codec_type": "video",
+      "codec_name": "h264",
+      "pix_fmt": "yuv420p",
+      "width": 720,
+      "height": 900,
+      "r_frame_rate": "60/1",
+      "duration": "3.000000",
+      "profile": "High"
+    },
+    {
+      "codec_type": "audio",
+      "codec_name": "aac",
+      "pix_fmt": null,
+      "width": null,
+      "height": null,
+      "r_frame_rate": "0/0",
+      "duration": "3.000000",
+      "profile": "LC"
+    }
+  ],
+  "reference-transparent-60.mov": [
+    {
+      "codec_type": "video",
+      "codec_name": "prores",
+      "pix_fmt": "yuva444p12le",
+      "width": 720,
+      "height": 900,
+      "r_frame_rate": "60/1",
+      "duration": "3.000000",
+      "profile": "4444"
+    },
+    {
+      "codec_type": "audio",
+      "codec_name": "pcm_s16le",
+      "pix_fmt": null,
+      "width": null,
+      "height": null,
+      "r_frame_rate": "0/0",
+      "duration": "3.000000",
+      "profile": null
+    }
+  ]
+}

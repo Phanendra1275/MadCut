@@ -1,0 +1,66 @@
+{
+  "id": "template_030",
+  "name": "Butter Up",
+  "originalFile": "Butter Up.mogrt",
+  "file": "/templates/030.mogrt",
+  "preview": "/template-previews/030.webp",
+  "sourcePreview": "/template-previews/030.source.webp",
+  "category": "Original",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "a6654920-106a-44b6-8c30-e7d0714a663b",
+      "type": 6,
+      "name": "Butter Up",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Butter Up"
+          }
+        ]
+      },
+      "font": "Satisfy-Regular"
+    }
+  ],
+  "capsuleId": "e432b54e-4237-49e8-9174-4ca81d15beed",
+  "renderMode": "web-equivalent",
+  "webPreset": "Butter Up",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Satisfy-Regular → Satisfy; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ffffff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Satisfy-Regular",
+      "webFont": "Satisfy",
+      "status": "bundled"
+    }
+  ]
+}

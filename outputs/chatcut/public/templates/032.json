@@ -1,0 +1,128 @@
+{
+  "id": "template_032",
+  "name": "Ocean Waves",
+  "originalFile": "Ocean Waves.mogrt",
+  "file": "/templates/032.mogrt",
+  "preview": "/template-previews/032.webp",
+  "sourcePreview": "/template-previews/032.source.webp",
+  "category": "Dynamic",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "1b73a5bd-07f3-403c-b335-7f9e71fc4110",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        0,
+        0.886274516582489,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "8d18d48c-8234-4bd8-8b0b-42b8b2f4a062",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "a83a0801-bf84-4740-b567-a261b117c215",
+      "type": 6,
+      "name": "Bhanu",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Ocean"
+          }
+        ]
+      },
+      "font": "Poppins-Bold"
+    },
+    {
+      "id": "ef4d8d99-480b-463f-bd1d-44f83cde9610",
+      "type": 4,
+      "name": "Gradient Ramp Start Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "2052fba0-147e-4cd9-8c8f-e31a52079570",
+      "type": 4,
+      "name": "Gradient Ramp End Color",
+      "value": [
+        0,
+        0.886274516582489,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "b22e8de8-6b96-4115-b58c-0e6dc1185b21",
+      "type": 6,
+      "name": "Prakash",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "Waves"
+          }
+        ]
+      },
+      "font": "Poppins-Bold"
+    }
+  ],
+  "capsuleId": "bab86cf7-c370-4a3f-89ee-22adf0ddee21",
+  "renderMode": "web-equivalent",
+  "webPreset": "Ocean Waves",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Poppins-Bold → Poppins Bold; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#00e2ff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Poppins-Bold",
+      "webFont": "Poppins Bold",
+      "status": "bundled"
+    }
+  ]
+}

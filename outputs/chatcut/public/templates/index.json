@@ -1,0 +1,5815 @@
+[
+  {
+    "id": "template_001",
+    "name": "Left Blure Slide new",
+    "originalFile": "Left Blure Slide new.mogrt",
+    "file": "/templates/001.mogrt",
+    "preview": "/template-previews/001.webp",
+    "sourcePreview": "/template-previews/001.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e",
+          "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+        ],
+        "font": null
+      },
+      {
+        "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "type": 5,
+        "name": "Animator 1 Position",
+        "value": {
+          "x": 100,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "type": 13,
+        "name": "Animation Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "247801ff-30a2-41cd-b8ed-550fc3016ad3",
+        "type": 2,
+        "name": "blure",
+        "value": 50,
+        "font": null
+      },
+      {
+        "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ],
+        "font": null
+      },
+      {
+        "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        },
+        "font": null
+      },
+      {
+        "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "310cee93-2580-4d92-b768-fb340596eef4",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "443ba02a-fdec-4445-85a4-9b07628797cd",
+    "renderMode": "web-equivalent",
+    "webPreset": "Left Blur Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_002",
+    "name": "Premium Text",
+    "originalFile": "Premium Text.mogrt",
+    "file": "/templates/002.mogrt",
+    "preview": "/template-previews/002.webp",
+    "sourcePreview": "/template-previews/002.source.webp",
+    "category": "Bold",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "24347e10-bf3c-48e1-b189-6a1474f1ffde",
+        "type": 6,
+        "name": "Change your text Here",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Follow Me !"
+            }
+          ]
+        },
+        "font": "SFUIText-Heavy"
+      },
+      {
+        "id": "eaa7d42c-5d4f-43b1-b505-da8b0284d9f1",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "23b7072d-ba8f-4740-9b35-127d10d5e648",
+        "type": 2,
+        "name": "Deep Glow Radius",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "ee4a78ac-4f90-4224-bd47-3a71cbabde99",
+        "type": 2,
+        "name": "Deep Glow Exposure",
+        "value": 0.0749063670411985,
+        "font": null
+      },
+      {
+        "id": "3fbf6cd8-fb30-45b1-b3a5-f20522ac1a7c",
+        "type": 5,
+        "name": "CC Light Sweep Center",
+        "value": {
+          "x": 2986,
+          "y": 5216
+        },
+        "font": null
+      },
+      {
+        "id": "5667a534-2cb9-4616-875f-0674ce6c5570",
+        "type": 3,
+        "name": "CC Light Sweep Direction",
+        "value": -30,
+        "font": null
+      },
+      {
+        "id": "ed9b9857-e3ea-4184-88b9-c4f781f3f8f0",
+        "type": 2,
+        "name": "CC Light Sweep Width",
+        "value": 118,
+        "font": null
+      },
+      {
+        "id": "c7b0aa1b-fa33-4e01-9f15-92f9a7e4cd1a",
+        "type": 4,
+        "name": "CC Light Sweep Light Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "6368eea0-70a0-4f0b-a603-d166a3d826ed",
+        "type": 13,
+        "name": "CC Light Sweep Shape",
+        "value": 2,
+        "font": null
+      },
+      {
+        "id": "6d1bb6e7-145b-4cd3-97d1-2425b517596d",
+        "type": 2,
+        "name": "Drop Shadow Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "2ea2806e-c6c1-4507-afbb-70c99ae007e2",
+    "renderMode": "web-equivalent",
+    "webPreset": "Premium Text",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "SFUIText-Heavy → Inter Black; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ff0000",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ff0000"
+    },
+    "fonts": [
+      {
+        "required": "SFUIText-Heavy",
+        "webFont": "Inter Black",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_003",
+    "name": "Right Bounce slide",
+    "originalFile": "Right Bounce slide .mogrt",
+    "file": "/templates/003.mogrt",
+    "preview": "/template-previews/003.webp",
+    "sourcePreview": "/template-previews/003.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": -100,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "b6a5bb19-ecbd-4e70-bc36-2e5da44b5ad7",
+    "renderMode": "web-equivalent",
+    "webPreset": "Right Bounce Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_004",
+    "name": "Down Blure Slide new",
+    "originalFile": "Down Blure Slide new.mogrt",
+    "file": "/templates/004.mogrt",
+    "preview": "/template-previews/004.webp",
+    "sourcePreview": "/template-previews/004.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e",
+          "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+        ],
+        "font": null
+      },
+      {
+        "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "type": 5,
+        "name": "Animator 1 Position",
+        "value": {
+          "x": 0,
+          "y": -100
+        },
+        "font": null
+      },
+      {
+        "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "type": 13,
+        "name": "Animation Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "247801ff-30a2-41cd-b8ed-550fc3016ad3",
+        "type": 2,
+        "name": "blure",
+        "value": 50,
+        "font": null
+      },
+      {
+        "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ],
+        "font": null
+      },
+      {
+        "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        },
+        "font": null
+      },
+      {
+        "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "310cee93-2580-4d92-b768-fb340596eef4",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "c509fbf3-89b3-4d7b-bb8c-ff4615aa4d83",
+    "renderMode": "web-equivalent",
+    "webPreset": "Down Blur Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_005",
+    "name": "Up Bounce shrink slide",
+    "originalFile": "Up Bounce shrink slide .mogrt",
+    "file": "/templates/005.mogrt",
+    "preview": "/template-previews/005.webp",
+    "sourcePreview": "/template-previews/005.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": 0,
+          "y": 100
+        },
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "0bb23bb4-532b-40a8-ac06-4b7d8d9f6298",
+    "renderMode": "web-equivalent",
+    "webPreset": "Up Bounce Shrink",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_006",
+    "name": "Left Bounce slide",
+    "originalFile": "Left Bounce slide .mogrt",
+    "file": "/templates/006.mogrt",
+    "preview": "/template-previews/006.webp",
+    "sourcePreview": "/template-previews/006.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": 100,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "88f12fb3-1e2d-42bc-8c9b-34caf1386a35",
+    "renderMode": "web-equivalent",
+    "webPreset": "Left Bounce Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_007",
+    "name": "Right Blure Slide new",
+    "originalFile": "Right Blure Slide new.mogrt",
+    "file": "/templates/007.mogrt",
+    "preview": "/template-previews/007.webp",
+    "sourcePreview": "/template-previews/007.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e",
+          "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+        ],
+        "font": null
+      },
+      {
+        "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "type": 5,
+        "name": "Animator 1 Position",
+        "value": {
+          "x": -100,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "type": 13,
+        "name": "Animation Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "247801ff-30a2-41cd-b8ed-550fc3016ad3",
+        "type": 2,
+        "name": "blure",
+        "value": 50,
+        "font": null
+      },
+      {
+        "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ],
+        "font": null
+      },
+      {
+        "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        },
+        "font": null
+      },
+      {
+        "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "310cee93-2580-4d92-b768-fb340596eef4",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "dc45bfd7-251b-4f3e-afa0-168ffb4c8dde",
+    "renderMode": "web-equivalent",
+    "webPreset": "Right Blur Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_008",
+    "name": "Santhosham",
+    "originalFile": "Santhosham.mogrt",
+    "file": "/templates/008.mogrt",
+    "preview": "/template-previews/008.webp",
+    "sourcePreview": "/template-previews/008.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "da69a8f1-5429-4027-b653-e78af4798ff2",
+        "type": 6,
+        "name": "Santhosham",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Santhosham"
+            }
+          ]
+        },
+        "font": "Coolvetica-Regular"
+      },
+      {
+        "id": "79b8107b-35a7-40c8-b989-26d4fd13e9fb",
+        "type": 5,
+        "name": "Santhosham Position",
+        "value": {
+          "x": 498,
+          "y": 604
+        },
+        "font": null
+      },
+      {
+        "id": "a93f24b1-3181-468b-aac0-34190d84927b",
+        "type": 9,
+        "name": "Santhosham Scale",
+        "value": [
+          188.82724826352015,
+          188.82724826352015,
+          188.82724826352015
+        ],
+        "font": null
+      },
+      {
+        "id": "7f7cbda4-d627-42a1-9ebe-905adb039db0",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "a9aebe3e-daea-44db-9709-3c204abb7183",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      }
+    ],
+    "capsuleId": "1cf2fa47-8cf6-49b2-b666-8c849d293c61",
+    "renderMode": "web-equivalent",
+    "webPreset": "Santhosham",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Coolvetica-Regular → Poppins Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Regular",
+        "webFont": "Poppins Bold",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_009",
+    "name": "Left Slide new",
+    "originalFile": "Left Slide new.mogrt",
+    "file": "/templates/009.mogrt",
+    "preview": "/template-previews/009.webp",
+    "sourcePreview": "/template-previews/009.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e"
+        ],
+        "font": null
+      },
+      {
+        "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "type": 5,
+        "name": "Animator 1 Position",
+        "value": {
+          "x": 100,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "type": 13,
+        "name": "Animation Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ],
+        "font": null
+      },
+      {
+        "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        },
+        "font": null
+      },
+      {
+        "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100
+        ],
+        "font": null
+      },
+      {
+        "id": "310cee93-2580-4d92-b768-fb340596eef4",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "5922bed0-688e-4bc5-b711-6829db5e90cb",
+    "renderMode": "web-equivalent",
+    "webPreset": "Left Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_010",
+    "name": "Right Bounce Expend slide",
+    "originalFile": "Right Bounce Expend slide .mogrt",
+    "file": "/templates/010.mogrt",
+    "preview": "/template-previews/010.webp",
+    "sourcePreview": "/template-previews/010.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+          "28d1e029-99f6-44ec-9c87-6ef838048601"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": -100,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "28d1e029-99f6-44ec-9c87-6ef838048601",
+        "type": 9,
+        "name": "Animator Scale",
+        "value": [
+          0,
+          100,
+          100
+        ],
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "4b6d9f0e-b6cb-441b-9932-15bbeeea4c12",
+    "renderMode": "web-equivalent",
+    "webPreset": "Right Bounce Expand",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_011",
+    "name": "Up Slide new",
+    "originalFile": "Up Slide new.mogrt",
+    "file": "/templates/011.mogrt",
+    "preview": "/template-previews/011.webp",
+    "sourcePreview": "/template-previews/011.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e"
+        ],
+        "font": null
+      },
+      {
+        "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "type": 5,
+        "name": "Animator 1 Position",
+        "value": {
+          "x": 0,
+          "y": 100
+        },
+        "font": null
+      },
+      {
+        "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "type": 13,
+        "name": "Animation Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ],
+        "font": null
+      },
+      {
+        "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        },
+        "font": null
+      },
+      {
+        "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100
+        ],
+        "font": null
+      },
+      {
+        "id": "310cee93-2580-4d92-b768-fb340596eef4",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "214071b3-95ec-4433-9842-e549cc8cc191",
+    "renderMode": "web-equivalent",
+    "webPreset": "Up Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_012",
+    "name": "down Bounce shrink slide",
+    "originalFile": "down Bounce shrink slide .mogrt",
+    "file": "/templates/012.mogrt",
+    "preview": "/template-previews/012.webp",
+    "sourcePreview": "/template-previews/012.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": 0,
+          "y": -100
+        },
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "f5500523-46e7-46ea-9441-e7014f7006aa",
+    "renderMode": "web-equivalent",
+    "webPreset": "Down Bounce Shrink",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_013",
+    "name": "Premium Text Without Animation",
+    "originalFile": "Premium Text Without Animation.mogrt",
+    "file": "/templates/013.mogrt",
+    "preview": "/template-previews/013.webp",
+    "sourcePreview": "/template-previews/013.source.webp",
+    "category": "Bold",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "24347e10-bf3c-48e1-b189-6a1474f1ffde",
+        "type": 6,
+        "name": "Change your text Here",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Follow Me !"
+            }
+          ]
+        },
+        "font": "SFUIText-Heavy"
+      },
+      {
+        "id": "eaa7d42c-5d4f-43b1-b505-da8b0284d9f1",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "23b7072d-ba8f-4740-9b35-127d10d5e648",
+        "type": 2,
+        "name": "Deep Glow Radius",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "ee4a78ac-4f90-4224-bd47-3a71cbabde99",
+        "type": 2,
+        "name": "Deep Glow Exposure",
+        "value": 0.0749063670411985,
+        "font": null
+      },
+      {
+        "id": "3fbf6cd8-fb30-45b1-b3a5-f20522ac1a7c",
+        "type": 5,
+        "name": "CC Light Sweep Center",
+        "value": {
+          "x": 2986,
+          "y": 5216
+        },
+        "font": null
+      },
+      {
+        "id": "5667a534-2cb9-4616-875f-0674ce6c5570",
+        "type": 3,
+        "name": "CC Light Sweep Direction",
+        "value": -30,
+        "font": null
+      },
+      {
+        "id": "ed9b9857-e3ea-4184-88b9-c4f781f3f8f0",
+        "type": 2,
+        "name": "CC Light Sweep Width",
+        "value": 118,
+        "font": null
+      },
+      {
+        "id": "c7b0aa1b-fa33-4e01-9f15-92f9a7e4cd1a",
+        "type": 4,
+        "name": "CC Light Sweep Light Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "6368eea0-70a0-4f0b-a603-d166a3d826ed",
+        "type": 13,
+        "name": "CC Light Sweep Shape",
+        "value": 2,
+        "font": null
+      },
+      {
+        "id": "6d1bb6e7-145b-4cd3-97d1-2425b517596d",
+        "type": 2,
+        "name": "Drop Shadow Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "287ffca5-05c1-460b-a909-302f3467659f",
+    "renderMode": "web-equivalent",
+    "webPreset": "Premium Text Without Animation",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "SFUIText-Heavy → Inter Black; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ff0000",
+    "defaults": {
+      "entry": "Auto",
+      "motion": false,
+      "color": "#ff0000"
+    },
+    "fonts": [
+      {
+        "required": "SFUIText-Heavy",
+        "webFont": "Inter Black",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_014",
+    "name": "Jitter Shine Text Effect",
+    "originalFile": "Jitter Shine Text Effect.mogrt",
+    "file": "/templates/014.mogrt",
+    "preview": "/template-previews/014.webp",
+    "sourcePreview": "/template-previews/014.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "14b4298e-42f7-4b3d-9b21-6dd057a5a174",
+        "type": 6,
+        "name": "Text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "TheCine"
+            }
+          ]
+        },
+        "font": "Inter-Black"
+      },
+      {
+        "id": "51412c2f-2328-4fb9-94dc-8116c186808f",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          0.3766544461250305,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "943f5a1f-d0a6-4436-b338-4b7da7936626",
+        "type": 2,
+        "name": "Character Spacing",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "16c9b6d8-582e-4508-9e15-b633aec521f3",
+        "type": 2,
+        "name": "Line Spacing (For More Than 1 Line)",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "a561e8be-6f6f-4380-9af3-e9bc761d6ed2",
+        "type": 10,
+        "name": "Glow",
+        "value": [
+          "c97cc4ae-c765-4f38-8194-b91c8c3b5adb",
+          "243c5733-5721-4cf7-95aa-351e627af138"
+        ],
+        "font": null
+      },
+      {
+        "id": "c97cc4ae-c765-4f38-8194-b91c8c3b5adb",
+        "type": 2,
+        "name": "Glow Intensity",
+        "value": 0.7000000000000001,
+        "font": null
+      },
+      {
+        "id": "243c5733-5721-4cf7-95aa-351e627af138",
+        "type": 2,
+        "name": "Glow Radius",
+        "value": 56.5,
+        "font": null
+      },
+      {
+        "id": "d3df7605-6234-4af8-bab9-6b2f43292bb2",
+        "type": 10,
+        "name": "#1 Shine Effect",
+        "value": [
+          "caffc51b-785d-4099-81e5-a90e61e3d90d",
+          "66ce2e29-a7aa-4492-a4c5-0ebd67f0b4dd",
+          "f2b27f03-1d06-4020-9ec3-d810396458ca",
+          "08179c02-976c-487b-80b7-eca194fc9cb5",
+          "53720270-357e-4c99-926d-17ed56d7e9e9",
+          "ea625eee-dff7-44a9-9074-4a3e90bc3cf0",
+          "3a410617-cec8-4757-8bc9-032029287387",
+          "009b8324-bb15-4fea-af4d-90d7ae3fde0a"
+        ],
+        "font": null
+      },
+      {
+        "id": "66ce2e29-a7aa-4492-a4c5-0ebd67f0b4dd",
+        "type": 4,
+        "name": "#1 Light Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "caffc51b-785d-4099-81e5-a90e61e3d90d",
+        "type": 5,
+        "name": "#1 Position",
+        "value": {
+          "x": 652.7777777777778,
+          "y": 438
+        },
+        "font": null
+      },
+      {
+        "id": "f2b27f03-1d06-4020-9ec3-d810396458ca",
+        "type": 3,
+        "name": "#1 Angle",
+        "value": 135,
+        "font": null
+      },
+      {
+        "id": "08179c02-976c-487b-80b7-eca194fc9cb5",
+        "type": 13,
+        "name": "#1 Shape Of Beam",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "53720270-357e-4c99-926d-17ed56d7e9e9",
+        "type": 2,
+        "name": "#1 Width",
+        "value": 24.8,
+        "font": null
+      },
+      {
+        "id": "ea625eee-dff7-44a9-9074-4a3e90bc3cf0",
+        "type": 2,
+        "name": "#1 Shine Intensity",
+        "value": 4.800000000000001,
+        "font": null
+      },
+      {
+        "id": "3a410617-cec8-4757-8bc9-032029287387",
+        "type": 2,
+        "name": "#1 Edge Intensity",
+        "value": 41.800000000000004,
+        "font": null
+      },
+      {
+        "id": "009b8324-bb15-4fea-af4d-90d7ae3fde0a",
+        "type": 2,
+        "name": "#1 Edge Thickness",
+        "value": 4.2,
+        "font": null
+      },
+      {
+        "id": "09f81301-1f99-4217-8199-dc849177128c",
+        "type": 10,
+        "name": "#2 Shine Effect",
+        "value": [
+          "c1932288-5336-440b-8cd3-0293c745553f",
+          "d9771cf7-c7fe-4813-8ee9-133c75972e8d",
+          "7bc62c67-f058-4a18-bd4c-62f7c8cee664",
+          "2c80b36b-f862-4887-9a2b-a27796e6d75e",
+          "3b05d981-450d-4784-bc90-5202b00f3273",
+          "d6bd7fbe-103c-4052-a646-fdef60f3ffd8",
+          "f9171811-ae21-4ab2-88c4-a3e54087306c",
+          "d36a5575-7eea-4bd4-8426-ab928a0757e9"
+        ],
+        "font": null
+      },
+      {
+        "id": "c1932288-5336-440b-8cd3-0293c745553f",
+        "type": 4,
+        "name": "#2 Light Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "d9771cf7-c7fe-4813-8ee9-133c75972e8d",
+        "type": 5,
+        "name": "#2 Position",
+        "value": {
+          "x": 1208,
+          "y": 546
+        },
+        "font": null
+      },
+      {
+        "id": "7bc62c67-f058-4a18-bd4c-62f7c8cee664",
+        "type": 3,
+        "name": "#2 Angle",
+        "value": -24,
+        "font": null
+      },
+      {
+        "id": "2c80b36b-f862-4887-9a2b-a27796e6d75e",
+        "type": 13,
+        "name": "#2 Shape Of Beam",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "3b05d981-450d-4784-bc90-5202b00f3273",
+        "type": 2,
+        "name": "#2 Width",
+        "value": 24.400000000000002,
+        "font": null
+      },
+      {
+        "id": "d6bd7fbe-103c-4052-a646-fdef60f3ffd8",
+        "type": 2,
+        "name": "#2 Shine Intensity",
+        "value": 4.9,
+        "font": null
+      },
+      {
+        "id": "f9171811-ae21-4ab2-88c4-a3e54087306c",
+        "type": 2,
+        "name": "#2 Edge Intensity",
+        "value": 46.300000000000004,
+        "font": null
+      },
+      {
+        "id": "d36a5575-7eea-4bd4-8426-ab928a0757e9",
+        "type": 2,
+        "name": "#2 Edge Thickness",
+        "value": 4.4,
+        "font": null
+      },
+      {
+        "id": "c28ca863-c2cf-4a64-9c7a-936277e865bf",
+        "type": 8,
+        "name": "Comment",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Created by @The.cinecut"
+            }
+          ]
+        },
+        "font": null
+      }
+    ],
+    "capsuleId": "a20892bf-98d7-40df-8a7a-3775435802b6",
+    "renderMode": "web-equivalent",
+    "webPreset": "Jitter Shine",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Inter-Black → Inter Black; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ff6000",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Inter-Black",
+        "webFont": "Inter Black",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_015",
+    "name": "Static Shine Text Effect",
+    "originalFile": "Static Shine Text Effect.mogrt",
+    "file": "/templates/015.mogrt",
+    "preview": "/template-previews/015.webp",
+    "sourcePreview": "/template-previews/015.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "14b4298e-42f7-4b3d-9b21-6dd057a5a174",
+        "type": 6,
+        "name": "Text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "TheCine"
+            }
+          ]
+        },
+        "font": "Inter-Black"
+      },
+      {
+        "id": "51412c2f-2328-4fb9-94dc-8116c186808f",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          0.3766544461250305,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "943f5a1f-d0a6-4436-b338-4b7da7936626",
+        "type": 2,
+        "name": "Character Spacing",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "16c9b6d8-582e-4508-9e15-b633aec521f3",
+        "type": 2,
+        "name": "Line Spacing (For More Than 1 Line)",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "a561e8be-6f6f-4380-9af3-e9bc761d6ed2",
+        "type": 10,
+        "name": "Glow",
+        "value": [
+          "c97cc4ae-c765-4f38-8194-b91c8c3b5adb",
+          "243c5733-5721-4cf7-95aa-351e627af138"
+        ],
+        "font": null
+      },
+      {
+        "id": "c97cc4ae-c765-4f38-8194-b91c8c3b5adb",
+        "type": 2,
+        "name": "Glow Intensity",
+        "value": 0.7000000000000001,
+        "font": null
+      },
+      {
+        "id": "243c5733-5721-4cf7-95aa-351e627af138",
+        "type": 2,
+        "name": "Glow Radius",
+        "value": 56.5,
+        "font": null
+      },
+      {
+        "id": "d3df7605-6234-4af8-bab9-6b2f43292bb2",
+        "type": 10,
+        "name": "#1 Shine Effect",
+        "value": [
+          "caffc51b-785d-4099-81e5-a90e61e3d90d",
+          "66ce2e29-a7aa-4492-a4c5-0ebd67f0b4dd",
+          "f2b27f03-1d06-4020-9ec3-d810396458ca",
+          "08179c02-976c-487b-80b7-eca194fc9cb5",
+          "53720270-357e-4c99-926d-17ed56d7e9e9",
+          "ea625eee-dff7-44a9-9074-4a3e90bc3cf0",
+          "3a410617-cec8-4757-8bc9-032029287387",
+          "009b8324-bb15-4fea-af4d-90d7ae3fde0a"
+        ],
+        "font": null
+      },
+      {
+        "id": "66ce2e29-a7aa-4492-a4c5-0ebd67f0b4dd",
+        "type": 4,
+        "name": "#1 Light Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "caffc51b-785d-4099-81e5-a90e61e3d90d",
+        "type": 5,
+        "name": "#1 Position",
+        "value": {
+          "x": 652.7777777777778,
+          "y": 438
+        },
+        "font": null
+      },
+      {
+        "id": "f2b27f03-1d06-4020-9ec3-d810396458ca",
+        "type": 3,
+        "name": "#1 Angle",
+        "value": 135,
+        "font": null
+      },
+      {
+        "id": "08179c02-976c-487b-80b7-eca194fc9cb5",
+        "type": 13,
+        "name": "#1 Shape Of Beam",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "53720270-357e-4c99-926d-17ed56d7e9e9",
+        "type": 2,
+        "name": "#1 Width",
+        "value": 24.8,
+        "font": null
+      },
+      {
+        "id": "ea625eee-dff7-44a9-9074-4a3e90bc3cf0",
+        "type": 2,
+        "name": "#1 Shine Intensity",
+        "value": 4.800000000000001,
+        "font": null
+      },
+      {
+        "id": "3a410617-cec8-4757-8bc9-032029287387",
+        "type": 2,
+        "name": "#1 Edge Intensity",
+        "value": 41.800000000000004,
+        "font": null
+      },
+      {
+        "id": "009b8324-bb15-4fea-af4d-90d7ae3fde0a",
+        "type": 2,
+        "name": "#1 Edge Thickness",
+        "value": 4.2,
+        "font": null
+      },
+      {
+        "id": "09f81301-1f99-4217-8199-dc849177128c",
+        "type": 10,
+        "name": "#2 Shine Effect",
+        "value": [
+          "c1932288-5336-440b-8cd3-0293c745553f",
+          "d9771cf7-c7fe-4813-8ee9-133c75972e8d",
+          "7bc62c67-f058-4a18-bd4c-62f7c8cee664",
+          "2c80b36b-f862-4887-9a2b-a27796e6d75e",
+          "3b05d981-450d-4784-bc90-5202b00f3273",
+          "d6bd7fbe-103c-4052-a646-fdef60f3ffd8",
+          "f9171811-ae21-4ab2-88c4-a3e54087306c",
+          "d36a5575-7eea-4bd4-8426-ab928a0757e9"
+        ],
+        "font": null
+      },
+      {
+        "id": "c1932288-5336-440b-8cd3-0293c745553f",
+        "type": 4,
+        "name": "#2 Light Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "d9771cf7-c7fe-4813-8ee9-133c75972e8d",
+        "type": 5,
+        "name": "#2 Position",
+        "value": {
+          "x": 1208,
+          "y": 546
+        },
+        "font": null
+      },
+      {
+        "id": "7bc62c67-f058-4a18-bd4c-62f7c8cee664",
+        "type": 3,
+        "name": "#2 Angle",
+        "value": -24,
+        "font": null
+      },
+      {
+        "id": "2c80b36b-f862-4887-9a2b-a27796e6d75e",
+        "type": 13,
+        "name": "#2 Shape Of Beam",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "3b05d981-450d-4784-bc90-5202b00f3273",
+        "type": 2,
+        "name": "#2 Width",
+        "value": 24.400000000000002,
+        "font": null
+      },
+      {
+        "id": "d6bd7fbe-103c-4052-a646-fdef60f3ffd8",
+        "type": 2,
+        "name": "#2 Shine Intensity",
+        "value": 4.9,
+        "font": null
+      },
+      {
+        "id": "f9171811-ae21-4ab2-88c4-a3e54087306c",
+        "type": 2,
+        "name": "#2 Edge Intensity",
+        "value": 46.300000000000004,
+        "font": null
+      },
+      {
+        "id": "d36a5575-7eea-4bd4-8426-ab928a0757e9",
+        "type": 2,
+        "name": "#2 Edge Thickness",
+        "value": 4.4,
+        "font": null
+      },
+      {
+        "id": "8c7795be-b466-4633-976a-1dfff8d76209",
+        "type": 8,
+        "name": "Comment",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Created by @The.cinecut"
+            }
+          ]
+        },
+        "font": null
+      }
+    ],
+    "capsuleId": "4018a78b-6382-4150-ad53-7832f66f3cf5",
+    "renderMode": "web-equivalent",
+    "webPreset": "Static Shine",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Inter-Black → Inter Black; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ff6000",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Inter-Black",
+        "webFont": "Inter Black",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_016",
+    "name": "Up Blure Slide new",
+    "originalFile": "Up Blure Slide new.mogrt",
+    "file": "/templates/016.mogrt",
+    "preview": "/template-previews/016.webp",
+    "sourcePreview": "/template-previews/016.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e",
+          "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+        ],
+        "font": null
+      },
+      {
+        "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "type": 5,
+        "name": "Animator 1 Position",
+        "value": {
+          "x": 0,
+          "y": 100
+        },
+        "font": null
+      },
+      {
+        "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "type": 13,
+        "name": "Animation Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "247801ff-30a2-41cd-b8ed-550fc3016ad3",
+        "type": 2,
+        "name": "blure",
+        "value": 50,
+        "font": null
+      },
+      {
+        "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ],
+        "font": null
+      },
+      {
+        "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        },
+        "font": null
+      },
+      {
+        "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "310cee93-2580-4d92-b768-fb340596eef4",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "785a1579-04b9-430c-bc01-c8f0dcb58d8d",
+    "renderMode": "web-equivalent",
+    "webPreset": "Up Blur Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_017",
+    "name": "Left Bounce Expend slide",
+    "originalFile": "Left Bounce Expend slide .mogrt",
+    "file": "/templates/017.mogrt",
+    "preview": "/template-previews/017.webp",
+    "sourcePreview": "/template-previews/017.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+          "28d1e029-99f6-44ec-9c87-6ef838048601"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": 100,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "28d1e029-99f6-44ec-9c87-6ef838048601",
+        "type": 9,
+        "name": "Animator Scale",
+        "value": [
+          0,
+          100,
+          100
+        ],
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "85295438-c9f9-4b6e-9a15-36ecc6612049",
+    "renderMode": "web-equivalent",
+    "webPreset": "Left Bounce Expand",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_018",
+    "name": "Gradient master blue",
+    "originalFile": "Gradient master blue.mogrt",
+    "file": "/templates/018.mogrt",
+    "preview": "/template-previews/018.webp",
+    "sourcePreview": "/template-previews/018.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "095de99e-3f64-48ec-8e27-3237f1f5567d",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "e1205a3e-12de-4f26-88f0-824fc4d95199",
+        "type": 4,
+        "name": "Change Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "f0a17931-717e-40a9-99c4-abc50813f94c",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+          "e79f8a7d-663a-4e61-8736-12df417608ac",
+          "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+          "9610d41e-0a3a-498a-8d25-63732b5addad"
+        ],
+        "font": null
+      },
+      {
+        "id": "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 0,
+          "y": 60
+        },
+        "font": null
+      },
+      {
+        "id": "e79f8a7d-663a-4e61-8736-12df417608ac",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "9610d41e-0a3a-498a-8d25-63732b5addad",
+        "type": 13,
+        "name": "Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "9e34c042-b2c9-4eb0-9727-b5cbaae43949",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+          "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+          "9b14c47d-82de-4f64-89b1-d791d756df8c",
+          "f11f1a64-153a-4579-b10d-3fa2c0f07774"
+        ],
+        "font": null
+      },
+      {
+        "id": "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          158.73015873015873
+        ],
+        "font": null
+      },
+      {
+        "id": "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "9b14c47d-82de-4f64-89b1-d791d756df8c",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "f11f1a64-153a-4579-b10d-3fa2c0f07774",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "dd1fd27a-3121-4980-a658-d59cd5940843",
+        "type": 10,
+        "name": "Glow",
+        "value": [
+          "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+          "5a851f79-61f2-40d0-b398-041074cc6ddf",
+          "e2422a8b-d652-46ad-8c55-fb02353c2aac"
+        ],
+        "font": null
+      },
+      {
+        "id": "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+        "type": 2,
+        "name": "Glow Threshold",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "e2422a8b-d652-46ad-8c55-fb02353c2aac",
+        "type": 2,
+        "name": "Glow Intensity",
+        "value": 0.7100000000000001,
+        "font": null
+      },
+      {
+        "id": "5a851f79-61f2-40d0-b398-041074cc6ddf",
+        "type": 2,
+        "name": "Glow Radius",
+        "value": 104,
+        "font": null
+      },
+      {
+        "id": "1261840d-57de-4dec-9ae4-710829c3d5db",
+        "type": 10,
+        "name": "Gradient / Light",
+        "value": [
+          "c165801c-8660-47ec-966d-5d024467eff6",
+          "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+          "31df61b5-d309-4453-ad15-5f173c216c35",
+          "77b1978f-ec84-471a-8d06-254003cd373a"
+        ],
+        "font": null
+      },
+      {
+        "id": "c165801c-8660-47ec-966d-5d024467eff6",
+        "type": 4,
+        "name": "Gradient Top Color",
+        "value": [
+          0,
+          0.7999997735023499,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+        "type": 4,
+        "name": "Gradient Bottom Color",
+        "value": [
+          0,
+          0.08673585951328278,
+          0.7372549176216125,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "31df61b5-d309-4453-ad15-5f173c216c35",
+        "type": 5,
+        "name": "CC Light Sweep Center",
+        "value": {
+          "x": 411,
+          "y": 964.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "77b1978f-ec84-471a-8d06-254003cd373a",
+        "type": 5,
+        "name": "CC Light Sweep 2 Center",
+        "value": {
+          "x": 728,
+          "y": 964.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "644d74c9-c47c-4d93-9e49-18236267c2d1",
+        "type": 10,
+        "name": "moving light sweep ",
+        "value": [
+          "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+          "d1752f82-3817-4f85-8f39-714244d61ef3",
+          "7a885555-5607-4dbd-a180-55dc1d003aac",
+          "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+          "9714c77f-058c-4a9f-93ee-4429e146210e",
+          "be66035e-d5ae-4759-bf30-f525c2b19f3d"
+        ],
+        "font": null
+      },
+      {
+        "id": "d1752f82-3817-4f85-8f39-714244d61ef3",
+        "type": 3,
+        "name": "Light Sweep  Direction",
+        "value": 29,
+        "font": null
+      },
+      {
+        "id": "be66035e-d5ae-4759-bf30-f525c2b19f3d",
+        "type": 2,
+        "name": "Light Sweep Width",
+        "value": 29,
+        "font": null
+      },
+      {
+        "id": "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+        "type": 2,
+        "name": "Light Sweep Intensity",
+        "value": 50,
+        "font": null
+      },
+      {
+        "id": "7a885555-5607-4dbd-a180-55dc1d003aac",
+        "type": 2,
+        "name": "Light Sweep edge Intensity",
+        "value": 150,
+        "font": null
+      },
+      {
+        "id": "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+        "type": 2,
+        "name": "Light Sweep Edge Thickness",
+        "value": 2.2000000000000006,
+        "font": null
+      },
+      {
+        "id": "9714c77f-058c-4a9f-93ee-4429e146210e",
+        "type": 4,
+        "name": "Light Sweep Light Color",
+        "value": [
+          1,
+          0.9803921580314636,
+          0.9411764740943909,
+          1
+        ],
+        "font": null
+      }
+    ],
+    "capsuleId": "6589f9a6-5f17-4eb2-a77e-b0f28621b2fb",
+    "renderMode": "web-equivalent",
+    "webPreset": "Gradient Blue",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_019",
+    "name": "Down Slide new",
+    "originalFile": "Down Slide new.mogrt",
+    "file": "/templates/019.mogrt",
+    "preview": "/template-previews/019.webp",
+    "sourcePreview": "/template-previews/019.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e"
+        ],
+        "font": null
+      },
+      {
+        "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "type": 5,
+        "name": "Animator 1 Position",
+        "value": {
+          "x": 0,
+          "y": -100
+        },
+        "font": null
+      },
+      {
+        "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "type": 13,
+        "name": "Animation Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ],
+        "font": null
+      },
+      {
+        "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        },
+        "font": null
+      },
+      {
+        "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100
+        ],
+        "font": null
+      },
+      {
+        "id": "310cee93-2580-4d92-b768-fb340596eef4",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "e5a70390-95d6-4814-825b-7b3c1eb876e5",
+    "renderMode": "web-equivalent",
+    "webPreset": "Down Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_020",
+    "name": "Up Bounce slide",
+    "originalFile": "Up Bounce slide .mogrt",
+    "file": "/templates/020.mogrt",
+    "preview": "/template-previews/020.webp",
+    "sourcePreview": "/template-previews/020.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": 0,
+          "y": 100
+        },
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "1c8cd225-855a-4131-aacb-f841bf580236",
+    "renderMode": "web-equivalent",
+    "webPreset": "Up Bounce Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_021",
+    "name": "Right Slide new",
+    "originalFile": "Right Slide new.mogrt",
+    "file": "/templates/021.mogrt",
+    "preview": "/template-previews/021.webp",
+    "sourcePreview": "/template-previews/021.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e"
+        ],
+        "font": null
+      },
+      {
+        "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "type": 5,
+        "name": "Animator 1 Position",
+        "value": {
+          "x": -100,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "type": 13,
+        "name": "Animation Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ],
+        "font": null
+      },
+      {
+        "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        },
+        "font": null
+      },
+      {
+        "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100
+        ],
+        "font": null
+      },
+      {
+        "id": "310cee93-2580-4d92-b768-fb340596eef4",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "4255102c-54eb-4766-a43e-b5dcda9b881f",
+    "renderMode": "web-equivalent",
+    "webPreset": "Right Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_022",
+    "name": "Coovetica Waving of",
+    "originalFile": "Coovetica Waving of.mogrt",
+    "file": "/templates/022.mogrt",
+    "preview": "/template-previews/022.webp",
+    "sourcePreview": "/template-previews/022.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "b8d9fc6b-490d-427b-a36f-40a9eee19b22",
+        "type": 6,
+        "name": "coolvetica",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "coolvetica"
+            }
+          ]
+        },
+        "font": "Poppins-ExtraBold"
+      },
+      {
+        "id": "252538df-1f26-4650-a06f-1a8b1bc4475e",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "fccb2115-45ef-4f46-86ae-490d8909f242",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "f0aeb7a9-5e67-40d0-88f1-8f79a77630af",
+        "type": 5,
+        "name": "Effects Position",
+        "value": {
+          "x": 960,
+          "y": 540
+        },
+        "font": null
+      },
+      {
+        "id": "c66a8c25-3ca2-4756-aebe-b6aeecf6270a",
+        "type": 2,
+        "name": "Effects Scale",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "27cf1568-2b6f-4fd9-a73b-e6d42eb19ebc",
+        "type": 6,
+        "name": "wavingof",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "wavingof"
+            }
+          ]
+        },
+        "font": "Poppins-ExtraBold"
+      },
+      {
+        "id": "e89a53d9-20dd-4605-b892-a91fccb26158",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "790e0b0b-8137-4825-ab6e-bf9cd7b4709d",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "5d92edc5-2f9b-4bc2-9eb4-abfcda915763",
+        "type": 5,
+        "name": "Effects Position",
+        "value": {
+          "x": 960,
+          "y": 540
+        },
+        "font": null
+      },
+      {
+        "id": "a35d88c9-866d-48d8-b93f-af7d22ace549",
+        "type": 2,
+        "name": "Effects Scale",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "259c2cf1-5aae-46f7-b24f-1789e6a886ff",
+    "renderMode": "web-equivalent",
+    "webPreset": "Coovetica Waving of",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Poppins-ExtraBold → Poppins ExtraBold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Poppins-ExtraBold",
+        "webFont": "Poppins ExtraBold",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_023",
+    "name": "Gradient master red",
+    "originalFile": "Gradient master red.mogrt",
+    "file": "/templates/023.mogrt",
+    "preview": "/template-previews/023.webp",
+    "sourcePreview": "/template-previews/023.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "095de99e-3f64-48ec-8e27-3237f1f5567d",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "e1205a3e-12de-4f26-88f0-824fc4d95199",
+        "type": 4,
+        "name": "Change Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "f0a17931-717e-40a9-99c4-abc50813f94c",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+          "e79f8a7d-663a-4e61-8736-12df417608ac",
+          "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+          "9610d41e-0a3a-498a-8d25-63732b5addad"
+        ],
+        "font": null
+      },
+      {
+        "id": "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 0,
+          "y": 60
+        },
+        "font": null
+      },
+      {
+        "id": "e79f8a7d-663a-4e61-8736-12df417608ac",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "9610d41e-0a3a-498a-8d25-63732b5addad",
+        "type": 13,
+        "name": "Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "9e34c042-b2c9-4eb0-9727-b5cbaae43949",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+          "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+          "9b14c47d-82de-4f64-89b1-d791d756df8c",
+          "f11f1a64-153a-4579-b10d-3fa2c0f07774"
+        ],
+        "font": null
+      },
+      {
+        "id": "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          158.73015873015873
+        ],
+        "font": null
+      },
+      {
+        "id": "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "9b14c47d-82de-4f64-89b1-d791d756df8c",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "f11f1a64-153a-4579-b10d-3fa2c0f07774",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "dd1fd27a-3121-4980-a658-d59cd5940843",
+        "type": 10,
+        "name": "Glow",
+        "value": [
+          "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+          "5a851f79-61f2-40d0-b398-041074cc6ddf",
+          "e2422a8b-d652-46ad-8c55-fb02353c2aac"
+        ],
+        "font": null
+      },
+      {
+        "id": "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+        "type": 2,
+        "name": "Glow Threshold",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "e2422a8b-d652-46ad-8c55-fb02353c2aac",
+        "type": 2,
+        "name": "Glow Intensity",
+        "value": 0.7100000000000001,
+        "font": null
+      },
+      {
+        "id": "5a851f79-61f2-40d0-b398-041074cc6ddf",
+        "type": 2,
+        "name": "Glow Radius",
+        "value": 104,
+        "font": null
+      },
+      {
+        "id": "1261840d-57de-4dec-9ae4-710829c3d5db",
+        "type": 10,
+        "name": "Gradient / Light",
+        "value": [
+          "c165801c-8660-47ec-966d-5d024467eff6",
+          "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+          "31df61b5-d309-4453-ad15-5f173c216c35",
+          "77b1978f-ec84-471a-8d06-254003cd373a"
+        ],
+        "font": null
+      },
+      {
+        "id": "c165801c-8660-47ec-966d-5d024467eff6",
+        "type": 4,
+        "name": "Gradient Top Color",
+        "value": [
+          1,
+          0.5712316036224365,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+        "type": 4,
+        "name": "Gradient Bottom Color",
+        "value": [
+          0.8588235378265381,
+          0.2333347648382187,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "31df61b5-d309-4453-ad15-5f173c216c35",
+        "type": 5,
+        "name": "CC Light Sweep Center",
+        "value": {
+          "x": 411,
+          "y": 964.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "77b1978f-ec84-471a-8d06-254003cd373a",
+        "type": 5,
+        "name": "CC Light Sweep 2 Center",
+        "value": {
+          "x": 728,
+          "y": 964.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "644d74c9-c47c-4d93-9e49-18236267c2d1",
+        "type": 10,
+        "name": "moving light sweep ",
+        "value": [
+          "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+          "d1752f82-3817-4f85-8f39-714244d61ef3",
+          "7a885555-5607-4dbd-a180-55dc1d003aac",
+          "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+          "9714c77f-058c-4a9f-93ee-4429e146210e",
+          "be66035e-d5ae-4759-bf30-f525c2b19f3d"
+        ],
+        "font": null
+      },
+      {
+        "id": "d1752f82-3817-4f85-8f39-714244d61ef3",
+        "type": 3,
+        "name": "Light Sweep  Direction",
+        "value": 29,
+        "font": null
+      },
+      {
+        "id": "be66035e-d5ae-4759-bf30-f525c2b19f3d",
+        "type": 2,
+        "name": "Light Sweep Width",
+        "value": 29,
+        "font": null
+      },
+      {
+        "id": "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+        "type": 2,
+        "name": "Light Sweep Intensity",
+        "value": 50,
+        "font": null
+      },
+      {
+        "id": "7a885555-5607-4dbd-a180-55dc1d003aac",
+        "type": 2,
+        "name": "Light Sweep edge Intensity",
+        "value": 150,
+        "font": null
+      },
+      {
+        "id": "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+        "type": 2,
+        "name": "Light Sweep Edge Thickness",
+        "value": 2.2000000000000006,
+        "font": null
+      },
+      {
+        "id": "9714c77f-058c-4a9f-93ee-4429e146210e",
+        "type": 4,
+        "name": "Light Sweep Light Color",
+        "value": [
+          1,
+          0.9803921580314636,
+          0.9411764740943909,
+          1
+        ],
+        "font": null
+      }
+    ],
+    "capsuleId": "6aaed906-a40b-4097-a4f8-6bda1ccc8ec0",
+    "renderMode": "web-equivalent",
+    "webPreset": "Gradient Red",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_024",
+    "name": "Down Bounce slide",
+    "originalFile": "Down Bounce slide .mogrt",
+    "file": "/templates/024.mogrt",
+    "preview": "/template-previews/024.webp",
+    "sourcePreview": "/template-previews/024.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": 0,
+          "y": -100
+        },
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "0e2bd839-1805-4915-8179-26b99be489e9",
+    "renderMode": "web-equivalent",
+    "webPreset": "Down Bounce Slide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_025",
+    "name": "Slide Collide",
+    "originalFile": "Slide Collide.mogrt",
+    "file": "/templates/025.mogrt",
+    "preview": "/template-previews/025.webp",
+    "sourcePreview": "/template-previews/025.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "7568f5c8-e85c-467c-8585-8d6f00136aa7",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0.16862745583057404,
+          0.0939023569226265,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "960d1b0d-e3b0-4453-ac1e-027584c20ba6",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          1,
+          0.5882352590560913,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "78399d6e-5d8d-41de-a931-a832454efe42",
+        "type": 2,
+        "name": "Effects Scale",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "66353d04-431d-4cbe-8ed5-6d72be8df7d6",
+        "type": 6,
+        "name": "Slide 2",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Slide"
+            }
+          ]
+        },
+        "font": "Coolvetica-Regular"
+      },
+      {
+        "id": "6f47aaaf-f5d1-4d65-a923-8a6d44bc1df0",
+        "type": 6,
+        "name": "Collide",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Collide"
+            }
+          ]
+        },
+        "font": "Vivaldii"
+      },
+      {
+        "id": "4afc03e6-347f-4257-926e-5abee8477bcf",
+        "type": 2,
+        "name": "Effects Scale",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "2cc9921c-35c7-4f21-aea7-c01c1ffffcb9",
+        "type": 5,
+        "name": "Effects Position",
+        "value": {
+          "x": 960,
+          "y": 540
+        },
+        "font": null
+      }
+    ],
+    "capsuleId": "10415ff1-a4f2-4c5c-9ec3-84591c379c44",
+    "renderMode": "web-equivalent",
+    "webPreset": "Slide Collide",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Coolvetica-Regular → Poppins Bold; Vivaldii → Vivaldi; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#2b1800",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Regular",
+        "webFont": "Poppins Bold",
+        "status": "substitute"
+      },
+      {
+        "required": "Vivaldii",
+        "webFont": "Vivaldi",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_026",
+    "name": "only flex bounce text",
+    "originalFile": "only flex bounce text.mogrt",
+    "file": "/templates/026.mogrt",
+    "preview": "/template-previews/026.webp",
+    "sourcePreview": "/template-previews/026.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "81ab1baf-a3ca-42c2-a940-5e99237bbda1",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "a32c6d8d-1c4d-4512-b84f-43a5f7634bf0",
+        "type": 4,
+        "name": "Fill Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "778c8b8b-33de-4bed-83f8-c286f6562779",
+        "type": 10,
+        "name": "Advance control",
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+          "28d1e029-99f6-44ec-9c87-6ef838048601"
+        ],
+        "font": null
+      },
+      {
+        "id": "d704b080-4a5c-4529-bd4a-37ad045ec817",
+        "type": 5,
+        "name": "Animator  Position",
+        "value": {
+          "x": 200,
+          "y": 0
+        },
+        "font": null
+      },
+      {
+        "id": "28d1e029-99f6-44ec-9c87-6ef838048601",
+        "type": 9,
+        "name": "Animator Scale",
+        "value": [
+          100,
+          0,
+          100
+        ],
+        "font": null
+      },
+      {
+        "id": "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+        "type": 13,
+        "name": "Based On",
+        "value": 1,
+        "font": null
+      },
+      {
+        "id": "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "c4a0ea66-9a87-4a55-98b3-b25f12aed439",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ],
+        "font": null
+      },
+      {
+        "id": "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 195.42542052268982,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ],
+        "font": null
+      },
+      {
+        "id": "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "20500b05-2a0a-47c0-9a44-980e0179145d",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "b8dfbcda-1586-4eef-ae19-7d4c2427b2a0",
+    "renderMode": "web-equivalent",
+    "webPreset": "Flex Bounce",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_027",
+    "name": "Gradient master red 2.0",
+    "originalFile": "Gradient master red 2.0.mogrt",
+    "file": "/templates/027.mogrt",
+    "preview": "/template-previews/027.webp",
+    "sourcePreview": "/template-previews/027.source.webp",
+    "category": "Highlight",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "095de99e-3f64-48ec-8e27-3237f1f5567d",
+        "type": 6,
+        "name": "Change text",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        },
+        "font": "Arial-BoldMT"
+      },
+      {
+        "id": "e1205a3e-12de-4f26-88f0-824fc4d95199",
+        "type": 4,
+        "name": "Change Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "f0a17931-717e-40a9-99c4-abc50813f94c",
+        "type": 10,
+        "name": "Advance Control",
+        "value": [
+          "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+          "e79f8a7d-663a-4e61-8736-12df417608ac",
+          "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+          "9610d41e-0a3a-498a-8d25-63732b5addad"
+        ],
+        "font": null
+      },
+      {
+        "id": "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 0,
+          "y": 60
+        },
+        "font": null
+      },
+      {
+        "id": "e79f8a7d-663a-4e61-8736-12df417608ac",
+        "type": 2,
+        "name": "Tracking",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+        "type": 2,
+        "name": "Animation Speed",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "9610d41e-0a3a-498a-8d25-63732b5addad",
+        "type": 13,
+        "name": "Based On",
+        "value": 3,
+        "font": null
+      },
+      {
+        "id": "9e34c042-b2c9-4eb0-9727-b5cbaae43949",
+        "type": 10,
+        "name": "Text control",
+        "value": [
+          "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+          "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+          "9b14c47d-82de-4f64-89b1-d791d756df8c",
+          "f11f1a64-153a-4579-b10d-3fa2c0f07774"
+        ],
+        "font": null
+      },
+      {
+        "id": "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+        "type": 9,
+        "name": "Scale",
+        "value": [
+          100,
+          100,
+          158.73015873015873
+        ],
+        "font": null
+      },
+      {
+        "id": "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+        "type": 5,
+        "name": "Position",
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "9b14c47d-82de-4f64-89b1-d791d756df8c",
+        "type": 3,
+        "name": "Rotation",
+        "value": 0,
+        "font": null
+      },
+      {
+        "id": "f11f1a64-153a-4579-b10d-3fa2c0f07774",
+        "type": 2,
+        "name": "Opacity",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "dd1fd27a-3121-4980-a658-d59cd5940843",
+        "type": 10,
+        "name": "Glow",
+        "value": [
+          "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+          "5a851f79-61f2-40d0-b398-041074cc6ddf",
+          "e2422a8b-d652-46ad-8c55-fb02353c2aac"
+        ],
+        "font": null
+      },
+      {
+        "id": "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+        "type": 2,
+        "name": "Glow Threshold",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "e2422a8b-d652-46ad-8c55-fb02353c2aac",
+        "type": 2,
+        "name": "Glow Intensity",
+        "value": 0.7100000000000001,
+        "font": null
+      },
+      {
+        "id": "5a851f79-61f2-40d0-b398-041074cc6ddf",
+        "type": 2,
+        "name": "Glow Radius",
+        "value": 104,
+        "font": null
+      },
+      {
+        "id": "1261840d-57de-4dec-9ae4-710829c3d5db",
+        "type": 10,
+        "name": "Gradient / Light",
+        "value": [
+          "c165801c-8660-47ec-966d-5d024467eff6",
+          "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+          "31df61b5-d309-4453-ad15-5f173c216c35",
+          "77b1978f-ec84-471a-8d06-254003cd373a"
+        ],
+        "font": null
+      },
+      {
+        "id": "c165801c-8660-47ec-966d-5d024467eff6",
+        "type": 4,
+        "name": "Gradient Top Color",
+        "value": [
+          1,
+          0.5712316036224365,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+        "type": 4,
+        "name": "Gradient Bottom Color",
+        "value": [
+          0.8588235378265381,
+          0.2333347648382187,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "31df61b5-d309-4453-ad15-5f173c216c35",
+        "type": 5,
+        "name": "CC Light Sweep Center",
+        "value": {
+          "x": 411,
+          "y": 964.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "77b1978f-ec84-471a-8d06-254003cd373a",
+        "type": 5,
+        "name": "CC Light Sweep 2 Center",
+        "value": {
+          "x": 728,
+          "y": 964.98876953125
+        },
+        "font": null
+      },
+      {
+        "id": "644d74c9-c47c-4d93-9e49-18236267c2d1",
+        "type": 10,
+        "name": "moving light sweep ",
+        "value": [
+          "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+          "d1752f82-3817-4f85-8f39-714244d61ef3",
+          "7a885555-5607-4dbd-a180-55dc1d003aac",
+          "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+          "9714c77f-058c-4a9f-93ee-4429e146210e",
+          "be66035e-d5ae-4759-bf30-f525c2b19f3d"
+        ],
+        "font": null
+      },
+      {
+        "id": "d1752f82-3817-4f85-8f39-714244d61ef3",
+        "type": 3,
+        "name": "Light Sweep  Direction",
+        "value": 29,
+        "font": null
+      },
+      {
+        "id": "be66035e-d5ae-4759-bf30-f525c2b19f3d",
+        "type": 2,
+        "name": "Light Sweep Width",
+        "value": 29,
+        "font": null
+      },
+      {
+        "id": "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+        "type": 2,
+        "name": "Light Sweep Intensity",
+        "value": 50,
+        "font": null
+      },
+      {
+        "id": "7a885555-5607-4dbd-a180-55dc1d003aac",
+        "type": 2,
+        "name": "Light Sweep edge Intensity",
+        "value": 150,
+        "font": null
+      },
+      {
+        "id": "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+        "type": 2,
+        "name": "Light Sweep Edge Thickness",
+        "value": 2.2000000000000006,
+        "font": null
+      },
+      {
+        "id": "9714c77f-058c-4a9f-93ee-4429e146210e",
+        "type": 4,
+        "name": "Light Sweep Light Color",
+        "value": [
+          1,
+          0.9803921580314636,
+          0.9411764740943909,
+          1
+        ],
+        "font": null
+      }
+    ],
+    "capsuleId": "947caa66-e6ea-4b92-b87e-2c42bd1637ea",
+    "renderMode": "web-equivalent",
+    "webPreset": "Gradient Red Orange",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Arial-BoldMT",
+        "webFont": "Arial Bold",
+        "status": "system"
+      }
+    ]
+  },
+  {
+    "id": "template_028",
+    "name": "Zoom In",
+    "originalFile": "Zoom In.mogrt",
+    "file": "/templates/028.mogrt",
+    "preview": "/template-previews/028.webp",
+    "sourcePreview": "/template-previews/028.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "c0041b9c-251a-48f3-80fe-36fce2702622",
+        "type": 6,
+        "name": "Zoomin",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Zoomin"
+            }
+          ]
+        },
+        "font": "Poppins-ExtraBold"
+      },
+      {
+        "id": "fa138472-c8e4-4b35-90ae-6e27ed371ccd",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          0,
+          0.8235293030738831,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "938451b2-eb74-44a7-be26-5a004c7fcb97",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0.2952709496021271,
+          0.7843137383460999,
+          1
+        ],
+        "font": null
+      }
+    ],
+    "capsuleId": "478581c0-4934-495a-b320-9cd9da7c11af",
+    "renderMode": "web-equivalent",
+    "webPreset": "Zoom In",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Poppins-ExtraBold → Poppins ExtraBold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#00d2ff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Poppins-ExtraBold",
+        "webFont": "Poppins ExtraBold",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_029",
+    "name": "Spinning Butter",
+    "originalFile": "Spinning Butter.mogrt",
+    "file": "/templates/029.mogrt",
+    "preview": "/template-previews/029.webp",
+    "sourcePreview": "/template-previews/029.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "fdf6a710-7049-4972-9923-5a6a470a5712",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "d94a0e20-8c68-4026-a019-6f681a072dc1",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "20b58928-c924-46de-9346-067582fde840",
+        "type": 6,
+        "name": "Spinning",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Spinning"
+            }
+          ]
+        },
+        "font": "Coolvetica-Regular"
+      },
+      {
+        "id": "a79ef84f-15c2-427a-8caa-ecb81446d1f2",
+        "type": 5,
+        "name": "Transform 2 Position",
+        "value": {
+          "x": 960,
+          "y": 540
+        },
+        "font": null
+      },
+      {
+        "id": "379eeae0-89e5-4608-a45c-ebcf8ec2fbcc",
+        "type": 2,
+        "name": "Transform 2 Scale",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "b13768c1-3afc-4b12-9f74-2c5197331c7e",
+        "type": 6,
+        "name": "Butter",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Butter"
+            }
+          ]
+        },
+        "font": "Coolvetica-Regular"
+      },
+      {
+        "id": "f736ba7c-3c5c-480b-b1fe-664110e771bc",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          0.6117647290229797,
+          0,
+          0.6117647290229797,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "62cf8572-6339-4180-9a05-794c9baba2b5",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "37d6451d-0052-4a09-8f4f-52ada1070c74",
+        "type": 5,
+        "name": "Transform 2 Position",
+        "value": {
+          "x": 960,
+          "y": 540
+        },
+        "font": null
+      },
+      {
+        "id": "38921003-45ab-4c78-98f5-ccbab10d6ecb",
+        "type": 2,
+        "name": "Transform 2 Scale",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "024fdb86-266c-4d8d-9a40-bce36559a904",
+    "renderMode": "web-equivalent",
+    "webPreset": "Spinning Butter",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Coolvetica-Regular → Poppins Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Regular",
+        "webFont": "Poppins Bold",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_030",
+    "name": "Butter Up",
+    "originalFile": "Butter Up.mogrt",
+    "file": "/templates/030.mogrt",
+    "preview": "/template-previews/030.webp",
+    "sourcePreview": "/template-previews/030.source.webp",
+    "category": "Original",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "a6654920-106a-44b6-8c30-e7d0714a663b",
+        "type": 6,
+        "name": "Butter Up",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Butter Up"
+            }
+          ]
+        },
+        "font": "Satisfy-Regular"
+      }
+    ],
+    "capsuleId": "e432b54e-4237-49e8-9174-4ca81d15beed",
+    "renderMode": "web-equivalent",
+    "webPreset": "Butter Up",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Satisfy-Regular → Satisfy; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Satisfy-Regular",
+        "webFont": "Satisfy",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_031",
+    "name": "cracked",
+    "originalFile": "cracked.mogrt",
+    "file": "/templates/031.mogrt",
+    "preview": "/template-previews/031.webp",
+    "sourcePreview": "/template-previews/031.source.webp",
+    "category": "Original",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "703ac11a-6f0c-4659-af1e-75b695f909c3",
+        "type": 6,
+        "name": "TXT",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "cracked"
+            }
+          ]
+        },
+        "font": "Coolvetica-Regular"
+      },
+      {
+        "id": "733e24c8-3bdc-4440-949c-8f5397ea3523",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "131b0c41-d8fd-4007-b698-f47a9e855f8c",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "a79eb48a-6c40-48ef-8a71-79c2b5122596",
+        "type": 5,
+        "name": "Effects Position",
+        "value": {
+          "x": 960,
+          "y": 540
+        },
+        "font": null
+      },
+      {
+        "id": "edecb2ee-912a-43f6-9a9c-f08b4c3b71e7",
+        "type": 2,
+        "name": "Effects Scale",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "0632b2b4-a201-42dd-aca8-bc18f3b9df5f",
+        "type": 2,
+        "name": "Stroke 1 Stroke Width",
+        "value": 50,
+        "font": null
+      }
+    ],
+    "capsuleId": "959d25b9-e5d5-47fd-8d22-3166e153e3d7",
+    "renderMode": "web-equivalent",
+    "webPreset": "cracked",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Coolvetica-Regular → Poppins Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Regular",
+        "webFont": "Poppins Bold",
+        "status": "substitute"
+      }
+    ]
+  },
+  {
+    "id": "template_032",
+    "name": "Ocean Waves",
+    "originalFile": "Ocean Waves.mogrt",
+    "file": "/templates/032.mogrt",
+    "preview": "/template-previews/032.webp",
+    "sourcePreview": "/template-previews/032.source.webp",
+    "category": "Dynamic",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "1b73a5bd-07f3-403c-b335-7f9e71fc4110",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          0,
+          0.886274516582489,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "8d18d48c-8234-4bd8-8b0b-42b8b2f4a062",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "a83a0801-bf84-4740-b567-a261b117c215",
+        "type": 6,
+        "name": "Bhanu",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Ocean"
+            }
+          ]
+        },
+        "font": "Poppins-Bold"
+      },
+      {
+        "id": "ef4d8d99-480b-463f-bd1d-44f83cde9610",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "2052fba0-147e-4cd9-8c8f-e31a52079570",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0.886274516582489,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "b22e8de8-6b96-4115-b58c-0e6dc1185b21",
+        "type": 6,
+        "name": "Prakash",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Waves"
+            }
+          ]
+        },
+        "font": "Poppins-Bold"
+      }
+    ],
+    "capsuleId": "bab86cf7-c370-4a3f-89ee-22adf0ddee21",
+    "renderMode": "web-equivalent",
+    "webPreset": "Ocean Waves",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Poppins-Bold → Poppins Bold; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#00e2ff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Poppins-Bold",
+        "webFont": "Poppins Bold",
+        "status": "bundled"
+      }
+    ]
+  },
+  {
+    "id": "template_033",
+    "name": "Rock Solidance",
+    "originalFile": "Rock Solidance.mogrt",
+    "file": "/templates/033.mogrt",
+    "preview": "/template-previews/033.webp",
+    "sourcePreview": "/template-previews/033.source.webp",
+    "category": "Original",
+    "aspectRatio": [
+      "9:16",
+      "16:9",
+      "1:1",
+      "4:5"
+    ],
+    "languages": [
+      "Telugu",
+      "Tenglish",
+      "English",
+      "Hindi",
+      "Hinglish"
+    ],
+    "properties": [
+      {
+        "id": "8b7fa065-abc6-4f50-b96c-67ae7a278b20",
+        "type": 6,
+        "name": "ROCK",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "ROCK"
+            }
+          ]
+        },
+        "font": "Coolvetica-Cond"
+      },
+      {
+        "id": "e1af73c4-23b4-42c7-9de3-4a9c87426bee",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "9dcca349-d2ea-4ce9-a558-87d4e1696c26",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "9e5221db-e871-4ae1-a096-89a3571264eb",
+        "type": 5,
+        "name": "Effects Position",
+        "value": {
+          "x": 960,
+          "y": 540
+        },
+        "font": null
+      },
+      {
+        "id": "422a1c4c-0837-487a-b56d-71541eb1f397",
+        "type": 2,
+        "name": "Effects Scale",
+        "value": 100,
+        "font": null
+      },
+      {
+        "id": "ba8ba5f0-a57f-4468-8ce7-4025794530fd",
+        "type": 6,
+        "name": "Solidance",
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Solidance"
+            }
+          ]
+        },
+        "font": "EdwardianScriptITC"
+      },
+      {
+        "id": "b6e88239-2210-4dee-99a2-9961ea3db11b",
+        "type": 4,
+        "name": "Gradient Ramp Start Color",
+        "value": [
+          0.2539331018924713,
+          0.6745098233222961,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "b68ba8f4-8447-4af5-932e-af1983140333",
+        "type": 4,
+        "name": "Gradient Ramp End Color",
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "font": null
+      },
+      {
+        "id": "613b0f09-257a-4c44-801c-2eac722fc98e",
+        "type": 5,
+        "name": "Effects Position",
+        "value": {
+          "x": 960,
+          "y": 540
+        },
+        "font": null
+      },
+      {
+        "id": "17329035-5290-4eb9-86a0-d39dd65016bd",
+        "type": 2,
+        "name": "Effects Scale",
+        "value": 100,
+        "font": null
+      }
+    ],
+    "capsuleId": "4d3a865d-bf38-49e0-aac0-c32fade45b42",
+    "renderMode": "web-equivalent",
+    "webPreset": "Rock Solidance",
+    "sample": "Nuvvu em chesthunnav?",
+    "label": "From your pack · web recreation",
+    "supportedProperties": [
+      "text",
+      "font",
+      "fontSize",
+      "fillColor",
+      "position",
+      "entryAnimation",
+      "animationDuration"
+    ],
+    "fontFallback": "Coolvetica-Cond → Anton; EdwardianScriptITC → Edwardian Script ITC; native script uses Noto Sans Telugu/Devanagari",
+    "accent": "#ffffff",
+    "defaults": {
+      "entry": "Auto",
+      "motion": true,
+      "color": "#ffffff"
+    },
+    "fonts": [
+      {
+        "required": "Coolvetica-Cond",
+        "webFont": "Anton",
+        "status": "substitute"
+      },
+      {
+        "required": "EdwardianScriptITC",
+        "webFont": "Edwardian Script ITC",
+        "status": "system"
+      }
+    ]
+  }
+]

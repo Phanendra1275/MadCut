@@ -1,0 +1,177 @@
+{
+  "id": "template_004",
+  "name": "Down Blure Slide new",
+  "originalFile": "Down Blure Slide new.mogrt",
+  "file": "/templates/004.mogrt",
+  "preview": "/template-previews/004.webp",
+  "sourcePreview": "/template-previews/004.source.webp",
+  "category": "Dynamic",
+  "aspectRatio": [
+    "9:16",
+    "16:9",
+    "1:1",
+    "4:5"
+  ],
+  "languages": [
+    "Telugu",
+    "Tenglish",
+    "English",
+    "Hindi",
+    "Hinglish"
+  ],
+  "properties": [
+    {
+      "id": "7ebc24a9-89ea-4815-b7a4-e84db6edd61b",
+      "type": 6,
+      "name": "Change text",
+      "value": {
+        "strDB": [
+          {
+            "localeString": "en_US",
+            "str": "jagat pal"
+          }
+        ]
+      },
+      "font": "Arial-BoldMT"
+    },
+    {
+      "id": "5b41f109-edbf-4621-be95-0f649ca21836",
+      "type": 4,
+      "name": "Fill Color",
+      "value": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "font": null
+    },
+    {
+      "id": "4bf89985-67a6-4c22-84f1-82ab369e6372",
+      "type": 10,
+      "name": "Advance Control",
+      "value": [
+        "b7358fe1-9ef6-4156-9886-6834d89c8406",
+        "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+        "be45dcef-05dd-4e15-994a-cb2acbfea724",
+        "7d195645-47b8-463d-8769-6a9e32b4a38e",
+        "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+      ],
+      "font": null
+    },
+    {
+      "id": "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+      "type": 5,
+      "name": "Animator 1 Position",
+      "value": {
+        "x": 0,
+        "y": -100
+      },
+      "font": null
+    },
+    {
+      "id": "be45dcef-05dd-4e15-994a-cb2acbfea724",
+      "type": 13,
+      "name": "Animation Based On",
+      "value": 3,
+      "font": null
+    },
+    {
+      "id": "b7358fe1-9ef6-4156-9886-6834d89c8406",
+      "type": 2,
+      "name": "Tracking",
+      "value": 0,
+      "font": null
+    },
+    {
+      "id": "7d195645-47b8-463d-8769-6a9e32b4a38e",
+      "type": 2,
+      "name": "Animation Speed",
+      "value": 100,
+      "font": null
+    },
+    {
+      "id": "247801ff-30a2-41cd-b8ed-550fc3016ad3",
+      "type": 2,
+      "name": "blure",
+      "value": 50,
+      "font": null
+    },
+    {
+      "id": "5966e864-0ee4-43a6-9783-b6df223eb3e9",
+      "type": 10,
+      "name": "Text control",
+      "value": [
+        "b83dce81-1674-4f7d-bafc-2d4823193da5",
+        "5573decb-41c5-4844-bf39-b1ed8424b350",
+        "310cee93-2580-4d92-b768-fb340596eef4",
+        "19a2d297-d41e-4611-b58b-744a66b3c92b"
+      ],
+      "font": null
+    },
+    {
+      "id": "b83dce81-1674-4f7d-bafc-2d4823193da5",
+      "type": 5,
+      "name": "Position",
+      "value": {
+        "x": 549.778564453125,
+        "y": 1002.703857421875
+      },
+      "font": null
+    },
+    {
+      "id": "5573decb-41c5-4844-bf39-b1ed8424b350",
+      "type": 9,
+      "name": "Scale",
+      "value": [
+        100,
+        100,
+        100,
+        0
+      ],
+      "font": null
+    },
+    {
+      "id": "310cee93-2580-4d92-b768-fb340596eef4",
+      "type": 3,
+      "name": "Rotation",
+      "value": 0,
+      "font": null
+    },
+    {
+      "id": "19a2d297-d41e-4611-b58b-744a66b3c92b",
+      "type": 2,
+      "name": "Opacity",
+      "value": 100,
+      "font": null
+    }
+  ],
+  "capsuleId": "c509fbf3-89b3-4d7b-bb8c-ff4615aa4d83",
+  "renderMode": "web-equivalent",
+  "webPreset": "Down Blur Slide",
+  "sample": "Nuvvu em chesthunnav?",
+  "label": "From your pack · web recreation",
+  "supportedProperties": [
+    "text",
+    "font",
+    "fontSize",
+    "fillColor",
+    "position",
+    "entryAnimation",
+    "animationDuration"
+  ],
+  "fontFallback": "Arial-BoldMT → Arial Bold; native script uses Noto Sans Telugu/Devanagari",
+  "accent": "#ffffff",
+  "defaults": {
+    "entry": "Auto",
+    "motion": true,
+    "color": "#ffffff"
+  },
+  "fonts": [
+    {
+      "required": "Arial-BoldMT",
+      "webFont": "Arial Bold",
+      "status": "system"
+    }
+  ]
+}

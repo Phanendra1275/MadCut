@@ -1,0 +1,189 @@
+{
+  "elapsedSeconds": 3.312,
+  "events": [
+    {
+      "seconds": 3.312,
+      "progress": 100,
+      "cues": 2,
+      "status": "complete"
+    }
+  ],
+  "result": {
+    "language": "te",
+    "cues": [
+      {
+        "id": "818e08d8-d5b1-4f6a-8a90-aa1920555add",
+        "start": 0,
+        "end": 2.58,
+        "text": "మొబైల్స్ అన్బాక్సింగ్స్ ఇవన్నీ",
+        "words": [
+          {
+            "word": "మొబైల్స్",
+            "start": 0,
+            "end": 0.94,
+            "confidence": 0.979
+          },
+          {
+            "word": "అన్బాక్సింగ్స్",
+            "start": 0.94,
+            "end": 2.12,
+            "confidence": 0.943
+          },
+          {
+            "word": "ఇవన్నీ",
+            "start": 2.12,
+            "end": 2.58,
+            "confidence": 0.983
+          }
+        ],
+        "confidence": 0.968,
+        "segment": {
+          "start": 0.0,
+          "end": 3.0
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      },
+      {
+        "id": "86c0ddf6-0a19-42da-8ab0-c29cb0f7e81b",
+        "start": 2.58,
+        "end": 2.9,
+        "text": "అంటే",
+        "words": [
+          {
+            "word": "అంటే",
+            "start": 2.58,
+            "end": 2.9,
+            "confidence": 0.999
+          }
+        ],
+        "confidence": 0.999,
+        "segment": {
+          "start": 0.0,
+          "end": 3.0
+        },
+        "needsReview": false,
+        "correction": "preserved"
+      }
+    ],
+    "speechEngine": "Telugu-trained Whisper medium",
+    "languageProbability": null,
+    "speechDevice": "cuda",
+    "srt": "1\n00:00:00,000 --> 00:00:02,580\nమొబైల్స్ అన్బాక్సింగ్స్ ఇవన్నీ\n\n2\n00:00:02,580 --> 00:00:02,900\nఅంటే\n",
+    "versions": {
+      "Telugu": [
+        {
+          "id": "818e08d8-d5b1-4f6a-8a90-aa1920555add",
+          "start": 0,
+          "end": 2.58,
+          "text": "మొబైల్స్ అన్బాక్సింగ్స్ ఇవన్నీ",
+          "words": [
+            {
+              "word": "మొబైల్స్",
+              "start": 0,
+              "end": 0.94,
+              "confidence": 0.979
+            },
+            {
+              "word": "అన్బాక్సింగ్స్",
+              "start": 0.94,
+              "end": 2.12,
+              "confidence": 0.943
+            },
+            {
+              "word": "ఇవన్నీ",
+              "start": 2.12,
+              "end": 2.58,
+              "confidence": 0.983
+            }
+          ],
+          "confidence": 0.968,
+          "segment": {
+            "start": 0.0,
+            "end": 3.0
+          },
+          "needsReview": false,
+          "correction": "preserved"
+        },
+        {
+          "id": "86c0ddf6-0a19-42da-8ab0-c29cb0f7e81b",
+          "start": 2.58,
+          "end": 2.9,
+          "text": "అంటే",
+          "words": [
+            {
+              "word": "అంటే",
+              "start": 2.58,
+              "end": 2.9,
+              "confidence": 0.999
+            }
+          ],
+          "confidence": 0.999,
+          "segment": {
+            "start": 0.0,
+            "end": 3.0
+          },
+          "needsReview": false,
+          "correction": "preserved"
+        }
+      ],
+      "Tenglish": [
+        {
+          "id": "818e08d8-d5b1-4f6a-8a90-aa1920555add",
+          "start": 0,
+          "end": 2.58,
+          "text": "Mobiles unboxings ivanni",
+          "words": [
+            {
+              "word": "Mobiles",
+              "start": 0,
+              "end": 0.94
+            },
+            {
+              "word": "unboxings",
+              "start": 0.94,
+              "end": 2.12
+            },
+            {
+              "word": "ivanni",
+              "start": 2.12,
+              "end": 2.58
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.968,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 0.0,
+            "end": 3.0
+          }
+        },
+        {
+          "id": "86c0ddf6-0a19-42da-8ab0-c29cb0f7e81b",
+          "start": 2.58,
+          "end": 2.9,
+          "text": "Ante",
+          "words": [
+            {
+              "word": "Ante",
+              "start": 2.58,
+              "end": 2.9
+            }
+          ],
+          "timing": "mapped",
+          "confidence": 0.999,
+          "needsReview": false,
+          "correction": "preserved",
+          "segment": {
+            "start": 0.0,
+            "end": 3.0
+          }
+        }
+      ]
+    },
+    "pipeline": "speech-to-timed-subtitles",
+    "cacheHit": false,
+    "processingSeconds": 3.156
+  }
+}

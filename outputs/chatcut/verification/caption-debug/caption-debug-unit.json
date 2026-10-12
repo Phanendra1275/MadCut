@@ -1,0 +1,46 @@
+{
+  "canonicalTenglish": "mobiles unboxings ivanni ante asalu edo vinthaga choosevaru annamata",
+  "pauseGroups": [
+    {
+      "id": "7882dc61-bbd8-487b-bc04-49c147f4bc63",
+      "start": 0,
+      "end": 0.8,
+      "text": "నువ్వు ఈరోజు",
+      "words": [
+        {
+          "word": "నువ్వు",
+          "start": 0,
+          "end": 0.3
+        },
+        {
+          "word": "ఈరోజు",
+          "start": 0.4,
+          "end": 0.8
+        }
+      ]
+    },
+    {
+      "id": "19c8e1f4-a021-44be-84d3-bd6412763dbb",
+      "start": 2.0,
+      "end": 3.5,
+      "text": "రాలేదు కాదు బ్రో",
+      "words": [
+        {
+          "word": "రాలేదు",
+          "start": 2.0,
+          "end": 2.5
+        },
+        {
+          "word": "కాదు",
+          "start": 2.6,
+          "end": 3.0
+        },
+        {
+          "word": "బ్రో",
+          "start": 3.1,
+          "end": 3.5
+        }
+      ]
+    }
+  ]
+}

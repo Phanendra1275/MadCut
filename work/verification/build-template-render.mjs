@@ -1,0 +1,1 @@
+import {build} from '../../outputs/chatcut/node_modules/vite/dist/node/index.js';await build({configFile:false,build:{lib:{entry:'work/verification/template-render-entry.ts',name:'MadCutTemplatePreview',formats:['iife'],fileName:()=> 'renderer.js'},outDir:'work/verification/template-render-bundle'}});

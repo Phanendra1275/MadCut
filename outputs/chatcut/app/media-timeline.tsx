@@ -1,0 +1,12 @@
+import {useEffect,useState} from 'react';
+export function MediaTimeline({file,duration,time,seek}:{file:File|null;duration:number;time:number;seek:(t:number)=>void}){
+ const [frames,setFrames]=useState<string[]>([]),[peaks,setPeaks]=useState<number[]>([]);
+ useEffect(()=>{setFrames([]);setPeaks([]);if(!file||!duration)return;let stopped=false;const url=URL.createObjectURL(file);const v=document.createElement('video');v.src=url;v.muted=true;const canvas=document.createElement('canvas');canvas.width=100;canvas.height=60;
+ const load=()=>new Promise<void>((resolve,reject)=>{v.onloadedmetadata=()=>resolve();v.onerror=()=>reject();});
+ (async()=>{try{await load();const images:string[]=[];for(let i=0;i<20&&!stopped;i++){await new Promise<void>(resolve=>{v.onseeked=()=>resolve();v.currentTime=Math.min(duration-.05,(i+.5)/20*duration);});canvas.getContext('2d')!.drawImage(v,0,0,100,60);images.push(canvas.toDataURL('image/jpeg',.6));}if(!stopped)setFrames(images);}catch{}})();
+ (async()=>{const ctx=new AudioContext();try{const audio=await ctx.decodeAudioData(await file.arrayBuffer());const channel=audio.getChannelData(0),size=Math.ceil(channel.length/400);const samples=Array.from({length:400},(_,i)=>{let value=0;for(let n=i*size;n<Math.min(channel.length,(i+1)*size);n+=16)value=Math.max(value,Math.abs(channel[n]));return value;});if(!stopped)setPeaks(samples);}catch{}finally{await ctx.close();}})();
+ return()=>{stopped=true;v.pause();v.removeAttribute('src');v.load();URL.revokeObjectURL(url);};
+ },[file,duration]);
+ const click=(e:React.MouseEvent)=>seek((e.clientX-e.currentTarget.getBoundingClientRect().left)/e.currentTarget.clientWidth*duration);
+ return <div className="media-timeline"><div className="filmstrip" role="button" tabIndex={0} aria-label="Video thumbnail timeline" onClick={click} onKeyDown={e=>{if(e.key==='ArrowRight')seek(Math.min(duration,time+1));if(e.key==='ArrowLeft')seek(Math.max(0,time-1));}}>{frames.map((f,i)=><img alt="" key={i} src={f}/>)}{!frames.length&&<span>{file?.name??'Upload a video to see its timeline'}</span>}<i style={{left:time/(duration||1)*100+'%'}}/></div><div className="audio-waveform" onClick={click}><svg viewBox="0 0 800 60" preserveAspectRatio="none" aria-label={peaks.length?'Original audio waveform':'Audio waveform unavailable'}>{peaks.map((p,i)=><line key={i} x1={i*2} x2={i*2} y1={30-p*28} y2={30+p*28}/>)}</svg><small>A1 · ORIGINAL AUDIO</small></div></div>;
+}

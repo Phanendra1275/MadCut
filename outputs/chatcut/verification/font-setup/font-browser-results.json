@@ -1,0 +1,47 @@
+{
+  "faces": [
+    {
+      "family": "MadCut Poppins",
+      "weight": 800,
+      "loaded": true,
+      "width": 832.5758666992188
+    },
+    {
+      "family": "MadCut Poppins",
+      "weight": 700,
+      "loaded": true,
+      "width": 822.3359375
+    },
+    {
+      "family": "MadCut Inter Black",
+      "weight": 900,
+      "loaded": true,
+      "width": 802.46875
+    },
+    {
+      "family": "MadCut Satisfy",
+      "weight": 400,
+      "loaded": true,
+      "width": 574.3125
+    },
+    {
+      "family": "MadCut Vivaldi",
+      "weight": 400,
+      "loaded": true,
+      "width": 503.71875
+    },
+    {
+      "family": "MadCut Edwardian",
+      "weight": 400,
+      "loaded": true,
+      "width": 435.78125
+    }
+  ],
+  "systemAliasesVerified": [
+    "Vivaldi",
+    "Edwardian Script ITC"
+  ],
+  "defaultTemplates": 52,
+  "realSatisfyMp4Export": true,
+  "errors": []
+}

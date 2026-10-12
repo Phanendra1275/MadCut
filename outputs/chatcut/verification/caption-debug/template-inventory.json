@@ -1,0 +1,6192 @@
+[
+  {
+    "name": "Butter Up",
+    "fonts": [
+      "Satisfy-Regular"
+    ],
+    "effects": [],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Butter Up"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Butter Up"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Coovetica Waving of",
+    "fonts": [
+      "Poppins-ExtraBold",
+      "Poppins-ExtraBold"
+    ],
+    "effects": [
+      "ADBE Geometry2",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "coolvetica"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "coolvetica"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 960,
+          "y": 540
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Scale"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "wavingof"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "wavingof"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 960,
+          "y": 540
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Scale"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "cracked",
+    "fonts": [
+      "Coolvetica-Regular"
+    ],
+    "effects": [
+      "ADBE Geometry2",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "TXT"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "cracked"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 960,
+          "y": 540
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Scale"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Stroke 1 Stroke Width"
+            }
+          ]
+        },
+        "value": 50
+      }
+    ]
+  },
+  {
+    "name": "Down Blure Slide new",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e",
+          "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator 1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": -100
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "blure"
+            }
+          ]
+        },
+        "value": 50
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "down Bounce shrink slide",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": -100
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Down Bounce slide",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": -100
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Down Slide new",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator 1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": -100
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Gradient master blue",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "ADBE Slider Control",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+          "e79f8a7d-663a-4e61-8736-12df417608ac",
+          "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+          "9610d41e-0a3a-498a-8d25-63732b5addad"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": 60
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+          "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+          "9b14c47d-82de-4f64-89b1-d791d756df8c",
+          "f11f1a64-153a-4579-b10d-3fa2c0f07774"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          158.73015873015873
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow"
+            }
+          ]
+        },
+        "value": [
+          "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+          "5a851f79-61f2-40d0-b398-041074cc6ddf",
+          "e2422a8b-d652-46ad-8c55-fb02353c2aac"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Threshold"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Intensity"
+            }
+          ]
+        },
+        "value": 0.7100000000000001
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Radius"
+            }
+          ]
+        },
+        "value": 104
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient / Light"
+            }
+          ]
+        },
+        "value": [
+          "c165801c-8660-47ec-966d-5d024467eff6",
+          "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+          "31df61b5-d309-4453-ad15-5f173c216c35",
+          "77b1978f-ec84-471a-8d06-254003cd373a"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Top Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0.7999997735023499,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Bottom Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0.08673585951328278,
+          0.7372549176216125,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Center"
+            }
+          ]
+        },
+        "value": {
+          "x": 411,
+          "y": 964.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep 2 Center"
+            }
+          ]
+        },
+        "value": {
+          "x": 728,
+          "y": 964.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "moving light sweep "
+            }
+          ]
+        },
+        "value": [
+          "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+          "d1752f82-3817-4f85-8f39-714244d61ef3",
+          "7a885555-5607-4dbd-a180-55dc1d003aac",
+          "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+          "9714c77f-058c-4a9f-93ee-4429e146210e",
+          "be66035e-d5ae-4759-bf30-f525c2b19f3d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep  Direction"
+            }
+          ]
+        },
+        "value": 29
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Width"
+            }
+          ]
+        },
+        "value": 29
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Intensity"
+            }
+          ]
+        },
+        "value": 50
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep edge Intensity"
+            }
+          ]
+        },
+        "value": 150
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Edge Thickness"
+            }
+          ]
+        },
+        "value": 2.2000000000000006
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0.9803921580314636,
+          0.9411764740943909,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gradient master red",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "ADBE Slider Control",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+          "e79f8a7d-663a-4e61-8736-12df417608ac",
+          "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+          "9610d41e-0a3a-498a-8d25-63732b5addad"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": 60
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+          "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+          "9b14c47d-82de-4f64-89b1-d791d756df8c",
+          "f11f1a64-153a-4579-b10d-3fa2c0f07774"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          158.73015873015873
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow"
+            }
+          ]
+        },
+        "value": [
+          "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+          "5a851f79-61f2-40d0-b398-041074cc6ddf",
+          "e2422a8b-d652-46ad-8c55-fb02353c2aac"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Threshold"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Intensity"
+            }
+          ]
+        },
+        "value": 0.7100000000000001
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Radius"
+            }
+          ]
+        },
+        "value": 104
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient / Light"
+            }
+          ]
+        },
+        "value": [
+          "c165801c-8660-47ec-966d-5d024467eff6",
+          "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+          "31df61b5-d309-4453-ad15-5f173c216c35",
+          "77b1978f-ec84-471a-8d06-254003cd373a"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Top Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0.5712316036224365,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Bottom Color"
+            }
+          ]
+        },
+        "value": [
+          0.8588235378265381,
+          0.2333347648382187,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Center"
+            }
+          ]
+        },
+        "value": {
+          "x": 411,
+          "y": 964.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep 2 Center"
+            }
+          ]
+        },
+        "value": {
+          "x": 728,
+          "y": 964.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "moving light sweep "
+            }
+          ]
+        },
+        "value": [
+          "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+          "d1752f82-3817-4f85-8f39-714244d61ef3",
+          "7a885555-5607-4dbd-a180-55dc1d003aac",
+          "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+          "9714c77f-058c-4a9f-93ee-4429e146210e",
+          "be66035e-d5ae-4759-bf30-f525c2b19f3d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep  Direction"
+            }
+          ]
+        },
+        "value": 29
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Width"
+            }
+          ]
+        },
+        "value": 29
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Intensity"
+            }
+          ]
+        },
+        "value": 50
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep edge Intensity"
+            }
+          ]
+        },
+        "value": 150
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Edge Thickness"
+            }
+          ]
+        },
+        "value": 2.2000000000000006
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0.9803921580314636,
+          0.9411764740943909,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gradient master red 2.0",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "ADBE Slider Control",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "2bef4ac2-b55a-4ff6-b957-226e3c9c04bd",
+          "e79f8a7d-663a-4e61-8736-12df417608ac",
+          "21ed90b9-7dcb-4a1b-a313-d3bdd07dfdb6",
+          "9610d41e-0a3a-498a-8d25-63732b5addad"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": 60
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "56da7ba6-b641-426e-a6cb-75fd72f9d902",
+          "ea875b39-bb53-4e7a-b113-a90db8cb6dce",
+          "9b14c47d-82de-4f64-89b1-d791d756df8c",
+          "f11f1a64-153a-4579-b10d-3fa2c0f07774"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          158.73015873015873
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow"
+            }
+          ]
+        },
+        "value": [
+          "f6de6103-e760-4dbe-b1d4-87f66841ab1b",
+          "5a851f79-61f2-40d0-b398-041074cc6ddf",
+          "e2422a8b-d652-46ad-8c55-fb02353c2aac"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Threshold"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Intensity"
+            }
+          ]
+        },
+        "value": 0.7100000000000001
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Radius"
+            }
+          ]
+        },
+        "value": 104
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient / Light"
+            }
+          ]
+        },
+        "value": [
+          "c165801c-8660-47ec-966d-5d024467eff6",
+          "9fab32b9-dd84-42c0-b05f-237c5a5eef33",
+          "31df61b5-d309-4453-ad15-5f173c216c35",
+          "77b1978f-ec84-471a-8d06-254003cd373a"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Top Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0.5712316036224365,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Bottom Color"
+            }
+          ]
+        },
+        "value": [
+          0.8588235378265381,
+          0.2333347648382187,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Center"
+            }
+          ]
+        },
+        "value": {
+          "x": 411,
+          "y": 964.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep 2 Center"
+            }
+          ]
+        },
+        "value": {
+          "x": 728,
+          "y": 964.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "moving light sweep "
+            }
+          ]
+        },
+        "value": [
+          "920053e4-d4dc-4af3-99f0-e8767cf617d8",
+          "d1752f82-3817-4f85-8f39-714244d61ef3",
+          "7a885555-5607-4dbd-a180-55dc1d003aac",
+          "a0603b24-4d32-47da-826e-9890b6bbbd7b",
+          "9714c77f-058c-4a9f-93ee-4429e146210e",
+          "be66035e-d5ae-4759-bf30-f525c2b19f3d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep  Direction"
+            }
+          ]
+        },
+        "value": 29
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Width"
+            }
+          ]
+        },
+        "value": 29
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Intensity"
+            }
+          ]
+        },
+        "value": 50
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep edge Intensity"
+            }
+          ]
+        },
+        "value": 150
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Edge Thickness"
+            }
+          ]
+        },
+        "value": 2.2000000000000006
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Light Sweep Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0.9803921580314636,
+          0.9411764740943909,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jitter Shine Text Effect",
+    "fonts": [
+      "Inter-Black"
+    ],
+    "effects": [
+      "ADBE Brightness & Contrast 2",
+      "ADBE Exposure2",
+      "ADBE Fill",
+      "ADBE Glo2",
+      "ADBE Slider Control",
+      "ADBE Vibrance",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "TheCine"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0.3766544461250305,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Character Spacing"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Line Spacing (For More Than 1 Line)"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow"
+            }
+          ]
+        },
+        "value": [
+          "c97cc4ae-c765-4f38-8194-b91c8c3b5adb",
+          "243c5733-5721-4cf7-95aa-351e627af138"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Intensity"
+            }
+          ]
+        },
+        "value": 0.7000000000000001
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Radius"
+            }
+          ]
+        },
+        "value": 56.5
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Shine Effect"
+            }
+          ]
+        },
+        "value": [
+          "caffc51b-785d-4099-81e5-a90e61e3d90d",
+          "66ce2e29-a7aa-4492-a4c5-0ebd67f0b4dd",
+          "f2b27f03-1d06-4020-9ec3-d810396458ca",
+          "08179c02-976c-487b-80b7-eca194fc9cb5",
+          "53720270-357e-4c99-926d-17ed56d7e9e9",
+          "ea625eee-dff7-44a9-9074-4a3e90bc3cf0",
+          "3a410617-cec8-4757-8bc9-032029287387",
+          "009b8324-bb15-4fea-af4d-90d7ae3fde0a"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 652.7777777777778,
+          "y": 438
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Angle"
+            }
+          ]
+        },
+        "value": 135
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Shape Of Beam"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Width"
+            }
+          ]
+        },
+        "value": 24.8
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Shine Intensity"
+            }
+          ]
+        },
+        "value": 4.800000000000001
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Edge Intensity"
+            }
+          ]
+        },
+        "value": 41.800000000000004
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Edge Thickness"
+            }
+          ]
+        },
+        "value": 4.2
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Shine Effect"
+            }
+          ]
+        },
+        "value": [
+          "c1932288-5336-440b-8cd3-0293c745553f",
+          "d9771cf7-c7fe-4813-8ee9-133c75972e8d",
+          "7bc62c67-f058-4a18-bd4c-62f7c8cee664",
+          "2c80b36b-f862-4887-9a2b-a27796e6d75e",
+          "3b05d981-450d-4784-bc90-5202b00f3273",
+          "d6bd7fbe-103c-4052-a646-fdef60f3ffd8",
+          "f9171811-ae21-4ab2-88c4-a3e54087306c",
+          "d36a5575-7eea-4bd4-8426-ab928a0757e9"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 1208,
+          "y": 546
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Angle"
+            }
+          ]
+        },
+        "value": -24
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Shape Of Beam"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Width"
+            }
+          ]
+        },
+        "value": 24.400000000000002
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Shine Intensity"
+            }
+          ]
+        },
+        "value": 4.9
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Edge Intensity"
+            }
+          ]
+        },
+        "value": 46.300000000000004
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Edge Thickness"
+            }
+          ]
+        },
+        "value": 4.4
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Comment"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Created by @The.cinecut"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Left Blure Slide new",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e",
+          "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator 1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 100,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "blure"
+            }
+          ]
+        },
+        "value": 50
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Left Bounce Expend slide",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+          "28d1e029-99f6-44ec-9c87-6ef838048601"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 100,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator Scale"
+            }
+          ]
+        },
+        "value": [
+          0,
+          100,
+          100
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Left Bounce slide",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 100,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Left Slide new",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator 1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 100,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Ocean Waves",
+    "fonts": [
+      "Poppins-Bold",
+      "Poppins-Bold"
+    ],
+    "effects": [
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0.886274516582489,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Bhanu"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Ocean"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0.886274516582489,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Prakash"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Waves"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "only flex bounce text",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+          "28d1e029-99f6-44ec-9c87-6ef838048601"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 200,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          0,
+          100
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 195.42542052268982,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Premium Text",
+    "fonts": [
+      "SFUIText-Heavy"
+    ],
+    "effects": [
+      "ADBE Bevel Alpha",
+      "ADBE Drop Shadow",
+      "ADBE Fill",
+      "ADBE Geometry2",
+      "CC Light Sweep",
+      "PEDG"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change your text Here"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Follow Me !"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Deep Glow Radius"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Deep Glow Exposure"
+            }
+          ]
+        },
+        "value": 0.0749063670411985
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Center"
+            }
+          ]
+        },
+        "value": {
+          "x": 2986,
+          "y": 5216
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Direction"
+            }
+          ]
+        },
+        "value": -30
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Width"
+            }
+          ]
+        },
+        "value": 118
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Shape"
+            }
+          ]
+        },
+        "value": 2
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Drop Shadow Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Premium Text Without Animation",
+    "fonts": [
+      "SFUIText-Heavy"
+    ],
+    "effects": [
+      "ADBE Bevel Alpha",
+      "ADBE Drop Shadow",
+      "ADBE Fill",
+      "ADBE Geometry2",
+      "CC Light Sweep",
+      "PEDG"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change your text Here"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Follow Me !"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Deep Glow Radius"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Deep Glow Exposure"
+            }
+          ]
+        },
+        "value": 0.0749063670411985
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Center"
+            }
+          ]
+        },
+        "value": {
+          "x": 2986,
+          "y": 5216
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Direction"
+            }
+          ]
+        },
+        "value": -30
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Width"
+            }
+          ]
+        },
+        "value": 118
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "CC Light Sweep Shape"
+            }
+          ]
+        },
+        "value": 2
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Drop Shadow Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Right Blure Slide new",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e",
+          "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator 1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": -100,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "blure"
+            }
+          ]
+        },
+        "value": 50
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Right Bounce Expend slide",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e",
+          "28d1e029-99f6-44ec-9c87-6ef838048601"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": -100,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator Scale"
+            }
+          ]
+        },
+        "value": [
+          0,
+          100,
+          100
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Right Bounce slide",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": -100,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Right Slide new",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator 1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": -100,
+          "y": 0
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Rock Solidance",
+    "fonts": [
+      "Coolvetica-Cond",
+      "EdwardianScriptITC"
+    ],
+    "effects": [
+      "ADBE Geometry2",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "ROCK"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "ROCK"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 960,
+          "y": 540
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Scale"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Solidance"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Solidance"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          0.2539331018924713,
+          0.6745098233222961,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 960,
+          "y": 540
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Scale"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Santhosham",
+    "fonts": [
+      "Coolvetica-Regular"
+    ],
+    "effects": [
+      "ADBE Geometry2",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Santhosham"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Santhosham"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Santhosham Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 498,
+          "y": 604
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Santhosham Scale"
+            }
+          ]
+        },
+        "value": [
+          188.82724826352015,
+          188.82724826352015,
+          188.82724826352015
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Slide Collide",
+    "fonts": [
+      "Coolvetica-Regular",
+      "Vivaldii"
+    ],
+    "effects": [
+      "ADBE Geometry2",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0.16862745583057404,
+          0.0939023569226265,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0.5882352590560913,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Scale"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Slide 2"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Slide"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Collide"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Collide"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Scale"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Effects Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 960,
+          "y": 540
+        }
+      }
+    ]
+  },
+  {
+    "name": "Spinning Butter",
+    "fonts": [
+      "Coolvetica-Regular",
+      "Coolvetica-Regular"
+    ],
+    "effects": [
+      "ADBE Geometry2",
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Spinning"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Spinning"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Transform 2 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 960,
+          "y": 540
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Transform 2 Scale"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Butter"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Butter"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          0.6117647290229797,
+          0,
+          0.6117647290229797,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Transform 2 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 960,
+          "y": 540
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Transform 2 Scale"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Static Shine Text Effect",
+    "fonts": [
+      "Inter-Black"
+    ],
+    "effects": [
+      "ADBE Brightness & Contrast 2",
+      "ADBE Exposure2",
+      "ADBE Fill",
+      "ADBE Glo2",
+      "ADBE Slider Control",
+      "ADBE Vibrance",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "TheCine"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          0.3766544461250305,
+          0,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Character Spacing"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Line Spacing (For More Than 1 Line)"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow"
+            }
+          ]
+        },
+        "value": [
+          "c97cc4ae-c765-4f38-8194-b91c8c3b5adb",
+          "243c5733-5721-4cf7-95aa-351e627af138"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Intensity"
+            }
+          ]
+        },
+        "value": 0.7000000000000001
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Glow Radius"
+            }
+          ]
+        },
+        "value": 56.5
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Shine Effect"
+            }
+          ]
+        },
+        "value": [
+          "caffc51b-785d-4099-81e5-a90e61e3d90d",
+          "66ce2e29-a7aa-4492-a4c5-0ebd67f0b4dd",
+          "f2b27f03-1d06-4020-9ec3-d810396458ca",
+          "08179c02-976c-487b-80b7-eca194fc9cb5",
+          "53720270-357e-4c99-926d-17ed56d7e9e9",
+          "ea625eee-dff7-44a9-9074-4a3e90bc3cf0",
+          "3a410617-cec8-4757-8bc9-032029287387",
+          "009b8324-bb15-4fea-af4d-90d7ae3fde0a"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 652.7777777777778,
+          "y": 438
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Angle"
+            }
+          ]
+        },
+        "value": 135
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Shape Of Beam"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Width"
+            }
+          ]
+        },
+        "value": 24.8
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Shine Intensity"
+            }
+          ]
+        },
+        "value": 4.800000000000001
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Edge Intensity"
+            }
+          ]
+        },
+        "value": 41.800000000000004
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#1 Edge Thickness"
+            }
+          ]
+        },
+        "value": 4.2
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Shine Effect"
+            }
+          ]
+        },
+        "value": [
+          "c1932288-5336-440b-8cd3-0293c745553f",
+          "d9771cf7-c7fe-4813-8ee9-133c75972e8d",
+          "7bc62c67-f058-4a18-bd4c-62f7c8cee664",
+          "2c80b36b-f862-4887-9a2b-a27796e6d75e",
+          "3b05d981-450d-4784-bc90-5202b00f3273",
+          "d6bd7fbe-103c-4052-a646-fdef60f3ffd8",
+          "f9171811-ae21-4ab2-88c4-a3e54087306c",
+          "d36a5575-7eea-4bd4-8426-ab928a0757e9"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Light Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 1208,
+          "y": 546
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Angle"
+            }
+          ]
+        },
+        "value": -24
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Shape Of Beam"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Width"
+            }
+          ]
+        },
+        "value": 24.400000000000002
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Shine Intensity"
+            }
+          ]
+        },
+        "value": 4.9
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Edge Intensity"
+            }
+          ]
+        },
+        "value": 46.300000000000004
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "#2 Edge Thickness"
+            }
+          ]
+        },
+        "value": 4.4
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Comment"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Created by @The.cinecut"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Up Blure Slide new",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e",
+          "247801ff-30a2-41cd-b8ed-550fc3016ad3"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator 1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": 100
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "blure"
+            }
+          ]
+        },
+        "value": 50
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Up Bounce shrink slide",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": 100
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Up Bounce slide",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance control"
+            }
+          ]
+        },
+        "value": [
+          "d704b080-4a5c-4529-bd4a-37ad045ec817",
+          "0dfca49f-9f28-460a-9fea-f5e3ede37231",
+          "4308cdf7-b6f1-4e67-adff-c170f6ed8e0e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator  Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": 100
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Based On"
+            }
+          ]
+        },
+        "value": 1
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "2d1dec04-f95e-4fb6-997f-868dce0e5447",
+          "fa39fbfd-9f56-43e6-97b6-39f47e1dd3b2",
+          "e4aa44ae-e0c9-4728-9e26-262712f2820e",
+          "20500b05-2a0a-47c0-9a44-980e0179145d"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 550.1697387695312,
+          "y": 1005.98876953125
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100,
+          0
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Up Slide new",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "effects": [
+      "ADBE Fill",
+      "ADBE Slider Control"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Change text"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "jagat pal"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Fill Color"
+            }
+          ]
+        },
+        "value": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Advance Control"
+            }
+          ]
+        },
+        "value": [
+          "b7358fe1-9ef6-4156-9886-6834d89c8406",
+          "bed39a3c-2f72-4e5d-8c7e-e58814f89e68",
+          "be45dcef-05dd-4e15-994a-cb2acbfea724",
+          "7d195645-47b8-463d-8769-6a9e32b4a38e"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animator 1 Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 0,
+          "y": 100
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Based On"
+            }
+          ]
+        },
+        "value": 3
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Tracking"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Animation Speed"
+            }
+          ]
+        },
+        "value": 100
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Text control"
+            }
+          ]
+        },
+        "value": [
+          "b83dce81-1674-4f7d-bafc-2d4823193da5",
+          "5573decb-41c5-4844-bf39-b1ed8424b350",
+          "310cee93-2580-4d92-b768-fb340596eef4",
+          "19a2d297-d41e-4611-b58b-744a66b3c92b"
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Position"
+            }
+          ]
+        },
+        "value": {
+          "x": 549.778564453125,
+          "y": 1002.703857421875
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Scale"
+            }
+          ]
+        },
+        "value": [
+          100,
+          100,
+          100
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Rotation"
+            }
+          ]
+        },
+        "value": 0
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Opacity"
+            }
+          ]
+        },
+        "value": 100
+      }
+    ]
+  },
+  {
+    "name": "Zoom In",
+    "fonts": [
+      "Poppins-ExtraBold"
+    ],
+    "effects": [
+      "ADBE Glo2",
+      "ADBE Ramp",
+      "CC Light Sweep"
+    ],
+    "controls": [
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Zoomin"
+            }
+          ]
+        },
+        "value": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Zoomin"
+            }
+          ]
+        }
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp Start Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0.8235293030738831,
+          1,
+          1
+        ]
+      },
+      {
+        "name": {
+          "strDB": [
+            {
+              "localeString": "en_US",
+              "str": "Gradient Ramp End Color"
+            }
+          ]
+        },
+        "value": [
+          0,
+          0.2952709496021271,
+          0.7843137383460999,
+          1
+        ]
+      }
+    ]
+  }
+]

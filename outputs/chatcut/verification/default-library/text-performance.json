@@ -1,0 +1,12 @@
+{
+  "captionCount": 100,
+  "coldSeconds": 0.10442619999230374,
+  "warmSeconds": 0.09050389999174513,
+  "speechRecognitionIncluded": false,
+  "apiModesPassed": [
+    "Natural",
+    "WhatsApp",
+    "Formal"
+  ],
+  "socialToneDoesNotInventWords": true
+}

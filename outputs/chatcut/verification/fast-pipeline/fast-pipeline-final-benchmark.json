@@ -1,0 +1,1053 @@
+{
+  "first": {
+    "elapsedSeconds": 18.638,
+    "processingSeconds": 18.356,
+    "cacheHit": false,
+    "device": "cuda",
+    "cues": [
+      {
+        "id": "79f8b84c-9109-4d71-aa93-4ea65ffc39eb",
+        "start": 0,
+        "end": 2.1,
+        "text": "మొబైల్స్ అన్ బాక్సింగ్స్",
+        "words": [
+          {
+            "word": "మొబైల్స్",
+            "start": 0,
+            "end": 0.96
+          },
+          {
+            "word": "అన్",
+            "start": 0.96,
+            "end": 1.2
+          },
+          {
+            "word": "బాక్సింగ్స్",
+            "start": 1.2,
+            "end": 2.1
+          }
+        ]
+      },
+      {
+        "id": "ac262cc5-f06a-4b28-8956-9961a91d3a75",
+        "start": 2.1,
+        "end": 3.56,
+        "text": "ఇవన్నీ అంటే అసలు",
+        "words": [
+          {
+            "word": "ఇవన్నీ",
+            "start": 2.1,
+            "end": 2.56
+          },
+          {
+            "word": "అంటే",
+            "start": 2.56,
+            "end": 2.98
+          },
+          {
+            "word": "అసలు",
+            "start": 2.98,
+            "end": 3.56
+          }
+        ]
+      },
+      {
+        "id": "c6f9a413-ac92-4cfb-8ba7-0e39ab73ed88",
+        "start": 3.56,
+        "end": 4.48,
+        "text": "ఏదో వింతగా చూసే",
+        "words": [
+          {
+            "word": "ఏదో",
+            "start": 3.56,
+            "end": 3.88
+          },
+          {
+            "word": "వింతగా",
+            "start": 3.88,
+            "end": 4.24
+          },
+          {
+            "word": "చూసే",
+            "start": 4.24,
+            "end": 4.48
+          }
+        ]
+      },
+      {
+        "id": "940e308e-8c6e-4bbd-99c9-affc1d9fe85b",
+        "start": 4.48,
+        "end": 5.9,
+        "text": "వాళ్ళు అన్నమాట జాంబీ",
+        "words": [
+          {
+            "word": "వాళ్ళు",
+            "start": 4.48,
+            "end": 4.62
+          },
+          {
+            "word": "అన్నమాట",
+            "start": 4.62,
+            "end": 4.96
+          },
+          {
+            "word": "జాంబీ",
+            "start": 4.96,
+            "end": 5.9
+          }
+        ]
+      },
+      {
+        "id": "afa6e126-2eda-4ab7-a118-15573b26d9c7",
+        "start": 5.9,
+        "end": 5.98,
+        "text": "ని",
+        "words": [
+          {
+            "word": "ని",
+            "start": 5.9,
+            "end": 5.98
+          }
+        ]
+      },
+      {
+        "id": "407483c4-554b-4f1e-9d26-54b65d9c37a8",
+        "start": 6.39,
+        "end": 7.23,
+        "text": "కానీ నేను వాళ్ళు",
+        "words": [
+          {
+            "word": "కానీ",
+            "start": 6.39,
+            "end": 6.91
+          },
+          {
+            "word": "నేను",
+            "start": 6.91,
+            "end": 7.03
+          },
+          {
+            "word": "వాళ్ళు",
+            "start": 7.03,
+            "end": 7.23
+          }
+        ]
+      },
+      {
+        "id": "c7384b70-8f78-4ee1-a470-b581621e2f76",
+        "start": 7.23,
+        "end": 7.99,
+        "text": "ఎవరి మాట వినలేదు",
+        "words": [
+          {
+            "word": "ఎవరి",
+            "start": 7.23,
+            "end": 7.43
+          },
+          {
+            "word": "మాట",
+            "start": 7.43,
+            "end": 7.61
+          },
+          {
+            "word": "వినలేదు",
+            "start": 7.61,
+            "end": 7.99
+          }
+        ]
+      },
+      {
+        "id": "5c35c138-49c5-4c1a-8e15-f1a1d38b966c",
+        "start": 7.99,
+        "end": 9.09,
+        "text": "నా హార్ట్ ని",
+        "words": [
+          {
+            "word": "నా",
+            "start": 7.99,
+            "end": 8.63
+          },
+          {
+            "word": "హార్ట్",
+            "start": 8.63,
+            "end": 8.91
+          },
+          {
+            "word": "ని",
+            "start": 8.91,
+            "end": 9.09
+          }
+        ]
+      },
+      {
+        "id": "aa46d8ca-9487-471c-a600-c07cdfbb307d",
+        "start": 9.09,
+        "end": 9.69,
+        "text": "ఫాలో అయ్యాను ఇక్కడ",
+        "words": [
+          {
+            "word": "ఫాలో",
+            "start": 9.09,
+            "end": 9.27
+          },
+          {
+            "word": "అయ్యాను",
+            "start": 9.27,
+            "end": 9.53
+          },
+          {
+            "word": "ఇక్కడ",
+            "start": 9.53,
+            "end": 9.69
+          }
+        ]
+      },
+      {
+        "id": "761d5944-ad52-4c76-a0e9-9b9e3f508169",
+        "start": 9.69,
+        "end": 10.93,
+        "text": "అయితే మాత్రం నాకు",
+        "words": [
+          {
+            "word": "అయితే",
+            "start": 9.69,
+            "end": 9.95
+          },
+          {
+            "word": "మాత్రం",
+            "start": 9.95,
+            "end": 10.65
+          },
+          {
+            "word": "నాకు",
+            "start": 10.65,
+            "end": 10.93
+          }
+        ]
+      },
+      {
+        "id": "e4fa8988-40c7-46f4-bcd9-66fbd5b92fb6",
+        "start": 10.93,
+        "end": 11.85,
+        "text": "చేయాలనిపించింది",
+        "words": [
+          {
+            "word": "చేయాలనిపించింది",
+            "start": 10.93,
+            "end": 11.85
+          }
+        ]
+      }
+    ],
+    "tenglish": [
+      {
+        "id": "79f8b84c-9109-4d71-aa93-4ea65ffc39eb",
+        "start": 0,
+        "end": 2.1,
+        "text": "mobiles unboxings",
+        "words": [
+          {
+            "word": "mobiles",
+            "start": 0,
+            "end": 0.96
+          },
+          {
+            "word": "unboxings",
+            "start": 0.96,
+            "end": 2.1
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "ac262cc5-f06a-4b28-8956-9961a91d3a75",
+        "start": 2.1,
+        "end": 3.56,
+        "text": "ivanni ante asalu",
+        "words": [
+          {
+            "word": "ivanni",
+            "start": 2.1,
+            "end": 2.56
+          },
+          {
+            "word": "ante",
+            "start": 2.56,
+            "end": 2.98
+          },
+          {
+            "word": "asalu",
+            "start": 2.98,
+            "end": 3.56
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "c6f9a413-ac92-4cfb-8ba7-0e39ab73ed88",
+        "start": 3.56,
+        "end": 4.48,
+        "text": "edo vinthaga choose",
+        "words": [
+          {
+            "word": "edo",
+            "start": 3.56,
+            "end": 3.88
+          },
+          {
+            "word": "vinthaga",
+            "start": 3.88,
+            "end": 4.24
+          },
+          {
+            "word": "choose",
+            "start": 4.24,
+            "end": 4.48
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "940e308e-8c6e-4bbd-99c9-affc1d9fe85b",
+        "start": 4.48,
+        "end": 5.9,
+        "text": "vallu annamata jaambee",
+        "words": [
+          {
+            "word": "vallu",
+            "start": 4.48,
+            "end": 4.62
+          },
+          {
+            "word": "annamata",
+            "start": 4.62,
+            "end": 4.96
+          },
+          {
+            "word": "jaambee",
+            "start": 4.96,
+            "end": 5.9
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "afa6e126-2eda-4ab7-a118-15573b26d9c7",
+        "start": 5.9,
+        "end": 5.98,
+        "text": "ni",
+        "words": [
+          {
+            "word": "ni",
+            "start": 5.9,
+            "end": 5.98
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "407483c4-554b-4f1e-9d26-54b65d9c37a8",
+        "start": 6.39,
+        "end": 7.23,
+        "text": "kani nenu vallu",
+        "words": [
+          {
+            "word": "kani",
+            "start": 6.39,
+            "end": 6.91
+          },
+          {
+            "word": "nenu",
+            "start": 6.91,
+            "end": 7.03
+          },
+          {
+            "word": "vallu",
+            "start": 7.03,
+            "end": 7.23
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "c7384b70-8f78-4ee1-a470-b581621e2f76",
+        "start": 7.23,
+        "end": 7.99,
+        "text": "evari maata vinaledu",
+        "words": [
+          {
+            "word": "evari",
+            "start": 7.23,
+            "end": 7.43
+          },
+          {
+            "word": "maata",
+            "start": 7.43,
+            "end": 7.61
+          },
+          {
+            "word": "vinaledu",
+            "start": 7.61,
+            "end": 7.99
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "5c35c138-49c5-4c1a-8e15-f1a1d38b966c",
+        "start": 7.99,
+        "end": 9.09,
+        "text": "naa heart ni",
+        "words": [
+          {
+            "word": "naa",
+            "start": 7.99,
+            "end": 8.63
+          },
+          {
+            "word": "heart",
+            "start": 8.63,
+            "end": 8.91
+          },
+          {
+            "word": "ni",
+            "start": 8.91,
+            "end": 9.09
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "aa46d8ca-9487-471c-a600-c07cdfbb307d",
+        "start": 9.09,
+        "end": 9.69,
+        "text": "follow ayyanu ikkada",
+        "words": [
+          {
+            "word": "follow",
+            "start": 9.09,
+            "end": 9.27
+          },
+          {
+            "word": "ayyanu",
+            "start": 9.27,
+            "end": 9.53
+          },
+          {
+            "word": "ikkada",
+            "start": 9.53,
+            "end": 9.69
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "761d5944-ad52-4c76-a0e9-9b9e3f508169",
+        "start": 9.69,
+        "end": 10.93,
+        "text": "aithe matram naaku",
+        "words": [
+          {
+            "word": "aithe",
+            "start": 9.69,
+            "end": 9.95
+          },
+          {
+            "word": "matram",
+            "start": 9.95,
+            "end": 10.65
+          },
+          {
+            "word": "naaku",
+            "start": 10.65,
+            "end": 10.93
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "e4fa8988-40c7-46f4-bcd9-66fbd5b92fb6",
+        "start": 10.93,
+        "end": 11.85,
+        "text": "cheyalanipinchindi",
+        "words": [
+          {
+            "word": "cheyalanipinchindi",
+            "start": 10.93,
+            "end": 11.85
+          }
+        ],
+        "timing": "mapped"
+      }
+    ]
+  },
+  "repeat": {
+    "elapsedSeconds": 0.36,
+    "processingSeconds": 0.079,
+    "cacheHit": true,
+    "device": "cuda",
+    "cues": [
+      {
+        "id": "79f8b84c-9109-4d71-aa93-4ea65ffc39eb",
+        "start": 0,
+        "end": 2.1,
+        "text": "మొబైల్స్ అన్ బాక్సింగ్స్",
+        "words": [
+          {
+            "word": "మొబైల్స్",
+            "start": 0,
+            "end": 0.96
+          },
+          {
+            "word": "అన్",
+            "start": 0.96,
+            "end": 1.2
+          },
+          {
+            "word": "బాక్సింగ్స్",
+            "start": 1.2,
+            "end": 2.1
+          }
+        ]
+      },
+      {
+        "id": "ac262cc5-f06a-4b28-8956-9961a91d3a75",
+        "start": 2.1,
+        "end": 3.56,
+        "text": "ఇవన్నీ అంటే అసలు",
+        "words": [
+          {
+            "word": "ఇవన్నీ",
+            "start": 2.1,
+            "end": 2.56
+          },
+          {
+            "word": "అంటే",
+            "start": 2.56,
+            "end": 2.98
+          },
+          {
+            "word": "అసలు",
+            "start": 2.98,
+            "end": 3.56
+          }
+        ]
+      },
+      {
+        "id": "c6f9a413-ac92-4cfb-8ba7-0e39ab73ed88",
+        "start": 3.56,
+        "end": 4.48,
+        "text": "ఏదో వింతగా చూసే",
+        "words": [
+          {
+            "word": "ఏదో",
+            "start": 3.56,
+            "end": 3.88
+          },
+          {
+            "word": "వింతగా",
+            "start": 3.88,
+            "end": 4.24
+          },
+          {
+            "word": "చూసే",
+            "start": 4.24,
+            "end": 4.48
+          }
+        ]
+      },
+      {
+        "id": "940e308e-8c6e-4bbd-99c9-affc1d9fe85b",
+        "start": 4.48,
+        "end": 5.9,
+        "text": "వాళ్ళు అన్నమాట జాంబీ",
+        "words": [
+          {
+            "word": "వాళ్ళు",
+            "start": 4.48,
+            "end": 4.62
+          },
+          {
+            "word": "అన్నమాట",
+            "start": 4.62,
+            "end": 4.96
+          },
+          {
+            "word": "జాంబీ",
+            "start": 4.96,
+            "end": 5.9
+          }
+        ]
+      },
+      {
+        "id": "afa6e126-2eda-4ab7-a118-15573b26d9c7",
+        "start": 5.9,
+        "end": 5.98,
+        "text": "ని",
+        "words": [
+          {
+            "word": "ని",
+            "start": 5.9,
+            "end": 5.98
+          }
+        ]
+      },
+      {
+        "id": "407483c4-554b-4f1e-9d26-54b65d9c37a8",
+        "start": 6.39,
+        "end": 7.23,
+        "text": "కానీ నేను వాళ్ళు",
+        "words": [
+          {
+            "word": "కానీ",
+            "start": 6.39,
+            "end": 6.91
+          },
+          {
+            "word": "నేను",
+            "start": 6.91,
+            "end": 7.03
+          },
+          {
+            "word": "వాళ్ళు",
+            "start": 7.03,
+            "end": 7.23
+          }
+        ]
+      },
+      {
+        "id": "c7384b70-8f78-4ee1-a470-b581621e2f76",
+        "start": 7.23,
+        "end": 7.99,
+        "text": "ఎవరి మాట వినలేదు",
+        "words": [
+          {
+            "word": "ఎవరి",
+            "start": 7.23,
+            "end": 7.43
+          },
+          {
+            "word": "మాట",
+            "start": 7.43,
+            "end": 7.61
+          },
+          {
+            "word": "వినలేదు",
+            "start": 7.61,
+            "end": 7.99
+          }
+        ]
+      },
+      {
+        "id": "5c35c138-49c5-4c1a-8e15-f1a1d38b966c",
+        "start": 7.99,
+        "end": 9.09,
+        "text": "నా హార్ట్ ని",
+        "words": [
+          {
+            "word": "నా",
+            "start": 7.99,
+            "end": 8.63
+          },
+          {
+            "word": "హార్ట్",
+            "start": 8.63,
+            "end": 8.91
+          },
+          {
+            "word": "ని",
+            "start": 8.91,
+            "end": 9.09
+          }
+        ]
+      },
+      {
+        "id": "aa46d8ca-9487-471c-a600-c07cdfbb307d",
+        "start": 9.09,
+        "end": 9.69,
+        "text": "ఫాలో అయ్యాను ఇక్కడ",
+        "words": [
+          {
+            "word": "ఫాలో",
+            "start": 9.09,
+            "end": 9.27
+          },
+          {
+            "word": "అయ్యాను",
+            "start": 9.27,
+            "end": 9.53
+          },
+          {
+            "word": "ఇక్కడ",
+            "start": 9.53,
+            "end": 9.69
+          }
+        ]
+      },
+      {
+        "id": "761d5944-ad52-4c76-a0e9-9b9e3f508169",
+        "start": 9.69,
+        "end": 10.93,
+        "text": "అయితే మాత్రం నాకు",
+        "words": [
+          {
+            "word": "అయితే",
+            "start": 9.69,
+            "end": 9.95
+          },
+          {
+            "word": "మాత్రం",
+            "start": 9.95,
+            "end": 10.65
+          },
+          {
+            "word": "నాకు",
+            "start": 10.65,
+            "end": 10.93
+          }
+        ]
+      },
+      {
+        "id": "e4fa8988-40c7-46f4-bcd9-66fbd5b92fb6",
+        "start": 10.93,
+        "end": 11.85,
+        "text": "చేయాలనిపించింది",
+        "words": [
+          {
+            "word": "చేయాలనిపించింది",
+            "start": 10.93,
+            "end": 11.85
+          }
+        ]
+      }
+    ],
+    "tenglish": [
+      {
+        "id": "79f8b84c-9109-4d71-aa93-4ea65ffc39eb",
+        "start": 0,
+        "end": 2.1,
+        "text": "mobiles unboxings",
+        "words": [
+          {
+            "word": "mobiles",
+            "start": 0,
+            "end": 0.96
+          },
+          {
+            "word": "unboxings",
+            "start": 0.96,
+            "end": 2.1
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "ac262cc5-f06a-4b28-8956-9961a91d3a75",
+        "start": 2.1,
+        "end": 3.56,
+        "text": "ivanni ante asalu",
+        "words": [
+          {
+            "word": "ivanni",
+            "start": 2.1,
+            "end": 2.56
+          },
+          {
+            "word": "ante",
+            "start": 2.56,
+            "end": 2.98
+          },
+          {
+            "word": "asalu",
+            "start": 2.98,
+            "end": 3.56
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "c6f9a413-ac92-4cfb-8ba7-0e39ab73ed88",
+        "start": 3.56,
+        "end": 4.48,
+        "text": "edo vinthaga choose",
+        "words": [
+          {
+            "word": "edo",
+            "start": 3.56,
+            "end": 3.88
+          },
+          {
+            "word": "vinthaga",
+            "start": 3.88,
+            "end": 4.24
+          },
+          {
+            "word": "choose",
+            "start": 4.24,
+            "end": 4.48
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "940e308e-8c6e-4bbd-99c9-affc1d9fe85b",
+        "start": 4.48,
+        "end": 5.9,
+        "text": "vallu annamata jaambee",
+        "words": [
+          {
+            "word": "vallu",
+            "start": 4.48,
+            "end": 4.62
+          },
+          {
+            "word": "annamata",
+            "start": 4.62,
+            "end": 4.96
+          },
+          {
+            "word": "jaambee",
+            "start": 4.96,
+            "end": 5.9
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "afa6e126-2eda-4ab7-a118-15573b26d9c7",
+        "start": 5.9,
+        "end": 5.98,
+        "text": "ni",
+        "words": [
+          {
+            "word": "ni",
+            "start": 5.9,
+            "end": 5.98
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "407483c4-554b-4f1e-9d26-54b65d9c37a8",
+        "start": 6.39,
+        "end": 7.23,
+        "text": "kani nenu vallu",
+        "words": [
+          {
+            "word": "kani",
+            "start": 6.39,
+            "end": 6.91
+          },
+          {
+            "word": "nenu",
+            "start": 6.91,
+            "end": 7.03
+          },
+          {
+            "word": "vallu",
+            "start": 7.03,
+            "end": 7.23
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "c7384b70-8f78-4ee1-a470-b581621e2f76",
+        "start": 7.23,
+        "end": 7.99,
+        "text": "evari maata vinaledu",
+        "words": [
+          {
+            "word": "evari",
+            "start": 7.23,
+            "end": 7.43
+          },
+          {
+            "word": "maata",
+            "start": 7.43,
+            "end": 7.61
+          },
+          {
+            "word": "vinaledu",
+            "start": 7.61,
+            "end": 7.99
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "5c35c138-49c5-4c1a-8e15-f1a1d38b966c",
+        "start": 7.99,
+        "end": 9.09,
+        "text": "naa heart ni",
+        "words": [
+          {
+            "word": "naa",
+            "start": 7.99,
+            "end": 8.63
+          },
+          {
+            "word": "heart",
+            "start": 8.63,
+            "end": 8.91
+          },
+          {
+            "word": "ni",
+            "start": 8.91,
+            "end": 9.09
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "aa46d8ca-9487-471c-a600-c07cdfbb307d",
+        "start": 9.09,
+        "end": 9.69,
+        "text": "follow ayyanu ikkada",
+        "words": [
+          {
+            "word": "follow",
+            "start": 9.09,
+            "end": 9.27
+          },
+          {
+            "word": "ayyanu",
+            "start": 9.27,
+            "end": 9.53
+          },
+          {
+            "word": "ikkada",
+            "start": 9.53,
+            "end": 9.69
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "761d5944-ad52-4c76-a0e9-9b9e3f508169",
+        "start": 9.69,
+        "end": 10.93,
+        "text": "aithe matram naaku",
+        "words": [
+          {
+            "word": "aithe",
+            "start": 9.69,
+            "end": 9.95
+          },
+          {
+            "word": "matram",
+            "start": 9.95,
+            "end": 10.65
+          },
+          {
+            "word": "naaku",
+            "start": 10.65,
+            "end": 10.93
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "e4fa8988-40c7-46f4-bcd9-66fbd5b92fb6",
+        "start": 10.93,
+        "end": 11.85,
+        "text": "cheyalanipinchindi",
+        "words": [
+          {
+            "word": "cheyalanipinchindi",
+            "start": 10.93,
+            "end": 11.85
+          }
+        ],
+        "timing": "mapped"
+      }
+    ]
+  },
+  "warm_new": {
+    "elapsedSeconds": 2.115,
+    "processingSeconds": 2.072,
+    "cacheHit": false,
+    "device": "cuda",
+    "cues": [
+      {
+        "id": "88298777-bb43-4464-b97b-a2495ea4c14c",
+        "start": 0,
+        "end": 2.58,
+        "text": "మొబైల్స్ అన్బాక్సింగ్స్ ఇవన్నీ",
+        "words": [
+          {
+            "word": "మొబైల్స్",
+            "start": 0,
+            "end": 0.94
+          },
+          {
+            "word": "అన్బాక్సింగ్స్",
+            "start": 0.94,
+            "end": 2.12
+          },
+          {
+            "word": "ఇవన్నీ",
+            "start": 2.12,
+            "end": 2.58
+          }
+        ]
+      },
+      {
+        "id": "55bd742a-90f8-4573-9af1-d4217e25064f",
+        "start": 2.58,
+        "end": 2.9,
+        "text": "అంటే",
+        "words": [
+          {
+            "word": "అంటే",
+            "start": 2.58,
+            "end": 2.9
+          }
+        ]
+      }
+    ],
+    "tenglish": [
+      {
+        "id": "88298777-bb43-4464-b97b-a2495ea4c14c",
+        "start": 0,
+        "end": 2.58,
+        "text": "mobiles unboxings ivanni",
+        "words": [
+          {
+            "word": "mobiles",
+            "start": 0,
+            "end": 0.94
+          },
+          {
+            "word": "unboxings",
+            "start": 0.94,
+            "end": 2.12
+          },
+          {
+            "word": "ivanni",
+            "start": 2.12,
+            "end": 2.58
+          }
+        ],
+        "timing": "mapped"
+      },
+      {
+        "id": "55bd742a-90f8-4573-9af1-d4217e25064f",
+        "start": 2.58,
+        "end": 2.9,
+        "text": "ante",
+        "words": [
+          {
+            "word": "ante",
+            "start": 2.58,
+            "end": 2.9
+          }
+        ],
+        "timing": "mapped"
+      }
+    ]
+  },
+  "tenglishConversionSeconds": 0.211,
+  "residentSpeechPid": 20176,
+  "languageModelsLoaded": false
+}

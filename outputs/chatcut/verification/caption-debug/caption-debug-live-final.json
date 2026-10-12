@@ -1,0 +1,24 @@
+{
+  "cues": [
+    {
+      "id": "40487b21-56d6-4b0c-8d35-0b61b88d6643",
+      "start": 0,
+      "end": 2.1,
+      "text": "mobiles unboxings",
+      "words": [
+        {
+          "word": "mobiles",
+          "start": 0,
+          "end": 0.94
+        },
+        {
+          "word": "unboxings",
+          "start": 0.94,
+          "end": 2.1
+        }
+      ],
+      "timing": "mapped"
+    }
+  ],
+  "language": "Tenglish"
+}

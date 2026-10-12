@@ -1,0 +1,374 @@
+{
+  "version": 1,
+  "name": "Prasad Tech spelling check",
+  "language": "Telugu",
+  "tone": "Accurate",
+  "sourceLanguage": "te",
+  "original": [
+    {
+      "id": "corrected",
+      "text": "కొన్ని క్రియలు ఆబ్జెక్టుల మధ్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం.",
+      "start": 2.232,
+      "end": 7.88,
+      "words": [
+        {
+          "word": "కొన్ని",
+          "start": 2.232,
+          "end": 2.82,
+          "confidence": 0.942
+        },
+        {
+          "word": "క్రియలు",
+          "start": 2.82,
+          "end": 3.18,
+          "confidence": 0.897
+        },
+        {
+          "word": "ఆబ్జెక్టుల",
+          "start": 3.18,
+          "end": 3.76,
+          "confidence": 0.776
+        },
+        {
+          "word": "మధ్య",
+          "start": 3.76,
+          "end": 4.3,
+          "confidence": 0.803
+        },
+        {
+          "word": "తేడాను",
+          "start": 4.3,
+          "end": 4.92,
+          "confidence": 0.979
+        },
+        {
+          "word": "గుర్తించడానికి",
+          "start": 4.92,
+          "end": 6.24,
+          "confidence": 0.914
+        },
+        {
+          "word": "ఇది",
+          "start": 6.24,
+          "end": 6.48,
+          "confidence": 0.969
+        },
+        {
+          "word": "ఒక",
+          "start": 6.48,
+          "end": 6.6,
+          "confidence": 0.925
+        },
+        {
+          "word": "ముఖ్యమైన",
+          "start": 6.6,
+          "end": 7.32,
+          "confidence": 0.951
+        },
+        {
+          "word": "మార్గం.",
+          "start": 7.32,
+          "end": 7.88,
+          "confidence": 0.972
+        }
+      ]
+    }
+  ],
+  "tracks": {
+    "Telugu": [
+      {
+        "id": "corrected",
+        "text": "కొన్ని క్రియలు ఆబ్జెక్టుల మధ్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం.",
+        "start": 2.232,
+        "end": 7.88,
+        "words": [
+          {
+            "word": "కొన్ని",
+            "start": 2.232,
+            "end": 2.82,
+            "confidence": 0.942
+          },
+          {
+            "word": "క్రియలు",
+            "start": 2.82,
+            "end": 3.18,
+            "confidence": 0.897
+          },
+          {
+            "word": "ఆబ్జెక్టుల",
+            "start": 3.18,
+            "end": 3.76,
+            "confidence": 0.776
+          },
+          {
+            "word": "మధ్య",
+            "start": 3.76,
+            "end": 4.3,
+            "confidence": 0.803
+          },
+          {
+            "word": "తేడాను",
+            "start": 4.3,
+            "end": 4.92,
+            "confidence": 0.979
+          },
+          {
+            "word": "గుర్తించడానికి",
+            "start": 4.92,
+            "end": 6.24,
+            "confidence": 0.914
+          },
+          {
+            "word": "ఇది",
+            "start": 6.24,
+            "end": 6.48,
+            "confidence": 0.969
+          },
+          {
+            "word": "ఒక",
+            "start": 6.48,
+            "end": 6.6,
+            "confidence": 0.925
+          },
+          {
+            "word": "ముఖ్యమైన",
+            "start": 6.6,
+            "end": 7.32,
+            "confidence": 0.951
+          },
+          {
+            "word": "మార్గం.",
+            "start": 7.32,
+            "end": 7.88,
+            "confidence": 0.972
+          }
+        ]
+      }
+    ],
+    "Tenglish": [
+      {
+        "id": "corrected",
+        "start": 2.232,
+        "end": 7.88,
+        "text": "Konni kriyalu object la madhya tedaanu gurthinchadaaniki idi oka mukhyamaina maargam.",
+        "words": [
+          {
+            "word": "Konni",
+            "start": 2.232,
+            "end": 2.82
+          },
+          {
+            "word": "kriyalu",
+            "start": 2.82,
+            "end": 3.18
+          },
+          {
+            "word": "object",
+            "start": 3.18,
+            "end": 3.615
+          },
+          {
+            "word": "la",
+            "start": 3.615,
+            "end": 3.76
+          },
+          {
+            "word": "madhya",
+            "start": 3.76,
+            "end": 4.3
+          },
+          {
+            "word": "tedaanu",
+            "start": 4.3,
+            "end": 4.92
+          },
+          {
+            "word": "gurthinchadaaniki",
+            "start": 4.92,
+            "end": 6.24
+          },
+          {
+            "word": "idi",
+            "start": 6.24,
+            "end": 6.48
+          },
+          {
+            "word": "oka",
+            "start": 6.48,
+            "end": 6.6
+          },
+          {
+            "word": "mukhyamaina",
+            "start": 6.6,
+            "end": 7.32
+          },
+          {
+            "word": "maargam.",
+            "start": 7.32,
+            "end": 7.88
+          }
+        ],
+        "timing": "mapped"
+      }
+    ]
+  },
+  "look": {
+    "template": "Karaoke",
+    "size": 48,
+    "color": "#ffffff",
+    "position": 82,
+    "bold": true
+  },
+  "aspect": "4:5",
+  "duration": 14.04,
+  "projectId": "prasad-verified",
+  "frame": {
+    "scale": 115,
+    "width": 100,
+    "height": 100,
+    "x": 8,
+    "y": -3,
+    "rotation": 8,
+    "background": "#122aff"
+  },
+  "originalTracks": {
+    "Telugu": [
+      {
+        "id": "corrected",
+        "text": "కొన్ని క్రియలు ఆబ్జెక్టుల మధ్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం.",
+        "start": 2.232,
+        "end": 7.88,
+        "words": [
+          {
+            "word": "కొన్ని",
+            "start": 2.232,
+            "end": 2.82,
+            "confidence": 0.942
+          },
+          {
+            "word": "క్రియలు",
+            "start": 2.82,
+            "end": 3.18,
+            "confidence": 0.897
+          },
+          {
+            "word": "ఆబ్జెక్టుల",
+            "start": 3.18,
+            "end": 3.76,
+            "confidence": 0.776
+          },
+          {
+            "word": "మధ్య",
+            "start": 3.76,
+            "end": 4.3,
+            "confidence": 0.803
+          },
+          {
+            "word": "తేడాను",
+            "start": 4.3,
+            "end": 4.92,
+            "confidence": 0.979
+          },
+          {
+            "word": "గుర్తించడానికి",
+            "start": 4.92,
+            "end": 6.24,
+            "confidence": 0.914
+          },
+          {
+            "word": "ఇది",
+            "start": 6.24,
+            "end": 6.48,
+            "confidence": 0.969
+          },
+          {
+            "word": "ఒక",
+            "start": 6.48,
+            "end": 6.6,
+            "confidence": 0.925
+          },
+          {
+            "word": "ముఖ్యమైన",
+            "start": 6.6,
+            "end": 7.32,
+            "confidence": 0.951
+          },
+          {
+            "word": "మార్గం.",
+            "start": 7.32,
+            "end": 7.88,
+            "confidence": 0.972
+          }
+        ]
+      }
+    ],
+    "Tenglish": [
+      {
+        "id": "corrected",
+        "start": 2.232,
+        "end": 7.88,
+        "text": "Konni kriyalu object la madhya tedaanu gurthinchadaaniki idi oka mukhyamaina maargam.",
+        "words": [
+          {
+            "word": "Konni",
+            "start": 2.232,
+            "end": 2.82
+          },
+          {
+            "word": "kriyalu",
+            "start": 2.82,
+            "end": 3.18
+          },
+          {
+            "word": "object",
+            "start": 3.18,
+            "end": 3.615
+          },
+          {
+            "word": "la",
+            "start": 3.615,
+            "end": 3.76
+          },
+          {
+            "word": "madhya",
+            "start": 3.76,
+            "end": 4.3
+          },
+          {
+            "word": "tedaanu",
+            "start": 4.3,
+            "end": 4.92
+          },
+          {
+            "word": "gurthinchadaaniki",
+            "start": 4.92,
+            "end": 6.24
+          },
+          {
+            "word": "idi",
+            "start": 6.24,
+            "end": 6.48
+          },
+          {
+            "word": "oka",
+            "start": 6.48,
+            "end": 6.6
+          },
+          {
+            "word": "mukhyamaina",
+            "start": 6.6,
+            "end": 7.32
+          },
+          {
+            "word": "maargam.",
+            "start": 7.32,
+            "end": 7.88
+          }
+        ],
+        "timing": "mapped"
+      }
+    ]
+  },
+  "tenglishMode": "Natural",
+  "captionDelay": {}
+}

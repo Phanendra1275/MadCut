@@ -1,0 +1,4055 @@
+{
+  "created": "2026-10-12",
+  "application": "MadCut",
+  "layout": "outputs/chatcut",
+  "exclusions": [
+    ".agents",
+    ".codex",
+    ".git",
+    ".local",
+    ".next",
+    ".openai",
+    ".pytest_cache",
+    ".sites-runtime",
+    ".vinext",
+    ".wrangler",
+    "__pycache__",
+    "node_modules",
+    "environment files",
+    "model weights and native runtimes",
+    "logs and media caches",
+    "browser IndexedDB data"
+  ],
+  "files": [
+    {
+      "path": "MadCut/outputs/chatcut/.gitignore",
+      "bytes": 622,
+      "sha256": "2c0eed92af7962864e389cd86b4f4f10fc241e2d91baa5ce7acff44911ee0b8d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/.npmrc",
+      "bytes": 45,
+      "sha256": "a3909ac0447c469fda12c57374993be70f47ce73e49fd3124678c7c047f2214d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/AUDIT-AND-STAGED-PLAN-2026-10-12.md",
+      "bytes": 20083,
+      "sha256": "fd8beec694c12ce7ab5282441092c842ee16a303f85d9d649960c41ac9b5673d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/CAPTIK-TEMPLATE-REVIEW.md",
+      "bytes": 2627,
+      "sha256": "7d98d484bfe47226cd934dc3e1dfe4a7f4944b002cd47801c9e19a81bf5a839f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/CAPTION-ACCURACY-FOLLOWUP.md",
+      "bytes": 4595,
+      "sha256": "d55a711b605691f8265b13be90b93538ffbb8dd4aa10ffefc5a0ef5d7956fdcb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/CAPTION-ERROR-AUDIT.md",
+      "bytes": 5206,
+      "sha256": "f20be6d86b91d827b479dcc73c1438319bb73d60e072f112a6c8933433b97dfa"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/CAPTION-FOUNDATION-UPDATE.md",
+      "bytes": 7088,
+      "sha256": "421dd7c0b367cca0d35f35542d6f96d84f15b2e02de7ca616cf6ed143db9aa7c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/DEFAULT-LIBRARY-TENGLISH-UPDATE.md",
+      "bytes": 5218,
+      "sha256": "a71e9ec282116a00f12daa3829b0579a94229775975c17633ec91128b6d66ad1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/EXPORT-TEMPLATE-UPDATE.md",
+      "bytes": 3408,
+      "sha256": "5c458446e8d0dc2b3257a40beb2feb3c31311f30117c670eb3aef866d9e4e243"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/FAST-CAPTION-UPDATE.md",
+      "bytes": 6078,
+      "sha256": "d54fcfe17e24fca32d580c3264162fc55f2332ce23503a7fc264b84b04d4fbb7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/Install-Template-Fonts.ps1",
+      "bytes": 2628,
+      "sha256": "efe2a26204d5499e63a461b77f3972c7a8e439565d4b54e739fbbf6bd6feb40e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/MADCUT-UPDATE.md",
+      "bytes": 4352,
+      "sha256": "0da62dedcb447a3a55d3472b1021bc560ac12276b9d7f692233f408b28c04801"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/PLAYER-MOTION-UPDATE.md",
+      "bytes": 2200,
+      "sha256": "d4bd11ad69d91fd1b61dbe772d0d1f2d80286ecc5d589d605679661ac1afd2f6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/PRASAD-SPELLING-UPDATE.md",
+      "bytes": 4691,
+      "sha256": "9087d1d545a8c562fd2c692cb2e3c22341d9d6173767a4a0ebda3d7c18d6ccc4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/PROGRESSIVE-CAPTION-UPDATE.md",
+      "bytes": 7984,
+      "sha256": "f1ad529ade70dda99b66709e4742bb9969f98040d5c9f64ce696f1b2e123741e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/PROJECT-HANDOFF.md",
+      "bytes": 4375,
+      "sha256": "0e07fe82c2e04ad3838584671d38abafd846989ac1543903292d4c6fccc6af80"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/README.md",
+      "bytes": 9983,
+      "sha256": "479a0259ee34702f0db53b61c3580ac224fc54f5784683283cebefa59277c6fb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/Start-ChatCut.cmd",
+      "bytes": 113,
+      "sha256": "93e626de0473b4061e5c6a01af1ac72d59c4005589276912180d1ab67c162359"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/Start-ChatCut.ps1",
+      "bytes": 1573,
+      "sha256": "5629880268e399b49629b624699a46374e9ae55eaf2a20988b8ec36ad99133bd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/Start-MadCut.cmd",
+      "bytes": 113,
+      "sha256": "93e626de0473b4061e5c6a01af1ac72d59c4005589276912180d1ab67c162359"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/Stop-ChatCut.cmd",
+      "bytes": 90,
+      "sha256": "7336e30db045b5633de74c195d52321689db6a0befeb8f5afc5ed1a8ee39e9a4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/Stop-ChatCut.ps1",
+      "bytes": 886,
+      "sha256": "1f5f72f25e2a7e2e3b5e441a22634577d906715af73b5557bf38c8e945a10ec5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/Stop-MadCut.cmd",
+      "bytes": 90,
+      "sha256": "7336e30db045b5633de74c195d52321689db6a0befeb8f5afc5ed1a8ee39e9a4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/TELUGU-ACCURACY.md",
+      "bytes": 5788,
+      "sha256": "9e5a9155e78b700b92b08f0735ff07b37153092030b7a508d822d4fc513b5b93"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/TEMPLATE-FONT-SETUP.md",
+      "bytes": 4831,
+      "sha256": "b1d3d6cfdb5cc727d2a3897d7c7a2670495fb0ccd0c61e6588b5e933df30e841"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/VERIFICATION.md",
+      "bytes": 2186,
+      "sha256": "b2606570009fc32262ab532a2c9b40bc9b56ba5a242da4140b168b2ff9f3b2b5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/VIDEO-REFERENCE-UPDATE.md",
+      "bytes": 3677,
+      "sha256": "a1691093419caa1f844568e3ff2b6d58aff812764d85f7b1a8aaa481b9d98f06"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/cloudflare-env.d.ts",
+      "bytes": 99,
+      "sha256": "8b0eca84aa3364cc7ccc43cc3af6beb88dd34ebd410de08690bf094ce39fbcb0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components.json",
+      "bytes": 420,
+      "sha256": "31f4ca67a4a62572571003d3d5aac85ee6fbfca67a192924bac6b168d95e98fd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/drizzle.config.ts",
+      "bytes": 148,
+      "sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/eslint.config.mjs",
+      "bytes": 846,
+      "sha256": "f22a254df7d934bbf9be499d3c969a13abb7f7f64c03f5967d0095cad81dfe06"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/index.html",
+      "bytes": 438,
+      "sha256": "ed1102ea730a919fd16b8889f41b570cfc2dcee4d05880f75e6927c6d9fca818"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/next-env.d.ts",
+      "bytes": 291,
+      "sha256": "539b8eff936dcf0cb92eeecd475bfe28b068121f71631abd0a614b9c7707d6e4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/next.config.ts",
+      "bytes": 133,
+      "sha256": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/package-lock.json",
+      "bytes": 518924,
+      "sha256": "b4ed6212c3481c1914d6c4a0a1f68d3fee601e0cc8ca335083f59b3086781fb3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/package.json",
+      "bytes": 2100,
+      "sha256": "b0bbca14fc960bbf153cc16ce5ad89ac66a18d60a5a2d46acd6f297f31a98e1f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/postcss.config.mjs",
+      "bytes": 94,
+      "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/tsconfig.json",
+      "bytes": 800,
+      "sha256": "7199c6e4e400921e8049729840165a39f1476fa97901bed00239e7697bfe8da4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/vite.config.ts",
+      "bytes": 3115,
+      "sha256": "6f6d890794fbe23f3e35cceb327f49d5977432a5aaf715e040a6408932da395b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/vite.local.config.ts",
+      "bytes": 391,
+      "sha256": "2f19d947bf4cde357d867f970c8d3598d2c41b1860434be6274e2badc6f52d27"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/chatgpt-auth.ts",
+      "bytes": 2550,
+      "sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/editor.css",
+      "bytes": 35693,
+      "sha256": "c85fe84da23371a39589067dcec7f3c63adc025853ca6450803bbdf5386e02c6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/export-dialog.tsx",
+      "bytes": 5367,
+      "sha256": "9a34026a9751b110d6503c57dbb0e9d8878f09a48d89573b791acf8916b2f77d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/globals.css",
+      "bytes": 19640,
+      "sha256": "b128b17bd4b5b131b020928cbe1e460bf79941061873114619f708f4944f3f1f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/landing.css",
+      "bytes": 24288,
+      "sha256": "9ec39d008c4c99ebe15f7efd32fd2bdc7328789fc047b621bef88843c580e7e0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/landing.tsx",
+      "bytes": 12248,
+      "sha256": "fd557e29e0edbecb4196b63fa4095f97e4990e9b1fc89873abde2f52b18c6cca"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/layout.tsx",
+      "bytes": 608,
+      "sha256": "169fd5a6e341fce864f5b72d35fa5d761489285d8e144047323de2c47f509340"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/media-timeline.tsx",
+      "bytes": 2439,
+      "sha256": "ff6766b6ec5069c2db74a59701417f7c35033d65b6f6b6b8b7285ee2012b6fbe"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/page.tsx",
+      "bytes": 53173,
+      "sha256": "d6458e5862cc1f58a516acaa6060a1be373bfd3c70075ef04b2d9c6b77bf3183"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/projects.tsx",
+      "bytes": 6181,
+      "sha256": "f1d90cfecdc7b948397df2db13aae60e8eff8968247de34167b67753c5168cd0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/spelling-lab.tsx",
+      "bytes": 3119,
+      "sha256": "e6a289142f516ecb3b3d43705a723e310562eaf3e6322bef84a30228cb8a0230"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/template-card.tsx",
+      "bytes": 4781,
+      "sha256": "31fcfb8957faeaaaab1b0e9608401f9f30e3fe3e60e0f8eabfd0f02df979e875"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/transcript-comparison.tsx",
+      "bytes": 1974,
+      "sha256": "e4ad5126019f76a15843958eb8a1a1d6bd10d962c00cda80cb24451f97185ffe"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/app/trim-panel.tsx",
+      "bytes": 2247,
+      "sha256": "27ff8f97c734c240b2cc76a1e93ce4b95d513babf1053e39b8e4ceece2f4139f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/build/connector-preview-plugin.mjs",
+      "bytes": 7211,
+      "sha256": "a6a9fe2086e302f94a3f91e3c1a68a45bb3aa07d4a79faf01b14732191eb4e80"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/build/connector-preview-worker.mjs",
+      "bytes": 594,
+      "sha256": "c1b6b2c420cb67d9e28f8f4ae440f578c0dfd4cb840a12cfe4b58076629a17ba"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/build/sites-vite-plugin.LICENSE",
+      "bytes": 1063,
+      "sha256": "7de1e115d165f176e68f962acdb809b5ab8d8ae78d3981e0701392b2ac50c713"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/build/sites-vite-plugin.ts",
+      "bytes": 7185,
+      "sha256": "07af20e7097d9ed1d76f7c446d02997550b8fc5ca89668b249e25eabd62c6834"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/build/sites-worker.ts",
+      "bytes": 1279,
+      "sha256": "28a75f74adfc226a773d1c00d5779c26412eea40a104da5c77f7d0f0fc30f0e8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/connector-error.tsx",
+      "bytes": 1082,
+      "sha256": "2d0d04559952ce9c9a327cca499f4b99f35d885cccfce375230e116695d3f155"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/accordion.tsx",
+      "bytes": 2048,
+      "sha256": "a4f153089ba886dfcf73fac26b5c01ca933fa12fbe88df6fb723912bfffdfbb0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/alert-dialog.tsx",
+      "bytes": 5439,
+      "sha256": "9a8d950f2b9b4352d5ebb762fb44d5c28c2d353aa29712071973656a8736e311"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/alert.tsx",
+      "bytes": 1614,
+      "sha256": "2cc59b5f7bda91c1670884b1bf46bfc8a2a6f226cef184f5762acc037188885b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/aspect-ratio.tsx",
+      "bytes": 274,
+      "sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/attachment.tsx",
+      "bytes": 6002,
+      "sha256": "ae8a25dd1a896d3964e3ef54d97e51221b418cde287dfd794428b89951c5c790"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/avatar.tsx",
+      "bytes": 2916,
+      "sha256": "58a846bf1617b94b9681921db9b8461d0145f311424663d11678a06b6153cb34"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/badge.tsx",
+      "bytes": 1776,
+      "sha256": "46a0de5224f6a5d5d63d45246534288518dce888f031064bff925bbc7fe6ad97"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/breadcrumb.tsx",
+      "bytes": 2350,
+      "sha256": "d4c0831bba2212e778248f54a6ace6ef378df8bba4616d1abf27787a31eabae5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/bubble.tsx",
+      "bytes": 4699,
+      "sha256": "870cc0c5cfc8a515053f7e41e706a6bd017a909b45f1305fd3b164a52cc4483b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/button-group.tsx",
+      "bytes": 2202,
+      "sha256": "784c89d8ee683e1bc972ae69e6ea8225a7f63abe22aa1b5fc3423ae8a2a399c0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/button.tsx",
+      "bytes": 2392,
+      "sha256": "cc36af0f8b5019c33cc039fbf03bb952a513072b15b55b53c592b78af3e5f4c4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/calendar.tsx",
+      "bytes": 7832,
+      "sha256": "3855fbe0d3f8ad3a4b93071f98b76a9f6782d46ec8b05f5d2ddbee1e4e39bc84"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/card.tsx",
+      "bytes": 1987,
+      "sha256": "c48dd3b96be90a7066f1aebf294f0af9d00ebcdc367d5d4aca55429ade570c1c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/carousel.tsx",
+      "bytes": 5556,
+      "sha256": "b7ea0dda3903d972c186f739e23da61f547bc83b5a0bf13b16856577846d5fc3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/chart.tsx",
+      "bytes": 10614,
+      "sha256": "45aa5ea4a386f4fb5b8869ff4bab3a08cf89255190ee322043baf84c3e950b6a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/checkbox.tsx",
+      "bytes": 1214,
+      "sha256": "b23ab9d4deeedf2ac8f512c368361ede681aa383437ef48563a6f9b7dbe95f27"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/collapsible.tsx",
+      "bytes": 795,
+      "sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/combobox.tsx",
+      "bytes": 9158,
+      "sha256": "2d68e78b2dc7e38a085f222dede60a80b4f8229a6e91732c484605e204d46735"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/command.tsx",
+      "bytes": 4818,
+      "sha256": "361193df1e3d64a9e9b5048f045264782fcb387aab3f00f2b805fdcbf538b16a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/context-menu.tsx",
+      "bytes": 8268,
+      "sha256": "2cf1fcf59df0649a3e2a126d1df2f639145f6b6bf5689ee54af1f40ab1245017"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/dialog.tsx",
+      "bytes": 4303,
+      "sha256": "dce39c6adc47d997bd2567f8b7a72f466b0134715105cd42f9194007b8ecdb14"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/direction.tsx",
+      "bytes": 506,
+      "sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/drawer.tsx",
+      "bytes": 4255,
+      "sha256": "cb6eaf58eb0757ca91af284e5d925b89a42ad7eb19cb3f44c575a3487aa9350f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/dropdown-menu.tsx",
+      "bytes": 8418,
+      "sha256": "98f0dcdae38225b73734aceeb9213dd751fea2c72ea520df31003cd133deac8a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/empty.tsx",
+      "bytes": 2396,
+      "sha256": "ae95bdcf367a076ae02e7925f14522a148798f72d9651749c6d55497dba584c0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/field.tsx",
+      "bytes": 6159,
+      "sha256": "ba67d76f017ac059fc86cf8c344e0b2991c4322d3619e125498c19b87f6eefbd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/form.tsx",
+      "bytes": 3757,
+      "sha256": "315b46bb75ab7d1c6061b5d750aa4bedf6e7a455e15e2d7f9182f053d5972b1e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/hover-card.tsx",
+      "bytes": 1526,
+      "sha256": "f5d8df42c59370ec14d61bcc54f7d68e9bb7dfa0d6a872b2f7cffc2aafbf23b8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/input-group.tsx",
+      "bytes": 5065,
+      "sha256": "6afbd58fea4c438e6252dc4568bddc122e84ababead4ad5cee50ace01100c9a0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/input-otp.tsx",
+      "bytes": 2254,
+      "sha256": "161946daa89f0eda2575b9271c0494e35807c4ffb55598a49f67160c17fec299"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/input.tsx",
+      "bytes": 962,
+      "sha256": "8c4612a7c41319ac5049daa3b34b080f9784b6245c17780eb87c127e58e473db"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/item.tsx",
+      "bytes": 4486,
+      "sha256": "6e2144d6d87142dbbe56d568810bf546318c8aa661447ebb0d76ebbf382cb45f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/kbd.tsx",
+      "bytes": 862,
+      "sha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/label.tsx",
+      "bytes": 606,
+      "sha256": "a476e41f08b9de5bd447de66a33d8bc2ad18f2fa6b96c064778bab4b6f439f4c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/marker.tsx",
+      "bytes": 1864,
+      "sha256": "3d798763f094b2bb5e7ade2d5cd1b9bab498bc8ca7fd4cfaf4e5835bdedc34a0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/menubar.tsx",
+      "bytes": 8389,
+      "sha256": "9243af8afcea03703398ccd1c2a8c0a87ad6cbaf2bd272fb609f5b79fe46aebb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/message-scroller.tsx",
+      "bytes": 3992,
+      "sha256": "bb7660a248e4e9589c3816c7c1c199ea1381a70d2c8476ae895b567a7a4d86cf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/message.tsx",
+      "bytes": 2232,
+      "sha256": "9d2952bf3b641081f09aa2739535e6bbd1be0a4946789752a2c20d8aaef43185"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/native-select.tsx",
+      "bytes": 1995,
+      "sha256": "007516b111fca8c98a6c40c94ab91bb68cc5b52afce1ed1f5e510c3d86e7347c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/navigation-menu.tsx",
+      "bytes": 6658,
+      "sha256": "889d358a77de88e9cb6f39ea4895ea4c76eaf01d731b74e44f1c41e97a78a044"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/pagination.tsx",
+      "bytes": 2717,
+      "sha256": "374ad135c3d4ff3ec080a0009cd9745cdd0e12faa89d2b0e86074f11e5127fd1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/popover.tsx",
+      "bytes": 2357,
+      "sha256": "31c350309ff5d3034e6ecf1b0eda75ba8855bdbf987fc7ad6d71f0ef07c5a447"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/progress.tsx",
+      "bytes": 755,
+      "sha256": "c8c26e8f5f041c3cdf4915347dc1d9c022f9448f149990fadcaf303e952fa57d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/radio-group.tsx",
+      "bytes": 1460,
+      "sha256": "fe5ce39636d0818c2bf9c4eebddff893d1225fa2c81b5fa4bb8cbb39a8c913ce"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/resizable.tsx",
+      "bytes": 1815,
+      "sha256": "bc63958467aa00557c551bb0d96a5ae4c965c1e1ba2380e595949d933b132f7c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/scroll-area.tsx",
+      "bytes": 1639,
+      "sha256": "8bd9d986b2844c9a87de825c6de4787b6739b36c3dc9a05ccf3eb107160e4043"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/select.tsx",
+      "bytes": 6353,
+      "sha256": "0b796a108a4eb5ba52d9ad938b7aea36dc56ae66c703a6d0a23dbc24f96daff3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/separator.tsx",
+      "bytes": 694,
+      "sha256": "6da346505c8629a4668420d2a5ca48891383bbe0b0ceb14163537c671879427e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/sheet.tsx",
+      "bytes": 4188,
+      "sha256": "63863cf2df8f8973e52b3459ac9bdbf81be1262dbc70eb53d5271ffb03488e16"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/sidebar.tsx",
+      "bytes": 21526,
+      "sha256": "4a8d73e7730a2b1fcecfca31299ed26db65c2307b84197a59c6ec7c01c7ad28e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/skeleton.tsx",
+      "bytes": 276,
+      "sha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/slider.tsx",
+      "bytes": 2034,
+      "sha256": "ca77f5868d5de283fe93148ae5994553865a58ff0ec5e03b83c263b984d61a71"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/sonner.tsx",
+      "bytes": 1034,
+      "sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/spinner.tsx",
+      "bytes": 331,
+      "sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/switch.tsx",
+      "bytes": 1408,
+      "sha256": "386d4d4deb39f34126f9700fe9bf5393d238485dd94018bba9d154dda84c62ae"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/table.tsx",
+      "bytes": 2478,
+      "sha256": "20e5a7f224959c6b75802995706a97e9da171f693d4b6b1b436388fcd9df96f3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/tabs.tsx",
+      "bytes": 3782,
+      "sha256": "865d0194331b9b2be36723fa79d3575dc83078b4cb941cafee87cb72fc2cff46"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/textarea.tsx",
+      "bytes": 759,
+      "sha256": "253cdeb487c73beaaccdf47fc163e36e7d5b7ae6ddf09a4f64998a109a112979"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/toggle-group.tsx",
+      "bytes": 2308,
+      "sha256": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/toggle.tsx",
+      "bytes": 1565,
+      "sha256": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/components/ui/tooltip.tsx",
+      "bytes": 1830,
+      "sha256": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/db/index.ts",
+      "bytes": 423,
+      "sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/db/schema.ts",
+      "bytes": 169,
+      "sha256": "13ddacbf0be50e054d450a6c642b7fdc1aa943fd6b99084711e07e58b600390d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/.assetsignore",
+      "bytes": 30,
+      "sha256": "14ce8d5101f6d8f172242053466d44f5e2cd622dee81db53c14bd445c25d1942"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_headers",
+      "bytes": 131,
+      "sha256": "2148fb62669525f5091532d36d4a48a8da95b08a5a797bacde75d2fe981351bb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/favicon.svg",
+      "bytes": 349,
+      "sha256": "e5d97bc79363cdeba53de4942740ec1c3375d00f3cedde9cdfd503b2b05b2e0d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/file.svg",
+      "bytes": 392,
+      "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/globe.svg",
+      "bytes": 1036,
+      "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/vinext-client-entry-manifest.json",
+      "bytes": 65,
+      "sha256": "45dbae4a81be5a0f0c2fe0dc99bf222134d3f3c0a60005dcdc306c7a3111abd8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/window.svg",
+      "bytes": 386,
+      "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/.vite/manifest.json",
+      "bytes": 2598,
+      "sha256": "161bc03a0e0ae423304ef436f4f085cd9b5069fc879de02cc5de89222118da67"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/worker-05gd5kmi.js",
+      "bytes": 2458,
+      "sha256": "67984dc41467a79fffee725d5c2cb1e4b0358b5371db9f105bc6e654011d78fd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/84ff5493-089b-4de2-b660-bfb6e6c22fce/_buildManifest.js",
+      "bytes": 159,
+      "sha256": "47f02b34be6dc481257b6efce4c19e19111f37ef5c437f8ffed44f0da97fa9bb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/84ff5493-089b-4de2-b660-bfb6e6c22fce/_ssgManifest.js",
+      "bytes": 76,
+      "sha256": "653f3e53e89b4f8548ff86c19e92bb3c6b84b6be7485a320b1e00893ed877479"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/chunks/app-route-prefetch-policy-Dy7HZXsg.js",
+      "bytes": 937,
+      "sha256": "e8c7a41a5be7415229386a753045f42407b039776c27015324b01d1c5bac56e0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/chunks/esm-BrQKPeJR.js",
+      "bytes": 3040,
+      "sha256": "3eb72a735e5e9f77d597152f7fb61217169014a688247585c41b53007216b3a9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/chunks/framework-D_rUT4EX.js",
+      "bytes": 190152,
+      "sha256": "939d0fabebb3b2f01753bb866b067d8d3384fb06da19f0e6557609d3b1a9f4f7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/chunks/index-CKrDqOmQ.js",
+      "bytes": 193824,
+      "sha256": "cd9a2352212d61d32a5185efe8b15b581bd2cfe591227f521515c696bccb6975"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/chunks/layout-segment-context-DwG-UdSU.js",
+      "bytes": 494,
+      "sha256": "294855e906085d26c4c955e335c343575a47b94c4abe3b7c79d79a1c7ba87044"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/chunks/page-4h66vd6f.js",
+      "bytes": 235689,
+      "sha256": "947aff93f553cfe00cbc788225bbf2a2669814d4b7a20d9282ad67be3cc0ba3c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+      "bytes": 694,
+      "sha256": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/chunks/streamed-icons-BbokXyyW.js",
+      "bytes": 772,
+      "sha256": "7eb2a6b44b9c0faa7300c8dd36b0fae7a35d9f65e139dd9046b3df193aa83bc8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/_next/static/css/index.CNjgUvFy.css",
+      "bytes": 164062,
+      "sha256": "2ac089c7dcb8bd7ce5fb9187ef1930847769f4b516148a832cd21dccc0e36df5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/ffmpeg/core-1.bin",
+      "bytes": 16116210,
+      "sha256": "385b2f7930ae24951f872f308251757bbde3a3b1886a7ed85bf4a0e0075b2142"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/ffmpeg/core-2.bin",
+      "bytes": 16116209,
+      "sha256": "7439f1fe7f49f84ac0d08d180779881b5238bf0bf266ff9a783d2dfca54522da"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/ffmpeg/ffmpeg-core.js",
+      "bytes": 111804,
+      "sha256": "67a48f11645f85439f3fde4f2119042c16b374b910206b7a7a24f342e28dcae3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/fonts/hindi-OFL.txt",
+      "bytes": 4386,
+      "sha256": "a216f6f8d85c7228093e0ee5e258d9d377e6671f68acb4db1930b29583d0f331"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/fonts/hindi.ttf",
+      "bytes": 641944,
+      "sha256": "14ec4af41f27482216d1c2229f417ff9b1425e1babb014e57d1d40d03229853e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/fonts/telugu-OFL.txt",
+      "bytes": 4382,
+      "sha256": "481c72a8f1b4f645a7e6b10326be41b2da2c15cb470ff48a07fab773eed00102"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/client/fonts/telugu.ttf",
+      "bytes": 888808,
+      "sha256": "e618af7bf999df192ed4f388eba2e563f2b5015034e9cbb317b5bd793bd7334d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/BUILD_ID",
+      "bytes": 36,
+      "sha256": "39a88dc079e1d39c503106628274af69dc4adcb3418730e051d8ab44f60acba7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/__vite_rsc_assets_manifest.js",
+      "bytes": 2305,
+      "sha256": "65e59584fa4e172c4eeecae6f4dd8b71355ab23e9df9f2a4a850372abf2673c8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/index.js",
+      "bytes": 200982,
+      "sha256": "65c344852c34dd7294d182057702dd5cada5cf09bbc146baa6104c0404daa6a9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/vinext-client-assets.js",
+      "bytes": 1593,
+      "sha256": "17295046865f91f2bb529cbf5882d1751c22fe62d982d1870a8773de0823218c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/vinext-externals.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/vinext-server.json",
+      "bytes": 86,
+      "sha256": "d26f2344b332680ecb25b46e0b5b5bbef3da6ce31f6ab51a6026871849916316"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/wrangler.json",
+      "bytes": 1190,
+      "sha256": "3d25f727e08f03f598447dd2c2d70a275860e3ca2e2ef329a8ded4111f5450eb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/.vite/manifest.json",
+      "bytes": 11071,
+      "sha256": "44e4cde4dcb5335859fea9059c7f26ebbb4189c400ff1c5a5e36d5e9eaa3b496"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/ai-server-ChDZroJx.js",
+      "bytes": 1946,
+      "sha256": "cd18e61c52db924637043b782e554d83ff1ff79bee4515b3fc0a34eb0c55bc80"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-page-cache-DMguv5IT.js",
+      "bytes": 5194,
+      "sha256": "36141bf59c55ec49f9111bd06bb6db32c30704eab5e9b3b117fa4478a81bae58"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-page-cache-finalizer-CfN59tmL.js",
+      "bytes": 3480,
+      "sha256": "3d72aa7cbaa3afda748d50ee0be7e76d0cf8048d1177d35895788375ce87a79f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-page-cache-render-CiHkZgXt.js",
+      "bytes": 1949,
+      "sha256": "4aa8d07dc880c85a89672376acc9d623dec0303d1698593859bbb098f9ad2b45"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-page-stream-CRTIuHCz.js",
+      "bytes": 9968,
+      "sha256": "5fafc9bdff7a02e381f9cb09f1030d8de5f2973fb77c3c3ab132ffff7ca30893"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-prerender-endpoints-DDQZrdBf.js",
+      "bytes": 2012,
+      "sha256": "759c1441a75cefe6860b9d503c1d2170dd51673a39cb77256a503a3c9dfb3e99"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-prerender-static-params-DvXNdgtR.js",
+      "bytes": 170,
+      "sha256": "6e964aa8668f6471bbd61cbe0c35f634520f654c499cac14950709481f96c1d2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-route-handler-dispatch-Dmp0GpXm.js",
+      "bytes": 26185,
+      "sha256": "b048f15a10246d3d6c78ac414b4a90fd409352cc299e188f53f49abbf74b90f8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-segment-config-BLekm9E6.js",
+      "bytes": 13636,
+      "sha256": "1ee69f96b256b3da76bb625f1bf9747133cb595856a65991d652e23ecf61bf97"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/app-static-generation-B_32zSSv.js",
+      "bytes": 916,
+      "sha256": "71451721ae4a42108e9ed32567cd9d9861beb4952215b0fd57ffc373cd3edc01"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/cache-headers-BXaPoBL2.js",
+      "bytes": 39292,
+      "sha256": "cc4901f23beb759449fc243542d6479252c3e7de42de3953d2252e86a05ae972"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/framework~index-DoPhLi5r.js",
+      "bytes": 190,
+      "sha256": "936cb17e471e0fc1c16257f87785601195558d12745a65efbfc961ffacbd1440"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/framework~index~layout~app-page-cache-render~app-page-cache~app-route-handler-dispatch-W-t6h1lj.js",
+      "bytes": 824,
+      "sha256": "de459b188eb6b69f6fa4e2207508a96e8cfb0d3b3d4073dde2153f74467a0875"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/framework~index~page~app-route-handler-dispatch-BwvOHsq2.js",
+      "bytes": 56617,
+      "sha256": "57433106cc25fb39794a05d1d84424d3fd39d5451119b3cafc7ee83e2c275f52"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/framework~index~route~route~route~layout~page~app-page-cache-render~app-page-cache~app-rout~f8z8fn12-BwWo-cVz.js",
+      "bytes": 5499,
+      "sha256": "4f686187dcd97b5d9eef7f152f93eaf0b53172f59e748a8ecf410a20b326e9f8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/headers-BBgHuOI_.js",
+      "bytes": 4969,
+      "sha256": "dea2c425b42d7d36acb126e0f8925d1d3685c307257cb8c0924ae88718883baf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/headers-j0QAsRga.js",
+      "bytes": 10975,
+      "sha256": "d6db60f6759b11234d865969c3b08332223067a40da1fa0d77f6b567d12f81f0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/implicit-tags-DNH4y9nI.js",
+      "bytes": 1345,
+      "sha256": "58432651f4237355c3a1bf8eaaafd569345219508cc1fbfcba4b6ebfe3f80ae9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/isr-cache-D6JSd8_e.js",
+      "bytes": 4925,
+      "sha256": "ab39b7ab62d717187397240b8cb1bc945d896f82c438ed305b7c761a4762a8ae"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/navigation-errors-CVXNhdcT.js",
+      "bytes": 1253,
+      "sha256": "f1e9dc7e4225e6a84b4614349963aee256957e483df479f2a24a22c7d08525f0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/navigation-runtime-Dp27I42Y.js",
+      "bytes": 803,
+      "sha256": "2fa50c8ccaf9686ac5eb42b4817207ce98bf78c7c3d9c51a2990895e677d912f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/navigation.react-server-Blikjd4K.js",
+      "bytes": 262,
+      "sha256": "24c8a556fb324df23f132b578557ef38ba221dacc7ce79a7be090522aae6da35"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/page-hL_zvxME.js",
+      "bytes": 181,
+      "sha256": "1d192d81245b983fe80c4624d8c3b21f71b54754e0242ee38b37fa417501d372"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/record-Cz3MrZeO.js",
+      "bytes": 79,
+      "sha256": "b9bdb7b7d0e4844d241dba61104d18111d61ef92af3f137d15749531d276f9cf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/redirect-digest-C-06pD9r.js",
+      "bytes": 377,
+      "sha256": "b92ec9aa7c6dcd33cfbe31e79016b8e95e069db3104601e782c0eab8aa9d331b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/rolldown-runtime-DUnMT5BP.js",
+      "bytes": 694,
+      "sha256": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/root-params-CarSBhWB.js",
+      "bytes": 1244,
+      "sha256": "b1dbb34ba341adf166a683d8a2382ddd30e511bbdc7099280f75771becf39a7e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/route-CGTlptby.js",
+      "bytes": 60425,
+      "sha256": "db24064b02eac807b3613255d0e94aee1f20ed29ff0b72ed802e39176503c9d4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/route-D5yeTxUT.js",
+      "bytes": 1202,
+      "sha256": "bbe84115dedd00f1336b49367758d6b3639376c39f20eac6bb99bbc160859ef7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/route-D6wTRhfx.js",
+      "bytes": 203,
+      "sha256": "5c0b90a84fd638c9871fd86d098d95bce44a95b76807145c89d18e526ebb73d2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/rsc-BPxVEOVE.js",
+      "bytes": 725,
+      "sha256": "1d5e3babe20309e7f873078cca324b5dea0fb8684ce0abf85f97917f60ae1fcf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/text-stream-B0U9HOlA.js",
+      "bytes": 19441,
+      "sha256": "823cad658ef5df07f698e89119f4560dae4739fa3275736a342c6a0179635026"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/_next/static/css/index.CNjgUvFy.css",
+      "bytes": 164062,
+      "sha256": "2ac089c7dcb8bd7ce5fb9187ef1930847769f4b516148a832cd21dccc0e36df5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/__vite_rsc_assets_manifest.js",
+      "bytes": 2305,
+      "sha256": "65e59584fa4e172c4eeecae6f4dd8b71355ab23e9df9f2a4a850372abf2673c8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/index.js",
+      "bytes": 278306,
+      "sha256": "27129be1a21e73a25c6b680a4ab9ff6d23c75a0d98328ca14d307c19c9e8fd78"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/vinext-client-assets.js",
+      "bytes": 1593,
+      "sha256": "17295046865f91f2bb529cbf5882d1751c22fe62d982d1870a8773de0823218c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/vinext-server.json",
+      "bytes": 86,
+      "sha256": "d26f2344b332680ecb25b46e0b5b5bbef3da6ce31f6ab51a6026871849916316"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/app-prefetch-fetch-queue-BiCJWNaj.js",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/app-router-scroll-CXOyZlaL.js",
+      "bytes": 2548,
+      "sha256": "8aa68c48f347896ce1bc31ef186746a7cd9ae043f3e4e39a3856f13d1061bb3c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/error-boundary-BUqFNxw2.js",
+      "bytes": 5399,
+      "sha256": "013dad3c0ea62859d75ef290703dc2547d9df0b1222d9235cc9c6011c5b1d806"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/esm-BhU8c0of.js",
+      "bytes": 3016,
+      "sha256": "e999d6efbd0d65fd53620ab61156bc5fee60b5c0b404c8a9d154b24c1c0d223c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/layout-segment-context-CDLvutnz.js",
+      "bytes": 381,
+      "sha256": "1621400fe5e17f387c4d38c41080771328053992ebc7c01f43b5ea78225580d6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/page-Bhi2iJ5e.js",
+      "bytes": 234282,
+      "sha256": "aa72613825878fd4e87a52e55f9a1d6d6e20a5b0b1046e4c8b2745d9b59f6f2b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/static.edge-B1aDkHaQ.js",
+      "bytes": 168,
+      "sha256": "9aa4706e79212b5ce4072eb3d7600afd525dc33bf2f7a66f64a94ffbc9fd7149"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/streamed-icons-DWb8HRqm.js",
+      "bytes": 691,
+      "sha256": "bc2f0e070a49732231e8516fd3b78f49de63dff63b5d27db4b5b5f7ea2a4b228"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/dist/server/ssr/_next/static/worker-05gd5kmi.js",
+      "bytes": 2458,
+      "sha256": "67984dc41467a79fffee725d5c2cb1e4b0358b5371db9f105bc6e654011d78fd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/drizzle/meta/_journal.json",
+      "bytes": 61,
+      "sha256": "90cb374e093894d0efce6f1830d873a42aadd8ba49d2f024495e5cb2e1c8c303"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/examples/d1/app/api/notes/route.ts",
+      "bytes": 1700,
+      "sha256": "a3d4a74fd53b7bf53e2df41f169d9d9d44a8b22aeb6d92f4e754956079af8909"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/examples/d1/db/schema.ts",
+      "bytes": 370,
+      "sha256": "d89eabd95716ce404f5f7ca2a254220435be8ddce7c899d7ef461ff22ec80454"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/hooks/use-mobile.ts",
+      "bytes": 565,
+      "sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/captions.ts",
+      "bytes": 13156,
+      "sha256": "aac51d3f833a8b57bcca60106f5ba77822cbf7c558039e3c05025d329b399437"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/connector-context.ts",
+      "bytes": 612,
+      "sha256": "bbddff68689cb0f6926fecd4b8b96f12f2054277c296e97b0df07d4ad5ece24e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/connector-contract.mts",
+      "bytes": 5362,
+      "sha256": "e1a7b24a8793af34b595690d9b1300c897c7321c14f215cedf58ad95799d7c3e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/connector-errors.mts",
+      "bytes": 2717,
+      "sha256": "a22edf13d6873ae832c4a2a0d579fc666c73ec996ef0722d39172649d38f0871"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/connector-preview.d.ts",
+      "bytes": 433,
+      "sha256": "abd69a94f7f61f1359063bb557574faae35e8ff5a028cc4c04b9ee248ef52642"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/connectors.ts",
+      "bytes": 416,
+      "sha256": "1c93d747e384c8e17e3e3dd5361b24412babf5eba2a11d2ae7a75f4e0924112c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/drafts.ts",
+      "bytes": 2360,
+      "sha256": "014d3f7f81bcc7872b53771b887a1ec74eca8ed19b16c8261bc9bcdd718f4504"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/keyword-caption.ts",
+      "bytes": 2727,
+      "sha256": "e86ebcd47775aa05986ab42f3e5ba345d460666b134ad48b35a459ae06eeb726"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/media.ts",
+      "bytes": 8063,
+      "sha256": "e1cc6acb7d68f6389b4a0353c1cafb687f3089221a4ef30312870522338314d1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/render-caption.ts",
+      "bytes": 12401,
+      "sha256": "08f4da4052af040673942bb76513cc3f3317966ddb3f259111976a2573d5da2b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/template-fonts.ts",
+      "bytes": 3104,
+      "sha256": "e61f07ae04afb2d9959129cf3e13e4b822373da28ec6fe45a68b118136a5b272"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/templates.ts",
+      "bytes": 7971,
+      "sha256": "70a4f230b8608057e497db066ef0817e7f3f72b8cf5d8e3ce8e45b12f7dcbe19"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/transcript-provenance.ts",
+      "bytes": 2367,
+      "sha256": "a10d96be7ccd9b160164bb256bce54d1de4460eaf3057ab708d44fb18510308c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/lib/utils.ts",
+      "bytes": 177,
+      "sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/licenses/sarvam-translate-GPL-3.0.txt",
+      "bytes": 35113,
+      "sha256": "e2d724cc02f34a620705c7454f41bb2a0f1e1b575efd7d6b416cc8898a7af4d0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/licenses/telugu-whisper-Apache-2.0.txt",
+      "bytes": 11631,
+      "sha256": "ac2f29e0e0f3493b097b9df1d00dd7d2a17487353c29b4da6481a373aad5bf20"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/app.tsx",
+      "bytes": 1087,
+      "sha256": "c1fdbb76c8b780ae6dadb9c002b8eda76bc009f376d4e414ecbd7fc9735f752e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/caption_flow.py",
+      "bytes": 5913,
+      "sha256": "ade954bb66ed76515810c5a64750f357a41203d524e47390d03451ecd9ef1079"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/caption_timing.py",
+      "bytes": 6340,
+      "sha256": "0009f3df055721b4b3db795466d96cc16ee32d2ee3eb8f7db9ec78c0f015c50a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/chat_spelling.py",
+      "bytes": 8222,
+      "sha256": "592f6a3674f3d38a43ef47240304522c0165480faa1ee5c075629339c1fea657"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/export_video.py",
+      "bytes": 5553,
+      "sha256": "f7b0e971116d9248b6eb1e4b28bb9b186c9256bf9dc83ae57e1c7ea7afabcd26"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/main.tsx",
+      "bytes": 252,
+      "sha256": "c3c1d06c70de789cd201cf315567e7970b3effe5ee7ef15f4284e5d60be88e7e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/natural_tenglish.py",
+      "bytes": 3167,
+      "sha256": "b1ca8ec0f1800151fab3a29c3f9ea7aec69055161159e7cb642398e6844f99d2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/requirements.txt",
+      "bytes": 153,
+      "sha256": "201bd89a37ff52f9435dab5ed98eef82eaf09a70905b86b71ecabc84c0a541fd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/sarvam-chat.jinja",
+      "bytes": 1579,
+      "sha256": "e0a1e0983c75b0198f1045cbb20c64506a9ffb30925bd44feba0b91acf2d4f43"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/service.py",
+      "bytes": 37053,
+      "sha256": "a58a71bd0878649d71768c7ff63f9f2f8f7375b983f90c34f52186a1f321640e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/setup-correction.py",
+      "bytes": 911,
+      "sha256": "207ce805e449ad825a1a5148ed886ded825fd7726521569efe4da38f1c049e56"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/setup-speech-gpu.py",
+      "bytes": 753,
+      "sha256": "8147098909cb3ed81bd0e427b7c1076db35f57ff026d54ceb033bffee53ccf63"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/setup-telugu.py",
+      "bytes": 4644,
+      "sha256": "4576e169a7c7cd331fce47b2f3e7069e32e82b55612aed832e0e0a4b4c748113"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/setup.py",
+      "bytes": 6680,
+      "sha256": "e2904275ae0bc9957363c0f0c7356a7000e90fab42626867985be69edeb73cda"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/speech_engine.py",
+      "bytes": 24679,
+      "sha256": "fc374fd68ab2a02028a553584e05ed7eda6109194ff63a55e1798a43cc90ed58"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/speech_quality.py",
+      "bytes": 2129,
+      "sha256": "c4628dce070a499e103590255c7bbd6170d92430b028c593d97b6a1ce7dbbc12"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/speech_recovery.py",
+      "bytes": 3790,
+      "sha256": "5bef98a25eca0e2c3784a831e3833a03b3cf3ab2774e913e70ec826bc6c86383"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/speech_worker.py",
+      "bytes": 1700,
+      "sha256": "b6c8a6cc1fe7f0d019933f131a7d6a89cf8e13c1c230f21ba6564ea68f5ab500"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/spelling_profile.py",
+      "bytes": 1799,
+      "sha256": "c23e748618d8fff6ff0ca24596d70470e97b6444e514a17f38e604ee3dde089e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/timed_subtitles.py",
+      "bytes": 3528,
+      "sha256": "45e711f4f88f205fd2052dff21223442b6a24dbc730d9b08327c571147d9892f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/transcript_correction.py",
+      "bytes": 9086,
+      "sha256": "9e1d872955879149098dc69e1c335664cdf7e397947c12e66a2e3746136c8771"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/transcript_provenance.py",
+      "bytes": 1974,
+      "sha256": "45f5e73157a5808d075e2701520f02028014c2febd6137942f5e8a1ed4dd3cdd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/transcription_scoring.py",
+      "bytes": 1738,
+      "sha256": "13c69f7e3fbf3a756e54302b1eb56c47b82664b8609d7ec76c4739960b52ce8e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/trim_video.py",
+      "bytes": 4254,
+      "sha256": "9067f6c015f1cb640bc37431ff660a5a7de411fab34fc8b8edd4321e6efc2058"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/data/tenglish-normalization.json",
+      "bytes": 2411,
+      "sha256": "e88dd224921b12107249a8012e520e314bbfaa449116f392d57ecea37f3e633a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local/tests/test_caption_phase1.py",
+      "bytes": 14285,
+      "sha256": "50fe9dbc700ff42ba9d3d70d5e3f14cbe6bb8358bbe8674423ac687c28045d2c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/favicon.svg",
+      "bytes": 24088,
+      "sha256": "4f5b33254cbe095b0fbfd48963ddc5c46413f9b15bdd3c8214b766d723d4fd44"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/file.svg",
+      "bytes": 392,
+      "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/globe.svg",
+      "bytes": 1036,
+      "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/index.html",
+      "bytes": 535,
+      "sha256": "d29b738c9b9be05671b0008d1a175b46ac8f12c42c798061622682f594e1770d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/madcut-reference.png",
+      "bytes": 2186136,
+      "sha256": "21bbd80cdf6fe3e652b5d1d09e1f1bb73bcf74be81a72726fa7cec32f17c6a2d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/window.svg",
+      "bytes": 386,
+      "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/assets/esm-BMVd_GZm.js",
+      "bytes": 3034,
+      "sha256": "e67d3bde1b6e195118d6507e590b3e6bf14d8324b0dbf87d66b9752439dae039"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/assets/index-DiOv4Tzx.css",
+      "bytes": 222879,
+      "sha256": "64b607b1f8ea41a8b3bf32b239c0151e81d178feb7a98c2eb420908f49d7ee60"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/assets/index-lMGM2Ugr.js",
+      "bytes": 535826,
+      "sha256": "b322e68ee9ffa75a920ad79da2a4e95b549ef7dcfd2059ea0b8b2b396a5a6490"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/assets/worker-CyhFgHU6.js",
+      "bytes": 2458,
+      "sha256": "67984dc41467a79fffee725d5c2cb1e4b0358b5371db9f105bc6e654011d78fd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/brand/mad-lancer-reference.jpeg",
+      "bytes": 17652,
+      "sha256": "4be9754a0c02f6bad2118dce90ee0f75066206ff699cd225da91e7eafa0d511d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/brand/mad-lancers-original.png",
+      "bytes": 409790,
+      "sha256": "06e12489905e2f70f7fbf5b0b4e2dccbc53d3189f279128f7b42425aaf29664f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/brand/madcut-mark.svg",
+      "bytes": 24088,
+      "sha256": "4f5b33254cbe095b0fbfd48963ddc5c46413f9b15bdd3c8214b766d723d4fd44"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/ffmpeg/const.js",
+      "bytes": 1016,
+      "sha256": "9e3bc9dd84781c81daf459e2c46eeec815edac35089832681d9a9a0f383060d0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/ffmpeg/core-1.bin",
+      "bytes": 16116210,
+      "sha256": "385b2f7930ae24951f872f308251757bbde3a3b1886a7ed85bf4a0e0075b2142"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/ffmpeg/core-2.bin",
+      "bytes": 16116209,
+      "sha256": "7439f1fe7f49f84ac0d08d180779881b5238bf0bf266ff9a783d2dfca54522da"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/ffmpeg/errors.js",
+      "bytes": 332,
+      "sha256": "619310d7ef5fe5fefa0a31927db862b7c291713cfef4d71753fa8aafd18f4db6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/ffmpeg/ffmpeg-core.js",
+      "bytes": 111804,
+      "sha256": "67a48f11645f85439f3fde4f2119042c16b374b910206b7a7a24f342e28dcae3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/ffmpeg/worker.js",
+      "bytes": 5085,
+      "sha256": "feff0ac937ea225e997e1fae997a74f8b8d572423a526da59eb56624b1f3cde7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Anton-OFL.txt",
+      "bytes": 4484,
+      "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Anton-Regular.ttf",
+      "bytes": 170812,
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/GreatVibes-OFL.txt",
+      "bytes": 4399,
+      "sha256": "61093a21f5e63dedf54222b3c09997e54c0fe43e3851d21386e02ddcbc246d49"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/GreatVibes-Regular.ttf",
+      "bytes": 457588,
+      "sha256": "8d509802186f1b51572531ecf313e8098f9a5bfdfaca93f0c9b34467f9982d15"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Inter-Black.woff2",
+      "bytes": 111668,
+      "sha256": "12ed0eed6749099b46c7b2e8198dc30c2d7e0f2a4e5fb1d12f0b6ae2c4f33cc4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Inter-Variable.ttf",
+      "bytes": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Poppins-Bold.ttf",
+      "bytes": 155996,
+      "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Poppins-ExtraBold.ttf",
+      "bytes": 154836,
+      "sha256": "f2ab17c1a63a0ecc12c2461848fc8a469395e3cd2d641803e889c643d9f958e1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Poppins-OFL.txt",
+      "bytes": 4385,
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Satisfy-LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/Satisfy-Regular.ttf",
+      "bytes": 47928,
+      "sha256": "55bb141a0a23a32278d5fa7fd2e853824faa173b94774660ebeddb106be07c80"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/hindi-OFL.txt",
+      "bytes": 4386,
+      "sha256": "a216f6f8d85c7228093e0ee5e258d9d377e6671f68acb4db1930b29583d0f331"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/hindi.ttf",
+      "bytes": 641944,
+      "sha256": "14ec4af41f27482216d1c2229f417ff9b1425e1babb014e57d1d40d03229853e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/telugu-OFL.txt",
+      "bytes": 4382,
+      "sha256": "481c72a8f1b4f645a7e6b10326be41b2da2c15cb470ff48a07fab773eed00102"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/telugu.ttf",
+      "bytes": 888808,
+      "sha256": "e618af7bf999df192ed4f388eba2e563f2b5015034e9cbb317b5bd793bd7334d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/fonts/template-font-status.json",
+      "bytes": 651,
+      "sha256": "b3a5cc62e0310ce16a274d9a5250dadb88ddb82dd3d2c9e2c934923bf5df079d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/001.source.webp",
+      "bytes": 1504,
+      "sha256": "b5622d502c58f08b9d3c46562efe7ec6168a801dc04190a80287e8a3b48b22e2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/001.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/002.source.webp",
+      "bytes": 1246,
+      "sha256": "d51169fdb437482b9dc240a29c5701379823375e1f83e87f0c60fb40d2e11ad1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/002.webp",
+      "bytes": 8260,
+      "sha256": "a0da74853b91a9dbc6687ad7c91799b860524ead828edd44cda96a6186eff720"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/003.source.webp",
+      "bytes": 1472,
+      "sha256": "1b72668d67346099e75d46154994084a7f7033882de148eec7e9f8a94284c9fe"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/003.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/004.source.webp",
+      "bytes": 1438,
+      "sha256": "ed4e578987a95e69565fa757330a5125850a0f28fb30f6d6be4d6553a4a52f47"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/004.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/005.source.webp",
+      "bytes": 1170,
+      "sha256": "9eec5d47bba9128647370c9865922934ce6c69dd406f429cda6b39418ee6f3b6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/005.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/006.source.webp",
+      "bytes": 1154,
+      "sha256": "655fc44d202ad21e346f27de0c92c8684f33265634254807a452e54b0cd8ff22"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/006.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/007.source.webp",
+      "bytes": 1368,
+      "sha256": "db159549eb9936173fcb973d8b6dc8f5faff18ffbf255bb47d875e93ead6f31b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/007.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/008.source.webp",
+      "bytes": 3320,
+      "sha256": "ed72c2bfdf2e34d17f9254a5a1a353f65696991f18c4d91227e8816655f18d15"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/008.webp",
+      "bytes": 3294,
+      "sha256": "767c7ddad2299ca58d5d6500aeb0a3f529c31dc7029a90473b62173ff354e254"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/009.source.webp",
+      "bytes": 1530,
+      "sha256": "2432fd6a33452a8b67f5ae2d67117cefae897dad129201813bcddfb360df5c57"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/009.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/010.source.webp",
+      "bytes": 1788,
+      "sha256": "0a4930ccb08af142bc2f883354fc23b4205c7e4de98404435680a37f91b63fb3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/010.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/011.source.webp",
+      "bytes": 1604,
+      "sha256": "3bacc8ed7ac7e174b6702511d44ff2c2d626631e3580ab8da7c12cb01690b659"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/011.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/012.source.webp",
+      "bytes": 1168,
+      "sha256": "c6ce587f76d302c0f01e3bc18a7fab7b93e8e9c6e768f46e4fecf13e51551509"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/012.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/013.source.webp",
+      "bytes": 1808,
+      "sha256": "d32336ef23ac5ea0a4a25b5ed7054bcbe997741b3755f8ad2fe3881509018ed6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/013.webp",
+      "bytes": 8260,
+      "sha256": "a0da74853b91a9dbc6687ad7c91799b860524ead828edd44cda96a6186eff720"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/014.source.webp",
+      "bytes": 3566,
+      "sha256": "df5ffddb1b243a05711274118f4982f0de64bd7287c7d22df0c1859a8d39ee9b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/014.webp",
+      "bytes": 8970,
+      "sha256": "2f5887a6ed11822514332edb419d217735b0799dd294bfc40d1490e71934ebd7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/015.source.webp",
+      "bytes": 3932,
+      "sha256": "8796fd2061342db1c6bf34fc795aac4e1f875108f3a4accee6a339552b65e55f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/015.webp",
+      "bytes": 8970,
+      "sha256": "2f5887a6ed11822514332edb419d217735b0799dd294bfc40d1490e71934ebd7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/016.source.webp",
+      "bytes": 1442,
+      "sha256": "8ffac3ecfbc11a5bf3974dbceb839214650feb511dbd4c7fe304d6842c92886d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/016.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/017.source.webp",
+      "bytes": 1730,
+      "sha256": "b1e06f98cf4fed1dbc4013b8891586d9b45919e0622a1643d81470ebefc452cc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/017.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/018.source.webp",
+      "bytes": 2142,
+      "sha256": "c79495ae8e778b1bcd510d74e22009651663312645679febcd2fbd3dce8ced6a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/018.webp",
+      "bytes": 11156,
+      "sha256": "5410f14f7a5974e10d453744cf9dbb2e20bb8f26987afba70f68b8d1514988f6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/019.source.webp",
+      "bytes": 1582,
+      "sha256": "cd37a3f237779b9b2efb5ae54b9c5493c256a07ac34a4d6fb9dca16e3d048721"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/019.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/020.source.webp",
+      "bytes": 1314,
+      "sha256": "d4ee297f5ec505f0d53105f59c2f44a3cb351f14e6cee043e45bc0450be5ebe8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/020.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/021.source.webp",
+      "bytes": 1588,
+      "sha256": "c0610b17d43f1246e3598a9a2c741aace4748e81ea6e486448fc2a9159505a7a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/021.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/022.source.webp",
+      "bytes": 5616,
+      "sha256": "790546b33b7642fc5703a2d601306098edabd2c0c20df86a3c7fd65a335f6eae"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/022.webp",
+      "bytes": 7622,
+      "sha256": "8445adada6b144d70d4cd50872823e81aa592725de88be3193965168bedfd05c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/023.source.webp",
+      "bytes": 2154,
+      "sha256": "149cdd6072baf4da3d0e91ef1f75df60024443609e948553d7e8b6ebe7bc0ce6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/023.webp",
+      "bytes": 11440,
+      "sha256": "e6bcc872eb256e69060e4b5e21ae55f7263cd5cdd3ab3d1a39030ca88d19a793"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/024.source.webp",
+      "bytes": 1314,
+      "sha256": "dcc6efb27aa7a732595c5bf2ef1b926740883f06e4b0cab543d3bea921fa0a4e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/024.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/025.source.webp",
+      "bytes": 5504,
+      "sha256": "9201baddc613f50711ae3933f65677144b0f014e8ae6d2d5e415331eeb4c0130"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/025.webp",
+      "bytes": 7374,
+      "sha256": "b91f9d5e2cae660a3163da35470cf456264f6d202fc67f0b59919a352e877df4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/026.source.webp",
+      "bytes": 1762,
+      "sha256": "3ff74d93861fe874b4b563c118d6b165f85f7b27c77bce9c6d417b634605b72a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/026.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/027.source.webp",
+      "bytes": 2162,
+      "sha256": "508266edbd87cb6a5408c763f9faaf299df2db103469a055fbca1dad1a79a7a5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/027.webp",
+      "bytes": 11476,
+      "sha256": "293c131d807bb5fd171700474ac383d9bfbff5594ffac4358049c0f879ceca80"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/028.source.webp",
+      "bytes": 3412,
+      "sha256": "9d40036fa1c16077a7099866fd6ad3cea86911c132e3d6bc4aa901feee0e7fc2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/028.webp",
+      "bytes": 8368,
+      "sha256": "385a6aeae609d7e73fe686045be2f7b866e80ab6a747b12c02807182e9d50bac"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/029.source.webp",
+      "bytes": 4896,
+      "sha256": "2532c9f47c7e43c30b93478ccd1cbfa034f1aa75519f464d37113d44800b4e40"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/029.webp",
+      "bytes": 7668,
+      "sha256": "29ca1ebaa9c40ef101e9d53321d36cee66e3695cdda2e5384b1defef69335d27"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/030.source.webp",
+      "bytes": 5206,
+      "sha256": "bdb3018aa04b3647b50d5a562ce6d0225af2617beb8ef825215b9e06f51b4c8f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/030.webp",
+      "bytes": 6336,
+      "sha256": "696036ee3c391c0772a85e8349a831f30d144a742e533fb875449266bc92e056"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/031.source.webp",
+      "bytes": 4972,
+      "sha256": "d23eb8df4fb68f6f943e43e11c0c94f74757277e479ba6fa8b5b2994cfade1ba"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/031.webp",
+      "bytes": 11912,
+      "sha256": "43582fe0cbb16999cab8e1d677e9fabb9ce237e5f2e9e6506653e561824f87cc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/032.source.webp",
+      "bytes": 2676,
+      "sha256": "18709c6b6e2c2d4c9aad24d2a24a3d50053a038a6f613540332de319bbb2fa84"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/032.webp",
+      "bytes": 7972,
+      "sha256": "e8b318b7d841f8ff21ba8860fa12614898e4d70c35b239c827d0a24ac1fc43a0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/033.source.webp",
+      "bytes": 7158,
+      "sha256": "30c8729e62330da03faf40acb2c6cab53132fffae97dfeee9b05d98a1ff519f5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/template-previews/033.webp",
+      "bytes": 8116,
+      "sha256": "653340a6acf965a9320c8da1a14afb79bdc8ac1c973a3508135dd38542cde3ea"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/001.json",
+      "bytes": 4047,
+      "sha256": "058bf23974fa6a6fbe033bc70b123f9b1f7d9d020a02ac3f4402d0879c9f04af"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/001.mogrt",
+      "bytes": 22129,
+      "sha256": "6f5457d1fa62b443cb8b37e02987b966049952415bf8f43298817270702306db"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/002.json",
+      "bytes": 3145,
+      "sha256": "88caf5674c2e78833312b193b34abcbc378162c16065ec99bc85afa570d49f8a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/002.mogrt",
+      "bytes": 26096,
+      "sha256": "064731c7bf0b0033b2b67a478a321feff133cecabab49ea68679b7da86ce0e5d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/003.json",
+      "bytes": 3628,
+      "sha256": "7a5d9b61f53908f0838ff12d3f79e5f77a8c8db875d19ddc3c663e71128e0b0b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/003.mogrt",
+      "bytes": 18317,
+      "sha256": "e9bf8586a234db161736cc5e38fb35e5f2739937c8d4157a38b05c2a302d8e69"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/004.json",
+      "bytes": 4048,
+      "sha256": "4e79398a35fa02af1d6d0a19e6b5aeaca98777a2b962f179b1ab0c5ba47cb054"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/004.mogrt",
+      "bytes": 21769,
+      "sha256": "e07029089c5290fcd8a9c90b3e2cd348a242226df91ec775684b3ae758d6cc1e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/005.json",
+      "bytes": 3633,
+      "sha256": "782da63e14a14aaf97d6825275e9ba64a053be39cf334f2608f44ca38459cf89"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/005.mogrt",
+      "bytes": 17838,
+      "sha256": "b9b789dc4dcfe0eae6e70ee88d862bd6eb896df2106ce4259ee5c9d2ef3c9630"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/006.json",
+      "bytes": 3624,
+      "sha256": "3fed527a06f0542866984dfa2c6bcd777a53bb6f9c369dbba5ae1df177ea0bfb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/006.mogrt",
+      "bytes": 17266,
+      "sha256": "4f8faba42abda7acb0f762323051cacdd7924a815cf0f302b444db085962b349"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/007.json",
+      "bytes": 4051,
+      "sha256": "c1b38ea0d58ca18a3ea89bf7a1c0a6941c4c55eaf2a95f9b318c442bcec70b35"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/007.mogrt",
+      "bytes": 21297,
+      "sha256": "5cb78e572daf845c38e1ed531c13d3b3b6aee4e3ce42a1b57ff82dacc37dfb5b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/008.json",
+      "bytes": 2404,
+      "sha256": "d7d54fc7481b0bf9bdfa866eddb73cbb9589e77eb80dad706151024c7d6ddbe6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/008.mogrt",
+      "bytes": 341231,
+      "sha256": "0f2687a55af93d78a8db458bf211f80a33fba51d673f4afa5b305f1c5f45e33a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/009.json",
+      "bytes": 3819,
+      "sha256": "ee8867af58fb31e21bdbea6679be2d5853038bc16d833576bb9dd55d8b74fc0f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/009.mogrt",
+      "bytes": 19760,
+      "sha256": "b2cd4f911d8e303f0b27e4743fad995fefe9ae38656118edc3a15c72407aa803"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/010.json",
+      "bytes": 3898,
+      "sha256": "db42d184e66a97409e9ac85cf1fbe3a2201a2f64cba9702485d4f77c3688501b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/010.mogrt",
+      "bytes": 19548,
+      "sha256": "21929219cc0d32dedfec609549777866b40f319c2b812547c56ae5e4521e3f85"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/011.json",
+      "bytes": 3813,
+      "sha256": "fc17a60231e5d1a841e40af8ce6c678db16c16783855bfc32b63487f80e505ba"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/011.mogrt",
+      "bytes": 20116,
+      "sha256": "3e6f071e1aa98a0f2043ff392a7c4724fb5eef17f6dbf632b9ff71891e0f169f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/012.json",
+      "bytes": 3640,
+      "sha256": "f27cde1d283ea1dffdd1a9841637a52e7929cafb7117dd1fd7e6be215d6e6279"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/012.mogrt",
+      "bytes": 17520,
+      "sha256": "dd3d10d673c3251472e749992efb9f7dcfbdc2e0c93e42bb9665f62d10d72d53"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/013.json",
+      "bytes": 3200,
+      "sha256": "844c59cfce0da2513ebe24d7bb105cf7662e5a24d4d85164d211a0e10ecaa949"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/013.mogrt",
+      "bytes": 29151,
+      "sha256": "1833e77cf6dbbe78e17e6ddefb3b077c8837b6dad60d367d4dae41ca3a81fdcf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/014.json",
+      "bytes": 6886,
+      "sha256": "df8f32b0c01be247405c32a98a134206191786049876a6ffb4c17120f3d79bcd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/014.mogrt",
+      "bytes": 59113,
+      "sha256": "e41a984c7be5b93e871d2bd23a76458936a7e86b184d24da38044f476db1cd7f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/015.json",
+      "bytes": 6886,
+      "sha256": "8eb950811006a3b43b2cc94d4b121a6e00f23f8ad72e7654deaebf82d29ddce4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/015.mogrt",
+      "bytes": 61668,
+      "sha256": "0d79044af004ea926a8f3eee2521d259afed066f988e107ceeb24ab81daeefe0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/016.json",
+      "bytes": 4041,
+      "sha256": "1a0d9b8852ff1270bb07c6b12e9b501255fd50823bcd7bcf116ca3f3cba7dcaf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/016.mogrt",
+      "bytes": 22267,
+      "sha256": "3908e9004119cb8e303146d1e08c61dc1e453b70949e699f290b33a70ec73f9c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/017.json",
+      "bytes": 3894,
+      "sha256": "2834f25c2a4cd449fa67c3730aa706eb4e6823c5634390ce2649cfb79b69c492"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/017.mogrt",
+      "bytes": 19143,
+      "sha256": "687657b84af15cad0b763a039ae167a7d806e1bf3b1bdc98cd541ba72cb97050"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/018.json",
+      "bytes": 7508,
+      "sha256": "bf1824710b06ccf60b02c84c1186e2eec4f497f54ef4d4dab7dc7e7e27a5a169"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/018.mogrt",
+      "bytes": 41492,
+      "sha256": "f50d5ae348bc700613a3bc87399acf76faf80903897d4c13ff509cd7942aa524"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/019.json",
+      "bytes": 3820,
+      "sha256": "470fd864cc6cffb2abf6f2a7e68b4a6886e43265b4dd41cb17f476d7d66090cc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/019.mogrt",
+      "bytes": 20099,
+      "sha256": "89a4407c4cbeef842747262cbc33ff5e635fb513735621dac59921dafd8a2bfe"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/020.json",
+      "bytes": 3618,
+      "sha256": "7d565a2aea6bc9e2f680b013401e1d3308d2b345130c4ed13da90b60757227fa"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/020.mogrt",
+      "bytes": 18240,
+      "sha256": "e453c981584f26536b60844f4f9f6667e3653d23bb8aeb21b0fa8ee35b61a9b8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/021.json",
+      "bytes": 3823,
+      "sha256": "592e8ab74b1efb5215d444e49919d99ed238e09f33827d8df942efac526e4b21"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/021.mogrt",
+      "bytes": 19668,
+      "sha256": "e26871ba62e0a551016121a4a01973592ae8450c5265b2c1cc9654ba8218eb58"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/022.json",
+      "bytes": 3449,
+      "sha256": "4a1c68639ac26f3a1adfb9f474e34d509f22ca60bc64898ea5e91739868bede6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/022.mogrt",
+      "bytes": 1351025,
+      "sha256": "cb8a99417e76f230d5ae376f36d8a058d87c90ec4cb2c9652d7466a7ac1b2ca8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/023.json",
+      "bytes": 7504,
+      "sha256": "eea6417386929601400c70f096caa9c756fecfd4bc37657e2c6f8af674b95f0f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/023.mogrt",
+      "bytes": 39134,
+      "sha256": "6383411edfeb2a5dbf1122c208bbaee47f9f42767de29a05ac468fe9ef06a675"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/024.json",
+      "bytes": 3625,
+      "sha256": "d6ba38864f10b5d82399a077447604da550ee9c6c9b4fad181f0fe8f432c42b4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/024.mogrt",
+      "bytes": 18220,
+      "sha256": "d08c7bf0fa396875f9d1e4e804fdf9a2215877eca7225da0426867c2471c2aed"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/025.json",
+      "bytes": 2929,
+      "sha256": "1a1808cf6c0d2c9d75c1290a7b3aa7fbb592724b1118abd655dd084d3b3b1f44"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/025.mogrt",
+      "bytes": 597238,
+      "sha256": "c94d2c76d4178b6e04c5f7a5287e8567278482e9d17ebaba2d115f138fab5ffe"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/026.json",
+      "bytes": 3881,
+      "sha256": "2360d7edaf88fc0a78ee3f7b7081f7bdcf9a54d582a928b64c092ddb8e761a8e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/026.mogrt",
+      "bytes": 20272,
+      "sha256": "37d47fd0d28fb8777ad7daf3e7d21939dc807b09da884b553b261412534bcc08"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/027.json",
+      "bytes": 7519,
+      "sha256": "5bdac52ff56a64cefa77a65b5ba73aaecf806291f347a1002742cc6b1035d633"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/027.mogrt",
+      "bytes": 40348,
+      "sha256": "aef0a6546d2beaa620c9db8eff926f446457ca19a86ebd19f2763b785600af29"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/028.json",
+      "bytes": 1976,
+      "sha256": "bec421b061cd6060a5c937dbe631b0346fe535deffbc6037ac1a3f7c9c976f1b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/028.mogrt",
+      "bytes": 921141,
+      "sha256": "44084015a9238d0431f258ed74eae0b812b3885aefb14005ad68dffce65b68b6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/029.json",
+      "bytes": 3476,
+      "sha256": "4b88e4ed3b311a513de8c8e41b6e1d8967a73b2f50f25e95454a34f77f831a74"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/029.mogrt",
+      "bytes": 508992,
+      "sha256": "d31e0111f1c98c3c407853f1a27198ee00e1474a4fde4a34f083d3208d850d59"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/030.json",
+      "bytes": 1464,
+      "sha256": "ec1240eac6a22ae4157cd3b3accce9eddb5d9204683b65f97c65a8189cf2cf7e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/030.mogrt",
+      "bytes": 205137,
+      "sha256": "daaea55e472f32102b4b5c6cdf3c1c4085ad2755deb4d39f235739f421e2fa82"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/031.json",
+      "bytes": 2451,
+      "sha256": "0d6bb7a8cc03cb74e95505fa42d284ef82a56ae8cb9b132ce3b16ac4b9a247c3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/031.mogrt",
+      "bytes": 2022505,
+      "sha256": "d6093245537441c962dec143f630a573dfac555f1fa0b39b1124390db9398d6f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/032.json",
+      "bytes": 2683,
+      "sha256": "9cd44ac386720a48720f05c6832b3e95ac254fab2011f018bfb978d6fe19c9fb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/032.mogrt",
+      "bytes": 301518,
+      "sha256": "02918381f9fc6d50692bf28a38e614e8479ca1f00a3eef538e8bd7203cdafa49"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/033.json",
+      "bytes": 3602,
+      "sha256": "27349a50cde47fbb56c408ddb88d051f6a273fba97a5d96e27226941340f4a81"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/033.mogrt",
+      "bytes": 1996402,
+      "sha256": "3d294a81c4103b6a0c64a248f35507536be0fb912f27cb1503e28682513846b9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/catalog.json",
+      "bytes": 29539,
+      "sha256": "cca8783f8719f902a2bab6b12a0df1ac132ae440246b1e0763dffeb36292e6f1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/local-dist/templates/index.json",
+      "bytes": 143713,
+      "sha256": "e45650bfc325f6d9618ee74bcc391018cc440c3c44ba222f547331b44d22302d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/favicon.svg",
+      "bytes": 24088,
+      "sha256": "4f5b33254cbe095b0fbfd48963ddc5c46413f9b15bdd3c8214b766d723d4fd44"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/file.svg",
+      "bytes": 392,
+      "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/globe.svg",
+      "bytes": 1036,
+      "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/madcut-reference.png",
+      "bytes": 2186136,
+      "sha256": "21bbd80cdf6fe3e652b5d1d09e1f1bb73bcf74be81a72726fa7cec32f17c6a2d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/window.svg",
+      "bytes": 386,
+      "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/brand/mad-lancer-reference.jpeg",
+      "bytes": 17652,
+      "sha256": "4be9754a0c02f6bad2118dce90ee0f75066206ff699cd225da91e7eafa0d511d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/brand/mad-lancers-original.png",
+      "bytes": 409790,
+      "sha256": "06e12489905e2f70f7fbf5b0b4e2dccbc53d3189f279128f7b42425aaf29664f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/brand/madcut-mark.svg",
+      "bytes": 24088,
+      "sha256": "4f5b33254cbe095b0fbfd48963ddc5c46413f9b15bdd3c8214b766d723d4fd44"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/ffmpeg/const.js",
+      "bytes": 1016,
+      "sha256": "9e3bc9dd84781c81daf459e2c46eeec815edac35089832681d9a9a0f383060d0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/ffmpeg/core-1.bin",
+      "bytes": 16116210,
+      "sha256": "385b2f7930ae24951f872f308251757bbde3a3b1886a7ed85bf4a0e0075b2142"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/ffmpeg/core-2.bin",
+      "bytes": 16116209,
+      "sha256": "7439f1fe7f49f84ac0d08d180779881b5238bf0bf266ff9a783d2dfca54522da"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/ffmpeg/errors.js",
+      "bytes": 332,
+      "sha256": "619310d7ef5fe5fefa0a31927db862b7c291713cfef4d71753fa8aafd18f4db6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/ffmpeg/ffmpeg-core.js",
+      "bytes": 111804,
+      "sha256": "67a48f11645f85439f3fde4f2119042c16b374b910206b7a7a24f342e28dcae3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/ffmpeg/worker.js",
+      "bytes": 5085,
+      "sha256": "feff0ac937ea225e997e1fae997a74f8b8d572423a526da59eb56624b1f3cde7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Anton-OFL.txt",
+      "bytes": 4484,
+      "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Anton-Regular.ttf",
+      "bytes": 170812,
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/GreatVibes-OFL.txt",
+      "bytes": 4399,
+      "sha256": "61093a21f5e63dedf54222b3c09997e54c0fe43e3851d21386e02ddcbc246d49"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/GreatVibes-Regular.ttf",
+      "bytes": 457588,
+      "sha256": "8d509802186f1b51572531ecf313e8098f9a5bfdfaca93f0c9b34467f9982d15"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Inter-Black.woff2",
+      "bytes": 111668,
+      "sha256": "12ed0eed6749099b46c7b2e8198dc30c2d7e0f2a4e5fb1d12f0b6ae2c4f33cc4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Inter-Variable.ttf",
+      "bytes": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Poppins-Bold.ttf",
+      "bytes": 155996,
+      "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Poppins-ExtraBold.ttf",
+      "bytes": 154836,
+      "sha256": "f2ab17c1a63a0ecc12c2461848fc8a469395e3cd2d641803e889c643d9f958e1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Poppins-OFL.txt",
+      "bytes": 4385,
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Satisfy-LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/Satisfy-Regular.ttf",
+      "bytes": 47928,
+      "sha256": "55bb141a0a23a32278d5fa7fd2e853824faa173b94774660ebeddb106be07c80"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/hindi-OFL.txt",
+      "bytes": 4386,
+      "sha256": "a216f6f8d85c7228093e0ee5e258d9d377e6671f68acb4db1930b29583d0f331"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/hindi.ttf",
+      "bytes": 641944,
+      "sha256": "14ec4af41f27482216d1c2229f417ff9b1425e1babb014e57d1d40d03229853e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/telugu-OFL.txt",
+      "bytes": 4382,
+      "sha256": "481c72a8f1b4f645a7e6b10326be41b2da2c15cb470ff48a07fab773eed00102"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/telugu.ttf",
+      "bytes": 888808,
+      "sha256": "e618af7bf999df192ed4f388eba2e563f2b5015034e9cbb317b5bd793bd7334d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/fonts/template-font-status.json",
+      "bytes": 651,
+      "sha256": "b3a5cc62e0310ce16a274d9a5250dadb88ddb82dd3d2c9e2c934923bf5df079d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/001.source.webp",
+      "bytes": 1504,
+      "sha256": "b5622d502c58f08b9d3c46562efe7ec6168a801dc04190a80287e8a3b48b22e2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/001.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/002.source.webp",
+      "bytes": 1246,
+      "sha256": "d51169fdb437482b9dc240a29c5701379823375e1f83e87f0c60fb40d2e11ad1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/002.webp",
+      "bytes": 8260,
+      "sha256": "a0da74853b91a9dbc6687ad7c91799b860524ead828edd44cda96a6186eff720"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/003.source.webp",
+      "bytes": 1472,
+      "sha256": "1b72668d67346099e75d46154994084a7f7033882de148eec7e9f8a94284c9fe"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/003.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/004.source.webp",
+      "bytes": 1438,
+      "sha256": "ed4e578987a95e69565fa757330a5125850a0f28fb30f6d6be4d6553a4a52f47"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/004.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/005.source.webp",
+      "bytes": 1170,
+      "sha256": "9eec5d47bba9128647370c9865922934ce6c69dd406f429cda6b39418ee6f3b6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/005.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/006.source.webp",
+      "bytes": 1154,
+      "sha256": "655fc44d202ad21e346f27de0c92c8684f33265634254807a452e54b0cd8ff22"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/006.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/007.source.webp",
+      "bytes": 1368,
+      "sha256": "db159549eb9936173fcb973d8b6dc8f5faff18ffbf255bb47d875e93ead6f31b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/007.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/008.source.webp",
+      "bytes": 3320,
+      "sha256": "ed72c2bfdf2e34d17f9254a5a1a353f65696991f18c4d91227e8816655f18d15"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/008.webp",
+      "bytes": 3294,
+      "sha256": "767c7ddad2299ca58d5d6500aeb0a3f529c31dc7029a90473b62173ff354e254"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/009.source.webp",
+      "bytes": 1530,
+      "sha256": "2432fd6a33452a8b67f5ae2d67117cefae897dad129201813bcddfb360df5c57"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/009.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/010.source.webp",
+      "bytes": 1788,
+      "sha256": "0a4930ccb08af142bc2f883354fc23b4205c7e4de98404435680a37f91b63fb3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/010.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/011.source.webp",
+      "bytes": 1604,
+      "sha256": "3bacc8ed7ac7e174b6702511d44ff2c2d626631e3580ab8da7c12cb01690b659"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/011.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/012.source.webp",
+      "bytes": 1168,
+      "sha256": "c6ce587f76d302c0f01e3bc18a7fab7b93e8e9c6e768f46e4fecf13e51551509"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/012.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/013.source.webp",
+      "bytes": 1808,
+      "sha256": "d32336ef23ac5ea0a4a25b5ed7054bcbe997741b3755f8ad2fe3881509018ed6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/013.webp",
+      "bytes": 8260,
+      "sha256": "a0da74853b91a9dbc6687ad7c91799b860524ead828edd44cda96a6186eff720"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/014.source.webp",
+      "bytes": 3566,
+      "sha256": "df5ffddb1b243a05711274118f4982f0de64bd7287c7d22df0c1859a8d39ee9b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/014.webp",
+      "bytes": 8970,
+      "sha256": "2f5887a6ed11822514332edb419d217735b0799dd294bfc40d1490e71934ebd7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/015.source.webp",
+      "bytes": 3932,
+      "sha256": "8796fd2061342db1c6bf34fc795aac4e1f875108f3a4accee6a339552b65e55f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/015.webp",
+      "bytes": 8970,
+      "sha256": "2f5887a6ed11822514332edb419d217735b0799dd294bfc40d1490e71934ebd7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/016.source.webp",
+      "bytes": 1442,
+      "sha256": "8ffac3ecfbc11a5bf3974dbceb839214650feb511dbd4c7fe304d6842c92886d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/016.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/017.source.webp",
+      "bytes": 1730,
+      "sha256": "b1e06f98cf4fed1dbc4013b8891586d9b45919e0622a1643d81470ebefc452cc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/017.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/018.source.webp",
+      "bytes": 2142,
+      "sha256": "c79495ae8e778b1bcd510d74e22009651663312645679febcd2fbd3dce8ced6a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/018.webp",
+      "bytes": 11156,
+      "sha256": "5410f14f7a5974e10d453744cf9dbb2e20bb8f26987afba70f68b8d1514988f6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/019.source.webp",
+      "bytes": 1582,
+      "sha256": "cd37a3f237779b9b2efb5ae54b9c5493c256a07ac34a4d6fb9dca16e3d048721"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/019.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/020.source.webp",
+      "bytes": 1314,
+      "sha256": "d4ee297f5ec505f0d53105f59c2f44a3cb351f14e6cee043e45bc0450be5ebe8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/020.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/021.source.webp",
+      "bytes": 1588,
+      "sha256": "c0610b17d43f1246e3598a9a2c741aace4748e81ea6e486448fc2a9159505a7a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/021.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/022.source.webp",
+      "bytes": 5616,
+      "sha256": "790546b33b7642fc5703a2d601306098edabd2c0c20df86a3c7fd65a335f6eae"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/022.webp",
+      "bytes": 7622,
+      "sha256": "8445adada6b144d70d4cd50872823e81aa592725de88be3193965168bedfd05c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/023.source.webp",
+      "bytes": 2154,
+      "sha256": "149cdd6072baf4da3d0e91ef1f75df60024443609e948553d7e8b6ebe7bc0ce6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/023.webp",
+      "bytes": 11440,
+      "sha256": "e6bcc872eb256e69060e4b5e21ae55f7263cd5cdd3ab3d1a39030ca88d19a793"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/024.source.webp",
+      "bytes": 1314,
+      "sha256": "dcc6efb27aa7a732595c5bf2ef1b926740883f06e4b0cab543d3bea921fa0a4e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/024.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/025.source.webp",
+      "bytes": 5504,
+      "sha256": "9201baddc613f50711ae3933f65677144b0f014e8ae6d2d5e415331eeb4c0130"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/025.webp",
+      "bytes": 7374,
+      "sha256": "b91f9d5e2cae660a3163da35470cf456264f6d202fc67f0b59919a352e877df4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/026.source.webp",
+      "bytes": 1762,
+      "sha256": "3ff74d93861fe874b4b563c118d6b165f85f7b27c77bce9c6d417b634605b72a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/026.webp",
+      "bytes": 4796,
+      "sha256": "25059f988db7cd8cd5681065c2e783dccaaca04e81e5152aa2c76445e818b96a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/027.source.webp",
+      "bytes": 2162,
+      "sha256": "508266edbd87cb6a5408c763f9faaf299df2db103469a055fbca1dad1a79a7a5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/027.webp",
+      "bytes": 11476,
+      "sha256": "293c131d807bb5fd171700474ac383d9bfbff5594ffac4358049c0f879ceca80"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/028.source.webp",
+      "bytes": 3412,
+      "sha256": "9d40036fa1c16077a7099866fd6ad3cea86911c132e3d6bc4aa901feee0e7fc2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/028.webp",
+      "bytes": 8368,
+      "sha256": "385a6aeae609d7e73fe686045be2f7b866e80ab6a747b12c02807182e9d50bac"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/029.source.webp",
+      "bytes": 4896,
+      "sha256": "2532c9f47c7e43c30b93478ccd1cbfa034f1aa75519f464d37113d44800b4e40"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/029.webp",
+      "bytes": 7668,
+      "sha256": "29ca1ebaa9c40ef101e9d53321d36cee66e3695cdda2e5384b1defef69335d27"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/030.source.webp",
+      "bytes": 5206,
+      "sha256": "bdb3018aa04b3647b50d5a562ce6d0225af2617beb8ef825215b9e06f51b4c8f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/030.webp",
+      "bytes": 6336,
+      "sha256": "696036ee3c391c0772a85e8349a831f30d144a742e533fb875449266bc92e056"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/031.source.webp",
+      "bytes": 4972,
+      "sha256": "d23eb8df4fb68f6f943e43e11c0c94f74757277e479ba6fa8b5b2994cfade1ba"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/031.webp",
+      "bytes": 11912,
+      "sha256": "43582fe0cbb16999cab8e1d677e9fabb9ce237e5f2e9e6506653e561824f87cc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/032.source.webp",
+      "bytes": 2676,
+      "sha256": "18709c6b6e2c2d4c9aad24d2a24a3d50053a038a6f613540332de319bbb2fa84"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/032.webp",
+      "bytes": 7972,
+      "sha256": "e8b318b7d841f8ff21ba8860fa12614898e4d70c35b239c827d0a24ac1fc43a0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/033.source.webp",
+      "bytes": 7158,
+      "sha256": "30c8729e62330da03faf40acb2c6cab53132fffae97dfeee9b05d98a1ff519f5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/template-previews/033.webp",
+      "bytes": 8116,
+      "sha256": "653340a6acf965a9320c8da1a14afb79bdc8ac1c973a3508135dd38542cde3ea"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/001.json",
+      "bytes": 4047,
+      "sha256": "058bf23974fa6a6fbe033bc70b123f9b1f7d9d020a02ac3f4402d0879c9f04af"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/001.mogrt",
+      "bytes": 22129,
+      "sha256": "6f5457d1fa62b443cb8b37e02987b966049952415bf8f43298817270702306db"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/002.json",
+      "bytes": 3145,
+      "sha256": "88caf5674c2e78833312b193b34abcbc378162c16065ec99bc85afa570d49f8a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/002.mogrt",
+      "bytes": 26096,
+      "sha256": "064731c7bf0b0033b2b67a478a321feff133cecabab49ea68679b7da86ce0e5d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/003.json",
+      "bytes": 3628,
+      "sha256": "7a5d9b61f53908f0838ff12d3f79e5f77a8c8db875d19ddc3c663e71128e0b0b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/003.mogrt",
+      "bytes": 18317,
+      "sha256": "e9bf8586a234db161736cc5e38fb35e5f2739937c8d4157a38b05c2a302d8e69"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/004.json",
+      "bytes": 4048,
+      "sha256": "4e79398a35fa02af1d6d0a19e6b5aeaca98777a2b962f179b1ab0c5ba47cb054"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/004.mogrt",
+      "bytes": 21769,
+      "sha256": "e07029089c5290fcd8a9c90b3e2cd348a242226df91ec775684b3ae758d6cc1e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/005.json",
+      "bytes": 3633,
+      "sha256": "782da63e14a14aaf97d6825275e9ba64a053be39cf334f2608f44ca38459cf89"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/005.mogrt",
+      "bytes": 17838,
+      "sha256": "b9b789dc4dcfe0eae6e70ee88d862bd6eb896df2106ce4259ee5c9d2ef3c9630"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/006.json",
+      "bytes": 3624,
+      "sha256": "3fed527a06f0542866984dfa2c6bcd777a53bb6f9c369dbba5ae1df177ea0bfb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/006.mogrt",
+      "bytes": 17266,
+      "sha256": "4f8faba42abda7acb0f762323051cacdd7924a815cf0f302b444db085962b349"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/007.json",
+      "bytes": 4051,
+      "sha256": "c1b38ea0d58ca18a3ea89bf7a1c0a6941c4c55eaf2a95f9b318c442bcec70b35"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/007.mogrt",
+      "bytes": 21297,
+      "sha256": "5cb78e572daf845c38e1ed531c13d3b3b6aee4e3ce42a1b57ff82dacc37dfb5b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/008.json",
+      "bytes": 2404,
+      "sha256": "d7d54fc7481b0bf9bdfa866eddb73cbb9589e77eb80dad706151024c7d6ddbe6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/008.mogrt",
+      "bytes": 341231,
+      "sha256": "0f2687a55af93d78a8db458bf211f80a33fba51d673f4afa5b305f1c5f45e33a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/009.json",
+      "bytes": 3819,
+      "sha256": "ee8867af58fb31e21bdbea6679be2d5853038bc16d833576bb9dd55d8b74fc0f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/009.mogrt",
+      "bytes": 19760,
+      "sha256": "b2cd4f911d8e303f0b27e4743fad995fefe9ae38656118edc3a15c72407aa803"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/010.json",
+      "bytes": 3898,
+      "sha256": "db42d184e66a97409e9ac85cf1fbe3a2201a2f64cba9702485d4f77c3688501b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/010.mogrt",
+      "bytes": 19548,
+      "sha256": "21929219cc0d32dedfec609549777866b40f319c2b812547c56ae5e4521e3f85"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/011.json",
+      "bytes": 3813,
+      "sha256": "fc17a60231e5d1a841e40af8ce6c678db16c16783855bfc32b63487f80e505ba"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/011.mogrt",
+      "bytes": 20116,
+      "sha256": "3e6f071e1aa98a0f2043ff392a7c4724fb5eef17f6dbf632b9ff71891e0f169f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/012.json",
+      "bytes": 3640,
+      "sha256": "f27cde1d283ea1dffdd1a9841637a52e7929cafb7117dd1fd7e6be215d6e6279"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/012.mogrt",
+      "bytes": 17520,
+      "sha256": "dd3d10d673c3251472e749992efb9f7dcfbdc2e0c93e42bb9665f62d10d72d53"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/013.json",
+      "bytes": 3200,
+      "sha256": "844c59cfce0da2513ebe24d7bb105cf7662e5a24d4d85164d211a0e10ecaa949"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/013.mogrt",
+      "bytes": 29151,
+      "sha256": "1833e77cf6dbbe78e17e6ddefb3b077c8837b6dad60d367d4dae41ca3a81fdcf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/014.json",
+      "bytes": 6886,
+      "sha256": "df8f32b0c01be247405c32a98a134206191786049876a6ffb4c17120f3d79bcd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/014.mogrt",
+      "bytes": 59113,
+      "sha256": "e41a984c7be5b93e871d2bd23a76458936a7e86b184d24da38044f476db1cd7f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/015.json",
+      "bytes": 6886,
+      "sha256": "8eb950811006a3b43b2cc94d4b121a6e00f23f8ad72e7654deaebf82d29ddce4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/015.mogrt",
+      "bytes": 61668,
+      "sha256": "0d79044af004ea926a8f3eee2521d259afed066f988e107ceeb24ab81daeefe0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/016.json",
+      "bytes": 4041,
+      "sha256": "1a0d9b8852ff1270bb07c6b12e9b501255fd50823bcd7bcf116ca3f3cba7dcaf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/016.mogrt",
+      "bytes": 22267,
+      "sha256": "3908e9004119cb8e303146d1e08c61dc1e453b70949e699f290b33a70ec73f9c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/017.json",
+      "bytes": 3894,
+      "sha256": "2834f25c2a4cd449fa67c3730aa706eb4e6823c5634390ce2649cfb79b69c492"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/017.mogrt",
+      "bytes": 19143,
+      "sha256": "687657b84af15cad0b763a039ae167a7d806e1bf3b1bdc98cd541ba72cb97050"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/018.json",
+      "bytes": 7508,
+      "sha256": "bf1824710b06ccf60b02c84c1186e2eec4f497f54ef4d4dab7dc7e7e27a5a169"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/018.mogrt",
+      "bytes": 41492,
+      "sha256": "f50d5ae348bc700613a3bc87399acf76faf80903897d4c13ff509cd7942aa524"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/019.json",
+      "bytes": 3820,
+      "sha256": "470fd864cc6cffb2abf6f2a7e68b4a6886e43265b4dd41cb17f476d7d66090cc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/019.mogrt",
+      "bytes": 20099,
+      "sha256": "89a4407c4cbeef842747262cbc33ff5e635fb513735621dac59921dafd8a2bfe"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/020.json",
+      "bytes": 3618,
+      "sha256": "7d565a2aea6bc9e2f680b013401e1d3308d2b345130c4ed13da90b60757227fa"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/020.mogrt",
+      "bytes": 18240,
+      "sha256": "e453c981584f26536b60844f4f9f6667e3653d23bb8aeb21b0fa8ee35b61a9b8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/021.json",
+      "bytes": 3823,
+      "sha256": "592e8ab74b1efb5215d444e49919d99ed238e09f33827d8df942efac526e4b21"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/021.mogrt",
+      "bytes": 19668,
+      "sha256": "e26871ba62e0a551016121a4a01973592ae8450c5265b2c1cc9654ba8218eb58"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/022.json",
+      "bytes": 3449,
+      "sha256": "4a1c68639ac26f3a1adfb9f474e34d509f22ca60bc64898ea5e91739868bede6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/022.mogrt",
+      "bytes": 1351025,
+      "sha256": "cb8a99417e76f230d5ae376f36d8a058d87c90ec4cb2c9652d7466a7ac1b2ca8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/023.json",
+      "bytes": 7504,
+      "sha256": "eea6417386929601400c70f096caa9c756fecfd4bc37657e2c6f8af674b95f0f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/023.mogrt",
+      "bytes": 39134,
+      "sha256": "6383411edfeb2a5dbf1122c208bbaee47f9f42767de29a05ac468fe9ef06a675"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/024.json",
+      "bytes": 3625,
+      "sha256": "d6ba38864f10b5d82399a077447604da550ee9c6c9b4fad181f0fe8f432c42b4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/024.mogrt",
+      "bytes": 18220,
+      "sha256": "d08c7bf0fa396875f9d1e4e804fdf9a2215877eca7225da0426867c2471c2aed"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/025.json",
+      "bytes": 2929,
+      "sha256": "1a1808cf6c0d2c9d75c1290a7b3aa7fbb592724b1118abd655dd084d3b3b1f44"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/025.mogrt",
+      "bytes": 597238,
+      "sha256": "c94d2c76d4178b6e04c5f7a5287e8567278482e9d17ebaba2d115f138fab5ffe"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/026.json",
+      "bytes": 3881,
+      "sha256": "2360d7edaf88fc0a78ee3f7b7081f7bdcf9a54d582a928b64c092ddb8e761a8e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/026.mogrt",
+      "bytes": 20272,
+      "sha256": "37d47fd0d28fb8777ad7daf3e7d21939dc807b09da884b553b261412534bcc08"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/027.json",
+      "bytes": 7519,
+      "sha256": "5bdac52ff56a64cefa77a65b5ba73aaecf806291f347a1002742cc6b1035d633"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/027.mogrt",
+      "bytes": 40348,
+      "sha256": "aef0a6546d2beaa620c9db8eff926f446457ca19a86ebd19f2763b785600af29"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/028.json",
+      "bytes": 1976,
+      "sha256": "bec421b061cd6060a5c937dbe631b0346fe535deffbc6037ac1a3f7c9c976f1b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/028.mogrt",
+      "bytes": 921141,
+      "sha256": "44084015a9238d0431f258ed74eae0b812b3885aefb14005ad68dffce65b68b6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/029.json",
+      "bytes": 3476,
+      "sha256": "4b88e4ed3b311a513de8c8e41b6e1d8967a73b2f50f25e95454a34f77f831a74"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/029.mogrt",
+      "bytes": 508992,
+      "sha256": "d31e0111f1c98c3c407853f1a27198ee00e1474a4fde4a34f083d3208d850d59"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/030.json",
+      "bytes": 1464,
+      "sha256": "ec1240eac6a22ae4157cd3b3accce9eddb5d9204683b65f97c65a8189cf2cf7e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/030.mogrt",
+      "bytes": 205137,
+      "sha256": "daaea55e472f32102b4b5c6cdf3c1c4085ad2755deb4d39f235739f421e2fa82"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/031.json",
+      "bytes": 2451,
+      "sha256": "0d6bb7a8cc03cb74e95505fa42d284ef82a56ae8cb9b132ce3b16ac4b9a247c3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/031.mogrt",
+      "bytes": 2022505,
+      "sha256": "d6093245537441c962dec143f630a573dfac555f1fa0b39b1124390db9398d6f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/032.json",
+      "bytes": 2683,
+      "sha256": "9cd44ac386720a48720f05c6832b3e95ac254fab2011f018bfb978d6fe19c9fb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/032.mogrt",
+      "bytes": 301518,
+      "sha256": "02918381f9fc6d50692bf28a38e614e8479ca1f00a3eef538e8bd7203cdafa49"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/033.json",
+      "bytes": 3602,
+      "sha256": "27349a50cde47fbb56c408ddb88d051f6a273fba97a5d96e27226941340f4a81"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/033.mogrt",
+      "bytes": 1996402,
+      "sha256": "3d294a81c4103b6a0c64a248f35507536be0fb912f27cb1503e28682513846b9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/catalog.json",
+      "bytes": 29539,
+      "sha256": "cca8783f8719f902a2bab6b12a0df1ac132ae440246b1e0763dffeb36292e6f1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/public/templates/index.json",
+      "bytes": 143713,
+      "sha256": "e45650bfc325f6d9618ee74bcc391018cc440c3c44ba222f547331b44d22302d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/build-verified.sh",
+      "bytes": 661,
+      "sha256": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/execution-profile.mjs",
+      "bytes": 624,
+      "sha256": "2e71116f4d2b70cff8bb70436f8dd5c709ec7ff62893424530f404e0193d3630"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/install-ci.mjs",
+      "bytes": 1685,
+      "sha256": "4a5a92d60a08d0ba54effd8373da2da06284312c55b767287c68a0bec7200da7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/install-ci.sh",
+      "bytes": 6783,
+      "sha256": "10d8764a61be50351dc3496e13588270de7956f0aa5f1189c49cabb2d89fe5c0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/install-pnpm.sh",
+      "bytes": 9015,
+      "sha256": "a684c02c2b493dfbf262a66252a5cd36f81ca995a4024761728662ae63aa40c0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/npm-install.mjs",
+      "bytes": 7025,
+      "sha256": "9715c6a32d1d4a0289ef6376a0e819c3b6a6416b8a9877733d9fb4339ce626b6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/pnpm-install.mjs",
+      "bytes": 10633,
+      "sha256": "a83164e344c1947053def83b546be8115deaa827314bbaead7afe6b6451c5cdf"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/run-framework.mjs",
+      "bytes": 993,
+      "sha256": "9bf9f41a29314cabe0238b8e9c540ec3f7b5a6adafc7c8fb6c3940722d061dca"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/sites-env.mjs",
+      "bytes": 906,
+      "sha256": "5de99d6806b01f0ee0b941af3684d75dcf1afbbcff22cb95bfa2e584c5dafa88"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/sites-env.sh",
+      "bytes": 1530,
+      "sha256": "df86ebfc27d2f00860036658e933ac0ddd7b5f6879aa5d51218f0863c7e1fb60"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/start-local.mjs",
+      "bytes": 624,
+      "sha256": "4398dd798132aa1e905d95f79d09368a2a88eb7a070f3f93fd956e73586b46c4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/connector-preview/connector-preview-session.mjs",
+      "bytes": 6842,
+      "sha256": "45d5d0511a5b9689278b59570223017cdd3c4129431c6745e710c26323cac45c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/connector-preview/host-binding.mjs",
+      "bytes": 7793,
+      "sha256": "9e44ab6864133a5c82f834a5904ebb7d6104cb783c24efba3c0fe1a161182cea"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/scripts/connector-preview/protocol.mjs",
+      "bytes": 1781,
+      "sha256": "111e062ebf08d3f180130f5bc3dcb3c1414c1d7be3c032c9d675a61c0c7513a8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/vendor/shadcn-tailwind-4.13.0.LICENSE.md",
+      "bytes": 1063,
+      "sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/vendor/shadcn-tailwind-4.13.0.css",
+      "bytes": 16041,
+      "sha256": "bc7d83425702955b4cb67cb14ede9d603f9d912376d57a2d81d661094d2a782a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-accuracy/acoustic-quality-tests.json",
+      "bytes": 235,
+      "sha256": "77fb70e786f29d0feda7825004d688bc19898c0ba88c2a93736ac46ee733e4f5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-accuracy/final-live-smoke.json",
+      "bytes": 13639,
+      "sha256": "fd3e95ea249e6ced660c6cd24411e7aa81a97f78734f24f9cc317567ca4f62d4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-accuracy/quality-live-delayed.json",
+      "bytes": 13661,
+      "sha256": "fccc703296a4f567b87ec68fceec2d8f3aa10803dfcbfb344c0dc2d1ed422cf5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-accuracy/quality-live-full.json",
+      "bytes": 180254,
+      "sha256": "b924ea6aa674cfa7c455540679b137797e5d2fd1de84a7839e2ba17d8ddffbe9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-accuracy/quality-synced-editor.png",
+      "bytes": 222842,
+      "sha256": "56781df64cb68503ea089ce4556141a4dd9e12234cb0c920e7c5ac70a55b2df3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-accuracy/quality-synced-export-frame.png",
+      "bytes": 530853,
+      "sha256": "c977c30e473b0a95cdf8da6a2bff3bec3e7d682e749b19614d80f9f5cabdb00c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-accuracy/quality-synced-project.json",
+      "bytes": 9002,
+      "sha256": "e6caead3297cb670fcfc36ce48610fa050076f9f9a1e31d3ab531c7c61286a51"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-accuracy/telugu-quality-benchmark-fixed.json",
+      "bytes": 19576,
+      "sha256": "401e80f0937fdd0965311e10e122cfc135105b3f71b80b2b93823ecaa46cfa42"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/actual-clip-editor.png",
+      "bytes": 600745,
+      "sha256": "4bc79bcff651fbc292ba6018671afb2ebdd59f8a786874df4e9057050fc1706b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/caption-debug-live-final.json",
+      "bytes": 445,
+      "sha256": "b41d25b33aa236f18f1ddfedf52910d1137671f83a790c2dce08a61bf154f29e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/caption-debug-motion-desktop.png",
+      "bytes": 592438,
+      "sha256": "dc23f869733056251e3c9d32dc30dceb592f100e071f1775143fb66ef9370fcb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/caption-debug-motion-mobile.png",
+      "bytes": 242987,
+      "sha256": "96906c72461f711ff9119c8ed8d7908741f7b477fb38090a7c3b96a9467194b9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/caption-debug-motion-results.json",
+      "bytes": 4434,
+      "sha256": "13b0cd7b457f3ff598465b117c4b2fda6f198a5953ffaf4328ad19d1e1362197"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/caption-debug-motion.mp4",
+      "bytes": 2294626,
+      "sha256": "d80d45620db99f09e4b9e0fb2deb8fa80445427104563c41e3972c8a5f3eadba"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/caption-debug-static-pause.mp4",
+      "bytes": 2274618,
+      "sha256": "2c357482e3fe119f79ec82e6c61e0864ce633c61177f183261782fca619b307a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/caption-debug-unit.json",
+      "bytes": 1044,
+      "sha256": "487ef801847094a68fb9e6ac41c28f221d928e760347f64565992bb9f15d128b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/prasad-caption-debug-recognition.json",
+      "bytes": 5158,
+      "sha256": "0372503d25047d0ba2372fc788143ec27313d9da5c0d4016efc37b23535f0101"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/prasad-caption-debug-tenglish.json",
+      "bytes": 4668,
+      "sha256": "4b16bc4e33af9754324ff0591e8b568154b8c7fe9876c57071a05d4ef124056f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/static-silence.png",
+      "bytes": 476167,
+      "sha256": "44c8ade3dbafdf0993b87e663036a5232a2142b3b9ee81b3fb9824ad71927fa2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/static-speech.png",
+      "bytes": 483308,
+      "sha256": "b5ed76d1bbb1115404eb935b2f86dc8fba653cd1ad97783ddf1b7f2d4c489eeb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/caption-debug/template-inventory.json",
+      "bytes": 124991,
+      "sha256": "a2e84f342c123871a552eee3025bc2d6053dbf002b122c6201e9b3c5e01416f8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/default-library-editor.png",
+      "bytes": 582593,
+      "sha256": "e097f51f8fe6a95f19b9811d698614c13ba424f514a94344ef362dea5815af6c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/default-library-export-frame-24.png",
+      "bytes": 627535,
+      "sha256": "0bc145f53e23e0a398b41372f5633cfe4e92fd7093b5bf5195a228fb71ab9d9b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/default-library-project.json",
+      "bytes": 9280,
+      "sha256": "0f867c651b1f87283b55232269d6fbe760c1f2ea88091db61049244f7d6d217b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/default-library-ui-results.json",
+      "bytes": 377,
+      "sha256": "b4af7a611a41c45b1b5b83ade944f6da4764981259c8d50a1a786aba25ad0a62"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/default-pack-web-previews.png",
+      "bytes": 182101,
+      "sha256": "eaa86cd455558af21a5918602ad3f916eaac579b6e64ac9cb9ddc61dc9a15f16"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/export-probe.json",
+      "bytes": 392,
+      "sha256": "b946dadc03a3298ba1a0305e5dd6ef735d92965eba4d54f1b57b23bbacb70927"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/natural-tenglish-v2-results.json",
+      "bytes": 3089,
+      "sha256": "9db84d62923234adb0b2aa16cae9e8fb38be04b93bd60d21ec71490fe2b60ef8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/source-integrity.json",
+      "bytes": 4259,
+      "sha256": "b04927acb70592f6f43016c34ba336a520f7320afbfa10376ed18921dab8674c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/default-library/text-performance.json",
+      "bytes": 261,
+      "sha256": "907cacab1388dcf1da39f3041395a0be6047da5940c451e324c660b76900a2a7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/export-templates/export-alpha-panel.png",
+      "bytes": 45671,
+      "sha256": "a5698b3af930cd57c98ccb6a60ee557486ac5b9022ff97ccb050eb83fefd1647"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/export-templates/export-chroma-panel.png",
+      "bytes": 50888,
+      "sha256": "b53a300434181edb8d3869c25c06c2ab46466bd86046645736c6be6eed873d29"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/export-templates/export-subtitles-panel.png",
+      "bytes": 32290,
+      "sha256": "c24799afce8a8b2e04d4427ca9458ace12f1e621d06a625a71dea75440b90a57"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/export-templates/export-video-panel.png",
+      "bytes": 38799,
+      "sha256": "4132e619dab043876757451ef5d4308cc6b692d49f7af93ee86488e877cea7df"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/export-templates/reference-alpha-check.json",
+      "bytes": 191,
+      "sha256": "e3daa88b37ad8e0dd0de1bc00aa1c33a0b54630caa5941f853b6c6bf719d6089"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/export-templates/reference-alpha-composite.png",
+      "bytes": 42165,
+      "sha256": "f6d92e05db63809f3d2e716a9cda84caaed096027fd36bb35dbbbb887904e828"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/export-templates/reference-export-probe.json",
+      "bytes": 1506,
+      "sha256": "741e8d75e80b32bf9c58d5620c9da9ce7cfe8ace32fd53503639eb3c3800ccb2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/export-templates/trim-proposed-cuts.png",
+      "bytes": 616588,
+      "sha256": "aabca8d72708274f6d05bb1f30d03f00c27508694d24a57ca2371ff49e90acf9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-caption-export.mp4",
+      "bytes": 2293470,
+      "sha256": "da9e89a8b214363cd91d5f7f52e2bc998dfc214abc7441349c6c28368925e9c5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-export-frame.png",
+      "bytes": 486920,
+      "sha256": "9101162390943c99171165ead68bcc4a8abfe71afc9a1c9d17bf5a1c61d570f9"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-heldout-recognition.json",
+      "bytes": 7073,
+      "sha256": "580b411e8d4d012a68bddb905f98c4cb8373f3d3e109a432c64d2901eed214ff"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-optional-translation.json",
+      "bytes": 173,
+      "sha256": "91ea30fde87507beb66492b38ceae61061f3c7a00e298cc8f0163396371f8269"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-pipeline-benchmark.json",
+      "bytes": 23898,
+      "sha256": "818c6a9a33c30347ee0f1543f9d14c22e99917db7e3278a13f0359698bf04338"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-pipeline-final-benchmark.json",
+      "bytes": 25118,
+      "sha256": "50a28d0384d09fcda5730d5a725e67099dd4aad4a001776e25ac63545f12325d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-pipeline-gpu-benchmark.json",
+      "bytes": 25123,
+      "sha256": "b811eaa1e3c0e6a2cba08ca8b8a0818d23efd9ab376b0317b2eecae166b2ec7f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-source.srt",
+      "bytes": 895,
+      "sha256": "3ac0e1f34122b2b937894aacda2bf3a28024ddea50fa04a5b619b9731a92994c"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-ui-generated.json",
+      "bytes": 16641,
+      "sha256": "a46bd34cc2e79e0327e75d9a411390e668b03b5e9f49b44094995c2fdccaa242"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-ui-generated.png",
+      "bytes": 619738,
+      "sha256": "5c555f3d9618096c71a8117e00c88f9ae4f07677c0b2d20b8a27efbc19d3bfa2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-ui-results.json",
+      "bytes": 429,
+      "sha256": "2412398ca3a4c6a3eeee45362c06074bdab04a2980d3232e8d7c61e2db90fef6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/fast-ui-srt.json",
+      "bytes": 6016,
+      "sha256": "0c3a0f0fd05e7ed8786ca833705f519f3e337c914d1149f6b78ecca31d2db07e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/fast-pipeline/madcut-speech-sync-results.json",
+      "bytes": 7320,
+      "sha256": "acfd8bd6e050df9843d49a3daf7f97093c90ee018c9f984513e5b9f61cfcba24"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/font-setup/export-probe.json",
+      "bytes": 391,
+      "sha256": "998bae329dae303549c6f4a2e9cd8ed213be8935fb4c9bbbcaa7e9b061788726"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/font-setup/font-browser-results.json",
+      "bytes": 874,
+      "sha256": "fe7404e6f490b51058a311e2d94fba0f92045325686ade1feaa08fd957fe5ee2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/font-setup/inter-variable-instances.json",
+      "bytes": 1123,
+      "sha256": "1041843a31a185af485da04ac81f3b33877d483f867a3bd8ee6ddd986eed0ffa"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/font-setup/satisfy-export-frame.png",
+      "bytes": 432096,
+      "sha256": "dd3db3ea1d976fb7d608c0e59db07813fc6a370db9f16391f126d8042ef9d29d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/madcut/madcut-caption-preview.png",
+      "bytes": 229530,
+      "sha256": "cadb595846bda3c6d32c0ddaed71b35c45428adefc0969ff1afbdf4370bc2564"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/madcut/madcut-caption-results.json",
+      "bytes": 551,
+      "sha256": "5dacb9f2d8afedc1811bcc0f800c5acbbcc48f1840a8ed52ecc4ada3a5005c5a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/madcut/madcut-export-frame.png",
+      "bytes": 76547,
+      "sha256": "e00a1ace597d76d7645523d81c8beace35b7d01ac642e322a09c5fcac2d72cd2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/madcut/madcut-landing.png",
+      "bytes": 1163931,
+      "sha256": "7446f96d3b6d3e12c7bec795c4aad3a5d2bd35b0369ead040666cc28ee25ba81"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/madcut/madcut-mobile.png",
+      "bytes": 560909,
+      "sha256": "84d97b23886b690c84c7f429bdc53fd1e4578bad561e308a3c4776ae579d6529"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/madcut/madcut-speech-sync-results.json",
+      "bytes": 3574,
+      "sha256": "4557f220defe5284757c146f6cb169729a6711bff68aa87224e2df9387037b72"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/madcut/madcut-ui-results.json",
+      "bytes": 168,
+      "sha256": "565a60592444c06693ab7a56471bd84855fefb8c92c593a67e0c3f61f0a187c7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/madcut/madcut-verified.srt",
+      "bytes": 120,
+      "sha256": "37bf4019fc685d6adc966d749b754003a45c15b02fa4bdf131ad9670cbf5b8c7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/player-motion/player-motion-desktop.png",
+      "bytes": 613134,
+      "sha256": "c97a57cc9a79eacfd2f37f287e9de3543441bd80f63976f003f56adc20cfc68a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/player-motion/player-motion-export.png",
+      "bytes": 479400,
+      "sha256": "01b15b81adabb5c8daa0461b33e4b91de4a47dbf44a71e9fc7cd9d458a487d1e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/player-motion/player-motion-mobile.png",
+      "bytes": 246811,
+      "sha256": "d3e3319b949f2922ce742451b2f1d6dfa051a51979809f327ee3cd6b30ac517f"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/player-motion/player-motion-results.json",
+      "bytes": 2703,
+      "sha256": "863f00a89651b65522ddacf197ab9bd5121220fda548cf0770a90aef1ee559cd"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/player-motion/player-motion.mp4",
+      "bytes": 2274968,
+      "sha256": "1a1d98d55fdf8a5f4e66ee96f19e46c7d35e6ce19276838922eba56d5410e84e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-editor-media-final.png",
+      "bytes": 400739,
+      "sha256": "1c125e4fa8a7afaf3259fb87ec39425cd1776abc2f35a08830940f99cda59a33"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-editor-media.png",
+      "bytes": 544700,
+      "sha256": "0a153491c2d84c66234e3056d75efcf70b937cb7bb6d8a93ca8d4fd8476233d4"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-editor-mobile-final.png",
+      "bytes": 205277,
+      "sha256": "275f0f159ec767cda1acc1f09dc9113f141c1fb1afa9f0de0a0fc7f5a26e2c67"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-editor-text-final.png",
+      "bytes": 437126,
+      "sha256": "5f15db35fab39ebd7288412800694487bf7f17cd6be6a0a1300592aaad8fd521"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-editor-text.png",
+      "bytes": 597828,
+      "sha256": "78aa3c8d135b457f0365ecc92ec3b66946220356c5fd422617b62ca622fbb1f1"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-final-editor-fit.json",
+      "bytes": 45,
+      "sha256": "2b62cde1b8b984cbb684ec05868654a411b6c88f0c1c296c47c5003457720970"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-frame-dialog.png",
+      "bytes": 84517,
+      "sha256": "d75382046349296e0e70ffb6454b170b70887085047769a6501452fad9906edb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-learn-spelling.png",
+      "bytes": 349454,
+      "sha256": "636a09f0d785a26eab05b9dcbd9f456bf954adca536c09b0a70fd1b42be0fbb8"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-projects-mobile.png",
+      "bytes": 78755,
+      "sha256": "f16208351f48f168ddbb999fff6fe5b9bfc6216dc450d010f8f0c97175fe70eb"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-projects-new.png",
+      "bytes": 113287,
+      "sha256": "81d0f44903efc832c6576d1baf6b71140dd9cda37835f401661e11cc0c6edac2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-projects-saved.png",
+      "bytes": 117560,
+      "sha256": "5892b7f3bc6233f7e0a0fdcb562aa770e6ab5276bd385704cead97df218f48c0"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-reference-editor-results.json",
+      "bytes": 413,
+      "sha256": "2d4ba1619a58fad8dedf92be49baf2bdfc84ce998cd015798bb9730ea7bf90df"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/madcut-upload-dialog.png",
+      "bytes": 89541,
+      "sha256": "3cddd02a0e0510a434853b81f39bd82756e43e67626efb758c36d62c702f7c90"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/prasad-fixed-frame.png",
+      "bytes": 635915,
+      "sha256": "65d6cb31b61d908b6cfb36122804d250bf82dfda3c32a49e928eea1287e8be60"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/prasad-fixed.srt",
+      "bytes": 516,
+      "sha256": "c16db2ace660e911570c7c2081c38fa4270e6711d4be10942ad6b084f4e6d521"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/prasad-recognition-comparison.json",
+      "bytes": 7849,
+      "sha256": "9bbe29184e537b069735904956abd13be31e01c943e2d2ce2771f67671161fca"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/prasad-tenglish-fixed.json",
+      "bytes": 3586,
+      "sha256": "e9f061d0b3cc7c5f56ad91312675d8523aae5cf8de0a4911927cc01873944ba7"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/prasad-transform-frame.png",
+      "bytes": 491542,
+      "sha256": "bb9bd744ab0b71512018ddd7b7bb7b2d48ed6d158d65f36f0c05775f5db24b5e"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/prasad-update/prasad-transform-preview.png",
+      "bytes": 181728,
+      "sha256": "ae7866e7c5d2481e5098330e6ddc76619a535d01fc002a757f3b2afbe75f777a"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/progressive-captions/fast-caption-export.mp4",
+      "bytes": 2295792,
+      "sha256": "79593e3aeed444d0a90b083fa8c94439c5b30c507b06aa341e0ac57e3191a451"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/progressive-captions/progressive-full.json",
+      "bytes": 138677,
+      "sha256": "5bcf27663b09755526973bbae2143b77720f8dc0a1bd07a141a9734bcc4270f3"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/progressive-captions/progressive-short.json",
+      "bytes": 5032,
+      "sha256": "513e972be181bc6dfe35717e29746589ef0b66c7c8ecbf58a230922286b50cad"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/progressive-captions/progressive-ui-project.json",
+      "bytes": 36314,
+      "sha256": "9c3900b0125826a3fb38363145db967af039362259944877d180a8d4e1d55822"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/progressive-captions/progressive-ui-results.json",
+      "bytes": 259,
+      "sha256": "760478fdbbdf15db755861cdea63aaf320f1581d4055080859640fa6b6589fb6"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/progressive-captions/progressive-ui-streaming.png",
+      "bytes": 690088,
+      "sha256": "8063e421decda7a9fd9fe3aca3425da90af80ed02deec7cf89565ba47c2266d2"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/progressive-captions/small-correction-results.json",
+      "bytes": 806,
+      "sha256": "e41f6ed18ebc6fd7195248e13ec6e22e9ac9b7156a68943ce062f447985f4967"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/telugu/english-recognition-results.json",
+      "bytes": 2365,
+      "sha256": "e7b4767dfc4c86ad1251feee1851a1da26cdb473a41dabf7e9aee77457946495"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/telugu/telugu-benchmark-baseline.json",
+      "bytes": 2674,
+      "sha256": "5255c3389ebf9bac85ca47ce4eabdbc136d2ffa241be47dc265f4e18463d9f1d"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/telugu/telugu-benchmark-fixed.json",
+      "bytes": 10416,
+      "sha256": "d266acaa4b190e1e2e1c9c7a733c93424b803a86bbdeb04c2d4ec5e0dad0866b"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/telugu/telugu-browser-results.json",
+      "bytes": 706,
+      "sha256": "bc531ec9eca5e6118553237bb276f32fc6fa6ff73c46a20b9711d2568e35db02"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/telugu/tenglish-meaning-results.json",
+      "bytes": 914,
+      "sha256": "489f727179f1b98facffb4824439122e9bde6cdf3c382978256dfcf114d11abc"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/video-reference/contact.png",
+      "bytes": 4745181,
+      "sha256": "84c53d3fcbe6cd5c5e8fce74117ca8b07661700400ee0399b6fe7921cdf5a569"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/video-reference/export-frame.png",
+      "bytes": 529160,
+      "sha256": "25ec5bd536c44767d84109ca85bd6de5a6cdc6ca199913e4fed79b4750104b46"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/video-reference/motion.png",
+      "bytes": 3110750,
+      "sha256": "c0ff534bb2af4849e946ff52a1a9805bbc258f6f2510c828536328b1977a0f37"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/video-reference/recognition.json",
+      "bytes": 393,
+      "sha256": "5db962f68ee87a9b593248eb732f8a5eb1ac336f433174f3eb4fc3af6a6a10da"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/video-reference/results.json",
+      "bytes": 208,
+      "sha256": "a102b8c616faf637294cb775876165c641b7a668ec592dd207f25654a46b50b5"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/video-reference/saved-project.json",
+      "bytes": 1070,
+      "sha256": "db14720a91cc6bd9e1d01315e81a900ec60c311d084d4711f46a98e770f2c883"
+    },
+    {
+      "path": "MadCut/outputs/chatcut/verification/video-reference/styles-preview.png",
+      "bytes": 42805,
+      "sha256": "ad051f497d2b2beeda8037e718c46a02a8ef7ba82cc9c19f29ec4f7b10c257ad"
+    },
+    {
+      "path": "MadCut/work/verification/benchmark-telugu-quality.py",
+      "bytes": 2405,
+      "sha256": "5088ecadf12cbacb740ccc110c1398902554302e51cfa8465ec3bccfcfb7e45e"
+    },
+    {
+      "path": "MadCut/work/verification/benchmark-telugu.py",
+      "bytes": 2375,
+      "sha256": "1a4dcbd360efedc6d7bc3866632be32186f0a998fec9f83c69bfb685062dad25"
+    },
+    {
+      "path": "MadCut/work/verification/build-template-render.mjs",
+      "bytes": 304,
+      "sha256": "1bcb40577c8a5da5740dc5dcc9d9e19ffa591b5ec93b7d6af4439d3529c505f5"
+    },
+    {
+      "path": "MadCut/work/verification/check-nav.mjs",
+      "bytes": 720,
+      "sha256": "9fea9208f87c1a241b6afdb155e519a4c6ee6de64ade69804f0b36fe63bf2266"
+    },
+    {
+      "path": "MadCut/work/verification/compare-prasad.py",
+      "bytes": 524,
+      "sha256": "fc71d1ca4cde532cd0cb05f6bcbcbe7fac7ff8bb3d70f6d4ccb95a52e8403928"
+    },
+    {
+      "path": "MadCut/work/verification/compare-speech.py",
+      "bytes": 973,
+      "sha256": "6757ff2c4cdd54892101c12c3a2e69b3049033a5f944a199a09406ce7777c96a"
+    },
+    {
+      "path": "MadCut/work/verification/convert-telugu.py",
+      "bytes": 953,
+      "sha256": "640a02284d4e80323d941989235d37e065f55334cff4cc8a4b322f8e4e72b7fb"
+    },
+    {
+      "path": "MadCut/work/verification/debug-player.mjs",
+      "bytes": 1256,
+      "sha256": "db60535b20abd7706071227ecefca3050c5bbb985435a55d4822632a0570fbd7"
+    },
+    {
+      "path": "MadCut/work/verification/download-sarvam-direct.py",
+      "bytes": 650,
+      "sha256": "9a26a9420b832519ec74679ef1f34618ac43b1f7c028fca4218978b1282e41d1"
+    },
+    {
+      "path": "MadCut/work/verification/download-sarvam.py",
+      "bytes": 355,
+      "sha256": "9b610ca9a5d2c8549b73d0a6160627117026985f626a7fbd13e2f8970a04c8d9"
+    },
+    {
+      "path": "MadCut/work/verification/download-telugu-model.py",
+      "bytes": 1831,
+      "sha256": "46174bd5cfa901fa56f14b4a08f4e266dd4beb3faf54decdecd0818d9506c296"
+    },
+    {
+      "path": "MadCut/work/verification/download-telugu-test.py",
+      "bytes": 804,
+      "sha256": "59aaaccf09cc86856408b9d590880ac199988cebc919c0c707ce77f452ec0018"
+    },
+    {
+      "path": "MadCut/work/verification/extract-heldout.py",
+      "bytes": 868,
+      "sha256": "35798b4e8732ee7c24063d28ecb3b3a23d5a37afd1c50d2641d9d186fa4d3fb3"
+    },
+    {
+      "path": "MadCut/work/verification/find-telugu-stt.py",
+      "bytes": 376,
+      "sha256": "38e29abcfdee3462b1a57d3c0ea802902fd2cf8512b6aa9099acbf412987e449"
+    },
+    {
+      "path": "MadCut/work/verification/inspect-telugu-model.py",
+      "bytes": 543,
+      "sha256": "b7bcdd83fb710328ff999419920235e23f06bd79ff9524732003f44f77d618f3"
+    },
+    {
+      "path": "MadCut/work/verification/prasad-frame-test.mp4",
+      "bytes": 2247263,
+      "sha256": "5d9ab95c3274bbe5f69d1ce5063e1b32a8f8011566ee7e9f37c68a00422fdaef"
+    },
+    {
+      "path": "MadCut/work/verification/probe-decode.py",
+      "bytes": 963,
+      "sha256": "92a513f022524b92e490437afc5ab9068c8ffe72bf7418495d4a0b49a3aa0b69"
+    },
+    {
+      "path": "MadCut/work/verification/probe-novel.py",
+      "bytes": 1874,
+      "sha256": "00e788af2e17222f3947a96464d3a03570ec3b47dedf4baaae668883ce572c86"
+    },
+    {
+      "path": "MadCut/work/verification/probe-speech-gpu.py",
+      "bytes": 840,
+      "sha256": "ab4e9de5ff1f7ca9e058df111df29e6a6902f6a33ba889b2255a997bcaaeb4da"
+    },
+    {
+      "path": "MadCut/work/verification/probe-telugu.py",
+      "bytes": 644,
+      "sha256": "aab9dd44b8f4d63b60178882cc5e1b5d5f75107474a20e2a6eb2dbfc1b70cc39"
+    },
+    {
+      "path": "MadCut/work/verification/probe-tenglish.py",
+      "bytes": 1848,
+      "sha256": "de45dc805688eb36a8493c79f5d413f9f9844914cca614b1124ca63932ae513f"
+    },
+    {
+      "path": "MadCut/work/verification/render-pack-thumbnails.mjs",
+      "bytes": 1174,
+      "sha256": "d601ac33940ae35d1d4a03283368e72ba6770b83a6cb8aefd1a2c058936c8d9c"
+    },
+    {
+      "path": "MadCut/work/verification/resume-sarvam.py",
+      "bytes": 1280,
+      "sha256": "252ec06ba1dc8fb93831942c62c254e96c6d8e3d5f11fc427ad10e5c64b7745c"
+    },
+    {
+      "path": "MadCut/work/verification/setup-light-correction.py",
+      "bytes": 814,
+      "sha256": "e9c2c4dddc49f44bb46d2319438fc3b525c478eba06de0f08e902fd737a02070"
+    },
+    {
+      "path": "MadCut/work/verification/telugu-heldout-1.wav",
+      "bytes": 529978,
+      "sha256": "bd35d16f1293f8d8133436d9b387ddad2a8ff31abbb272ab58513af291561f84"
+    },
+    {
+      "path": "MadCut/work/verification/telugu-heldout-2.wav",
+      "bytes": 430138,
+      "sha256": "7dc8baa363ec436333b2c1f4545bb62b4f445f708bcce141fa618134a80332c3"
+    },
+    {
+      "path": "MadCut/work/verification/telugu-heldout-3.wav",
+      "bytes": 652858,
+      "sha256": "eea9b7eda04457ee84c7335b96d0a1a88c778e248d8b0b1e99f8b792da74f05b"
+    },
+    {
+      "path": "MadCut/work/verification/telugu-heldout-references.json",
+      "bytes": 1327,
+      "sha256": "4e1d96e3c3836ea42c31331b4dc251be71f30e542847c1cff79337349d5a12d1"
+    },
+    {
+      "path": "MadCut/work/verification/test-acoustic-quality.py",
+      "bytes": 2153,
+      "sha256": "845e0969927ebbb575d9c0c1c8d7f7e44a794e3a8cdae06c08350e2846b115b6"
+    },
+    {
+      "path": "MadCut/work/verification/test-caption-debug.py",
+      "bytes": 1548,
+      "sha256": "052b671f116bdffcb4caa46c4e945194c7b6a8d19eb24e1f6883ad13556ff8bb"
+    },
+    {
+      "path": "MadCut/work/verification/test-caption-repetitions.py",
+      "bytes": 747,
+      "sha256": "bafaef5017e456952d7d6e3549ba9d1a90ed87441d23554ca549a6b5b9453ca0"
+    },
+    {
+      "path": "MadCut/work/verification/test-learned-spellings.py",
+      "bytes": 920,
+      "sha256": "60c6f2eccede58c57b4b323696582cf77e2d595334778836c1690abbc2f3282b"
+    },
+    {
+      "path": "MadCut/work/verification/test-mapped-timing.py",
+      "bytes": 1068,
+      "sha256": "8b559232300b43a6961782cabe77f3bdb9f55c00430e3e5c46c390975fdf9803"
+    },
+    {
+      "path": "MadCut/work/verification/test-natural-tenglish-v2.py",
+      "bytes": 3583,
+      "sha256": "785c1c12845ba876af06c92ae06602ff3f681987513cba1a8148f5bd5be76431"
+    },
+    {
+      "path": "MadCut/work/verification/test-prasad-spelling.py",
+      "bytes": 966,
+      "sha256": "1b5225f63bdba1f8b0d13ebee515cf7bad67635a6503e9d97aa0e6f114efbba2"
+    },
+    {
+      "path": "MadCut/work/verification/test-progressive-quality.py",
+      "bytes": 2179,
+      "sha256": "a6166b21311dc52fd3e929f24ae77edca922385e3202650bae8fd0f8ffcfe23a"
+    },
+    {
+      "path": "MadCut/work/verification/test-small-correction.py",
+      "bytes": 1111,
+      "sha256": "d6f39427d397da213d34c41a743784cf25a3e727759f552c27846b3efd5e24f1"
+    },
+    {
+      "path": "MadCut/work/verification/test-telugu-text-preservation.py",
+      "bytes": 1165,
+      "sha256": "07db5945e18df19de56ecda329b918dbad2c35d67c389273794cd0f43b938837"
+    },
+    {
+      "path": "MadCut/work/verification/test-tenglish-loanwords.py",
+      "bytes": 965,
+      "sha256": "4f3802e27c0650ee8999e611dac0427986ee9384225240b3a84210dcbace9d45"
+    },
+    {
+      "path": "MadCut/work/verification/verify-app.mjs",
+      "bytes": 2879,
+      "sha256": "cde9e0faf4e7ff54c6044de4f032e6840cc927e7b29ef9caceef906464095af4"
+    },
+    {
+      "path": "MadCut/work/verification/verify-brand.mjs",
+      "bytes": 1328,
+      "sha256": "5d5044e78843488a425dbdf71329edee648b9e175e9e6a76dc5f74b01b5e3f06"
+    },
+    {
+      "path": "MadCut/work/verification/verify-caption-debug-live.py",
+      "bytes": 1919,
+      "sha256": "c7ad00795be88a070bedc60c7cbef013c08c6dc1e494b949f423071ef7dfdd8a"
+    },
+    {
+      "path": "MadCut/work/verification/verify-caption-debug-motion.mjs",
+      "bytes": 7673,
+      "sha256": "27389472622bc6145f9eb5fd7c368c98add14819615187b6a5fecde91b1689ce"
+    },
+    {
+      "path": "MadCut/work/verification/verify-caption-debug-reload.py",
+      "bytes": 941,
+      "sha256": "f569ab64eebeb9fe6559abbfac670312cad6f4986475749d6bc3595966ea39ff"
+    },
+    {
+      "path": "MadCut/work/verification/verify-caption-debug-ui.mjs",
+      "bytes": 3586,
+      "sha256": "26de075b6115c7d969b1f3ac941ffac87b57cb4c620f1a4c85d1aa1d1fd62a0a"
+    },
+    {
+      "path": "MadCut/work/verification/verify-chat-final.py",
+      "bytes": 1597,
+      "sha256": "fff9e22482078053aea7712790d2ac836036eb111035baf39620e9715d9d3660"
+    },
+    {
+      "path": "MadCut/work/verification/verify-default-library.mjs",
+      "bytes": 4143,
+      "sha256": "fc968ae5b8730f601f370b5c1540ee2184e9a0262f5f4610f8298a44bbd63661"
+    },
+    {
+      "path": "MadCut/work/verification/verify-fast-export.mjs",
+      "bytes": 1912,
+      "sha256": "10b47b6d84b4dacd9cd87ee235f24b7d848dd549f9760548d80205f84d7972e6"
+    },
+    {
+      "path": "MadCut/work/verification/verify-fast-optional.py",
+      "bytes": 924,
+      "sha256": "f2e6ecfb10172cfcc54cec59b3516a46d11df4a99d305594cfa698f14af53703"
+    },
+    {
+      "path": "MadCut/work/verification/verify-fast-pipeline.py",
+      "bytes": 2491,
+      "sha256": "a7b2616b51cf4097f78bdadcba27e182ad76d9b80bcf60c35dbec4223593dc69"
+    },
+    {
+      "path": "MadCut/work/verification/verify-fast-switch.py",
+      "bytes": 1154,
+      "sha256": "f3dd6664126e4579164a5f4de93de96405340abe14c47b57d2a994d9f2c1e6ab"
+    },
+    {
+      "path": "MadCut/work/verification/verify-fast-ui.mjs",
+      "bytes": 4052,
+      "sha256": "f673d6bed8a8ee497c3891aaf07b6103d49cb7f920a6e0977663270e1bba4614"
+    },
+    {
+      "path": "MadCut/work/verification/verify-final-editor-fit.mjs",
+      "bytes": 1910,
+      "sha256": "4511de125da9d41b568bb0831f02ca1d6903ff0c87b379aa0aa408658978e481"
+    },
+    {
+      "path": "MadCut/work/verification/verify-frame-export.mjs",
+      "bytes": 2828,
+      "sha256": "5ba13f250d066996422b21595019d25dd4732087444cf303c48cc4488cc7bbc4"
+    },
+    {
+      "path": "MadCut/work/verification/verify-free-ai.py",
+      "bytes": 1992,
+      "sha256": "7ca732734fbe7c7e4ecffa6d56eee8959a717417eea9c84a6b59dadc1319e645"
+    },
+    {
+      "path": "MadCut/work/verification/verify-free-browser.mjs",
+      "bytes": 4733,
+      "sha256": "7a80affd22a8b385643b36048f1be2e259ffe6264220e3821a2fe1c07b7ec9b6"
+    },
+    {
+      "path": "MadCut/work/verification/verify-language-routing.py",
+      "bytes": 1363,
+      "sha256": "d5fb73fd40e4c7ac2973489b902bf2c6fbe77ba4343a9d8afe9396bb57df6bc2"
+    },
+    {
+      "path": "MadCut/work/verification/verify-live-motion.mjs",
+      "bytes": 1754,
+      "sha256": "85f84dec5bb86c24eb0f12fcfa778ca4c195d10bb074b658d7790907122e2867"
+    },
+    {
+      "path": "MadCut/work/verification/verify-madcut-captions.mjs",
+      "bytes": 5616,
+      "sha256": "53407f9ee8c053535518f9c8da7957b8c6bfd2ce8f646b90d97ecc74a271c439"
+    },
+    {
+      "path": "MadCut/work/verification/verify-madcut-export.mjs",
+      "bytes": 3681,
+      "sha256": "b35119adb19f47cfbc38c38542e3e6ad02bc89c1264a974bcebf412b0d284cd6"
+    },
+    {
+      "path": "MadCut/work/verification/verify-madcut-ui.mjs",
+      "bytes": 2493,
+      "sha256": "7e1729e1a8dafdd252d3f8b5aeaa55c7193b434798c8a281f2c692aecdb3fb7a"
+    },
+    {
+      "path": "MadCut/work/verification/verify-novel.py",
+      "bytes": 1411,
+      "sha256": "cca2eeddd470f894ed265b067e72a5c1e615e16f74d9c1334d86acdb2f616d7b"
+    },
+    {
+      "path": "MadCut/work/verification/verify-orange-brand.mjs",
+      "bytes": 1734,
+      "sha256": "8aae36b1f144c36c9ffe5e83655e1fc4944d98fec8d6d1d09e07a3e1bc7b98ed"
+    },
+    {
+      "path": "MadCut/work/verification/verify-pack-api.py",
+      "bytes": 3069,
+      "sha256": "4f9275af3654e8100033fcf032313ee194e974770f6b8b233277ce153c09bcd0"
+    },
+    {
+      "path": "MadCut/work/verification/verify-player-motion.mjs",
+      "bytes": 5455,
+      "sha256": "c1f9a0b821d6d9dda635c0ecd078b670073056b3e755a77e6faaad6740cc7c1c"
+    },
+    {
+      "path": "MadCut/work/verification/verify-prasad-translation.py",
+      "bytes": 1673,
+      "sha256": "821a308ddcac944fed681409d46b02a6612074a6ef9d96dba3e92f44705cd931"
+    },
+    {
+      "path": "MadCut/work/verification/verify-progressive-pipeline.py",
+      "bytes": 1734,
+      "sha256": "5d936ebefb1959d7987abaef7b509ad66c85de8adde97e04e8722669b9abc2db"
+    },
+    {
+      "path": "MadCut/work/verification/verify-progressive-ui.mjs",
+      "bytes": 3033,
+      "sha256": "bfae5415e79e5fdb6f66307f7b6ee4e5903dc86f9634826d3294ff1257850ca4"
+    },
+    {
+      "path": "MadCut/work/verification/verify-quality-live.py",
+      "bytes": 1757,
+      "sha256": "5cf3c53dab969d960879a53a4cc8956e62ea7d79f6a16309a1e927bb5f0980b4"
+    },
+    {
+      "path": "MadCut/work/verification/verify-quality-sync.mjs",
+      "bytes": 2797,
+      "sha256": "12a8fb57494fc48e118c06bd7f4b5ab9640ac7fff827fe4c81bbca67da6f6891"
+    },
+    {
+      "path": "MadCut/work/verification/verify-reference-editor.mjs",
+      "bytes": 5852,
+      "sha256": "bd53a39dd01ae99dcd4b21954eeb1b6e5caf7acf6e59a59057b3f7c49b94780c"
+    },
+    {
+      "path": "MadCut/work/verification/verify-reference-export.mjs",
+      "bytes": 2847,
+      "sha256": "c0d500b5e50fe8ce0f8cd45f93925dba413531ba1e6252f66209936b4ae7cf2d"
+    },
+    {
+      "path": "MadCut/work/verification/verify-speech-sync.py",
+      "bytes": 1940,
+      "sha256": "5c2e7503d086efa72b001caa7253c89ad726471f3148ad68f32cee03be62a5fc"
+    },
+    {
+      "path": "MadCut/work/verification/verify-telugu-browser.mjs",
+      "bytes": 5567,
+      "sha256": "8a633c2cbce1e6369ba438d8b2354f9ed100f3764ca7180567ff65f8e1f22acb"
+    },
+    {
+      "path": "MadCut/work/verification/verify-telugu-speech.py",
+      "bytes": 671,
+      "sha256": "27d616de8043dd3f550f4b4a3d0aba5a73daff250adf75013467142f9339a556"
+    },
+    {
+      "path": "MadCut/work/verification/verify-template-trim-ui.mjs",
+      "bytes": 4748,
+      "sha256": "95155ca2aa852896d29b1eb9adebd3bb9a409e9a568c51f7fc5dd34ca1d17463"
+    },
+    {
+      "path": "MadCut/work/verification/verify-tenglish-meaning.py",
+      "bytes": 1673,
+      "sha256": "6d0f476575c08a96cc9b20c5a053ac8fb47b714154e821009414787df72d8513"
+    },
+    {
+      "path": "MadCut/work/verification/captik-review/check.mjs",
+      "bytes": 5093,
+      "sha256": "af2112d101e4c96e4b2f1995aebea1cad816b036f3e83299edda8f12cf9ba7ea"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/BENCHMARK-STATUS.md",
+      "bytes": 1139,
+      "sha256": "623933df3174a925f0a57e27792a7730e703232a8ead792541836a2caa4a6b1f"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/acceptance-dataset.json",
+      "bytes": 45734,
+      "sha256": "960d4f7ab0dd5c651278a1f2c8a334fcd13e76852a1a1bd4c97270c9ca27109a"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/browser-project.json",
+      "bytes": 1216,
+      "sha256": "1f54573cacef20dfecaef751a7b6deaff611368c1b1ede6ad59227586b0d176d"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/check-browser.mjs",
+      "bytes": 4735,
+      "sha256": "8e5f01cf72b8a711c57ba68429c7e4e9a2409d034f6bb36652b75af1f5af0a24"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/check-flow.py",
+      "bytes": 3813,
+      "sha256": "ec3d97399b41fd5d482b44097a1751698d6e10bd3d8012214e804eaed446bf9c"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/check-live.py",
+      "bytes": 3671,
+      "sha256": "2132fa02fb03204f50e7c523c29900258466b6c0a261d56f875d1676c54d7d48"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/check-roman-fallback.py",
+      "bytes": 2414,
+      "sha256": "1773ad2fdc04fbe4ed31d73d0760d349573ff3385eaabb049e3b7a971d024ae9"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/check-streaming.py",
+      "bytes": 1293,
+      "sha256": "830ef02b97ee8d48f23d19eb8af71ea3be8e23d5485b4d086a451fe20f32b871"
+    },
+    {
+      "path": "MadCut/work/verification/caption-foundation/check-ui-generation.mjs",
+      "bytes": 2809,
+      "sha256": "b2c5b44e9a9a1cc36fb4b94ccf8ac44a8618e728bc916a751d90fc0ef685cd3f"
+    },
+    {
+      "path": "MadCut/work/verification/phase1/flagged-interval-context.wav",
+      "bytes": 152078,
+      "sha256": "54d9b460f04ad0fbf55a0d46d2d21a19bb9b2c32278587f15e06d249e4dd280f"
+    },
+    {
+      "path": "MadCut/work/verification/phase1/flagged-interval-recognition.json",
+      "bytes": 2934,
+      "sha256": "7bd7fe2749790063f6bea9b624abdda92a0686f7d9ffce14ca044a1dfd6891c2"
+    },
+    {
+      "path": "MadCut/work/verification/phase1/investigate-interval.py",
+      "bytes": 1261,
+      "sha256": "cf9e49d9365f0939910013578d9f6662071e4eb00691f209d91c55b8079e051c"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/check-speech.py",
+      "bytes": 922,
+      "sha256": "147421558529016fda5a279a8ee024d6f7f81b098f37a2634f0b7b9de14259a7"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/check-styles.mjs",
+      "bytes": 3814,
+      "sha256": "8e289c1bcab492d85ba2722b5bee2ce996612316abd2dd9e3c0f25c28e6396a6"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/defaults.py",
+      "bytes": 510,
+      "sha256": "2732a40862512031fd7c3ce50ae8d198692580b7c3abe49701788187d81579e5"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/font-audit.py",
+      "bytes": 332,
+      "sha256": "4c177d17d098e69dbff71bfb117e5fee1c86b0e5d86c496fa14fd60b290803fc"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/font-refine.py",
+      "bytes": 755,
+      "sha256": "9651db58bf51e1e7ec64934fb8058b2ebcd12199ef9de3626ed5a35ee2be3916"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/montage.py",
+      "bytes": 491,
+      "sha256": "e2704a272233068b4f665605ad75176e97fdea786e4da1db3e1f843c0d9bd0dd"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/outline.py",
+      "bytes": 494,
+      "sha256": "9a4c73c67a940a814e1f1aa0c2c9cdffc8aacac7cb6ed0261152d616cf7787b8"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/read-ui.py",
+      "bytes": 137,
+      "sha256": "024fa273a046bddd0d9941832685651f540287ead333e5da7292b2267dc2ec16"
+    },
+    {
+      "path": "MadCut/work/verification/video-reference/update-styles.py",
+      "bytes": 3906,
+      "sha256": "c9f1be23971785c937b4f2cfbed300c20b69734265129d971bf93179004f47db"
+    }
+  ]
+}

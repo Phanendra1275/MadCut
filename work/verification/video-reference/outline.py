@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('outputs/chatcut/lib/render-caption.ts');s=p.read_text(encoding='utf-8');s=s.replace("if(reference){ctx.strokeStyle='rgba(0,0,0,.85)';ctx.lineWidth=g.size*.075;ctx.strokeText(g.text,-g.width/2,0);ctx.shadowColor=color;", "if(reference){ctx.shadowColor=color;");s=s.replace("if(['Karaoke','Meme','Viral Reels'].includes(style)){ctx.strokeStyle", "if(reference||['Karaoke','Meme','Viral Reels'].includes(style)){ctx.strokeStyle");p.write_text(s,encoding='utf-8')

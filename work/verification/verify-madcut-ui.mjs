@@ -1,0 +1,13 @@
+import {createRequire} from 'node:module';import {writeFile} from 'node:fs/promises';
+const require=createRequire('C:/Users/HP/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/package.json');const {chromium}=require('playwright');
+const browser=await chromium.launch({headless:true,channel:'chrome'});const page=await browser.newPage({viewport:{width:1214,height:1000}});const errors=[],external=[];
+page.on('pageerror',e=>errors.push(e.message));await page.route('**/*',r=>{if(/^https?:/.test(r.request().url())&&!/^http:\/\/(localhost|127\.0\.0\.1)/.test(r.request().url())){external.push(r.request().url());return r.abort();}return r.continue();});
+await page.goto('http://127.0.0.1:5173/',{waitUntil:'networkidle'});await page.evaluate(()=>document.fonts.ready);await page.screenshot({path:'work/verification/madcut-landing.png',fullPage:true});
+const height=await page.evaluate(()=>document.documentElement.scrollHeight);console.log('Landing height',height);
+await page.getByRole('button',{name:'Telugish / Tenglish Telugu',exact:true}).click();await page.getByRole('button',{name:'Try Tenglish',exact:false}).waitFor();
+await page.locator('#questions summary').first().click();if(!(await page.locator('#questions details').first().getAttribute('open')!==null))throw new Error('FAQ did not expand');
+await page.getByRole('button',{name:'Use Karaoke caption style',exact:true}).first().click();await page.getByRole('button',{name:'Generate captions',exact:true}).waitFor();if(!page.url().endsWith('#studio'))throw new Error('Studio route did not open');
+if(!(await page.getByRole('link',{name:'MadCut home'}).innerText()).includes('MadCut'))throw new Error('Brand did not update');
+await page.screenshot({path:'work/verification/madcut-studio.png',fullPage:true});await page.getByRole('link',{name:'MadCut home'}).click();await page.getByRole('button',{name:'Open App',exact:true}).first().waitFor();
+await page.setViewportSize({width:390,height:844});await page.screenshot({path:'work/verification/madcut-mobile.png',fullPage:true});const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth);
+const result={height,faq:true,languagePreview:true,studioRoute:true,brand:'MadCut',mobileOverflow:overflow,errors,external};await writeFile('work/verification/madcut-ui-results.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result));await browser.close();if(overflow||errors.length||external.length)throw new Error('UI checks failed');

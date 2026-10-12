@@ -1,0 +1,269 @@
+{
+  "leadingSilence": 2,
+  "trailingSilence": 3,
+  "originalIncorrectTimes": [
+    {
+      "id": "corrected",
+      "start": 0,
+      "end": 6.72,
+      "text": "కొన్ని క్రియలు ఆబ్జెక్టుల మధ్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం."
+    }
+  ],
+  "aligned": {
+    "language": "te",
+    "cues": [
+      {
+        "id": "corrected",
+        "text": "కొన్ని క్రియలు ఆబ్జెక్టుల మధ్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం.",
+        "start": 2.232,
+        "end": 7.88,
+        "words": [
+          {
+            "word": "కొన్ని",
+            "start": 2.232,
+            "end": 2.82
+          },
+          {
+            "word": "క్రియలు",
+            "start": 2.82,
+            "end": 3.18
+          },
+          {
+            "word": "ఆబ్జెక్టుల",
+            "start": 3.18,
+            "end": 3.76
+          },
+          {
+            "word": "మధ్య",
+            "start": 3.76,
+            "end": 4.3
+          },
+          {
+            "word": "తేడాను",
+            "start": 4.3,
+            "end": 4.92
+          },
+          {
+            "word": "గుర్తించడానికి",
+            "start": 4.92,
+            "end": 6.24
+          },
+          {
+            "word": "ఇది",
+            "start": 6.24,
+            "end": 6.48
+          },
+          {
+            "word": "ఒక",
+            "start": 6.48,
+            "end": 6.6
+          },
+          {
+            "word": "ముఖ్యమైన",
+            "start": 6.6,
+            "end": 7.32
+          },
+          {
+            "word": "మార్గం.",
+            "start": 7.32,
+            "end": 7.88
+          }
+        ]
+      }
+    ],
+    "speechEngine": "Whisper large-v3 forced alignment",
+    "speechDevice": "cuda",
+    "srt": "1\n00:00:02,232 --> 00:00:07,880\nకొన్ని క్రియలు ఆబ్జెక్టుల మధ్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం.\n",
+    "versions": {
+      "Telugu": [
+        {
+          "id": "corrected",
+          "text": "కొన్ని క్రియలు ఆబ్జెక్టుల మధ్య తేడాను గుర్తించడానికి ఇది ఒక ముఖ్యమైన మార్గం.",
+          "start": 2.232,
+          "end": 7.88,
+          "words": [
+            {
+              "word": "కొన్ని",
+              "start": 2.232,
+              "end": 2.82
+            },
+            {
+              "word": "క్రియలు",
+              "start": 2.82,
+              "end": 3.18
+            },
+            {
+              "word": "ఆబ్జెక్టుల",
+              "start": 3.18,
+              "end": 3.76
+            },
+            {
+              "word": "మధ్య",
+              "start": 3.76,
+              "end": 4.3
+            },
+            {
+              "word": "తేడాను",
+              "start": 4.3,
+              "end": 4.92
+            },
+            {
+              "word": "గుర్తించడానికి",
+              "start": 4.92,
+              "end": 6.24
+            },
+            {
+              "word": "ఇది",
+              "start": 6.24,
+              "end": 6.48
+            },
+            {
+              "word": "ఒక",
+              "start": 6.48,
+              "end": 6.6
+            },
+            {
+              "word": "ముఖ్యమైన",
+              "start": 6.6,
+              "end": 7.32
+            },
+            {
+              "word": "మార్గం.",
+              "start": 7.32,
+              "end": 7.88
+            }
+          ]
+        }
+      ],
+      "Tenglish": [
+        {
+          "id": "corrected",
+          "start": 2.232,
+          "end": 7.88,
+          "text": "konni kriyalu aabjekthula madhya tedaanu gurthinchadaaniki idi oka mukhyamaina maargam.",
+          "words": [
+            {
+              "word": "konni",
+              "start": 2.232,
+              "end": 2.82
+            },
+            {
+              "word": "kriyalu",
+              "start": 2.82,
+              "end": 3.18
+            },
+            {
+              "word": "aabjekthula",
+              "start": 3.18,
+              "end": 3.76
+            },
+            {
+              "word": "madhya",
+              "start": 3.76,
+              "end": 4.3
+            },
+            {
+              "word": "tedaanu",
+              "start": 4.3,
+              "end": 4.92
+            },
+            {
+              "word": "gurthinchadaaniki",
+              "start": 4.92,
+              "end": 6.24
+            },
+            {
+              "word": "idi",
+              "start": 6.24,
+              "end": 6.48
+            },
+            {
+              "word": "oka",
+              "start": 6.48,
+              "end": 6.6
+            },
+            {
+              "word": "mukhyamaina",
+              "start": 6.6,
+              "end": 7.32
+            },
+            {
+              "word": "maargam.",
+              "start": 7.32,
+              "end": 7.88
+            }
+          ],
+          "timing": "mapped"
+        }
+      ]
+    },
+    "pipeline": "speech-to-timed-subtitles",
+    "cacheHit": false,
+    "processingSeconds": 17.746
+  },
+  "tenglish": {
+    "cues": [
+      {
+        "id": "corrected",
+        "start": 2.232,
+        "end": 7.88,
+        "text": "konni kriyalu aabjekthula madhya tedaanu gurthinchadaaniki idi oka mukhyamaina maargam.",
+        "words": [
+          {
+            "word": "konni",
+            "start": 2.232,
+            "end": 2.82
+          },
+          {
+            "word": "kriyalu",
+            "start": 2.82,
+            "end": 3.18
+          },
+          {
+            "word": "aabjekthula",
+            "start": 3.18,
+            "end": 3.76
+          },
+          {
+            "word": "madhya",
+            "start": 3.76,
+            "end": 4.3
+          },
+          {
+            "word": "tedaanu",
+            "start": 4.3,
+            "end": 4.92
+          },
+          {
+            "word": "gurthinchadaaniki",
+            "start": 4.92,
+            "end": 6.24
+          },
+          {
+            "word": "idi",
+            "start": 6.24,
+            "end": 6.48
+          },
+          {
+            "word": "oka",
+            "start": 6.48,
+            "end": 6.6
+          },
+          {
+            "word": "mukhyamaina",
+            "start": 6.6,
+            "end": 7.32
+          },
+          {
+            "word": "maargam.",
+            "start": 7.32,
+            "end": 7.88
+          }
+        ],
+        "timing": "mapped"
+      }
+    ],
+    "language": "Tenglish",
+    "pipeline": "timed-subtitles-to-tenglish"
+  }
+}
