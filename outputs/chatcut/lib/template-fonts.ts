@@ -11,18 +11,21 @@ export function presetFont(template:string,script=false,override?:string):Font|u
  if(template==='Slide Collide'&&script)return face('MadCut Vivaldi',400);
  if(template==='Rock Solidance'&&script)return face('MadCut Edwardian',400);
  if(template==='Amber Script')return script?satisfy:poppins;
- if(['Keyword Spotlight','Word Wipe','Focus Glow','Neon Emerald','Lime Drop','Scarlet Punch','Coovetica Waving of','Zoom In'].includes(template))return poppins;
+ if(['Keyword Spotlight','Word Wipe','Focus Glow','Neon Emerald','Lime Drop','Scarlet Punch','Coovetica Waving of','Zoom In','Impact Pop','Karaoke Glow','Editorial Two-Line'].includes(template))return poppins;
+ if(template==='Clean Minimal')return face('Noto Sans Telugu',600);
  if(['Ocean Waves','Santhosham','Spinning Butter','cracked','Slide Collide'].includes(template))return face('MadCut Poppins',700);
  if(['Jitter Shine','Static Shine','Premium Text','Premium Text Without Animation'].includes(template))return inter;
  return undefined;
 }
 export const presetFontLabel=(template:string)=>({
+ 'Impact Pop':'Poppins ExtraBold','Clean Minimal':'Noto Sans / Arial SemiBold',
+ 'Karaoke Glow':'Poppins Bold Glow','Editorial Two-Line':'Poppins ExtraBold Two-Line',
  'Keyword Spotlight':'Poppins ExtraBold','Word Wipe':'Poppins ExtraBold','Focus Glow':'Poppins ExtraBold',
- 'Premium Text':'Inter Black · SF UI substitute','Premium Text Without Animation':'Inter Black · SF UI substitute',
+ 'Premium Text':'Inter Black – SF UI substitute','Premium Text Without Animation':'Inter Black – SF UI substitute',
  'Jitter Shine':'Inter Black','Static Shine':'Inter Black','Coovetica Waving of':'Poppins ExtraBold','Zoom In':'Poppins ExtraBold',
- 'Ocean Waves':'Poppins Bold','Butter Up':'Satisfy','Slide Collide':'Poppins + Vivaldi · Coolvetica substitute',
- 'Rock Solidance':'Anton + Edwardian · Coolvetica Cond substitute','Santhosham':'Poppins Bold · Coolvetica substitute',
- 'Spinning Butter':'Poppins Bold · Coolvetica substitute','cracked':'Poppins Bold · Coolvetica substitute',
+ 'Ocean Waves':'Poppins Bold','Butter Up':'Satisfy','Slide Collide':'Poppins + Vivaldi – Coolvetica substitute',
+ 'Rock Solidance':'Anton + Edwardian – Coolvetica Cond substitute','Santhosham':'Poppins Bold – Coolvetica substitute',
+ 'Spinning Butter':'Poppins Bold – Coolvetica substitute','cracked':'Poppins Bold – Coolvetica substitute',
  'Neon Emerald':'Poppins ExtraBold','Lime Drop':'Poppins ExtraBold','Scarlet Punch':'Poppins ExtraBold','Amber Script':'Poppins + Satisfy'
 } as Record<string,string>)[template]??'Preset font';
 const loaded=new Map<string,Promise<unknown>>();

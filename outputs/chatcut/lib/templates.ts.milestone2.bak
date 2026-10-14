@@ -1,0 +1,477 @@
+import packMetadata from '../public/templates/catalog.json' with { type: 'json' };
+
+export const templateNames = [
+  'Minimal', 'Viral Reels', 'Karaoke', 'WhatsApp', 'Meme', 'Cinematic',
+  'Glow Script', 'Ink Flow', 'Script Duo', 'Typo Stairs', 'Kinetic Stack',
+  'Hyper Clean', 'Editorial', 'Trio Lockup', 'Pop Tag',
+  'Left Slide', 'Right Slide', 'Up Slide', 'Down Slide',
+  'Left Blur Slide', 'Right Blur Slide', 'Up Blur Slide', 'Down Blur Slide',
+  'Left Bounce Slide', 'Right Bounce Slide', 'Up Bounce Slide', 'Down Bounce Slide',
+  'Up Bounce Shrink', 'Down Bounce Shrink', 'Left Bounce Expand', 'Right Bounce Expand',
+  'Flex Bounce', 'Gradient Blue', 'Gradient Red', 'Gradient Red Orange',
+  'Jitter Shine', 'Static Shine', 'Zoom In',
+  'Premium Text', 'Premium Text Without Animation',
+  'Santhosham', 'Coovetica Waving of', 'Slide Collide', 'Spinning Butter',
+  'Butter Up', 'cracked', 'Ocean Waves', 'Rock Solidance',
+  'Neon Emerald', 'Lime Drop', 'Amber Script', 'Scarlet Punch',
+  'Keyword Spotlight', 'Word Wipe', 'Focus Glow',
+  'Impact Pop', 'Clean Minimal', 'Karaoke Glow', 'Editorial Two-Line'
+] as const;
+
+export type Template = typeof templateNames[number];
+
+export type LayoutMode = 'flow' | 'two_lines' | 'stacked' | 'single_word' | 'karaoke';
+export type AnimationType = 'none' | 'pop' | 'slide' | 'bounce' | 'fade' | 'blur' | 'spring_drop' | 'wave' | 'jitter' | 'custom';
+export type ColorSlot = string; // e.g. '{text}', '{accent}', or specific hex
+
+export interface WordHighlightStyle {
+  scale?: number;             // Active word scale multiplier (e.g. 1.15)
+  color?: ColorSlot;          // Active word text color
+  backgroundColor?: string;   // Background pill (e.g. Pop Tag)
+  backgroundPadding?: { x: number; y: number };
+  borderRadius?: number;
+  glowBlur?: number;          // Shadow blur ratio relative to word size
+  glowColor?: ColorSlot;
+  wipeEffect?: boolean;       // Active word wipe clip
+}
+
+export interface TextEffectStyle {
+  outlineWidth?: number;      // Stroke width ratio relative to font size (e.g. 0.1)
+  outlineColor?: string;
+  shadowBlur?: number;        // Shadow blur ratio relative to font size (e.g. 0.15)
+  shadowColor?: ColorSlot;
+  shadowOffset?: { x: number; y: number };
+  gradient?: {
+    direction: 'vertical' | 'horizontal';
+    stops: { offset: number; color: string }[];
+  };
+  shimmer?: boolean;
+}
+
+export interface CaptionTemplateDefinition {
+  name: Template;
+  displayName?: string;
+  category: string;
+  label: string;
+  sample: string;
+  layout: {
+    mode: LayoutMode;
+    maxWordsPerChunk?: number;
+    maxLines?: number;
+    splitHalf?: boolean;       // Split evenly across 2 lines at Math.ceil(len / 2)
+    verticalPositionPercent?: number;
+    textAlign?: 'center' | 'left' | 'right';
+    backgroundBox?: {
+      color: string;
+      paddingX: number;
+      paddingY: number;
+      borderRadius: number;
+    };
+  };
+  typography: {
+    fontPreset?: 'Auto' | 'Script' | 'Condensed' | 'Arial' | string;
+    fontWeight?: string | number;
+    casing?: 'uppercase' | 'none';
+    sizeMultiplier?: number;
+    scriptAlternate?: {
+      target: 'last_word' | 'first_two' | 'second_half' | 'none';
+      scale?: number;
+      fontFamily?: string;
+      color?: ColorSlot;
+    };
+  };
+  colors: {
+    base: ColorSlot;
+    accent: ColorSlot;
+    secondary?: ColorSlot;
+  };
+  activeWord?: WordHighlightStyle;
+  effects?: TextEffectStyle;
+  animation?: {
+    type: AnimationType;
+    direction?: [number, number]; // [x, y] unit vector
+    bounce?: boolean;
+    shrink?: boolean;
+    expand?: boolean;
+    blur?: boolean;
+    durationMs?: number;
+  };
+}
+
+export function resolveColor(slot: string | undefined, lookColor: string, lookAccent: string, fallback = '#ffffff'): string {
+  if (!slot) return fallback;
+  if (slot === '{text}' || slot === 'base') return lookColor;
+  if (slot === '{accent}' || slot === 'accent') return lookAccent;
+  return slot;
+}
+
+// Declarative definitions for templates
+export const templateDefinitions: Partial<Record<Template, CaptionTemplateDefinition>> = {
+  // --- MILESTONE 2: Four New Production-Ready Presets ---
+  'Impact Pop': {
+    name: 'Impact Pop',
+    category: 'Viral',
+    label: 'Bold hook & reel pop',
+    sample: 'MAKE AN IMPACT',
+    layout: { mode: 'flow', verticalPositionPercent: 75, maxWordsPerChunk: 3 },
+    typography: { sizeMultiplier: 1.25, casing: 'uppercase', fontWeight: '800', fontPreset: 'Condensed' },
+    colors: { base: '{text}', accent: '{accent}' },
+    effects: { outlineWidth: 0.12, outlineColor: 'rgba(0,0,0,0.95)', shadowBlur: 0.12, shadowColor: 'rgba(0,0,0,0.6)', shadowOffset: { x: 0, y: 3 } },
+    activeWord: { scale: 1.15, color: '{accent}', glowBlur: 0.15, glowColor: '{accent}' },
+    animation: { type: 'pop', durationMs: 180 }
+  },
+  'Clean Minimal': {
+    name: 'Clean Minimal',
+    category: 'Minimal',
+    label: 'Restrained cinematic clarity',
+    sample: 'Clear and effortless',
+    layout: { mode: 'flow', verticalPositionPercent: 82, maxWordsPerChunk: 5 },
+    typography: { sizeMultiplier: 0.95, fontWeight: '600' },
+    colors: { base: '{text}', accent: '{accent}' },
+    effects: { shadowBlur: 0.2, shadowColor: 'rgba(0,0,0,0.75)', shadowOffset: { x: 0, y: 2 } },
+    activeWord: { scale: 1.05, color: '{accent}' },
+    animation: { type: 'fade', durationMs: 200 }
+  },
+  'Karaoke Glow': {
+    name: 'Karaoke Glow',
+    category: 'Karaoke',
+    label: 'Smooth synchronized lyric glow',
+    sample: 'Sing every spoken word',
+    layout: { mode: 'karaoke', verticalPositionPercent: 78, maxWordsPerChunk: 6 },
+    typography: { sizeMultiplier: 1.15, fontWeight: '700' },
+    colors: { base: '{text}', accent: '{accent}' },
+    effects: { outlineWidth: 0.08, outlineColor: 'rgba(0,0,0,0.85)' },
+    activeWord: { color: '{accent}', glowBlur: 0.32, glowColor: '{accent}', scale: 1.08 },
+    animation: { type: 'fade', durationMs: 160 }
+  },
+  'Editorial Two-Line': {
+    name: 'Editorial Two-Line',
+    category: 'Clean',
+    label: 'Balanced interview & podcast layout',
+    sample: 'ELEGANT TWO-LINE PACING',
+    layout: { mode: 'two_lines', splitHalf: true, verticalPositionPercent: 76, maxLines: 2 },
+    typography: { sizeMultiplier: 1.15, casing: 'uppercase', fontWeight: '800' },
+    colors: { base: '{text}', accent: '{accent}' },
+    effects: { shadowBlur: 0.12, shadowColor: 'rgba(0,0,0,0.6)', outlineWidth: 0.06, outlineColor: 'rgba(0,0,0,0.8)' },
+    activeWord: { color: '{accent}', scale: 1.06, glowBlur: 0.18, glowColor: '{accent}' },
+    animation: { type: 'slide', direction: [0, 1], durationMs: 180 }
+  },
+
+  // --- MILESTONE 1: Existing Core Presets ---
+  'Minimal': {
+    name: 'Minimal',
+    category: 'Minimal',
+    label: 'Simple word reveal',
+    sample: 'Your words clearly',
+    layout: { mode: 'flow', verticalPositionPercent: 82, backgroundBox: { color: 'rgba(0,0,0,0.65)', paddingX: 0.35, paddingY: 0.43, borderRadius: 0.2 } },
+    typography: { sizeMultiplier: 1.0, fontWeight: '500' },
+    colors: { base: '{text}', accent: '{accent}' },
+    animation: { type: 'fade', durationMs: 180 }
+  },
+  'WhatsApp': {
+    name: 'WhatsApp',
+    category: 'Social',
+    label: 'Chat typing',
+    sample: 'Em bro ela unnav?',
+    layout: { mode: 'flow', verticalPositionPercent: 82, backgroundBox: { color: 'rgba(13,80,53,0.96)', paddingX: 0.35, paddingY: 0.43, borderRadius: 0.2 } },
+    typography: { sizeMultiplier: 1.0, fontWeight: '500' },
+    colors: { base: '{text}', accent: '#a6efc1' },
+    animation: { type: 'fade', durationMs: 180 }
+  },
+  'Viral Reels': {
+    name: 'Viral Reels',
+    category: 'Viral',
+    label: 'Word pop',
+    sample: 'MAKE IT POP',
+    layout: { mode: 'flow', verticalPositionPercent: 75 },
+    typography: { sizeMultiplier: 1.2, casing: 'uppercase', fontWeight: '800', fontPreset: 'Condensed' },
+    colors: { base: '{text}', accent: '{accent}' },
+    effects: { outlineWidth: 0.1, outlineColor: 'rgba(0,0,0,0.9)' },
+    activeWord: { scale: 1.15, color: '{accent}' },
+    animation: { type: 'pop', durationMs: 180 }
+  },
+  'Karaoke': {
+    name: 'Karaoke',
+    category: 'Karaoke',
+    label: 'Speech highlights',
+    sample: 'Say it your way',
+    layout: { mode: 'flow', verticalPositionPercent: 78 },
+    typography: { sizeMultiplier: 1.2, fontWeight: '800' },
+    colors: { base: '{text}', accent: '{accent}' },
+    effects: { outlineWidth: 0.1, outlineColor: 'rgba(0,0,0,0.9)' },
+    activeWord: { color: '{accent}', scale: 1.08 },
+    animation: { type: 'fade', durationMs: 180 }
+  },
+  'Meme': {
+    name: 'Meme',
+    category: 'Meme',
+    label: 'Punchy emphasis',
+    sample: 'WAIT WHAT?!',
+    layout: { mode: 'flow', verticalPositionPercent: 75 },
+    typography: { sizeMultiplier: 1.5, casing: 'uppercase', fontWeight: '800', fontPreset: 'Condensed' },
+    colors: { base: '{text}', accent: '{accent}' },
+    effects: { outlineWidth: 0.12, outlineColor: 'rgba(0,0,0,0.9)' },
+    activeWord: { scale: 1.15, color: '{accent}' },
+    animation: { type: 'pop', durationMs: 180 }
+  },
+  'Cinematic': {
+    name: 'Cinematic',
+    category: 'Cinematic',
+    label: 'Soft word fade',
+    sample: 'A moment to remember',
+    layout: { mode: 'flow', verticalPositionPercent: 82 },
+    typography: { sizeMultiplier: 0.85, fontWeight: '400' },
+    colors: { base: '{text}', accent: '{accent}' },
+    animation: { type: 'fade', durationMs: 220 }
+  },
+  'Neon Emerald': {
+    name: 'Neon Emerald',
+    category: 'Highlight',
+    label: 'Video reference – neon two-line reveal',
+    sample: 'NUVVU EM CHESTHUNNAV',
+    layout: { mode: 'two_lines', splitHalf: true, verticalPositionPercent: 75 },
+    typography: { sizeMultiplier: 1.2, casing: 'uppercase', fontWeight: '800', fontPreset: 'Arial' },
+    colors: { base: '#ffffff', accent: '#69ff35' },
+    effects: { shadowBlur: 0.12, shadowColor: '{accent}' },
+    activeWord: { color: '{accent}', glowBlur: 0.22, glowColor: '{accent}', scale: 1.06 },
+    animation: { type: 'spring_drop', durationMs: 180 }
+  },
+  'Lime Drop': {
+    name: 'Lime Drop',
+    category: 'Dynamic',
+    label: 'Video reference – spring word drop',
+    sample: 'NUVVU EM CHESTHUNNAV',
+    layout: { mode: 'two_lines', splitHalf: true, verticalPositionPercent: 75 },
+    typography: { sizeMultiplier: 1.2, casing: 'uppercase', fontWeight: '800', fontPreset: 'Arial' },
+    colors: { base: '#ffffff', accent: '#c4ff39' },
+    effects: { shadowBlur: 0.1, shadowColor: '{accent}' },
+    activeWord: { color: '{accent}', glowBlur: 0.2, glowColor: '{accent}' },
+    animation: { type: 'spring_drop', durationMs: 200 }
+  },
+  'Amber Script': {
+    name: 'Amber Script',
+    category: 'Cinematic',
+    label: 'Video reference – warm bold & script',
+    sample: 'Nuvvu em chesthunnav',
+    layout: { mode: 'two_lines', splitHalf: true, verticalPositionPercent: 75 },
+    typography: { sizeMultiplier: 1.2, fontWeight: '700', scriptAlternate: { target: 'second_half', fontFamily: '"MadCut Script", Georgia, serif' } },
+    colors: { base: '#ffffff', accent: '#ffb43c' },
+    effects: { shadowBlur: 0.08, shadowColor: '{accent}' },
+    activeWord: { color: '{accent}', glowBlur: 0.18, glowColor: '{accent}' },
+    animation: { type: 'slide', direction: [0, 1], durationMs: 180 }
+  },
+  'Scarlet Punch': {
+    name: 'Scarlet Punch',
+    category: 'Bold',
+    label: 'Video reference – red & white punch',
+    sample: 'NUVVU EM CHESTHUNNAV',
+    layout: { mode: 'two_lines', splitHalf: true, verticalPositionPercent: 75 },
+    typography: { sizeMultiplier: 1.2, casing: 'uppercase', fontWeight: '800', fontPreset: 'Arial' },
+    colors: { base: '#ffffff', accent: '#ff3038' },
+    effects: { shadowBlur: 0.1, shadowColor: '{accent}' },
+    activeWord: { color: '{accent}', glowBlur: 0.2, glowColor: '{accent}' },
+    animation: { type: 'spring_drop', durationMs: 180 }
+  },
+  'Word Wipe': {
+    name: 'Word Wipe',
+    category: 'Highlight',
+    label: 'Active-word color wipe',
+    sample: 'Nuvvu em chesthunnav?',
+    layout: { mode: 'flow', verticalPositionPercent: 76 },
+    typography: { sizeMultiplier: 1.2, fontWeight: '700' },
+    colors: { base: '{text}', accent: '#c4ff39' },
+    activeWord: { wipeEffect: true, color: '#111111' },
+    animation: { type: 'fade', durationMs: 180 }
+  },
+  'Focus Glow': {
+    name: 'Focus Glow',
+    category: 'Highlight',
+    label: 'Bright active word – quiet context',
+    sample: 'Nuvvu em chesthunnav?',
+    layout: { mode: 'flow', verticalPositionPercent: 76 },
+    typography: { sizeMultiplier: 1.2, fontWeight: '700' },
+    colors: { base: '{text}', accent: '#3bddff' },
+    activeWord: { color: '{accent}', glowBlur: 0.32, glowColor: '{accent}', scale: 1.1 },
+    animation: { type: 'fade', durationMs: 180 }
+  },
+  'Pop Tag': {
+    name: 'Pop Tag',
+    category: 'Highlight',
+    label: 'Active word tag',
+    sample: "i'm back with",
+    layout: { mode: 'flow', verticalPositionPercent: 76 },
+    typography: { sizeMultiplier: 1.2, fontWeight: '800' },
+    colors: { base: '{text}', accent: '#ffb000' },
+    activeWord: { backgroundColor: '{accent}', color: '#0a0a0a', borderRadius: 0.23, backgroundPadding: { x: 0.2, y: 0.2 } },
+    animation: { type: 'pop', durationMs: 180 }
+  },
+  'Kinetic Stack': {
+    name: 'Kinetic Stack',
+    category: 'Dynamic',
+    label: 'Condensed word stack',
+    sample: 'PURE KINETIC ENERGY',
+    layout: { mode: 'stacked', verticalPositionPercent: 70 },
+    typography: { sizeMultiplier: 1.85, casing: 'uppercase', fontWeight: '800', fontPreset: 'Condensed' },
+    colors: { base: '{text}', accent: '#dfff38' },
+    animation: { type: 'pop', durationMs: 180 }
+  },
+  'Trio Lockup': {
+    name: 'Trio Lockup',
+    category: 'Bold',
+    label: 'Three-word lockup',
+    sample: "i'm BACK with",
+    layout: { mode: 'stacked', verticalPositionPercent: 70 },
+    typography: { sizeMultiplier: 1.85, fontWeight: '800' },
+    colors: { base: '{text}', accent: '#beff00' },
+    animation: { type: 'slide', direction: [0, 1], durationMs: 180 }
+  },
+  'Hyper Clean': {
+    name: 'Hyper Clean',
+    category: 'Clean',
+    label: 'Electric emphasis',
+    sample: 'KEEP IT HYPER CLEAN',
+    layout: { mode: 'flow', verticalPositionPercent: 75 },
+    typography: { sizeMultiplier: 1.2, casing: 'uppercase', fontWeight: '800' },
+    colors: { base: '{text}', accent: '#38ff60' },
+    effects: { shadowBlur: 0.15, shadowColor: '{accent}' },
+    activeWord: { color: '{accent}', glowBlur: 0.24, glowColor: '{accent}' },
+    animation: { type: 'fade', durationMs: 180 }
+  },
+  'Editorial': {
+    name: 'Editorial',
+    category: 'Clean',
+    label: 'Quiet word reveal',
+    sample: 'All the content CREATORS OUT THERE',
+    layout: { mode: 'flow', verticalPositionPercent: 80 },
+    typography: { sizeMultiplier: 1.0, fontWeight: '500' },
+    colors: { base: '{text}', accent: '{accent}' },
+    animation: { type: 'slide', direction: [0, 1], durationMs: 180 }
+  }
+};
+
+export function getTemplateDefinition(name: string): CaptionTemplateDefinition | undefined {
+  return templateDefinitions[name as Template];
+}
+
+const existingCatalog: {
+  name: Template;
+  label: string;
+  sample: string;
+  accent: string;
+  defaults?: { entry: string; motion: boolean; color: string; size?: number; position?: number; font?: string }
+}[] = [
+  // Four New Milestone 2 Presets
+  { name: 'Impact Pop', label: 'Bold hook & reel pop', sample: 'MAKE AN IMPACT', accent: '#ffea00', defaults: { entry: 'Auto', motion: true, color: '#ffffff' } },
+  { name: 'Clean Minimal', label: 'Restrained cinematic clarity', sample: 'Clear and effortless', accent: '#e2f1ff', defaults: { entry: 'Auto', motion: true, color: '#ffffff' } },
+  { name: 'Karaoke Glow', label: 'Smooth synchronized lyric glow', sample: 'Sing every spoken word', accent: '#00f0ff', defaults: { entry: 'Auto', motion: true, color: '#ffffff' } },
+  { name: 'Editorial Two-Line', label: 'Balanced interview & podcast layout', sample: 'ELEGANT TWO-LINE PACING', accent: '#ff9d00', defaults: { entry: 'Auto', motion: true, color: '#ffffff' } },
+
+  // Existing Core Presets
+  { name: 'Glow Script', label: 'Glow & handwritten', sample: 'glowing vibes', accent: '#77ff20' },
+  { name: 'Ink Flow', label: 'Script in motion', sample: 'felt Forever in a moment', accent: '#f5f0e9' },
+  { name: 'Script Duo', label: 'Bold meets script', sample: "I'M BACK With", accent: '#f2ff8a' },
+  { name: 'Typo Stairs', label: 'Stepped typography', sample: "i'm back with", accent: '#ffffff' },
+  { name: 'Kinetic Stack', label: 'Condensed word stack', sample: 'PURE KINETIC ENERGY', accent: '#dfff38' },
+  { name: 'Hyper Clean', label: 'Electric emphasis', sample: 'KEEP IT HYPER CLEAN', accent: '#38ff60' },
+  { name: 'Editorial', label: 'Quiet word reveal', sample: 'All the content CREATORS OUT THERE', accent: '#ffffff' },
+  { name: 'Trio Lockup', label: 'Three-word lockup', sample: "i'm BACK with", accent: '#beff00', defaults: { entry: 'Auto', motion: true, color: '#ffffff', font: 'Auto' } },
+  { name: 'Pop Tag', label: 'Active word tag', sample: "i'm back with", accent: '#ffb000' },
+  { name: 'Neon Emerald', label: 'Video reference – neon two-line reveal', sample: 'NUVVU EM CHESTHUNNAV', accent: '#69ff35', defaults: { entry: 'Auto', motion: true, color: '#ffffff' } },
+  { name: 'Lime Drop', label: 'Video reference – spring word drop', sample: 'NUVVU EM CHESTHUNNAV', accent: '#c4ff39', defaults: { entry: 'Auto', motion: true, color: '#ffffff' } },
+  { name: 'Amber Script', label: 'Video reference – warm bold & script', sample: 'Nuvvu em chesthunnav', accent: '#ffb43c', defaults: { entry: 'Auto', motion: true, color: '#ffffff' } },
+  { name: 'Scarlet Punch', label: 'Video reference – red & white punch', sample: 'NUVVU EM CHESTHUNNAV', accent: '#ff3038', defaults: { entry: 'Auto', motion: true, color: '#ffffff' } },
+  { name: 'Keyword Spotlight', label: 'Timed keyword + spoken context', sample: 'Nuvvu em chesthunnav?', accent: '#ffb83d', defaults: { entry: 'Auto', motion: true, color: '#ffffff', size: 72, position: 72, font: 'Auto' } },
+  { name: 'Word Wipe', label: 'Active-word color wipe', sample: 'Nuvvu em chesthunnav?', accent: '#c4ff39', defaults: { entry: 'Auto', motion: true, color: '#ffffff', size: 72, position: 76, font: 'Auto' } },
+  { name: 'Focus Glow', label: 'Bright active word – quiet context', sample: 'Nuvvu em chesthunnav?', accent: '#3bddff', defaults: { entry: 'Auto', motion: true, color: '#ffffff', size: 72, position: 76, font: 'Auto' } },
+  { name: 'Minimal', label: 'Simple word reveal', sample: 'Your words clearly', accent: '#ffffff' },
+  { name: 'Viral Reels', label: 'Word pop', sample: 'MAKE IT POP', accent: '#eaff6a' },
+  { name: 'Karaoke', label: 'Speech highlights', sample: 'Say it your way', accent: '#eaff6a' },
+  { name: 'WhatsApp', label: 'Chat typing', sample: 'Em bro ela unnav?', accent: '#a6efc1' },
+  { name: 'Meme', label: 'Punchy emphasis', sample: 'WAIT WHAT?!', accent: '#ffffff' },
+  { name: 'Cinematic', label: 'Soft word fade', sample: 'A moment to remember', accent: '#ffffff' },
+  { name: 'Left Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Right Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Up Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Down Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Left Blur Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Right Blur Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Up Blur Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Down Blur Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Left Bounce Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Right Bounce Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Up Bounce Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Down Bounce Slide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Up Bounce Shrink', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Down Bounce Shrink', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Left Bounce Expand', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Right Bounce Expand', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Flex Bounce', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Gradient Blue', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#72c8ff' },
+  { name: 'Gradient Red', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ff645c' },
+  { name: 'Gradient Red Orange', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ff645c' },
+  { name: 'Jitter Shine', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Static Shine', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Zoom In', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Premium Text', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Premium Text Without Animation', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Santhosham', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Coovetica Waving of', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Slide Collide', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Spinning Butter', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Butter Up', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'cracked', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Ocean Waves', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' },
+  { name: 'Rock Solidance', label: 'From your pack – web recreation', sample: 'Nuvvu eeroju vasthunnava?', accent: '#ffffff' }
+];
+
+export const packTemplates = packMetadata;
+export type TemplateItem = {
+  name: Template;
+  displayName?: string;
+  id?: string;
+  label: string;
+  sample: string;
+  accent: string;
+  category?: string;
+  preview?: string;
+  file?: string;
+  defaults?: { entry: string; motion: boolean; color: string; size?: number; position?: number; font?: string }
+};
+
+export const templateCatalog: TemplateItem[] = [
+  ...existingCatalog.filter(t => !t.label.includes('web recreation')),
+  ...packMetadata.map(t => ({ ...t, name: t.webPreset as Template, displayName: t.name }))
+];
+
+export const templateCategories = ['All', 'Minimal', 'Bold', 'Dynamic', 'Viral', 'Karaoke', 'Cinematic', 'Social', 'Meme', 'Highlight', 'Clean', 'Original'];
+
+export function categoryOf(t: TemplateItem) {
+  return t.category ?? ({
+    'Impact Pop': 'Viral',
+    'Clean Minimal': 'Minimal',
+    'Karaoke Glow': 'Karaoke',
+    'Editorial Two-Line': 'Clean',
+    Minimal: 'Minimal',
+    'Viral Reels': 'Viral',
+    Karaoke: 'Karaoke',
+    WhatsApp: 'Social',
+    Meme: 'Meme',
+    Cinematic: 'Cinematic',
+    'Glow Script': 'Highlight',
+    'Ink Flow': 'Cinematic',
+    'Script Duo': 'Bold',
+    'Typo Stairs': 'Dynamic',
+    'Kinetic Stack': 'Dynamic',
+    'Hyper Clean': 'Clean',
+    Editorial: 'Clean',
+    'Trio Lockup': 'Bold',
+    'Pop Tag': 'Highlight',
+    'Neon Emerald': 'Highlight',
+    'Lime Drop': 'Dynamic',
+    'Amber Script': 'Cinematic',
+    'Scarlet Punch': 'Bold',
+    'Keyword Spotlight': 'Bold',
+    'Word Wipe': 'Highlight',
+    'Focus Glow': 'Highlight'
+  } as Record<string, string>)[t.name] ?? 'Original';
+}
